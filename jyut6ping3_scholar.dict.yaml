@@ -1,0 +1,128 @@
+
+---
+name: jyut6ping3_scholar
+sort: original
+use_preset_vocabulary: false
+...
+
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":971633},"defs":[{"eng":"Hong Kong","pos":"n","lbl":"place"}]}	香港|hoeng1gong2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":680145},"defs":[{"eng":"to express","engShort":"to express","pos":"v"}]}	表示|biu2si6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":520957},"defs":[{"eng":"U.S.A","engShort":"The United States of America","pos":"n","lbl":"place"}]}	美國|mei5gwok3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":515914},"defs":[{"eng":"yesterday","pos":"n","register":"for","written":"昨天"}]}	昨日|zok6jat6
+{"props":{"pronOrder":2,"sandhi":0,"litColReading":0,"freq":515914},"defs":[{"eng":"yesterday","pos":"n","register":"for","written":"昨天"}]}	昨日|zok3jat6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":511389},"defs":[{"eng":"but","pos":"conj"}]}	不過|bat1gwo3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":496025},"defs":[{"eng":"reporter","pos":"n"},{"eng":"journalist"}]}	記者|gei3ze2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":489974},"defs":[{"eng":"government","pos":"n"}]}	政府|zing3fu2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":450160},"defs":[{"eng":"this year","pos":"n"}]}	今年|gam1 nin4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":423530},"defs":[{"eng":"China","engShort":"People's Republic of China","pos":"n","lbl":"place"}]}	中國|zung1 gwok3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":416454},"defs":[{"eng":"mainland","engShort":"often refers to mainland China","pos":"n","lbl":"place"}]}	內地|noi6 dei6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":413328},"defs":[{"eng":"one","engShort":"one of something, a/an","pos":"oth"}]}	一個|jat1 go3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":400014},"defs":[{"eng":"oneself","pos":"n"}]}	自己|zi6 gei2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":387431},"defs":[{"eng":"company","pos":"n"}]}	公司|gung1 si1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":378380},"defs":[{"eng":"can","pos":"mv"}]}	可以|ho2 ji5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":366983},"defs":[{"eng":"no","pos":"v","register":"wri","colloquial":"冇"},{"eng":"there isn't"}]}	沒有|mut6 jau5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":361054},"defs":[{"eng":"to include","pos":"v"}]}	包括|baau1 kut3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":356757},"defs":[{"eng":"because","pos":"conj"}]}	因為|jan1 wai6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":349922},"defs":[{"eng":"last year","pos":"n","colloquial":"舊年"}]}	去年|heoi3 nin4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":340313},"defs":[{"eng":"market","pos":"n"}]}	市場|si5 coeng4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":337921},"defs":[{"eng":"although","pos":"v"}]}	雖然|seoi1 jin4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":336551},"defs":[{"eng":"to think","pos":"v"}]}	認為|jing6 wai4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":335756},"defs":[{"eng":"they","pos":"n","register":"wri","colloquial":"佢哋"}]}	他們|taa1 mun4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":335059},"defs":[{"eng":"police force","pos":"n"}]}	警方|ging2 fong1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":287390},"defs":[{"eng":"problem","pos":"n"}]}	問題|man6 tai4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":286714},"defs":[{"eng":"hope","pos":"v"}]}	希望|hei1 mong6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":279335},"defs":[{"eng":"apple","pos":"n"}]}	蘋果|ping4 gwo2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":8033973},"defs":[{"eng":"of, 's","engShort":"linker","pos":"oth","register":"wri","colloquial":"嘅","note":"Note that the order of this word is different from English."}]}	的|dik1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":2798804},"defs":[{"eng":"and","engShort":"for noun phrases only","pos":"conj","register":"for","colloquial":"同"}]}	及|kap6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":2256745},"defs":[{"eng":"at, in, on","pos":"prep","register":"wri","colloquial":"喺"}]}	在|zoi6
+{"props":{"pronOrder":2,"sandhi":0,"litColReading":0,"freq":1462963},"defs":[{"eng":"harmonic","pos":"adj","lbl":"rare","note":"Only used in 和聲 wo6 sing1"}]}	和|wo6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":1462963},"defs":[{"eng":"and","engShort":"for noun phrases","pos":"conj","register":"wri","colloquial":"同"},{"eng":"with","pos":"conj","register":"wri","colloquial":"同"}]}	和|wo4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":1362597},"defs":[{"eng":"to be","engShort":"copula","pos":"oth","register":"wri","colloquial":"係"},{"eng":"yes","pos":"oth","register":"wri","colloquial":"係"}]}	是|si6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":1361134},"defs":[{"eng":"but","pos":"conj"}]}	但|daan6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":1326221},"defs":[{"eng":"and","pos":"conj","register":"wri,for","colloquial":"同"}]}	與|jyu5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":1296655},"defs":[{"eng":"to have","pos":"v"},{"eng":"there is","pos":"v"}]}	有|jau5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":1246312},"defs":[{"eng":"after","pos":"oth"},{"eng":"behind","pos":"oth,n"}]}	後|hau6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":1201303},"defs":[{"eng":"using","engShort":"usually followed by another verb","pos":"v"}]}	以|ji5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":1159236},"defs":[{"eng":"year","pos":"n"}]}	年|nin4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":1074924},"defs":[{"eng":"time","pos":"n"},{"eng":"hour","pos":"n"}]}	時|si4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":1064078},"defs":[{"eng":"to, until","pos":"prep","register":"for","written":"到","colloquial":"到"}]}	至|zi3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":998159},"defs":[{"eng":"to be","pos":"v"}]}	為|wai4
+{"props":{"pronOrder":2,"sandhi":0,"litColReading":0,"freq":998159},"defs":[{"eng":"for","pos":"prep"}]}	為|wai6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":993049},"defs":[{"eng":"he, him","pos":"n","register":"wri","colloquial":"佢"}]}	他|taa1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":968781},"defs":[{"eng":"to point","pos":"v"}]}	指|zi2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":908124},"defs":[{"eng":"of, 's","engShort":"linker","pos":"oth","register":"col","written":"的"}]}	嘅|ge3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":870863},"defs":[{"eng":"dollar","pos":"n","register":"for","written":"塊","colloquial":"蚊"}]}	元|jyun4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":863821},"defs":[{"eng":"month","engShort":"month","pos":"n"}]}	月|jyut6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":839123},"defs":[{"eng":"Chow","pos":"n","lbl":"sur"}]}	周|zau1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":773875},"defs":[{"eng":"to wait","pos":"v"},{"eng":"etc","pos":"oth"}]}	等|dang2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":757447},"defs":[{"eng":"to indicate passive voice","pos":"oth","register":"wri","colloquial":"俾"}]}	被|bei6
+{"props":{"pronOrder":2,"sandhi":0,"litColReading":0,"freq":757447},"defs":[{"eng":"blanket","pos":"n"}]}	被|pei5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":755901},"defs":[{"eng":"already","pos":"oth","register":"wri","colloquial":"咗, 嘞"}]}	了|liu5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":751070},"defs":[{"eng":"and","engShort":"for verb phrases only","pos":"conj"}]}	而|ji4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":713183},"defs":[{"eng":"to go to","pos":"v"}]}	到|dou3
+{"props":{"pronOrder":2,"sandhi":0,"litColReading":0,"freq":713183},"defs":[{"eng":"can","engShort":"be able to do smth","pos":"oth"}]}	到|dou2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":689428},"defs":[{"eng":"or","pos":"conj"}]}	或|waak6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":688704},"defs":[{"eng":"already","pos":"oth"}]}	已|ji5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":683846},"defs":[{"eng":"from, by","pos":"prep","register":"for","written":"從"}]}	由|jau4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":680405},"defs":[{"eng":"correct","pos":"oth","register":"wri","colloquial":"啱"},{"eng":"pair","pos":"mw"},{"eng":"to","engShort":"with regard to","pos":"prep"}]}	對|deoi3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":679945},"defs":[{"eng":"date, day","engShort":"as in day of the month","pos":"n","register":"col,for","written":"天"}]}	日|jat6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":666226},"defs":[{"eng":"at","pos":"prep","register":"for","written":"在","colloquial":"喺"}]}	於|jyu1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":649756},"defs":[{"eng":"person","pos":"n"}]}	人|jan4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":647833},"defs":[{"eng":"as well as","pos":"conj","register":"for","written":"也,都"}]}	亦|jik6
+{"props":{"pronOrder":2,"sandhi":0,"litColReading":0,"freq":642931},"defs":[{"eng":"general","engShort":"army officer","pos":"n","lbl":"morph"}]}	將|zoeng3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":642931},"defs":[{"eng":"almost, will","pos":"adv"},{"eng":"to take","pos":"mv","register":"for","written":"把"}]}	將|zoeng1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":641741},"defs":[{"eng":"she, her","pos":"n","register":"wri","colloquial":"佢"}]}	她|taa1
+{"props":{"pronOrder":2,"sandhi":0,"litColReading":0,"freq":641683},"defs":[{"eng":"to hit","engShort":"to be infected by a disease, to win a lottery","pos":"v"}]}	中|zung3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":641683},"defs":[{"eng":"middle","pos":"n"},{"eng":"in, during","pos":"oth"}]}	中|zung1
+{"props":{"pronOrder":1,"sandhi":1,"litColReading":0,"freq":626596},"defs":[{"eng":"association","engShort":"a club/organization","pos":"n"}]}	會|wui2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":626596},"defs":[{"eng":"will","engShort":"would","pos":"mv"}]}	會|wui5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":626596},"defs":[{"eng":"to meet","pos":"v","lbl":"morph"}]}	會|wui6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":615102},"defs":[{"eng":"approximately","pos":"adv"}]}	約|joek3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":608104},"defs":[{"eng":"to speak","pos":"v","register":"wri","colloquial":"講"}]}	説|syut3
+{"props":{"pronOrder":2,"sandhi":0,"litColReading":0,"freq":608104},"defs":[{"eng":"to persuade","pos":"v"}]}	説|seoi3
+{"props":{"pronOrder":3,"sandhi":0,"litColReading":0,"freq":608104},"defs":[{"eng":"happy","pos":"n","register":"lit","lbl":"rare"}]}	説|jyut6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":548216},"defs":[{"eng":"front","pos":"n"},{"eng":"before","pos":"prep"}]}	前|cin4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":509334},"defs":[{"eng":"to cause","pos":"mv","written":"讓"}]}	令|ling6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":505902},"defs":[{"eng":"also","pos":"oth","register":"col"},{"eng":"all","pos":"adj"}]}	都|dou1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":499905},"defs":[{"eng":"to go up","pos":"v"},{"eng":"to go to","pos":"v","register":"wri","colloquial":"返"}]}	上|soeng5
+{"props":{"pronOrder":2,"sandhi":0,"litColReading":0,"freq":499905},"defs":[{"eng":"up","pos":"n"}]}	上|soeng6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":498859},"defs":[{"eng":"to be","engShort":"copula","pos":"oth","register":"col,for","written":"是"},{"eng":"yes","pos":"oth","register":"col,for","written":"是"}]}	係|hai6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":495660},"defs":[{"eng":"towards","pos":"prep"}]}	向|hoeng3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":491806},"defs":[{"eng":"to need","pos":"v,mv"}]}	要|jiu3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":488898},"defs":[{"eng":"again","pos":"adv"}]}	又|jau6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":-1,"freq":482538},"defs":[{"eng":"to change","pos":"v"}]}	更|gang1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":1,"freq":482538},"defs":[{"eng":"session","pos":"n"}]}	更|gaang1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":482538},"defs":[{"eng":"even, more","engShort":"followed by an adj. (intensifies the adjective)","pos":"adv","register":"wri"}]}	更|gang3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":480535},"defs":[{"eng":"yesterday","pos":"n","lbl":"morph"}]}	昨|zok3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":477782},"defs":[{"eng":"year","pos":"n"}]}	歲|seoi3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":460450},"defs":[{"eng":"a, an","engShort":"other meanings: each, individual, per","pos":"mw"}]}	個|go3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":449414},"defs":[{"eng":"he, him, she, her","pos":"n","written":"他,她"}]}	佢|keoi5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":430375},"defs":[{"eng":"then","pos":"adv"}]}	就|zau6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":425049},"defs":[{"eng":"because","pos":"conj"}]}	因|jan1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":421649},"defs":[{"eng":"once","engShort":"already, before","pos":"adv"}]}	曾|cang4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":421649},"defs":[{"eng":"Tsang","pos":"n","lbl":"sur"}]}	曾|zang1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":413244},"defs":[{"eng":"can","engShort":"be able to","pos":"mv"}]}	可|ho2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":408231},"defs":[{"eng":"try","pos":"oth","register":"col","written":"一下","note":"吓 haa5"}]}	下|haa5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":408231},"defs":[{"eng":"down","pos":"n"},{"eng":"to go down","pos":"v","colloquial":"落","note":"Used In Example like 落下 lok6 haa6"}]}	下|haa6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":391102},"defs":[{"eng":"Chan","pos":"n","lbl":"sur"}]}	陳|can4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":387411},"defs":[{"eng":"price","pos":"n"}]}	價|gaa3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":381135},"defs":[{"eng":"ten thousand","pos":"n"},{"eng":"Man","pos":"n","lbl":"sur"}]}	萬|maan6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":374106},"defs":[{"eng":"then","pos":"adv","register":"for","written":"就"}]}	則|zak1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":368746},"defs":[{"eng":"also","pos":"oth","register":"wri","colloquial":"都"}]}	也|jaa5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":365032},"defs":[{"eng":"high","engShort":"tall","pos":"adj"}]}	高|gou1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":363352},"defs":[{"eng":"share","engShort":"of a stock (in the stock market)","pos":"n"}]}	股|gu2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":362701},"defs":[{"eng":"increase","pos":"v"}]}	升|sing1
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":361219},"defs":[{"eng":"that","pos":"n","register":"lit","lbl":"rare","written":"那","colloquial":"嗰"},{"eng":"its","pos":"oth","register":"lit","lbl":"rare","written":"他的","colloquial":"佢"}]}	其|kei4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":361102},"defs":[{"eng":"big","pos":"adj"}]}	大|daai6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":358723},"defs":[{"eng":"to claim","pos":"v"},{"eng":"to address","pos":"v"}]}	稱|cing1
+{"props":{"pronOrder":2,"sandhi":0,"litColReading":0,"freq":358723},"defs":[{"eng":"to satisfiy","pos":"morph"}]}	稱|cing3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":354834},"defs":[{"eng":"to reach","engShort":"to reach","pos":"v"}]}	達|daat6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":348631},"defs":[{"eng":"Lee, Li","pos":"n","lbl":"sur"}]}	李|lei5
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":338017},"defs":[{"eng":"same"},{"eng":"and","engShort":"for noun phrases","register":"col","written":"和"},{"eng":"with","register":"col","written":"和"}]}	同|tung4
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":337590},"defs":[{"eng":"at, in, on","pos":"prep","register":"col","written":"在"}]}	喺|hai2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":-1,"freq":330812},"defs":[{"eng":"name","pos":"n","lbl":"morph"}]}	名|ming4
+{"props":{"pronOrder":2,"sandhi":1,"litColReading":1,"freq":330812},"defs":[{"eng":"name","pos":"n","register":"col","written":"名字"}]}	名|meng2
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":328224},"defs":[{"eng":"to do","pos":"v"}]}	做|zou6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":322657},"defs":[{"eng":"to go","pos":"v"}]}	去|heoi3
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":321762},"defs":[{"eng":"to use","pos":"v"}]}	用|jung6
+{"props":{"pronOrder":1,"sandhi":0,"litColReading":0,"freq":316238},"defs":[{"eng":"port","pos":"n"},{"eng":"Hong Kong","pos":"n","lbl":"place"}]}	港|gong2
