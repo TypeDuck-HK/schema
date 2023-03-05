@@ -31,7 +31,7 @@ schema:
 switches:
   - name: ascii_mode
     reset: 0
-    states: [ 中文, 西文 ]
+    states: [ 中文, ABC ]
   - name: full_shape
     states: [ 半角, 全角 ]
   - options: [ noop, variants_hk, trad_tw, simplification ]
@@ -80,6 +80,8 @@ engine:
     - simplifier@trad_tw
     - simplifier
     - simplifier@emoji_suggestion
+    # - uniquifier
+    - reverse_lookup_filter@jyut6ping3_reverse_lookup
     - phonology_uniquifier
     - dictionary_lookup_filter
 
@@ -106,8 +108,7 @@ speller:
     - derive/^([aeiou])/q$1/      # 增加 q 表示喉塞
     - derive/^jy?([aeiou])/y$1/   # 容錯 je -> ye, jyu -> yu
     - derive/^jyu/ju/             # 容錯 jyu -> ju
-    - derive/yu/y/                # 容錯 jyu -> jy
-    - erase/y(ng|k)/              # y + ng/k 視作簡拼而非 jung/juk
+    - derive/yu(?!ng|k)/y/        # 容錯 yu -> y
     - derive/(g|k)u(?!ng|k)/$1wu/ # 輔音圓唇
     - derive/eoi(?=\d)/eoy/       # 容錯
     - derive/eo/oe/               # 容錯 eo/oe 不分
@@ -148,7 +149,7 @@ luna_pinyin:
 
 loengfan:
   tag: loengfan
-  dictionary: multiTest
+  dictionary: loengfan
   prefix: "r"
   suffix: ";"
   tips: 〔粵語兩分〕
