@@ -30,7 +30,19 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
+    - punct_translator
+    - script_translator
     - table_translator
+  filters:
+    - simplifier@variants_hk
+    - simplifier@trad_tw
+    - simplifier
+    - simplifier@emoji_suggestion
+    - phonology_uniquifier
+    - dictionary_lookup_filter
+
+dictionary_lookup_filter:
+  dictionary: jyut6ping3_scholar
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
