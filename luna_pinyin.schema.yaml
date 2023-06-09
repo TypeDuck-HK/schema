@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin
   name: 朙月拼音
-  version: "0.14.test"
+  version: '0.26'
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
@@ -14,6 +14,8 @@ schema:
       * Android open source project
       * Chewing - 新酷音
       * opencc - 開放中文轉換
+  dependencies:
+    - jyut6ping3
 
 switches:
   - name: ascii_mode
@@ -21,16 +23,11 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - options: [ noop, variants_hk, simp_hk2s ]
+    states: [ 傳統漢字, 香港傳統漢字, 大陆简化汉字 ]
+    reset: 1
   - name: ascii_punct
-    states: [ 句讀, 符號 ]
-#  - name: simplification
-#    states: [ 漢字, 汉字 ]
-  - options: [ zh_trad, zh_tw, zh_simp ]
-    states:
-      - 傳統漢字
-      - 臺灣正體
-      - 簡化字
-    reset: 0
+    states: [ 。，, ．， ]
 
 engine:
   processors:
@@ -46,102 +43,49 @@ engine:
     - ascii_segmentor
     - matcher
     - abc_segmentor
-    - affix_segmentor@alphabet
-    - affix_segmentor@cangjie
-    - affix_segmentor@pinyin
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
-    - reverse_lookup_translator
+    - table_translator@custom_phrase
     - script_translator
-    - table_translator@cangjie
-    - script_translator@pinyin
   filters:
-    - reverse_lookup_filter@cangjie_lookup
-    - simplifier@zh_simp
-    - simplifier@zh_tw
-    - uniquifier
+    - simplifier@variants_hk
+    - simplifier@simp_hk2s
+    - simplifier
+    - reverse_lookup_filter@jyut6ping3_reverse_lookup
+    - dictionary_lookup_filter
+
+dictionary_lookup_filter:
+    dictionary: jyut6ping3_scolar
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    - erase/^xx$/
-    - abbrev/^([a-z]).+$/$1/
-    - abbrev/^([zcs]h).+$/$1/
-    - derive/^([nl])ve$/$1ue/
-    - derive/^([jqxy])u/$1v/
-    - derive/un$/uen/
-    - derive/ui$/uei/
-    - derive/iu$/iou/
-    - derive/([aeiou])ng$/$1gn/
-    - derive/([dtngkhrzcs])o(u|ng)$/$1o/
-    - derive/ong$/on/
-    - derive/ao$/oa/
-    - derive/([iu])a(o|ng?)$/a$1$2/
+    __patch:
+      - pinyin:/abbreviation
+      - pinyin:/spelling_correction
+      - pinyin:/key_correction
 
 translator:
   dictionary: luna_pinyin
-  preedit_format:
-    - xform/([nljqxy])v/$1ü/
-
-alphabet:
-  tag: alphabet
-  prefix: ':'
-  suffix: ';'
-  tips: 〔西文〕
-  closing_tips: 〔中文〕
-
-cangjie:
-  tag: cangjie
-  dictionary: cangjie5
-  prefix: 'C:'
-  suffix: ';'
-  tips: 〔倉頡〕
-  closing_tips: 〔拼音〕
-  preedit_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
-  comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
-
-pinyin:
-  tag: pinyin
-  dictionary: luna_pinyin
-  enable_user_dict: false
-  prefix: 'P:'
-  suffix: ';'
-  tips: 〔拼音〕
+  max_homophones: 10
   preedit_format:
     - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
-cangjie_lookup:
-  tags: [ pinyin ]
-  dictionary: cangjie5
-  comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz ~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符、～|"
-
-reverse_lookup:
-  dictionary: cangjie5
-  enable_completion: true
-  prefix: '`'
-  suffix: "'"
-  tips: 〔倉頡〕
-  preedit_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
-  comment_format:
-    - xform/([nl])v/$1ü/
-
-zh_simp:
-  option_name: zh_simp
-  tips: all
-
-zh_tw:
-  option_name: zh_tw
-  opencc_config: t2tw.json
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
 
 punctuator:
-  import_preset: default
+  import_preset: symbols_cantonese
 
 key_binder:
   import_preset: default
@@ -149,7 +93,23 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    alphabet: '(?<![A-Z]):[^;]*;?$'
-    cangjie: "C:[a-z']*;?$"
-    pinyin: "P:[a-z']*;?$"
-    reverse_lookup: "`[a-z]*'?$"
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+
+variants_hk:
+  option_name: variants_hk
+  opencc_config: t2hk.json
+
+simp_hk2s:
+  option_name: simp_hk2s
+  opencc_config: hk2s.json
+
+jyut6ping3_reverse_lookup:
+  overwrite_comment: true
+  dictionary: jyut6ping3
+  comment_format:
+    - "xlit| |/|"
+
+__patch:
+  # 用家自選配置
+  - luna_pinyin.custom:/patch?
+  - common.custom:/patch?

@@ -2,24 +2,13 @@
 # encoding: utf-8
 
 schema:
-  schema_id: multiTest
-  name: JyutPing(Scholar Helper)
-  version: "0.14.test"
-  author:
-    - 佛振 <chen.sst@gmail.com>
-  description: |
-    Rime 預設的拼音輸入方案。
-    參考以下作品而創作：
-      * CC-CEDICT
-      * Android open source project
-      * Chewing - 新酷音
-      * opencc - 開放中文轉換
+  schema_id: jyut6ping3_scolar
+  version: "0.0"
 
 switches:
   - name: ascii_mode
     reset: 0
     states: [ 中文, 西文 ]
-
 
 engine:
   processors:
@@ -29,11 +18,9 @@ engine:
   translators:
     - table_translator
 
-
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
 
-
 translator:
-  dictionary: multiTest
+  dictionary: jyut6ping3_scolar

@@ -12,7 +12,7 @@ schema:
     碼表源自倉頡之友發佈的《五倉世紀版》
     www.chinesecj.com
   dependencies:
-    - luna_quanpin
+    - jyut6ping3
 
 switches:
   - name: ascii_mode
@@ -20,8 +20,6 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: simplification
-    states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
 
@@ -44,10 +42,12 @@ engine:
   translators:
     - punct_translator
     - script_translator
-    - reverse_lookup_translator
   filters:
-    - simplifier
-    - uniquifier
+    - reverse_lookup_filter@jyut6ping3_reverse_lookup
+    - dictionary_lookup_filter
+
+dictionary_lookup_filter:
+    dictionary: jyut6ping3_scolar
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -57,34 +57,18 @@ speller:
 
 translator:
   dictionary: quick5
+  enable_charset_filter: false
+  enable_completion: false
+  max_homophones: 10
   prism: quick5
-  preedit_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz;'|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符··|"
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
   disable_user_dict_for_patterns:
     - "^z.*$"
     - "^yyy.*$"
 
-abc_segmentor:
-  extra_tags:
-    - reverse_lookup
-
-reverse_lookup:
-  dictionary: luna_pinyin
-  prism: luna_quanpin
-  prefix: "`"
-  suffix: "'"
-  tips: 〔拼音〕
-  preedit_format:
-    - xform/([nl])v/$1ü/
-    - xform/([nl])ue/$1üe/
-    - xform/([jqxy])v/$1u/
-  comment_format:
-    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
-
 punctuator:
-  import_preset: default
+  import_preset: symbols_cantonese
 
 key_binder:
   import_preset: default
@@ -92,4 +76,13 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "`[a-z]*'?$"
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+
+jyut6ping3_reverse_lookup:
+  overwrite_comment: true
+  dictionary: jyut6ping3
+  comment_format:
+    - "xlit| |/|"
+
+__patch:
+  - common.custom:/patch?

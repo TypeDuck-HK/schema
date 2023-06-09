@@ -42,42 +42,31 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - reverse_lookup_translator
     - table_translator
+  filters:
+    - reverse_lookup_filter@jyut6ping3_reverse_lookup
+    - dictionary_lookup_filter
+
+dictionary_lookup_filter:
+    dictionary: jyut6ping3_scolar
 
 speller:
   alphabet: "abcdefghijklmnopqrstuvwxyz"
   delimiter: " '"
 
-menu:
-  page_size: 9
-
 translator:
   dictionary: stroke
+  enable_charset_filter: false
+  enable_completion: true
+  
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
   comment_format:
     - xform/~//
     - xlit/hspnz/一丨丿丶乙/
 
-abc_segmentor:
-  extra_tags:
-    - reverse_lookup
-
-reverse_lookup:
-  dictionary: luna_pinyin
-  prefix: "`"
-  suffix: "'"
-  tips: 〔拼音〕
-  preedit_format:
-    - xform/([nl])v/$1ü/
-    - xform/([nl])ue/$1üe/
-    - xform/([jqxy])v/$1u/
-  comment_format:
-    - xlit/hspnz/一丨丿丶乙/
-
 punctuator:
-  import_preset: default
+  import_preset: symbols_cantonese
 
 key_binder:
   import_preset: default
@@ -85,4 +74,10 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "`[a-z]*'?$"
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+
+jyut6ping3_reverse_lookup:
+  overwrite_comment: true
+  dictionary: jyut6ping3
+  comment_format:
+    - "xlit| |/|"

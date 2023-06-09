@@ -1,7 +1,9 @@
 var:
-  last_build_time: 1670512012
+  last_build_time: 1681536241
   option:
+    ascii_punct: true
+    full_shape: false
     simplification: false
   previously_selected_schema: jyut6ping3
   schema_access_time:
-    jyut6ping3: 1667042571
+    jyut6ping3: 1575755695
