@@ -3,7 +3,7 @@
 
 schema:
   schema_id: jyut6ping3
-  name: 粵語拼音
+  name: JyutPing(Scolar)粵語拼音
   version: "2022.06.07"
   author:
     - Ayaka Mikazuki <ayaka@mail.shn.hk>
@@ -82,7 +82,7 @@ engine:
     - simplifier@emoji_suggestion
     - phonology_uniquifier
     - dictionary_lookup_filter
-
+    - reverse_lookup_filter@jyut6ping3_reverse_lookup
 dictionary_lookup_filter:
     dictionary: multiTest
 
@@ -180,7 +180,7 @@ cangjie5:
 
 jyut6ping3_reverse_lookup:
   tags: [ luna_pinyin, loengfan, stroke, cangjie5 ]
-  overwrite_comment: false
+  overwrite_comment: true
   dictionary: jyut6ping3
 
 variants_hk:

@@ -7,7 +7,7 @@
 
 ---
 name: jyut6ping3.chars
-version: "2022.07.21"
+version: "2022.06.09"
 sort: by_weight
 ...
 
@@ -11571,7 +11571,7 @@ sort: by_weight
 欱	hap6	5%
 洽	hap6	3%
 溘	hap6
-烚	hap6	3%
+烚	hap6
 熆	hap6
 狹	hap6	3%
 珨	hap6	5%
@@ -21656,6 +21656,7 @@ sort: by_weight
 䳟	ming4
 冥	ming4	3%
 名	ming4
+名	ming6
 嫇	ming4	5%
 明	ming4
 暝	ming4
@@ -25348,7 +25349,6 @@ sort: by_weight
 澀	saap3	3%
 澁	saap3
 濇	saap3	5%
-烚	saap3	5%
 箑	saap3
 翜	saap3
 翣	saap3
@@ -25364,7 +25364,6 @@ sort: by_weight
 𠸝	saap3
 𢶍	saap3
 炠	saap6
-烚	saap6
 煠	saap6
 熠	saap6	3%
 𤆣	saap6
