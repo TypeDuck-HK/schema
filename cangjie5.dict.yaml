@@ -13,12 +13,10 @@
 #
 #
 ---
-name: "cangjie5"
+name: cangjie5
 version: "2022.02.14"
 sort: original
 max_phrase_length: 1
-import_tables:
-  - cangjie5.cj3sym
 columns:
   - text
   - code
@@ -36,6 +34,7 @@ encoder:
       formula: "AaBzCaYzZz"
   tail_anchor: "'"
 ...
+
 日	a
 曰	a
 昌	aa

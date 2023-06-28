@@ -12,15 +12,13 @@ schema:
     專案網址：https://github.com/Jackchows/Cangjie5
     原碼表為「倉頡之友·馬來西亞」發佈的「倉頡平台2012」軟件所含「五倉世紀」碼表
     網址：www.chinesecj.com
-  dependencies:
-    - jyut6ping3
 
 switches:
   - name: ascii_mode
     reset: 0
-    states: [ 中文, 西文 ]
+    states: [ 中文, 英文 ]
   - name: full_shape
-    states: [ 半角, 全角 ]
+    states: [ 半形, 全形 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
 
@@ -41,10 +39,9 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - punct_translator
     - table_translator
   filters:
-    - reverse_lookup_filter@jyut6ping3_reverse_lookup
+    - phonology_uniquifier
     - dictionary_lookup_filter
 
 dictionary_lookup_filter:
@@ -52,37 +49,22 @@ dictionary_lookup_filter:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " '"
-  #max_code_length: 5  # 五碼頂字上屏
+  delimiter: " ;"
 
 translator:
   dictionary: cangjie5
-  enable_charset_filter: false
-  enable_sentence: true
-  enable_encoder: true
-  enable_user_dict: false
-  encode_commit_history: true
-  enable_completion: true
-  max_phrase_length: 5
+  spelling_hints: 256
+  preedit_format:
+    - 'xform/^([a-z]*)$/$1\t（\U$1\E）/'
+    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
   disable_user_dict_for_patterns:
     - "^z.*$"
     - "^yyy.*$"
 
-punctuator:
-  import_preset: symbols_cantonese
-
 key_binder:
   import_preset: default
 
 recognizer:
   import_preset: default
-  patterns:
-    punct: '^/([0-9]0?|[A-Za-z]+)$'
-
-jyut6ping3_reverse_lookup:
-  overwrite_comment: true
-  dictionary: jyut6ping3
-  comment_format:
-    - "xlit| |/|"

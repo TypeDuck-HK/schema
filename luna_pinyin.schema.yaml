@@ -3,7 +3,7 @@
 
 schema:
   schema_id: luna_pinyin
-  name: 朙月拼音
+  name: 普通話
   version: '0.26'
   author:
     - 佛振 <chen.sst@gmail.com>
@@ -14,17 +14,15 @@ schema:
       * Android open source project
       * Chewing - 新酷音
       * opencc - 開放中文轉換
-  dependencies:
-    - jyut6ping3
 
 switches:
   - name: ascii_mode
     reset: 0
-    states: [ 中文, 西文 ]
+    states: [ 中文, 英文 ]
   - name: full_shape
-    states: [ 半角, 全角 ]
-  - options: [ noop, variants_hk, simp_hk2s ]
-    states: [ 傳統漢字, 香港傳統漢字, 大陆简化汉字 ]
+    states: [ 半形, 全形 ]
+  - options: [ noop, variants_hk, trad_tw, simplification ]
+    states: [ 傳統漢字, 香港傳統漢字, 臺灣傳統漢字, 大陆简化汉字 ]
     reset: 1
   - name: ascii_punct
     states: [ 。，, ．， ]
@@ -46,14 +44,10 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - punct_translator
-    - table_translator@custom_phrase
     - script_translator
   filters:
-    - simplifier@variants_hk
-    - simplifier@simp_hk2s
     - simplifier
-    - reverse_lookup_filter@jyut6ping3_reverse_lookup
+    - phonology_uniquifier
     - dictionary_lookup_filter
 
 dictionary_lookup_filter:
@@ -63,53 +57,23 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    __patch:
-      - pinyin:/abbreviation
-      - pinyin:/spelling_correction
-      - pinyin:/key_correction
+    - derive/^([nl])ve$/$1ue/
+    - derive/^([jqxy])u/$1v/
+    - derive/un$/uen/
+    - derive/ui$/uei/
+    - derive/iu$/iou/
 
 translator:
   dictionary: luna_pinyin
-  max_homophones: 10
+  spelling_hints: 256
+  max_homophones: 8
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
-
-custom_phrase:
-  dictionary: ""
-  user_dict: custom_phrase
-  db_class: stabledb
-  enable_completion: false
-  enable_sentence: false
-  initial_quality: 1
-
-punctuator:
-  import_preset: symbols_cantonese
 
 key_binder:
   import_preset: default
 
 recognizer:
   import_preset: default
-  patterns:
-    punct: '^/([0-9]0?|[A-Za-z]+)$'
-
-variants_hk:
-  option_name: variants_hk
-  opencc_config: t2hk.json
-
-simp_hk2s:
-  option_name: simp_hk2s
-  opencc_config: hk2s.json
-
-jyut6ping3_reverse_lookup:
-  overwrite_comment: true
-  dictionary: jyut6ping3
-  comment_format:
-    - "xlit| |/|"
-
-__patch:
-  # 用家自選配置
-  - luna_pinyin.custom:/patch?
-  - common.custom:/patch?
