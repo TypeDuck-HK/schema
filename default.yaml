@@ -1,7 +1,7 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: '0.40'
+config_version: "2023.07.05"
 
 schema_list:
   - schema: jyut6ping3
@@ -10,20 +10,19 @@ schema_list:
   - schema: jyut6ping3_scolar
 
 switcher:
-  caption: 〔方案功能表〕
+  caption: "[Schema Menu]"
   hotkeys:
     - Control+grave
     - Control+Shift+grave
     - F4
   save_options:
     - full_shape
+    - noop
     - variants_hk
     - trad_tw
     - simplification
     - ascii_punct
-  fold_options: true
-  abbreviate_options: true
-  option_list_separator: '／'
+  option_list_separator: " / "
 
 menu:
   page_size: 10
@@ -33,6 +32,8 @@ punctuator:
     __include: punctuation:/full_shape
   half_shape:
     __include: punctuation:/half_shape
+  ascii_style:
+    __include: punctuation:/ascii_style
 
 key_binder:
   bindings:
@@ -41,7 +42,9 @@ key_binder:
       - key_bindings:/move_by_word_with_tab
       - key_bindings:/paging_with_minus_equal
       - key_bindings:/paging_with_comma_period
+      - key_bindings:/paging_with_brackets
       - key_bindings:/numbered_mode_switch
+      - key_bindings:/optimized_mode_switch
 
 recognizer:
   patterns:
@@ -52,8 +55,8 @@ recognizer:
 ascii_composer:
   good_old_caps_lock: true
   switch_key:
-    Shift_L: inline_ascii
-    Shift_R: commit_text
+    Shift_L: noop
+    Shift_R: noop
     Control_L: noop
     Control_R: noop
     Caps_Lock: clear

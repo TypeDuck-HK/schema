@@ -44,18 +44,9 @@ numbered_mode_switch:
     - { when: always, accept: Control+Shift+1, select: .next }
     - { when: always, accept: Control+Shift+2, toggle: ascii_mode }
     - { when: always, accept: Control+Shift+3, toggle: full_shape }
-    - { when: always, accept: Control+Shift+4, toggle: simplification }
-    - { when: always, accept: Control+Shift+5, toggle: extended_charset }
     - { when: always, accept: Control+Shift+exclam, select: .next }
     - { when: always, accept: Control+Shift+at, toggle: ascii_mode }
     - { when: always, accept: Control+Shift+numbersign, toggle: full_shape }
-    - { when: always, accept: Control+Shift+dollar, toggle: simplification }
-    - { when: always, accept: Control+Shift+percent, toggle: extended_charset }
-
-windows_compatible_mode_switch:
-  __append:
-    - { when: always, accept: Shift+space, toggle: full_shape }
-    - { when: always, accept: Control+period, toggle: ascii_punct }
 
 optimized_mode_switch:
   __append:
@@ -63,5 +54,3 @@ optimized_mode_switch:
     - { when: always, accept: Shift+space, toggle: ascii_mode }
     - { when: always, accept: Control+comma, toggle: full_shape }
     - { when: always, accept: Control+period, toggle: ascii_punct }
-    - { when: always, accept: Control+slash, toggle: simplification }
-    - { when: always, accept: Control+backslash, toggle: extended_charset }
