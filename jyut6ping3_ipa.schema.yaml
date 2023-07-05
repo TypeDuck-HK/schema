@@ -30,6 +30,7 @@ translator:
   max_homophones: 8
   preedit_format:
     - xform/ng/ŋ/                                     # 事前將 ng 改做 ŋ
+    - xform/([zcs])h/$1/                              # 聲母容錯處理
     - xform/^| |'/,/                                  # 用 , 代表音節開頭
 
     - xform/(,|h)(m|ŋ)(qq?|xx?|vv?)?(?=$|,)/$1$2̍$3/   # 音節輔音
