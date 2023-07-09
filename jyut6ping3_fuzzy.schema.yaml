@@ -44,3 +44,6 @@ speller:
     - xform/5/xx/                 # 陽上
     - xform/3/q/                  # 陰去
     - xform/6/qq/                 # 陽去
+
+translator:
+  prism: jyut6ping3_fuzzy

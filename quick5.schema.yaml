@@ -9,4 +9,7 @@ schema:
 
 speller:
   algebra:
-    - derive/^(?!yyy)([a-y])[a-z]+([a-z])$/$1$2/
+    - xform/^(?!yyy)([a-y])[a-z]+([a-z])$/$1$2/
+
+translator:
+  prism: quick5
