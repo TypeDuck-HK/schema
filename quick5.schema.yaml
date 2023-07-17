@@ -7,6 +7,11 @@ schema:
   schema_id: quick5
   name: 速成
 
+engine:
+  translators:
+    - punct_translator
+    - script_translator
+
 speller:
   algebra:
     - xform/^(?!yyy)([a-y])[a-z]+([a-z])$/$1$2/

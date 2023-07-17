@@ -73,7 +73,7 @@ engine:
     - script_translator@loengfan
     - table_translator@stroke
     - table_translator@cangjie5
-    - table_translator@quick5
+    - script_translator@quick5
   filters:
     - simplifier@variants_hk
     - simplifier@trad_tw
@@ -127,7 +127,8 @@ luna_pinyin:
   tag: luna_pinyin
   dictionary: luna_pinyin
   enable_user_dict: false
-  prefix: "`"
+  enable_sentence: false
+  prefix: "i"
   suffix: ";"
   tips: 〔普通話〕
   preedit_format:
@@ -139,6 +140,7 @@ loengfan:
   tag: loengfan
   dictionary: loengfan
   enable_user_dict: false
+  enable_sentence: false
   prefix: "r"
   suffix: ";"
   tips: 〔粵語兩分〕
@@ -149,21 +151,27 @@ loengfan:
     - xform/([aeiouymngptk])v/${1}1/
     - xform/([aeiouymngptk])x/${1}2/
     - xform/([aeiouymngptk])q/${1}3/
+  comment_format:
+    - xform/\d(?!$)/$& /
 
 stroke:
   tag: stroke
   dictionary: stroke
   enable_user_dict: false
+  enable_sentence: false
   prefix: "x"
   suffix: ";"
   tips: 〔筆畫〕
   preedit_format:
-    - xlit/hspnz/一丨丿丶乙/
+    - xlit/hspnzx/一丨丿丶乙＊/
+  comment_format:
+    - xlit/hspnzx/一丨丿丶乙＊/
 
 cangjie5:
   tag: cangjie5
   dictionary: cangjie5
   enable_user_dict: false
+  enable_sentence: false
   prefix: "v"
   suffix: ";"
   tips: 〔倉頡五代〕
@@ -180,6 +188,7 @@ quick5:
   tag: quick5
   dictionary: cangjie5
   enable_user_dict: false
+  enable_sentence: false
   prefix: "q"
   suffix: ";"
   tips: 〔速成〕
@@ -215,8 +224,8 @@ recognizer:
   import_preset: default
   patterns:
     punct: "^/([0-9]0?|[a-z]+)$"
-    luna_pinyin: "^`[a-z']*;?$"
+    luna_pinyin: "^i[a-z']*;?$"
     loengfan: "^r[a-z']*;?$"
-    stroke: "^x[hspnz]*;?$"
+    stroke: "^x[hspnzx]*;?$"
     cangjie5: "^v[a-z]*;?$"
     quick5: "^q[a-z]*;?$"

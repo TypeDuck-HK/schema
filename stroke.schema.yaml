@@ -39,6 +39,7 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
+    - punct_translator
     - table_translator
   filters:
     - phonology_uniquifier
@@ -48,17 +49,18 @@ dictionary_lookup_filter:
     dictionary: jyut6ping3_scolar
 
 speller:
-  alphabet: "abcdefghijklmnopqrstuvwxyz"
+  alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
+  algebra:
+    - derive/[hspnz]/x/ # 通配
 
 translator:
   dictionary: stroke
   spelling_hints: 256
   preedit_format:
-    - xlit/hspnz/一丨丿丶乙/
+    - xlit/hspnzx/一丨丿丶乙＊/
   comment_format:
-    - xform/~//
-    - xlit/hspnz/一丨丿丶乙/
+    - xlit/hspnzx/一丨丿丶乙＊/
 
 key_binder:
   import_preset: default
