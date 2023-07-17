@@ -24,10 +24,7 @@ schema:
     Telegram 用户交流組 https://t.me/rime_cantonese
 
 translator:
-  dictionary: jyut6ping3
   prism: jyut6ping3_ipa
-  spelling_hints: 256
-  max_homophones: 8
   preedit_format:
     - xform/ng/ŋ/                                     # 事前將 ng 改做 ŋ
     - xform/([zcs])h/$1/                              # 聲母容錯處理

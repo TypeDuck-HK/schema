@@ -40,6 +40,7 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
+    - punct_translator
     - script_translator
   filters:
     - simplifier
@@ -82,6 +83,8 @@ translator:
     - xform/([aeiouymngptk])v/${1}1/
     - xform/([aeiouymngptk])x/${1}2/
     - xform/([aeiouymngptk])q/${1}3/
+  comment_format:
+    - xform/\d(?!$)/$& /
 
 key_binder:
   import_preset: default

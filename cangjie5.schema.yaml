@@ -39,6 +39,7 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
+    - punct_translator
     - table_translator
   filters:
     - phonology_uniquifier
@@ -49,7 +50,7 @@ dictionary_lookup_filter:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " ;"
+  delimiter: " '"
 
 translator:
   dictionary: cangjie5
