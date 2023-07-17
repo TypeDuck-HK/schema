@@ -100,6 +100,7 @@ speller:
     - derive/aa(?=\d)/a/          # 容錯
     - derive/\d//                 # 忽略聲調
 
+    - xform/^m$/m_/               # 修復輸入「m」只顯示「唔」嘅問題
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
 
     - xform/1/v/                  # 陰平
