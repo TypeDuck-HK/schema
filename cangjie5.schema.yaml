@@ -42,7 +42,6 @@ engine:
     - punct_translator
     - table_translator
   filters:
-    - phonology_uniquifier
     - dictionary_lookup_filter
 
 dictionary_lookup_filter:
@@ -59,6 +58,7 @@ translator:
     - 'xform/^([a-z]*)$/$1\t（\U$1\E）/'
     - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
   comment_format:
+    - 'xform/^/\v/'
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
   disable_user_dict_for_patterns:
     - "^z.*$"

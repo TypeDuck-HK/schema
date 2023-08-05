@@ -48,7 +48,6 @@ engine:
     - script_translator
   filters:
     - simplifier
-    - phonology_uniquifier
     - dictionary_lookup_filter
 
 dictionary_lookup_filter:
@@ -72,6 +71,8 @@ translator:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+  comment_format:
+    - xform/^/\v/
 
 key_binder:
   import_preset: default

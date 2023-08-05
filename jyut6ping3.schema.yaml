@@ -75,7 +75,6 @@ engine:
     - simplifier@trad_tw
     - simplifier
     - reverse_lookup_filter@jyut6ping3_reverse_lookup
-    - phonology_uniquifier
     - dictionary_lookup_filter
 
 dictionary_lookup_filter:
@@ -85,9 +84,8 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    - xform/ //                   # 刪除空格
-
-    - derive/^jy?([aeiou])/y$1/   # 容錯 je -> ye, jyu -> yu
+    - derive/^(?=[aeiou])/q/      # 增加 q 表示喉塞
+    - derive/^jy?(?=[aeiou])/y/   # 容錯 je -> ye, jyu -> yu
     - derive/^jyu/ju/             # 容錯 jyu -> ju
     - derive/yu(?!ng|k)/y/        # 容錯 yu -> y
     - derive/(g|k)u(?!ng|k)/$1wu/ # 輔音圓唇
@@ -98,7 +96,6 @@ speller:
     - derive/aa(?=\d)/a/          # 容錯
     - derive/\d//                 # 忽略聲調
 
-    - xform/^m$/m_/               # 修復輸入「m」只顯示「唔」嘅問題
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
 
     - xform/1/v/                  # 陰平
@@ -120,6 +117,8 @@ translator:
     - xform/([aeiouymngptk])v/${1}1/
     - xform/([aeiouymngptk])x/${1}2/
     - xform/([aeiouymngptk])q/${1}3/
+  comment_format:
+    - xform/^/\f/
 
 luna_pinyin:
   tag: luna_pinyin
@@ -133,6 +132,8 @@ luna_pinyin:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+  comment_format:
+    - xform/^/\v/
 
 loengfan:
   tag: loengfan
@@ -150,7 +151,7 @@ loengfan:
     - xform/([aeiouymngptk])x/${1}2/
     - xform/([aeiouymngptk])q/${1}3/
   comment_format:
-    - xform/\d(?!$)/$& /
+    - xform/^/\v/
 
 cangjie5:
   tag: cangjie5
@@ -164,10 +165,8 @@ cangjie5:
     - 'xform/^([a-z]*)$/$1\t（\U$1\E）/'
     - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
   comment_format:
+    - 'xform/^/\v/'
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
-  disable_user_dict_for_patterns:
-    - "^z.*$"
-    - "^yyy.*$"
 
 jyut6ping3_reverse_lookup:
   tags: [ luna_pinyin, loengfan, cangjie5 ]
