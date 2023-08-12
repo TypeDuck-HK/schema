@@ -6,7 +6,7 @@ __include: jyut6ping3.schema:/
 schema:
   schema_id: loengfan
   name: 粵語兩分
-  version: "2023.07.29"
+  version: "2023.08.12"
   author:
     - TianHeng <2417647441@qq.com>
     - Ayaka Mikazuki <ayaka@mail.shn.hk>
@@ -33,11 +33,16 @@ engine:
     - punct_translator
     - script_translator
   filters:
+    - simplifier@variants_hk
+    - simplifier@trad_tw
     - simplifier
     - dictionary_lookup_filter
 
 translator:
   dictionary: loengfan
   prism: loengfan
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
   comment_format:
     - xform/^/\v/

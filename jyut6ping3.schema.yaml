@@ -4,7 +4,7 @@
 schema:
   schema_id: jyut6ping3
   name: 粵語拼音
-  version: "2022.06.07"
+  version: "2023.08.12"
   author:
     - Ayaka Mikazuki <ayaka@mail.shn.hk>
     - LeiMaau <leimaau@qq.com>
@@ -58,9 +58,8 @@ engine:
     - matcher
     - affix_segmentor@luna_pinyin
     - affix_segmentor@loengfan
-    - affix_segmentor@stroke
     - affix_segmentor@cangjie5
-    - affix_segmentor@quick5
+    - affix_segmentor@reverse_lookup
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -108,7 +107,7 @@ speller:
 translator:
   dictionary: jyut6ping3
   spelling_hints: 256
-  max_homophones: 8
+  max_homophones: 16
   always_show_comments: true
   preedit_format:
     - xform/([aeiouymngptk])vv/${1}4/
@@ -120,11 +119,21 @@ translator:
   comment_format:
     - xform/^/\f/
 
+reverse_lookup:
+  tag: reverse_lookup
+  prefix: "`"
+  suffix: ";"
+  tips: 〔反查〕
+
 luna_pinyin:
   tag: luna_pinyin
   dictionary: luna_pinyin
-  enable_user_dict: false
   enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  spelling_hints: 256
+  max_homophones: 16
+  always_show_comments: true
   prefix: "`p"
   suffix: ";"
   tips: 〔普通話〕
@@ -138,8 +147,12 @@ luna_pinyin:
 loengfan:
   tag: loengfan
   dictionary: loengfan
-  enable_user_dict: false
   enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  spelling_hints: 256
+  max_homophones: 16
+  always_show_comments: true
   prefix: "`l"
   suffix: ";"
   tips: 〔粵語兩分〕
@@ -156,8 +169,12 @@ loengfan:
 cangjie5:
   tag: cangjie5
   dictionary: cangjie5
-  enable_user_dict: false
   enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  spelling_hints: 256
+  max_homographs: 16
+  always_show_comments: true
   prefix: "`c"
   suffix: ";"
   tips: 〔倉頡五代〕
@@ -170,8 +187,10 @@ cangjie5:
 
 jyut6ping3_reverse_lookup:
   tags: [ luna_pinyin, loengfan, cangjie5 ]
-  overwrite_comment: false
+  overwrite_comment: true
   dictionary: jyut6ping3
+  comment_format:
+    - xform/^|; /$&\f/
 
 variants_hk:
   option_name: variants_hk
@@ -194,3 +213,4 @@ recognizer:
     luna_pinyin: "^`p[a-z']*;?$"
     loengfan: "^`l[a-z']*;?$"
     cangjie5: "^`c[a-z']*;?$"
+    reverse_lookup: "^`[a-z']*;?$"
