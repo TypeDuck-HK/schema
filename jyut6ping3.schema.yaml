@@ -73,7 +73,6 @@ engine:
     - simplifier@variants_hk
     - simplifier@trad_tw
     - simplifier
-    - reverse_lookup_filter@jyut6ping3_reverse_lookup
     - dictionary_lookup_filter
 
 dictionary_lookup_filter:
@@ -184,13 +183,6 @@ cangjie5:
   comment_format:
     - 'xform/^/\v/'
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
-
-jyut6ping3_reverse_lookup:
-  tags: [ luna_pinyin, loengfan, cangjie5 ]
-  overwrite_comment: true
-  dictionary: jyut6ping3
-  comment_format:
-    - xform/^|; /$&\f/
 
 variants_hk:
   option_name: variants_hk
