@@ -105,8 +105,6 @@ speller:
 
 translator:
   dictionary: jyut6ping3
-  spelling_hints: 256
-  max_homophones: 16
   always_show_comments: true
   preedit_format:
     - xform/([aeiouymngptk])vv/${1}4/
@@ -130,8 +128,6 @@ luna_pinyin:
   enable_sentence: false
   enable_user_dict: false
   encode_commit_history: false
-  spelling_hints: 256
-  max_homophones: 16
   always_show_comments: true
   prefix: "`p"
   suffix: ";"
@@ -149,8 +145,6 @@ loengfan:
   enable_sentence: false
   enable_user_dict: false
   encode_commit_history: false
-  spelling_hints: 256
-  max_homophones: 16
   always_show_comments: true
   prefix: "`l"
   suffix: ";"
@@ -171,9 +165,6 @@ cangjie5:
   enable_sentence: false
   enable_user_dict: false
   encode_commit_history: false
-  spelling_hints: 256
-  max_homographs: 16
-  always_show_comments: true
   prefix: "`c"
   suffix: ";"
   tips: 〔倉頡五代〕

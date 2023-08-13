@@ -56,9 +56,6 @@ translator:
   enable_sentence: false
   enable_user_dict: false
   encode_commit_history: false
-  spelling_hints: 256
-  max_homographs: 16
-  always_show_comments: true
   preedit_format:
     - 'xform/^([a-z]*)$/$1\t（\U$1\E）/'
     - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"

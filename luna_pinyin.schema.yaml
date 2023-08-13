@@ -72,8 +72,6 @@ translator:
   enable_sentence: false
   enable_user_dict: false
   encode_commit_history: false
-  spelling_hints: 256
-  max_homophones: 16
   always_show_comments: true
   preedit_format:
     - xform/([nl])v/$1ü/
