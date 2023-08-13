@@ -12,7 +12,7 @@ app_options:
 style:
   color_scheme: default
   font_face: Microsoft JhengHei, MingLiU HKSCS, MingLiU HKSCS ExtB
-  label_font_face: Century Gothic, Segoe UI
+  label_font_face: Century Gothic, Segoe UI, Microsoft JhengHei
   # comment_font_face: Microsoft JhengHei, MingLiU HKSCS, MingLiU HKSCS ExtB
   hint_font_face: Segoe UI, Microsoft JhengHei, MingLiU HKSCS, MingLiU HKSCS ExtB
   eng_font_face: Segoe UI, Microsoft JhengHei, MingLiU HKSCS, MingLiU HKSCS ExtB
@@ -23,7 +23,7 @@ style:
   # page_mark_font_face: Microsoft JhengHei
   font_point: 15
   label_font_point: 14
-  # comment_font_point: 15
+  comment_font_point: 13
   hint_font_point: 12
   eng_font_point: 14
   hin_font_point: 13
@@ -105,7 +105,7 @@ preset_color_schemes:
     label_color: 0x453e37
     hint_text_color: 0x453e37
     candidate_text_color: 0x000000
-    comment_text_color: 0x000000
+    comment_text_color: 0x453e37
 
     hilited_label_color: 0xffecd9
     hilited_hint_text_color: 0xffecd9
