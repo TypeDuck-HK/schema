@@ -1,0 +1,7 @@
+build/
+*.userdb/
+user.yaml
+installation.yaml
+*.custom.yaml
+*.dll
+*.exe
