@@ -93,3 +93,5 @@ key_binder:
 
 recognizer:
   import_preset: default
+
+__patch: common:/patch?

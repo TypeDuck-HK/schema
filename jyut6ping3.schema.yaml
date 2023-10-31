@@ -190,3 +190,5 @@ recognizer:
     loengfan: "^`l[a-z']*;?$"
     cangjie5: "^`c[a-z']*;?$"
     reverse_lookup: "^`[a-z']*;?$"
+
+__patch: common:/patch?
