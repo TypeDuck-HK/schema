@@ -51,6 +51,5 @@ numbered_mode_switch:
 optimized_mode_switch:
   __append:
     - { when: always, accept: Control+Shift+space, select: .next }
-    - { when: always, accept: Shift+space, toggle: ascii_mode }
     - { when: always, accept: Control+comma, toggle: full_shape }
     - { when: always, accept: Control+period, toggle: ascii_punct }
