@@ -168,13 +168,8 @@ cangjie5:
     - 'xform/^/\v/'
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
 
-variants_hk:
-  option_name: variants_hk
-  opencc_config: t2hkf.json
-
-trad_tw:
-  option_name: trad_tw
-  opencc_config: t2tw.json
+simplifier:
+  opencc_config: hk2s.json
 
 punctuator:
   import_preset: symbols_cantonese
