@@ -35,6 +35,7 @@ switches:
     states: [ 半形, 全形 ]
   - name: simplification
     states: [ 繁體, 简体 ]
+    reset: 0
   - name: ascii_punct
     states: [ 。，, ．， ]
 
