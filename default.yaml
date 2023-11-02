@@ -17,9 +17,6 @@ switcher:
     - F4
   save_options:
     - full_shape
-    - noop
-    - variants_hk
-    - trad_tw
     - simplification
     - ascii_punct
   option_list_separator: " / "
