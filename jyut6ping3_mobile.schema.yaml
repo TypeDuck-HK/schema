@@ -1,0 +1,19 @@
+# Rime schema
+# encoding: utf-8
+
+__include: template:/
+
+schema:
+  schema_id: jyut6ping3_mobile
+  name: 粵語拼音
+
+menu:
+  __patch: include:/no_candidate_selection
+
+translator:
+  prism: jyut6ping3_mobile
+  __patch: include:/letter_to_tone
+
+__patch:
+  - common.custom:/enable_correction?
+  - common.custom:/combine_candidates?

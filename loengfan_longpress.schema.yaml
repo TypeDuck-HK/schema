@@ -4,7 +4,7 @@
 __include: template:/
 
 schema:
-  schema_id: loengfan
+  schema_id: loengfan_longpress
   name: 粵語兩分
   author:
     - TianHeng <2417647441@qq.com>
@@ -15,13 +15,20 @@ schema:
 menu:
   __patch: include:/no_candidate_selection
 
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba654321
+  algebra:
+    __patch:
+      - include:/fuzzy_with_shortcuts
+      - include:/tone_ignore
+      - include:/abbreviation
+
 translator:
   dictionary: loengfan
-  prism: loengfan
+  prism: loengfan_longpress
   enable_sentence: false
   enable_user_dict: false
   encode_commit_history: false
-  __patch: include:/letter_to_tone
   comment_format:
     - xform/^/\v/
 

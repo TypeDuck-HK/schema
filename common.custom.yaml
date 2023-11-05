@@ -1,0 +1,7 @@
+# Rime configuration
+# encoding: utf-8
+
+__patch:
+  # - common:/enable_correction
+  # - common:/combine_candidates
+  # - common:/use_cangjie3

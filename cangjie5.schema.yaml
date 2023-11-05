@@ -4,7 +4,7 @@
 schema:
   schema_id: cangjie5
   name: 倉頡五代
-  version: "2023.08.12"
+  version: "2023.11.03"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -45,7 +45,10 @@ engine:
     - dictionary_lookup_filter
 
 dictionary_lookup_filter:
-    dictionary: jyut6ping3_scolar
+  dictionary: jyut6ping3_scolar
+
+menu:
+  __patch: include:/no_candidate_selection
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -67,7 +70,7 @@ translator:
     - "^yyy.*$"
 
 punctuator:
-  import_preset: symbols_cantonese
+  import_preset: default
 
 key_binder:
   import_preset: default
@@ -75,4 +78,5 @@ key_binder:
 recognizer:
   import_preset: default
 
-__patch: common:/patch?
+__patch:
+  - common.custom:/combine_candidates?
