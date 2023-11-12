@@ -5,9 +5,9 @@ enable_correction:
   enable_correction:
     translator/enable_correction: true
 
-combine_candidates:
-  combine_candidates:
-    translator/combine_candidates: true
+separate_candidates:
+  separate_candidates:
+    translator/combine_candidates: false
 
 use_cangjie3:
   use_cangjie3:

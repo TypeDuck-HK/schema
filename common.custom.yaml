@@ -2,6 +2,6 @@
 # encoding: utf-8
 
 __patch:
+  - common:/separate_candidates
   # - common:/enable_correction
-  # - common:/combine_candidates
   # - common:/use_cangjie3

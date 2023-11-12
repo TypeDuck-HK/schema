@@ -79,4 +79,4 @@ recognizer:
   import_preset: default
 
 __patch:
-  - common.custom:/combine_candidates?
+  - common.custom:/separate_candidates?
