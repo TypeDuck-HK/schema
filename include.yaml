@@ -105,7 +105,7 @@ letter_to_10keys:
 # ---------------------------------------------------------
 
 no_candidate_selection:
-  alternative_select_keys: "          "     # Change select key to 0x7f to allow us to type number keys for tone input.
+  alternative_select_keys: "\0"     # Change select key to arbitrary control character to allow us to type number keys for tone input.
 
 letter_to_tone:
   preedit_format:
