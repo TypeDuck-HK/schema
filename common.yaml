@@ -2,13 +2,16 @@
 # encoding: utf-8
 
 enable_correction:
-  translator/enable_correction: true
+  enable_correction:
+    translator/enable_correction: true
 
 combine_candidates:
-  translator/combine_candidates: true
+  combine_candidates:
+    translator/combine_candidates: true
 
 use_cangjie3:
-  dictionary: cangjie3
-  tips: 〔倉頡三代〕
+  use_cangjie3:
+    dictionary: cangjie3
+    tips: 〔倉頡三代〕
 
 __patch: []
