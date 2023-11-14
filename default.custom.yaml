@@ -13,4 +13,4 @@ patch:
     - schema: cangjie3
     - schema: cangjie5
   menu:
-    page_size: 500
+    page_size: 50
