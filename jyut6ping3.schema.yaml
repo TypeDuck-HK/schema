@@ -86,6 +86,7 @@ cangjie:
   __patch:
     - common.custom:/use_cangjie3?
     - common.custom:/show_cangjie_roots?
+    - common.custom:/show_full_code?
 
 recognizer:
   patterns:
