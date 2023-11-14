@@ -5,3 +5,4 @@ __patch:
   - common:/separate_candidates
   # - common:/enable_correction
   # - common:/use_cangjie3
+  # - common:/show_cangjie_roots

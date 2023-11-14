@@ -14,4 +14,10 @@ use_cangjie3:
     dictionary: cangjie3
     tips: 〔倉頡三代〕
 
+show_cangjie_roots:
+  show_cangjie_roots:
+    preedit_format:
+      - 'xform/^([a-z]*)$/$1\t（\U$1\E）/'
+      - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+
 __patch: []
