@@ -1,0 +1,28 @@
+__build_info:
+  rime_version: 1.8.5
+  timestamps:
+    default: 1699210382
+    default.custom: 1699932168
+    jyut6ping3_scolar.custom: 0
+    jyut6ping3_scolar.schema: 1699210382
+engine:
+  processors:
+    - ascii_composer
+  segmentors:
+    - ascii_segmentor
+  translators:
+    - table_translator
+menu:
+  page_size: 50
+schema:
+  schema_id: jyut6ping3_scolar
+  version: 0.0
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["中文", "英文"]
+translator:
+  dictionary: jyut6ping3_scolar
