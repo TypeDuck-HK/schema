@@ -24,5 +24,4 @@ translator:
   prism: jyut6ping3_10keys
 
 __patch:
-  - common.custom:/enable_correction?
   - common.custom:/separate_candidates?
