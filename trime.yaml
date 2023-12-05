@@ -144,7 +144,7 @@ preset_keys:
   # 編輯
   Shift_L: {label: '⇧', send: Shift_L, shift_lock_label: '⇪'}
   Return: {label: enter_labels, send: Return}
-  Return1: {label: '⤼', send: Return}
+  Return1: {label: '↩', send: Return}
   Hide: {label: Hide, send: BACK}
   BackSpace: {label: '⌫', repeatable: true, send: BackSpace}
   space: {repeatable: false, functional: false, send: space}
