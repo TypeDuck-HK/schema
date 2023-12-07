@@ -48,7 +48,7 @@ style:
   symbol_text_size: 10 #符號字號
   text_font: latin.ttf #編碼字型
   #text_height: 22 #編碼區高度
-  text_size: 16 #編碼區字號
+  text_size: 18 #編碼區字號
   vertical_correction: -10
   vertical_gap: 10 #鍵盤行距
   long_text_font: comment.ttf #剪贴板等可能包含大段文本使用的字体
@@ -65,6 +65,16 @@ style:
     search: '🔍︎'
     send: '⮚'
     default: '⤶'   # 定义默认Enter键的文本
+  layout: #懸浮窗口設置
+    position: fixed #位置：left|right|left_up|right_up|fixed|bottom_left|bottom_right|top_left|top_right(left、right需要>=Android5.0)
+    margin_x: 7 #水平邊距
+    margin_y: 0 #豎直邊距
+    margin_bottom: 4 #底部边距
+    real_margin: 3 #屏幕左右边缘和悬浮窗之间的距离
+    alpha: 0xff #透明度(0-255)
+    movable: false #是否可移動窗口，或僅移動一次 true|false|once
+  window: #懸浮窗口組件
+    - {composition: true}
 
 fallback_colors:
   candidate_text_color: text_color
