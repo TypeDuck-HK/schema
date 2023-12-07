@@ -31,7 +31,6 @@ style:
   nep_font_point: 13
   ind_font_point: 14
   page_mark_font_point: 28
-  language_list: Jyutping, Reverse, Eng
   inline_preedit: false
   preedit_type: composition
   display_tray_icon: false
