@@ -37,9 +37,6 @@ style:
   keyboard_height: 240 #锁定键盘高度，避免切换时键盘高度变化而造成闪烁
   keyboard_height_land: 200 #锁定横屏下键盘高度，避免切换时键盘高度变化而造成闪烁
   preview_font: latin.ttf #按鍵提示字型
-  preview_height: 50 #按鍵提示高度
-  preview_offset: -10 #按鍵提示縱向偏移
-  preview_text_size: 28 #按鍵提示字號
   proximity_correction: true #按鍵糾錯
   reset_ascii_mode: false #顯示鍵盤時重置爲中文狀態
   round_corner: 16 #按鍵圓角半徑
