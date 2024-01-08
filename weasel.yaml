@@ -21,16 +21,16 @@ style:
   nep_font_face: Nirmala UI, Mangal
   ind_font_face: Times New Roman
   # page_mark_font_face: Microsoft JhengHei
-  font_point: 15
-  label_font_point: 14
-  comment_font_point: 13
-  hint_font_point: 12
-  eng_font_point: 14
-  hin_font_point: 13
-  urd_font_point: 15
-  nep_font_point: 13
-  ind_font_point: 14
-  page_mark_font_point: 28
+  font_point: 13
+  label_font_point: 12
+  comment_font_point: 11
+  hint_font_point: 11
+  eng_font_point: 12
+  hin_font_point: 11
+  urd_font_point: 13
+  nep_font_point: 11
+  ind_font_point: 12
+  page_mark_font_point: 25
   inline_preedit: false
   preedit_type: composition
   display_tray_icon: false
@@ -42,16 +42,16 @@ style:
     min_height: 0
     max_height: 0
     border_width: 4
-    margin_x: 10
-    margin_y: 10
-    spacing: 6
+    margin_x: 9
+    margin_y: 9
+    spacing: 5
     text_gap: 2
     candidate_spacing: 0
-    hilite_spacing: 10
-    hilite_padding: 5
-    character_spacing: 16
-    round_corner: 6
-    corner_radius: 8
+    hilite_spacing: 9
+    hilite_padding: 4
+    character_spacing: 14
+    round_corner: 5
+    corner_radius: 7
     shadow_radius: 0
     shadow_offset_x: 4
     shadow_offset_y: 4
@@ -65,29 +65,29 @@ style:
     field_key_font_face: Segoe UI
     # field_value_font_face: Microsoft JhengHei, MingLiU HKSCS, MingLiU HKSCS ExtB
     more_languages_head_font_face: Segoe UI:medium
-    entry_font_point: 36
-    pron_font_point: 24
-    pron_type_font_point: 14
-    pos_font_point: 11
-    register_font_point: 14
-    lbl_font_point: 14
-    field_key_font_point: 14
-    field_value_font_point: 14
-    more_languages_head_font_point: 15
+    entry_font_point: 32
+    pron_font_point: 21
+    pron_type_font_point: 12
+    pos_font_point: 10
+    register_font_point: 12
+    lbl_font_point: 12
+    field_key_font_point: 12
+    field_value_font_point: 12
+    more_languages_head_font_point: 13
     layout:
-      padding: 36
-      title_gap: 24
-      spacing: 28
+      padding: 32
+      title_gap: 21
+      spacing: 25
       pos_border_width: 1
       pos_border_radius: 4
       pos_padding: 3
-      pos_gap: 8
-      lbl_gap: 8
-      definition_gap: 20
-      field_spacing: 6
-      field_gap: 12
-      more_languages_spacing: 6
-      entry_spacing: 48
+      pos_gap: 7
+      lbl_gap: 7
+      definition_gap: 18
+      field_spacing: 5
+      field_gap: 11
+      more_languages_spacing: 5
+      entry_spacing: 42
 
 preset_color_schemes:
   default:
