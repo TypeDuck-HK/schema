@@ -1,7 +1,7 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: "2023.11.03"
+config_version: "2024.01.11"
 
 schema_list:
   - schema: jyut6ping3
@@ -19,7 +19,7 @@ switcher:
   option_list_separator: " / "
 
 menu:
-  page_size: 10
+  page_size: 6
 
 punctuator:
   full_shape:
