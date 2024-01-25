@@ -26,5 +26,5 @@ translator:
     - xform/^/\v/
 
 __patch:
-  - common.custom:/enable_correction?
-  - common.custom:/separate_candidates?
+  - common:/enable_correction?
+  - common:/separate_candidates?
