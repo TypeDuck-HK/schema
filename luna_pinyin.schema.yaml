@@ -41,5 +41,6 @@ translator:
     - xform/^/\v/
 
 __patch:
+  - common:/disable_completion?
   - common:/enable_correction?
   - common:/separate_candidates?

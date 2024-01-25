@@ -24,4 +24,6 @@ translator:
   prism: jyut6ping3_10keys
 
 __patch:
+  - common:/disable_sentence?
+  - common:/disable_learning?
   - common:/separate_candidates?

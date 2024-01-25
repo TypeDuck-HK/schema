@@ -96,4 +96,7 @@ recognizer:
     reverse_lookup: "^`[a-z']*;?$"
 
 __patch:
+  - common:/disable_completion?
   - common:/enable_correction?
+  - common:/disable_sentence?
+  - common:/disable_learning?

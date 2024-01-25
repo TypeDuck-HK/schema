@@ -1,9 +1,22 @@
 # Rime configuration
 # encoding: utf-8
 
+disable_completion:
+  disable_completion:
+    translator/enable_completion: false
+
 enable_correction:
   enable_correction:
     translator/enable_correction: true
+
+disable_sentence:
+  disable_sentence:
+    translator/enable_sentence: false
+
+disable_learning:
+  disable_learning:
+    translator/enable_user_dict: false
+    translator/encode_commit_history: false
 
 separate_candidates:
   separate_candidates:
