@@ -77,8 +77,8 @@ style:
     field_value_font_point: 12
     more_languages_head_font_point: 13
     layout:
-      padding_x: 20
-      padding_y: 16
+      padding_x: 22
+      padding_y: 12
       title_gap: 20
       spacing: 16
       pos_border_width: 1
@@ -90,7 +90,7 @@ style:
       field_spacing: 5
       field_gap: 12
       more_languages_spacing: 5
-      entry_spacing: 24
+      entry_spacing: 18
 
 preset_color_schemes:
   default:
@@ -104,15 +104,15 @@ preset_color_schemes:
     border_color: 0xdddddd
     hilited_mark_color: 0xfa820a
 
-    label_color: 0x453e37
-    hint_text_color: 0x7d4105
-    candidate_text_color: 0x000000
-    comment_text_color: 0x7d4105
+    label_color: 0x69584b
+    hint_text_color: 0x755943
+    candidate_text_color: 0x351600
+    comment_text_color: 0x78522f
 
-    hilited_label_color: 0xffffff
-    hilited_hint_text_color: 0xfae2ca
-    hilited_candidate_text_color: 0xffffff
-    hilited_comment_text_color: 0xfae2ca
+    hilited_label_color: 0xfff0e5
+    hilited_hint_text_color: 0xffe6d4
+    hilited_candidate_text_color: 0xfffbf8
+    hilited_comment_text_color: 0xffe1ca
 
     text_color: 0x000000
     back_color: 0xfafafa
