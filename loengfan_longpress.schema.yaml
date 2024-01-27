@@ -33,5 +33,6 @@ translator:
     - xform/^/\v/
 
 __patch:
-  - common.custom:/enable_correction?
-  - common.custom:/separate_candidates?
+  - common:/disable_completion?
+  - common:/enable_correction?
+  - common:/separate_candidates?

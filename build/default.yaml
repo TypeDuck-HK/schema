@@ -1,7 +1,7 @@
 __build_info:
   rime_version: 1.8.5
   timestamps:
-    default: 1699210382
+    default: 1706339247
     default.custom: 1699932168
 ascii_composer:
   good_old_caps_lock: true
@@ -12,7 +12,7 @@ ascii_composer:
     Eisu_toggle: clear
     Shift_L: noop
     Shift_R: noop
-config_version: 2023.11.03
+config_version: 2024.01.11
 key_binder:
   bindings:
     - {accept: "Control+p", send: Up, when: composing}

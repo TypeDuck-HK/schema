@@ -1,13 +1,13 @@
 __build_info:
   rime_version: 1.8.5
   timestamps:
-    common: 1699961244
-    common.custom: 1700098591
-    default: 1699210382
+    common: 1706339247
+    common.custom: 1706339247
+    default: 1706339247
     default.custom: 1699932168
     include: 1700067435
     include.custom: 0
-    jyut6ping3_mobile_10keys.schema: 1700070453
+    jyut6ping3_mobile_10keys.schema: 1706339247
     template: 1699210382
     template.custom: 0
 dictionary_lookup_filter:
@@ -246,4 +246,5 @@ translator:
   comment_format:
     - "xform/^/\\f/"
   dictionary: jyut6ping3
+  enable_completion: false
   prism: jyut6ping3_10keys

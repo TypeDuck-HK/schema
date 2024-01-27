@@ -63,8 +63,8 @@ translator:
     - 'xform/^/\v/'
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
   __patch:
-    - common.custom:/show_cangjie_roots?
-    - common.custom:/show_full_code?
+    - common:/show_cangjie_roots?
+    - common:/show_full_code?
 
 punctuator:
   import_preset: default
@@ -76,4 +76,4 @@ recognizer:
   import_preset: default
 
 __patch:
-  - common.custom:/separate_candidates?
+  - common:/separate_candidates?

@@ -15,5 +15,8 @@ translator:
   __patch: include:/letter_to_tone
 
 __patch:
-  - common.custom:/enable_correction?
-  - common.custom:/separate_candidates?
+  - common:/disable_completion?
+  - common:/enable_correction?
+  - common:/disable_sentence?
+  - common:/disable_learning?
+  - common:/separate_candidates?

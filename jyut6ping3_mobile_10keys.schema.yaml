@@ -22,6 +22,9 @@ speller:
 
 translator:
   prism: jyut6ping3_10keys
+  enable_completion: false
 
 __patch:
-  - common.custom:/separate_candidates?
+  - common:/disable_sentence?
+  - common:/disable_learning?
+  - common:/separate_candidates?
