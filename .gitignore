@@ -4,3 +4,4 @@ user.yaml
 installation.yaml
 *.dll
 *.exe
+*.pdb
