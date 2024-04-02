@@ -17,12 +17,7 @@ style:
   hanb_font: hanb.ttf #擴充字型
   horizontal: true #水平模式
   horizontal_gap: 5 #鍵水平間距
-  keyboard_padding: 0 #竖屏模式下，屏幕左右两侧与键盘的距离（曲面屏减少误触）
-  keyboard_padding_left: 0 #竖屏屏模式下，左手键盘布局，屏幕左侧与键盘的距离
-  keyboard_padding_right: 40 #竖屏屏模式下，左手键盘布局，屏幕右侧与键盘的距离
-  keyboard_padding_bottom: 0 #竖屏模式下，屏幕下边缘与键盘的距离（避免误触发全面屏手势）
-  keyboard_padding_land: 40 #横屏模式下，屏幕左右两侧与键盘的距离（避免横屏按键过度拉伸变形）
-  keyboard_padding_land_bottom: 0 #横屏模式下，屏幕下侧与键盘的距离
+  keyboard_padding: 5 #屏幕左右两侧与键盘的距离
   key_font: symbol.ttf #鍵盤字型
   key_height: 44 #鍵高
   key_long_text_size: 16 #長標籤字號
@@ -34,12 +29,7 @@ style:
   latin_font: latin.ttf #西文字型
   latin_locale: en_US #西文語言
   locale: zh_HK #預設語言 zh_TW,zh_CN,zh_HK,""
-  keyboard_height: 240 #锁定键盘高度，避免切换时键盘高度变化而造成闪烁
-  keyboard_height_land: 200 #锁定横屏下键盘高度，避免切换时键盘高度变化而造成闪烁
   preview_font: latin.ttf #按鍵提示字型
-  preview_height: 50 #按鍵提示高度
-  preview_offset: -10 #按鍵提示縱向偏移
-  preview_text_size: 28 #按鍵提示字號
   proximity_correction: true #按鍵糾錯
   reset_ascii_mode: false #顯示鍵盤時重置爲中文狀態
   round_corner: 16 #按鍵圓角半徑
@@ -48,7 +38,7 @@ style:
   symbol_text_size: 10 #符號字號
   text_font: latin.ttf #編碼字型
   #text_height: 22 #編碼區高度
-  text_size: 16 #編碼區字號
+  text_size: 18 #編碼區字號
   vertical_correction: -10
   vertical_gap: 10 #鍵盤行距
   long_text_font: comment.ttf #剪贴板等可能包含大段文本使用的字体
@@ -65,6 +55,16 @@ style:
     search: '🔍︎'
     send: '⮚'
     default: '⤶'   # 定义默认Enter键的文本
+  layout: #懸浮窗口設置
+    position: fixed #位置：left|right|left_up|right_up|fixed|bottom_left|bottom_right|top_left|top_right(left、right需要>=Android5.0)
+    margin_x: 7 #水平邊距
+    margin_y: 0 #豎直邊距
+    margin_bottom: 4 #底部边距
+    real_margin: 3 #屏幕左右边缘和悬浮窗之间的距离
+    alpha: 0xff #透明度(0-255)
+    movable: false #是否可移動窗口，或僅移動一次 true|false|once
+  window: #懸浮窗口組件
+    - {composition: true}
 
 fallback_colors:
   candidate_text_color: text_color
@@ -105,46 +105,47 @@ fallback_colors:
 
 preset_color_schemes:
   default:
-    name: 預設／default #方案名稱
-    author: osfans #作者資訊
-    back_color: 0xeceff1 #候選區背景
-    border_color: 0xc1c7ca #邊框
-    candidate_separator_color: 0xc1c7ca #候選分割背景
-    candidate_text_color: 0x5a676e #候選文字
-    comment_text_color: 0x7b868c #提示
-    hilited_back_color: 0xccd9dcdf #標明編碼背景
-    hilited_candidate_back_color: 0xd9dcdf #標明候選背景
-    hilited_candidate_text_color: 0x000000 #標明候選文字
-    hilited_comment_text_color: 0x000000 #標明提示
-    hilited_key_back_color: 0xd9dcdf #標明按鍵背景
-    hilited_key_symbol_color: 0x000000 #標明按鍵符號
-    hilited_key_text_color: 0x000000 #標明按鍵文字
-    hilited_off_key_back_color: 0xd9dcdf #標明按鍵關閉狀態背景
-    hilited_off_key_text_color: 0x000000 #標明按鍵關閉狀態文字
-    hilited_on_key_back_color: 0xd9dcdf #標明按鍵打開狀態背景
-    hilited_on_key_text_color: 0x000000 #標明按鍵打開狀態文字
-    hilited_text_color: 0x23948e #標明編碼
+    name: Default
+    light_scheme: default_light
+    dark_scheme: default_dark
+  default_light:
+    name: Default Light
+    back_color: 0xeaecef #候選區背景
+    shadow_color: 0xff1a1e24 #按鍵文字陰影
+    border_color: 0xa1a6ad #邊框
+    text_color: 0x1a1e24 #編碼
+    comment_text_color: 0x878e99 #提示
+    hilited_key_symbol_color: 0x1a1e24 #標明按鍵符號
+    text_back_color: 0xcceaecef #編碼區背景
+    keyboard_back_color: 0xeaecef #鍵盤背景
     key_back_color: 0xffffff #按鍵背景
-    #key_border_color: 0xffffff #按鍵邊框
-    key_symbol_color: 0x5f6b73 #按鍵符號
-    key_text_color: 0x37474f #按鍵文字
-    keyboard_back_color: 0xeceff1 #鍵盤背景
-    label_color: 0x000000 #標籤
-    off_key_back_color: 0xd9dcdf #按鍵關閉狀態背景
-    off_key_text_color: 0x000000 #按鍵關閉狀態文字
+    off_key_back_color: 0xd5d9de #按鍵關閉狀態背景
     on_key_back_color: 0x78c2f0 #按鍵打開狀態背景
-    on_key_text_color: 0x37474f #按鍵打開狀態文字
-    preview_back_color: 0xfffcfcfc #按鍵提示背景
-    preview_text_color: 0x37474f #按鍵提示文字
-    shadow_color: 0x000000 #按鍵文字陰影
-    text_color: 0x5a676e #編碼
-    text_back_color: 0xcce4e7e9 #編碼區背景
+    preview_back_color: 0xffd5d9de #按鍵提示背景
+    hilited_key_back_color: 0xa1a6ad #標明按鍵背景
+    hilited_candidate_back_color: 0xd5d9de #標明候選背景
+  default_dark:
+    name: Default Dark
+    back_color: 0x17191c
+    shadow_color: 0xff878e99
+    border_color: 0x494b4f
+    text_color: 0xf5f5f7
+    comment_text_color: 0x878e99
+    hilited_key_symbol_color: 0xf5f5f7
+    text_back_color: 0xcc17191c
+    keyboard_back_color: 0x17191c
+    key_back_color: 0x35383d
+    off_key_back_color: 0x494b4f
+    on_key_back_color: 0xa7cceb
+    preview_back_color: 0xff494b4f
+    hilited_key_back_color: 0x6a6e75
+    hilited_candidate_back_color: 0x494b4f
 
 preset_keys:
   # 編輯
   Shift_L: {label: '⇧', send: Shift_L, shift_lock_label: '⇪'}
   Return: {label: enter_labels, send: Return}
-  Return1: {label: '⤼', send: Return}
+  Return1: {label: '↩', send: Return}
   Hide: {label: Hide, send: BACK}
   BackSpace: {label: '⌫', repeatable: true, send: BackSpace}
   space: {repeatable: false, functional: false, send: space}

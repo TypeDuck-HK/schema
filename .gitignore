@@ -1,3 +1,4 @@
 *.userdb/
 *.dll
 *.exe
+*.pdb
