@@ -1,7 +1,7 @@
 # Trime default style settings
 # encoding: utf-8
 
-config_version: "3.0"
+config_version: '3.0'
 name: 預設 #方案名稱
 author: osfans #作者資訊
 
@@ -28,7 +28,7 @@ style:
   label_font: label.ttf #編標籤字型
   latin_font: latin.ttf #西文字型
   latin_locale: en_US #西文語言
-  locale: zh_HK #預設語言 zh_TW,zh_CN,zh_HK,""
+  locale: zh_HK #預設語言 zh_TW,zh_CN,zh_HK,''
   preview_font: latin.ttf #按鍵提示字型
   proximity_correction: true #按鍵糾錯
   reset_ascii_mode: false #顯示鍵盤時重置爲中文狀態
@@ -196,9 +196,9 @@ preset_keys:
   Info: {label: 'Info', send: INFO}
   Menu: {label: 'Schema', send: Menu}
   Settings: {label: 'Settings', send: SETTINGS}
-  Color_settings: {label: 'Color', send: SETTINGS, option: "color"}
-  Theme_settings: {label: 'Theme', send: SETTINGS, option: "theme"}
-  Schema_settings: {label: 'Schema', send: SETTINGS, option: "schema"}
+  Color_settings: {label: 'Color', send: SETTINGS, option: 'color'}
+  Theme_settings: {label: 'Theme', send: SETTINGS, option: 'theme'}
+  Schema_settings: {label: 'Schema', send: SETTINGS, option: 'schema'}
 
 preset_keyboards:
   default:
@@ -244,7 +244,7 @@ preset_keyboards:
     - {click: Keyboard_symbols1, width: 15}
     - {click: IME_next, long_click: IME_switch}
     - {click: '，', ascii: ','}
-    - {click: space, width: 40, hint: "TypeDuck"}
+    - {click: space, width: 40, hint: 'TypeDuck'}
     - {click: '。', ascii: '.', has_menu: SeparateSyllable, extra: ['．', '｡', 'º', '°', '○', '◌', '◦']}
     - {click: Return, composing: Return1, width: 15}
 
@@ -270,21 +270,21 @@ preset_keyboards:
     - {click: '9', long_click: '９', extra: ['玖', '九', '㊈', '㈨', '➒', '⓽', '⑨', '⑼', '⒐', '⁹', '₉']}
     - {click: '0', long_click: '０', extra: ['零', '〇', '⓿', '⓪', '🄀', '⁰', '₀', '拾', '十', '㊉', '㈩', '➓', '⓾', '⑩', '⑽', '⒑']}
 
-    - {click: '@', long_click: '＠'}
-    - {click: '$', long_click: '＄', extra: ["￥", "￦", "￡", "￠", "₽", "€", "£", "₩", "¥", "¢", "¤"]}
+    - {click: '@', long_click: '＠', extra: ['©', '®', '℗', '™', '℠', '∅']}
+    - {click: '$', long_click: '＄', extra: ['￥', '￦', '￡', '￠', '₽', '€', '£', '₩', '¥', '¢', '¤']}
     - {click: '……', ascii: '…'}
-    - {click: '——', ascii: '-', extra: ["－", "‒", "―", "–", "—", "⁻", "₋"]}
-    - {click: '（', ascii: '(', extra: ['｟', '⸨', '⦅', '⁽', '₍']}
-    - {click: '）', ascii: ')', extra: ['｠', '⸩', '⦆', '⁾', '₎']}
-    - {click: '「', ascii: '｢', extra: ["『"]}
-    - {click: '」', ascii: '｣', extra: ["』"]}
-    - {click: '"', long_click: '＂', extra: ["〝", "〞", "〟", "〃", "″", "‟", "«", "»", "„", "“", "”"]}
-    - {click: "'", long_click: '＇', extra: ["′", "‛", "‹", "›", "‘", "’"]}
+    - {click: '——', ascii: '-', extra: ['－', '‒', '―', '–', '—', '⁻', '₋', '˧']}
+    - {click: '（', ascii: '(', extra: ['｟', '⸨', '⦅', '⁽', '₍', '͡']}
+    - {click: '）', ascii: ')', extra: ['｠', '⸩', '⦆', '⁾', '₎', '͡']}
+    - {click: '「', ascii: '｢', extra: ['『', '˥', '˦']}
+    - {click: '」', ascii: '｣', extra: ['』', '˩', '˨']}
+    - {click: '"', long_click: '＂', extra: ['〝', '〞', '〟', '〃', '″', '‟', '«', '»', '„', '“', '”']}
+    - {click: "'", long_click: '＇', extra: ['′', '‛', '‹', '›', '‘', '’', 'ʼ', 'ˌ', 'ˈ']}
 
     - {click: Keyboard_symbols2, width: 15}
-    - {click: '～', ascii: '~'}
-    - {click: '／', ascii: '/', extra: ['√', '∕', '÷']}
-    - {click: '：', ascii: ':'}
+    - {click: '～', ascii: '~', extra: ['﹏', '﹋']}
+    - {click: '／', ascii: '/', extra: ['√', '∕', '÷', 'ˊ', 'ˏ']}
+    - {click: '：', ascii: ':', extra: ['꞉', 'ː']}
     - {click: '；', ascii: ';'}
     - {click: '！', ascii: '!', extra: ['¡']}
     - {click: '？', ascii: '?', extra: ['¿']}
@@ -294,8 +294,8 @@ preset_keyboards:
     - {click: Keyboard_default, width: 15}
     - {click: IME_next, long_click: IME_switch}
     - {click: '，', ascii: ','}
-    - {click: space, width: 40, hint: "TypeDuck"}
-    - {click: '。', ascii: '.', extra: ['．', '｡', 'º', '°', '○', '◌', '◦']}
+    - {click: space, width: 40, hint: 'TypeDuck'}
+    - {click: '。', ascii: '.', extra: ['．', '｡']}
     - {click: Return, composing: Return1, width: 15}
 
   symbols2:
@@ -303,32 +303,32 @@ preset_keyboards:
     width: 10
     height: 44
     keys:
-    - {click: '`', long_click: '｀'}
-    - {click: '\', long_click: '＼'}
+    - {click: '`', long_click: '｀', extra: ['ˋ', 'ˎ']}
+    - {click: '\', long_click: '＼', extra: ['ˋ', 'ˎ']}
     - {click: '|', long_click: '｜', extra: ['¦']}
-    - {click: '#', long_click: '＃'}
+    - {click: '#', long_click: '＃', extra: ['♯', '♭', '♮']}
     - {click: '%', long_click: '％', extra: ['‱', '‰']}
-    - {click: '^', long_click: '＾', extra: ['↑', '↓']}
-    - {click: '&', long_click: '＆', extra: ["§", "¶"]}
+    - {click: '^', long_click: '＾', extra: ['ˆ', 'ˇ', '↑', '↓']}
+    - {click: '&', long_click: '＆', extra: ['§', '¶']}
     - {click: '*', long_click: '＊', extra: ['※', '✗', '✓', '×']}
     - {click: '+', long_click: '＋', extra: ['∓', '±', '⁺', '₊']}
-    - {click: '=', long_click: '＝', extra: ["≅", "≒", "≠", "≈", "⁼", "₌"]}
+    - {click: '=', long_click: '＝', extra: ['≡', '≅', '≒', '≠', '≈', '⁼', '₌']}
 
-    - {click: '_', long_click: '＿'}
+    - {click: '_', long_click: '＿', extra: ['‾', '￣', 'ˍ', 'ˉ']}
     - {click: '［', ascii: '[', extra: ['〚', '【', '〖', '〘', '〔']}
     - {click: '］', ascii: ']', extra: ['〛', '】', '〗', '〙', '〕']}
     - {click: '｛', ascii: '{', extra: ['⦃']}
     - {click: '｝', ascii: '}', extra: ['⦄']}
     - {click: '〈', ascii: '<', extra: ['＜', '⫹', '≦', '⩽', '≤', '〈', '‹', '↔', '←']}
     - {click: '〉', ascii: '>', extra: ['＞', '⫺', '≧', '⩾', '≥', '〉', '›', '↔', '→']}
-    - {click: '《', ascii: '«', extra: ['⇔', '⇒']}
-    - {click: '》', ascii: '»', extra: ['⇔', '⇐']}
-    - {click: '·', extra: ['‣', '◦', '•']}
+    - {click: '《', ascii: '«', extra: ['⇔', '⇐']}
+    - {click: '》', ascii: '»', extra: ['⇔', '⇒']}
+    - {click: '·', ascii: '•', extra: ['‣', '◦', '°', '○', '◌', '◦']}
 
     - {click: Keyboard_symbols1, width: 15}
-    - {click: '～', ascii: '~'}
-    - {click: '／', ascii: '/', extra: ['√', '∕', '÷']}
-    - {click: '：', ascii: ':'}
+    - {click: '～', ascii: '~', extra: ['﹏', '﹋']}
+    - {click: '／', ascii: '/', extra: ['√', '∕', '÷', 'ˊ', 'ˏ']}
+    - {click: '：', ascii: ':', extra: ['꞉', 'ː']}
     - {click: '；', ascii: ';'}
     - {click: '！', ascii: '!', extra: ['¡']}
     - {click: '？', ascii: '?', extra: ['¿']}
@@ -338,8 +338,8 @@ preset_keyboards:
     - {click: Keyboard_default, width: 15}
     - {click: IME_next, long_click: IME_switch}
     - {click: '，', ascii: ','}
-    - {click: space, width: 40, hint: "TypeDuck"}
-    - {click: '。', ascii: '.', extra: ['．', '｡', 'º', '°', '○', '◌', '◦']}
+    - {click: space, width: 40, hint: 'TypeDuck'}
+    - {click: '。', ascii: '.', extra: ['．', '｡']}
     - {click: Return, composing: Return1, width: 15}
 
   number:
