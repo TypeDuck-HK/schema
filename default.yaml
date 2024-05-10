@@ -1,22 +1,22 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: "2024.03.31"
+config_version: "2024.05.10"
 
 schema_list:
   - schema: jyut6ping3
 
 switcher:
-  caption: "[Schema Menu]"
+  caption: "快捷選項 Options Menu"
   hotkeys:
     - Control+grave
     - Control+Shift+grave
     - F4
   save_options:
     - full_shape
-    - simplification
     - ascii_punct
   option_list_separator: " / "
+  hide_lone_schema: true
 
 menu:
   page_size: 6
