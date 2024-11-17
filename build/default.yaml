@@ -1,7 +1,7 @@
 __build_info:
   rime_version: 1.8.5
   timestamps:
-    default: 1712040292
+    default: 1731826468
     default.custom: 1712037218
 ascii_composer:
   good_old_caps_lock: true
@@ -12,7 +12,7 @@ ascii_composer:
     Eisu_toggle: clear
     Shift_L: noop
     Shift_R: noop
-config_version: 2024.03.31
+config_version: 2024.05.10
 key_binder:
   bindings:
     - {accept: "Control+p", send: Up, when: composing}
@@ -166,7 +166,8 @@ schema_list:
   - schema: cangjie3
   - schema: cangjie5
 switcher:
-  caption: "[Schema Menu]"
+  caption: "快捷選項 Options Menu"
+  hide_lone_schema: true
   hotkeys:
     - "Control+grave"
     - "Control+Shift+grave"
@@ -174,5 +175,4 @@ switcher:
   option_list_separator: " / "
   save_options:
     - full_shape
-    - simplification
     - ascii_punct
