@@ -33,7 +33,6 @@ sort: by_weight
 max_phrase_length: 1
 ...
 
-〇	ling
 ㄓ	zhi
 ㄔ	chi
 ㄕ	shi
@@ -33027,6 +33026,7 @@ max_phrase_length: 1
 𡐖	xian
 𡐤	qie
 𡐿	da
+𡑍	lao
 𡒊	yu
 𡒯	meng
 𡓔	lan
@@ -33865,6 +33865,7 @@ max_phrase_length: 1
 𪘲	yi
 𪙊	yan
 𪙛	ni
+𪚥	zhe
 𪾢	xian
 𫄨	chi
 𫄸	xun
@@ -34250,3 +34251,4 @@ max_phrase_length: 1
 鶫	dong
 𦛨	lao
 𬌗	he
+𰻞	biang

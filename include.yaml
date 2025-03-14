@@ -72,11 +72,11 @@ lv2_lower:
 
 tone_ignore:
   __append:
-    - derive/\d//                 # 忽略聲調
+    - derive/[1-6]//              # 忽略聲調
 
 tone_removal:
   __append:
-    - xform/\d//                  # 移除聲調
+    - xform/[1-6]//               # 移除聲調
 
 abbreviation:
   __append:
@@ -101,6 +101,30 @@ letter_to_10keys:
     - derive/[p-s]/P/
     - derive/[t-v]/T/
     - derive/[w-z]/W/
+
+# ---------------------------------------------------------
+
+# for jyut6ping3_mobile_initial_final.schema.yaml
+
+replace_initial_digraph:
+  __append:
+    - xform/^gw/G/
+    - xform/^kw/K/
+    - xform/^ng(?!\d)/N/
+
+enclose_syllable:
+  __append:
+    - xform/^([GKNbcdfghjklmnpstwz]?)([aeimnouy]\D*)/${1}9${2}0/
+
+any_initial:
+  __append:
+    - derive/^.?(?=9)/X/
+
+abbreviation_initial_tone:
+  __append:
+    - abbrev/^(.)9.+$/$1/
+    - abbrev/^.+([1-6])$/$1/
+    - abbrev/^(.)9.+([1-6])$/$1$2/
 
 # ---------------------------------------------------------
 

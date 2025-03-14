@@ -1,0 +1,30 @@
+# Rime schema
+# encoding: utf-8
+
+__include: template:/
+
+schema:
+  schema_id: jyut6ping3_mobile_initial_final
+  name: 粵語拼音（聲韻鍵盤）
+
+menu:
+  __patch: include:/no_candidate_selection
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcbaXNKG96543210
+  algebra:
+    __patch:
+      - include:/replace_initial_digraph
+      - include:/enclose_syllable
+      - include:/any_initial
+      - include:/tone_ignore
+      - include:/abbreviation_initial_tone
+
+translator:
+  prism: jyut6ping3_mobile_initial_final
+  enable_completion: false
+
+__patch:
+  - common:/disable_sentence?
+  - common:/disable_learning?
+  - common:/separate_candidates?

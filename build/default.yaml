@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     default: 1731826468
-    default.custom: 1712037218
+    default.custom: 1739972229
 ascii_composer:
   good_old_caps_lock: true
   switch_key:
@@ -159,6 +159,7 @@ schema_list:
   - schema: jyut6ping3_mobile
   - schema: jyut6ping3_mobile_longpress
   - schema: jyut6ping3_mobile_10keys
+  - schema: jyut6ping3_mobile_initial_final
   - schema: jyut6ping3_scolar
   - schema: luna_pinyin
   - schema: loengfan

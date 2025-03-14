@@ -6,6 +6,7 @@ patch:
     - schema: jyut6ping3_mobile
     - schema: jyut6ping3_mobile_longpress
     - schema: jyut6ping3_mobile_10keys
+    - schema: jyut6ping3_mobile_initial_final
     - schema: jyut6ping3_scolar
     - schema: luna_pinyin
     - schema: loengfan
