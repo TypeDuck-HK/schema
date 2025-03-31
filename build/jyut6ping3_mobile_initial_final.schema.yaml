@@ -7,7 +7,7 @@ __build_info:
     default.custom: 1739972229
     include: 1741963851
     include.custom: 0
-    jyut6ping3_mobile_initial_final.schema: 1741963851
+    jyut6ping3_mobile_initial_final.schema: 1743448152
     template: 1699210382
     template.custom: 0
 dictionary_lookup_filter:
@@ -207,11 +207,11 @@ speller:
     - "xform/^kw/K/"
     - "xform/^ng(?!\\d)/N/"
     - "xform/^([GKNbcdfghjklmnpstwz]?)([aeimnouy]\\D*)/${1}9${2}0/"
-    - "derive/^.?(?=9)/X/"
     - "derive/[1-6]//"
     - "abbrev/^(.)9.+$/$1/"
     - "abbrev/^.+([1-6])$/$1/"
     - "abbrev/^(.)9.+([1-6])$/$1$2/"
+    - "derive/^.?(?=9)/X/"
   alphabet: zyxwvutsrqponmlkjihgfedcbaXNKG96543210
   delimiter: " '"
 switches:
