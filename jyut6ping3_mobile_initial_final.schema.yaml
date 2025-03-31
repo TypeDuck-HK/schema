@@ -16,9 +16,9 @@ speller:
     __patch:
       - include:/replace_initial_digraph
       - include:/enclose_syllable
-      - include:/any_initial
       - include:/tone_ignore
       - include:/abbreviation_initial_tone
+      - include:/any_initial  # Abbreviation of the initial wildcard is not permissible as it causes performance issues. This line is thus included after the abbreviation lines.
 
 translator:
   prism: jyut6ping3_mobile_initial_final
