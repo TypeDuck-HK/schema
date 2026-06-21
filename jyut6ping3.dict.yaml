@@ -3,7 +3,7 @@
 name: jyut6ping3
 version: "2026.06.20"
 sort: by_weight
-vocabulary: essay-cantonese
+use_preset_vocabulary: true
 ...
 
 㝞	aa1	100.0%
