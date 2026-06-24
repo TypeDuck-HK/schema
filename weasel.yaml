@@ -97,38 +97,78 @@ preset_color_schemes:
     name: TypeDuck
     author: TypeDuck Team
 
-    prevpage_color: 0xfffa820a
-    nextpage_color: 0xfffa820a
-    disabled_prevpage_color: 0xffb7b7b7
-    disabled_nextpage_color: 0xffb7b7b7
-    border_color: 0xdddddd
-    hilited_mark_color: 0xfa820a
+    prevpage_color: 0xff00609b
+    nextpage_color: 0xff00609b
+    disabled_prevpage_color: 0xffadb7bd
+    disabled_nextpage_color: 0xffadb7bd
+    border_color: 0xffcfd9de
+    hilited_mark_color: 0xff9cdcfe
 
-    label_color: 0x69584b
-    hint_text_color: 0x755943
-    candidate_text_color: 0x351600
-    comment_text_color: 0x78522f
+    label_color: 0xff4b565e
+    hint_text_color: 0xff2c5069
+    candidate_text_color: 0xff252728
+    comment_text_color: 0xff344c61
 
-    hilited_label_color: 0xfff0e5
-    hilited_hint_text_color: 0xffe6d4
-    hilited_candidate_text_color: 0xfffbf8
-    hilited_comment_text_color: 0xffe1ca
+    hilited_label_color: 0xff4b565e
+    hilited_hint_text_color: 0xff2c5069
+    hilited_candidate_text_color: 0xff252728
+    hilited_comment_text_color: 0xff344c61
 
-    text_color: 0x000000
-    back_color: 0xfafafa
+    text_color: 0xff252728
+    back_color: 0xffffffff
     shadow_color: 0x00000000
 
-    hilited_text_color: 0x7d4105
-    hilited_back_color: 0xffe3c7
+    hilited_text_color: 0xff2a3a46
+    hilited_back_color: 0xffd8eaf6
     hilited_shadow_color: 0x00000000
 
-    candidate_back_color: 0xfafafa
+    candidate_back_color: 0xffffffff
     candidate_shadow_color: 0x00000000
     candidate_border_color: 0x00000000
 
-    hilited_candidate_back_color: 0xfa820a
+    hilited_candidate_back_color: 0xff9cdcfe
     hilited_candidate_shadow_color: 0x00000000
     hilited_candidate_border_color: 0x00000000
 
     dictionary_panel:
-      pos_border_color: 0xffffc387
+      pos_border_color: 0xa62c5069
+
+  dark:
+    name: TypeDuck Dark
+    author: TypeDuck Team
+
+    prevpage_color: 0xff57b5e7
+    nextpage_color: 0xff57b5e7
+    disabled_prevpage_color: 0xff687176
+    disabled_nextpage_color: 0xff687176
+    border_color: 0xff3c4750
+    hilited_mark_color: 0xff275472
+
+    label_color: 0xffbdd0da
+    hint_text_color: 0xffa3dffb
+    candidate_text_color: 0xffe9f8ff
+    comment_text_color: 0xffc5ebfb
+
+    hilited_label_color: 0xffbdd0da
+    hilited_hint_text_color: 0xffa3dffb
+    hilited_candidate_text_color: 0xffe9f8ff
+    hilited_comment_text_color: 0xffc5ebfb
+
+    text_color: 0xffe9f8ff
+    back_color: 0xff151718
+    shadow_color: 0x00000000
+
+    hilited_text_color: 0xffc2f0ff
+    hilited_back_color: 0xff243b4d
+    hilited_shadow_color: 0x00000000
+
+    candidate_back_color: 0xff151718
+    candidate_shadow_color: 0x00000000
+    candidate_border_color: 0x00000000
+
+    hilited_candidate_back_color: 0xff275472
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_candidate_border_color: 0x00000000
+
+    dictionary_panel:
+      pos_border_color: 0xa6a3dffb
