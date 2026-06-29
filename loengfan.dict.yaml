@@ -11,7 +11,6 @@ name: loengfan
 version: "2022.03.03"
 sort: by_weight
 use_preset_vocabulary: true
-max_phrase_length: 1
 ...
 
 一	jat1

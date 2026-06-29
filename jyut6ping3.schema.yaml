@@ -10,8 +10,11 @@ schema:
     - jyut6ping3_scolar
     - luna_pinyin
     - loengfan
+    - stroke
     - cangjie3
     - cangjie5
+    - quick3
+    - quick5
 
 engine:
   segmentors:
@@ -19,7 +22,9 @@ engine:
     - matcher
     - affix_segmentor@luna_pinyin
     - affix_segmentor@loengfan
+    - affix_segmentor@stroke
     - affix_segmentor@cangjie
+    - affix_segmentor@quick
     - affix_segmentor@reverse_lookup
     - abc_segmentor
     - punct_segmentor
@@ -29,7 +34,9 @@ engine:
     - script_translator
     - script_translator@luna_pinyin
     - script_translator@loengfan
+    - table_translator@stroke
     - table_translator@cangjie
+    - script_translator@quick
 
 translator:
   __patch: include:/letter_to_tone
@@ -71,6 +78,22 @@ loengfan:
   comment_format:
     - xform/^/\v/
 
+stroke:
+  tag: stroke
+  dictionary: stroke
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  prefix: "`b"
+  suffix: ";"
+  tips: 〔筆畫〕
+  comment_format:
+    - xform/^/\v/
+    - xform/~//
+    - xlit/hspnz/一丨丿丶乙/
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+
 cangjie:
   tag: cangjie
   dictionary: cangjie5
@@ -88,11 +111,30 @@ cangjie:
     - common:/show_cangjie_roots?
     - common:/show_full_code?
 
+quick:
+  tag: quick
+  dictionary: quick5
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  always_show_comments: true
+  prefix: "`q"
+  suffix: ";"
+  tips: 〔速成五代〕
+  comment_format:
+    - 'xform/^/\v/'
+    - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
+  __patch:
+    - common:/use_quick3?
+    - common:/show_cangjie_roots?
+
 recognizer:
   patterns:
     luna_pinyin: "^`p[a-z']*;?$"
     loengfan: "^`l[a-z']*;?$"
+    stroke: "^`b[a-z']*;?$"
     cangjie: "^`c[a-z']*;?$"
+    quick: "^`q[a-z']*;?$"
     reverse_lookup: "^`[a-z']*;?$"
 
 __patch:

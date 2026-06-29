@@ -1,0 +1,12 @@
+# Rime schema
+# encoding: utf-8
+
+__include: quick5.schema:/
+
+schema:
+  schema_id: quick3
+  name: 速成三代
+
+translator:
+  dictionary: quick3
+  prism: quick3
