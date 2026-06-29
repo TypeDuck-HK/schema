@@ -1,0 +1,50 @@
+name: Release
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    uses: ./.github/workflows/build.yml
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Latest Commit
+        uses: actions/checkout@v4
+        with:
+          filter: blob:none
+
+      - name: Tag the Latest Commit
+        run: |
+          git tag -f latest
+          git push -f origin latest
+
+      - name: Download Artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+
+          found=false
+          while IFS= read -r -d '' zipfile; do
+            found=true
+            gh release upload latest "$zipfile" --clobber
+          done < <(find artifacts -name "*.zip" -print0)
+
+          if [ "$found" = false ]; then
+            echo "No .zip artifacts were downloaded." >&2
+            exit 1
+          fi
