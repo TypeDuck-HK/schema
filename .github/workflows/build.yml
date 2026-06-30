@@ -1,8 +1,9 @@
 name: Build
 
 on:
-  workflow_call:
   workflow_dispatch:
+  workflow_call:
+  pull_request:
 
 permissions:
   contents: read
