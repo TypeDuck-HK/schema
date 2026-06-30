@@ -11,7 +11,10 @@ patch:
     - schema: luna_pinyin
     - schema: loengfan
     - schema: loengfan_longpress
+    - schema: stroke
     - schema: cangjie3
     - schema: cangjie5
+    - schema: quick3
+    - schema: quick5
   menu:
     page_size: 50

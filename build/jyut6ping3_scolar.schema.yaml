@@ -1,10 +1,10 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.1.4
   timestamps:
-    default: 1731826468
-    default.custom: 1739972229
+    default: 1782779665
+    default.custom: 1782779665
     jyut6ping3_scolar.custom: 0
-    jyut6ping3_scolar.schema: 1699210382
+    jyut6ping3_scolar.schema: 1782779665
 engine:
   processors:
     - ascii_composer

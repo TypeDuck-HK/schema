@@ -9,11 +9,11 @@
 # 相關項目：倉頡五代補完計畫
 # 專案網址：https://github.com/Jackchows/Cangjie5
 #
+
 ---
-name: cangjie3
-version: "2018.01.01"
+name: "cangjie3"
+version: "2018"
 sort: original
-max_phrase_length: 1
 ...
 
 日	a
@@ -1247,6 +1247,7 @@ max_phrase_length: 1
 覐	bukk
 睎	bukkb
 眱	bukn
+鿃	bukoo
 瞜	bulav
 眏	bulbk
 眈	bulbu
@@ -1942,6 +1943,7 @@ max_phrase_length: 1
 錀	comb
 鋲	comc
 銓	comg
+銋	comg
 鈴	coml
 鍮	comn
 鐱	como
@@ -2446,6 +2448,7 @@ max_phrase_length: 1
 麫	demys
 麧	deon
 麴	depfd
+龾	depfd
 皰	depru
 麭	depru
 皰	depsu
@@ -2763,6 +2766,7 @@ max_phrase_length: 1
 枷	dksr
 檶	dksr
 栛	dkss
+橬	dkua
 束	dl
 晳	dla
 樓	dlav
@@ -3316,6 +3320,7 @@ max_phrase_length: 1
 楐	dwol
 榲	dwot
 楒	dwp
+鿝	dwsb
 樏	dwvf
 欙	dwwf
 櫑	dwww
@@ -3885,6 +3890,7 @@ max_phrase_length: 1
 瀚	ejjm
 漧	ejjn
 瀭	ejjn
+鿰	ejjs
 瀭	ejjv
 渚	ejka
 涍	ejkd
@@ -3925,6 +3931,7 @@ max_phrase_length: 1
 洧	ekb
 鋈	ekc
 潦	ekcf
+鿄	ekd
 洃	ekf
 潴	ekha
 漪	ekhr
@@ -4006,6 +4013,7 @@ max_phrase_length: 1
 瀜	embi
 渜	embk
 洏	embl
+澪	embl
 灀	embu
 溍	emca
 酒	emcw
@@ -4522,6 +4530,7 @@ max_phrase_length: 1
 滭	ewtj
 漯	ewvf
 灅	ewwg
+鿌	eyaf
 淖	eyaj
 渧	eybb
 濄	eybb
@@ -5038,6 +5047,7 @@ max_phrase_length: 1
 烤	fjks
 煊	fjmm
 烷	fjmu
+焥	fjnp
 焥	fjnu
 炨	fjp
 烧	fjpu
@@ -5142,6 +5152,7 @@ max_phrase_length: 1
 燈	fnot
 揱	fnq
 炀	fnsh
+龽	fnwf
 尐	fo
 烌	fod
 雀	fog
@@ -5582,6 +5593,7 @@ max_phrase_length: 1
 城	gihs
 叝	gihse
 墋	giih
+鿾	giil
 埔	gijb
 坺	gike
 坺	gikk
@@ -5618,6 +5630,7 @@ max_phrase_length: 1
 墌	gitf
 鞤	gitlj
 縶	givif
+鿾	givl
 塶	gixp
 褺	giyhv
 謺	giymr
@@ -6017,6 +6030,7 @@ max_phrase_length: 1
 壠	gybp
 塝	gybs
 盐	gybt
+龼	gybu
 墑	gycb
 墒	gycb
 塆	gycn
@@ -6373,6 +6387,8 @@ max_phrase_length: 1
 籟	hdlc
 利	hdln
 剁	hdln
+鿠	hdlnb
+鿟	hdlnf
 籁	hdlo
 簌	hdlo
 乘	hdlp
@@ -6594,6 +6610,7 @@ max_phrase_length: 1
 鸌	hftoe
 媝	hfv
 鵦	hfvne
+箪	hfwj
 鷻	hfydk
 壬	hg
 皩	hgafu
@@ -6676,6 +6693,7 @@ max_phrase_length: 1
 躱	hhnsd
 鯬	hhnwf
 黎	hhoe
+鿯	hhofd
 篽	hhol
 筕	hhon
 簁	hhoo
@@ -6731,6 +6749,7 @@ max_phrase_length: 1
 鵝	hihaf
 鵞	hihaf
 鴟	hihaf
+簾	hihc
 鬽	hihhh
 鬿	hihml
 犩	hihq
@@ -7609,6 +7628,8 @@ max_phrase_length: 1
 笖	hvio
 鼵	hvjck
 鼧	hvjp
+鿻	hvklb
+鿼	hvksr
 鼬	hvlw
 鼯	hvmmr
 鼫	hvmr
@@ -7850,6 +7871,7 @@ max_phrase_length: 1
 郙	ibnl
 鄘	ibnl
 贠	ibo
+鿿	iboe
 能	ibpp
 喸	ibrp
 廫	ibsh
@@ -7973,6 +7995,7 @@ max_phrase_length: 1
 祙	ifjd
 禇	ifjka
 祜	ifjr
+鿆	ifke
 祐	ifkr
 祌	ifl
 祧	iflmo
@@ -7980,7 +8003,9 @@ max_phrase_length: 1
 神	iflwl
 应	ifm
 顣	ifmbc
+鿅	ifmbi
 禫	ifmbj
+鿅	ifmbl
 禰	ifmfb
 祍	ifmg
 祬	ifmig
@@ -8139,6 +8164,7 @@ max_phrase_length: 1
 疒	iim
 氵	iim
 郎	iinl
+鿥	iinlb
 欴	iino
 辶	iino
 腐	iiobo
@@ -8232,6 +8258,7 @@ max_phrase_length: 1
 冰	ime
 冸	imfq
 凌	imgce
+鿛	imgeb
 凟	imgwc
 冼	imhgu
 庢	imig
@@ -8246,6 +8273,7 @@ max_phrase_length: 1
 冿	imlq
 凞	imluf
 冮	imm
+鿑	immgi
 冽	immnn
 廲	immp
 冴	immvh
@@ -8461,7 +8489,9 @@ max_phrase_length: 1
 度	ite
 庶	itf
 鴘	ithaf
+鿮	itjb
 席	itlb
+鿮	itlb
 廣	itlc
 廑	itlm
 廣	itmc
@@ -8558,6 +8588,7 @@ max_phrase_length: 1
 讯	ivnj
 诞	ivnkv
 郞	ivnl
+鿥	ivnlb
 诡	ivnmu
 欴	ivno
 谞	ivnob
@@ -8916,6 +8947,7 @@ max_phrase_length: 1
 輘	jjgce
 轖	jjgow
 轅	jjgrv
+鿂	jjhaf
 輈	jjhby
 轓	jjhdw
 輅	jjher
@@ -9147,6 +9179,7 @@ max_phrase_length: 1
 富	jmrw
 翧	jmsmm
 家	jmso
+寕	jmtn
 寶	jmuc
 寇	jmue
 宼	jmuv
@@ -9854,6 +9887,7 @@ max_phrase_length: 1
 瘨	kpbc
 帶	kpblb
 慸	kpblp
+癲	kpcc
 癡	kpko
 疪	kpp
 痀	kpr
@@ -10265,6 +10299,7 @@ max_phrase_length: 1
 蝸	libbr
 蠳	libcv
 蛶	libdi
+蛧	libee
 蜩	libgr
 蟡	libhf
 览	libhu
@@ -11323,6 +11358,7 @@ max_phrase_length: 1
 禇	mfjka
 祜	mfjr
 奀	mfk
+鿆	mfke
 祐	mfkr
 勡	mfks
 祌	mfl
@@ -11333,7 +11369,9 @@ max_phrase_length: 1
 丕	mfm
 願	mfmbc
 顠	mfmbc
+鿅	mfmbi
 禫	mfmbj
+鿅	mfmbl
 禰	mfmfb
 厵	mfmff
 祍	mfmg
@@ -11425,6 +11463,7 @@ max_phrase_length: 1
 瓓	mganw
 琨	mgapp
 琶	mgau
+鿱	mgau
 珢	mgav
 璟	mgayf
 琝	mgayk
@@ -11442,6 +11481,7 @@ max_phrase_length: 1
 珲	mgbkq
 珇	mgbm
 瑗	mgbme
+瑶	mgbmu
 琈	mgbnd
 赝	mgbo
 瑤	mgbou
@@ -12031,6 +12071,7 @@ max_phrase_length: 1
 殨	mnlmc
 蛩	mnlmi
 列	mnln
+鿞	mnlnb
 肂	mnlq
 瓸	mnma
 頂	mnmbc
@@ -12064,7 +12105,6 @@ max_phrase_length: 1
 可	mnr
 殞	mnrbc
 殒	mnrbo
-哥	mnrr
 殫	mnrrj
 跫	mnryo
 聓	mnsj
@@ -12334,6 +12374,7 @@ max_phrase_length: 1
 砺	mrmms
 矴	mrmn
 砢	mrmnr
+哥	mrmnr
 碔	mrmpm
 砳	mrmr
 磊	mrmrr
@@ -12483,6 +12524,7 @@ max_phrase_length: 1
 碌	mrvne
 碯	mrvvw
 畐	mrw
+鿬	mrw
 硱	mrwd
 碅	mrwhd
 礋	mrwlj
@@ -12564,6 +12606,7 @@ max_phrase_length: 1
 雃	mtog
 憇	mtp
 揅	mtq
+鿲	mttbs
 豏	mttxc
 厥	mtuo
 厲	mtwb
@@ -12690,6 +12733,7 @@ max_phrase_length: 1
 醰	mwmbj
 醽	mwmbr
 酑	mwmd
+鿨	mwmfb
 酐	mwmj
 酬	mwmll
 畺	mwmm
@@ -12780,6 +12824,7 @@ max_phrase_length: 1
 弓	n
 亅	n
 免	nahu
+鿩	namfb
 象	napo
 色	nau
 弝	nau
@@ -12980,6 +13025,7 @@ max_phrase_length: 1
 鯓	nfhxh
 鯢	nfhxu
 鯽	nfhyl
+鿳	nfhyp
 鯦	nfhyr
 鮻	nfice
 鰰	nfifl
@@ -13348,6 +13394,7 @@ max_phrase_length: 1
 陎	nlhjd
 隀	nlhjg
 陲	nlhjm
+鿧	nlhmb
 阺	nlhpm
 隖	nlhrf
 阼	nlhs
@@ -13491,6 +13538,7 @@ max_phrase_length: 1
 鲗	nmbon
 鳐	nmbou
 彚	nmbwd
+鿕	nmby
 弙	nmd
 檃	nmd
 鲏	nmdhe
@@ -13506,6 +13554,7 @@ max_phrase_length: 1
 彛	nmfht
 鲮	nmgce
 鲑	nmgg
+鿵	nmgp
 鲒	nmgr
 鲌	nmha
 鳈	nmhae
@@ -13514,6 +13563,7 @@ max_phrase_length: 1
 鳅	nmhdf
 鲦	nmhed
 骆	nmher
+鿴	nmhey
 骝	nmhhw
 鳤	nmhjr
 骄	nmhkl
@@ -13522,6 +13572,8 @@ max_phrase_length: 1
 鲧	nmhvf
 骢	nmhwp
 鲵	nmhxu
+鿸	nmhyp
+鿶	nmiav
 骏	nmice
 鲅	nmike
 骖	nmikh
@@ -13541,6 +13593,7 @@ max_phrase_length: 1
 驼	nmjp
 鳍	nmjpa
 骁	nmjpu
+鿹	nmjpu
 鲼	nmjto
 驮	nmk
 鲔	nmkb
@@ -13652,6 +13705,7 @@ max_phrase_length: 1
 鲸	nmyrf
 骧	nmyrv
 鲈	nmys
+鿷	nmyta
 骍	nmytj
 骇	nmyvo
 鳣	nmywm
@@ -14524,6 +14578,7 @@ max_phrase_length: 1
 龠	omrb
 命	omrl
 翕	omrm
+鿖	omrm
 僉	omro
 龕	omrp
 龛	omrp
@@ -14583,6 +14638,7 @@ max_phrase_length: 1
 氮	onff
 鳹	onhaf
 僪	onhb
+鿫	onhbk
 伋	onhe
 氡	onhem
 氡	onhey
@@ -14653,6 +14709,7 @@ max_phrase_length: 1
 傖	ooir
 仵	ooj
 俢	ookh
+鿗	ookm
 倁	ookr
 伤	ooks
 价	ooll
@@ -14842,6 +14899,7 @@ max_phrase_length: 1
 钶	opmnr
 倾	opmo
 镉	opmrb
+鿔	opmrr
 钘	opmt
 铔	opmtc
 铏	opmtn
@@ -14853,6 +14911,7 @@ max_phrase_length: 1
 钇	opn
 铯	opnau
 锰	opndt
+鿭	opnf
 钮	opng
 钑	opnhe
 铭	opnir
@@ -15054,6 +15113,9 @@ max_phrase_length: 1
 伛	osk
 仭	osk
 侰	oskr
+鿘	oskr
+鿚	oskr
+鿙	osku
 仺	osm
 侵	osme
 偓	osmg
@@ -15270,6 +15332,7 @@ max_phrase_length: 1
 餣	oyklv
 俲	oyks
 勄	oyks
+伂	oylb
 企	oylm
 饋	oylmc
 蝕	oylmi
@@ -15478,6 +15541,7 @@ max_phrase_length: 1
 惓	pfqu
 慻	pfqu
 悩	pfuk
+惮	pfwj
 懗	pgcc
 恃	pgdi
 憢	pggu
@@ -16091,6 +16155,7 @@ max_phrase_length: 1
 麺	qemwl
 摊	qeog
 麹	qepfd
+鿺	qepym
 择	qeq
 麸	qeqo
 捎	qfb
@@ -16899,6 +16964,7 @@ max_phrase_length: 1
 揓	qysd
 拉	qyt
 揞	qyta
+鿜	qytb
 撞	qytg
 掊	qytr
 摬	qytu
@@ -17176,6 +17242,7 @@ max_phrase_length: 1
 囔	rjbv
 噾	rjca
 啌	rjcm
+鿽	rjcs
 味	rjd
 嘋	rjdk
 吱	rje
@@ -18442,6 +18509,9 @@ max_phrase_length: 1
 聸	sjncr
 孹	sjnd
 耶	sjnl
+鿢	sjnlr
+鿤	sjnlr
+鿣	sjnlu
 聧	sjnok
 聄	sjohh
 聆	sjoii
@@ -18663,6 +18733,7 @@ max_phrase_length: 1
 邔	sunl
 改	suok
 忌	sup
+匩	suqm
 异	sut
 巽	sutc
 屈	suu
@@ -18710,7 +18781,6 @@ max_phrase_length: 1
 暮	taka
 幕	takb
 驀	takf
-繤	takf
 墓	takg
 蟇	taki
 蓦	takm
@@ -19416,6 +19486,7 @@ max_phrase_length: 1
 莥	tkhg
 藱	tkhi
 获	tkhk
+鿦	tkhok
 莸	tkhu
 蕕	tkhw
 葢	tkit
@@ -19450,6 +19521,7 @@ max_phrase_length: 1
 茄	tksr
 荔	tkss
 荚	tkt
+莽	tkt
 警	tkymr
 丗	tl
 蔞	tlav
@@ -19492,6 +19564,7 @@ max_phrase_length: 1
 普	tma
 荁	tmam
 薷	tmbb
+鿓	tmbc
 虉	tmbf
 藿	tmbg
 觐	tmbhu
@@ -19500,6 +19573,7 @@ max_phrase_length: 1
 蕈	tmbj
 荋	tmbl
 蕶	tmbl
+鿒	tmbo
 虂	tmbr
 蘦	tmbr
 蘎	tmbu
@@ -19677,6 +19751,7 @@ max_phrase_length: 1
 雈	tog
 蒦	toge
 蕉	togf
+龿	togg
 囏	togrr
 舊	togx
 鸏	tohaf
@@ -19889,6 +19964,7 @@ max_phrase_length: 1
 藖	tsec
 蘙	tsem
 藂	tseo
+鿀	tsew
 蔚	tsfi
 芀	tsh
 萯	tshc
@@ -20539,7 +20615,6 @@ max_phrase_length: 1
 嶬	utgi
 豔	utgit
 嵄	utgk
-巕	uthd
 嵯	uthm
 嵳	uthm
 凱	uthn
@@ -21883,6 +21958,7 @@ max_phrase_length: 1
 墨	wgfg
 畦	wgg
 圔	wgit
+鿡	wgmfb
 疇	wgni
 野	wgnin
 園	wgrv
@@ -22577,6 +22653,7 @@ max_phrase_length: 1
 賌	yobuc
 褒	yodv
 迩	yof
+鿪	yof
 進	yog
 颦	yohhj
 毅	yohne
@@ -23059,6 +23136,7 @@ max_phrase_length: 1
 譪	yrtav
 謭	yrtbh
 譾	yrtbm
+鿁	yrtc
 譜	yrtca
 謚	yrtct
 議	yrtgi
@@ -23615,6 +23693,7 @@ max_phrase_length: 1
 鋡	xcoir
 鉓	xcolb
 錀	xcomb
+銋	xcomg
 鈋	xcop
 鈎	xcpi
 兑	xcrhu
@@ -23651,6 +23730,7 @@ max_phrase_length: 1
 檒	xddhn
 榃	xddw
 麨	xdefh
+龾	xdepf
 麭	xdepr
 麭	xdeps
 檆	xdffr
@@ -24116,6 +24196,7 @@ max_phrase_length: 1
 扁	xisbt
 髙	xislb
 弁	xit
+鿮	xitlb
 凞	xiuf
 讹	xivop
 诣	xivpa
@@ -24264,6 +24345,7 @@ max_phrase_length: 1
 祤	xmfsm
 祵	xmfwd
 壬	xmg
+鿱	xmgau
 玥	xmgb
 瑷	xmgbb
 瑶	xmgbo
@@ -24327,10 +24409,12 @@ max_phrase_length: 1
 砿	xmrii
 硥	xmrik
 碽	xmrmb
+哥	xmrmn
 舙	xmrmr
 酃	xmrnl
 砍	xmrno
 礟	xmrsf
+鿬	xmrw
 鿎	xmryk
 戸	xms
 劢	xmsks
@@ -24373,6 +24457,7 @@ max_phrase_length: 1
 鲹	xnmik
 鲐	xnmir
 鳊	xnmis
+鿹	xnmjp
 骕	xnmll
 鳉	xnmlm
 鲡	xnmmb
@@ -24452,6 +24537,7 @@ max_phrase_length: 1
 侴	xomnn
 欫	xomno
 佦	xomr
+鿖	xomrm
 龛	xomrp
 搻	xomrq
 弇	xomrt
@@ -24495,6 +24581,7 @@ max_phrase_length: 1
 翖	xorsm
 敆	xorye
 伛	xosk
+鿘	xoskr
 僛	xotco
 僙	xotmc
 仚	xou
@@ -24698,6 +24785,7 @@ max_phrase_length: 1
 鐾	xsjc
 鵈	xsjha
 聎	xsjlm
+鿤	xsjnl
 憵	xsjp
 聮	xsjvi
 聨	xsjvi
@@ -24719,7 +24807,6 @@ max_phrase_length: 1
 已	xsu
 煕	xsuf
 妀	xsuv
-繤	xtakf
 蓥	xtbc
 荣	xtbd
 茔	xtbg
@@ -24789,6 +24876,7 @@ max_phrase_length: 1
 鴱	xtkha
 艽	xtkn
 郑	xtknl
+莽	xtkt
 茧	xtlmi
 鷰	xtlpf
 羋	xtlq
@@ -25193,6 +25281,7 @@ max_phrase_length: 1
 倐	xxxol
 亼	xxxom
 盫	xxxom
+鿚	xxxos
 刃	xxxsk
 蘮	xxxta
 糵	xxxtb
@@ -25269,6 +25358,7 @@ max_phrase_length: 1
 忐	xymp
 逊	xyndf
 龰	xyo
+鿪	xyof
 勮	xyoks
 劇	xyoln
 顡	xyomb
@@ -25770,6 +25860,7 @@ max_phrase_length: 1
 䞈	bcikf
 䐥	bcim
 䐋	bcip
+䶼	bcip
 䝹	bcjnu
 䡞	bcjwj
 䫤	bcmbc
@@ -25885,6 +25976,7 @@ max_phrase_length: 1
 䐛	bksj
 䐶	bkua
 䏙	blbu
+䶻	blbu
 䐸	blgm
 䏒	blll
 䏒	blln
@@ -25921,6 +26013,7 @@ max_phrase_length: 1
 㬹	bnsd
 䐳	bnwf
 䞎	boaa
+䶺	bob
 䏑	bobo
 䏫	bod
 䐪	bogs
@@ -25979,6 +26072,7 @@ max_phrase_length: 1
 䐽	btlb
 䐵	btlc
 䐙	btlj
+䐽	btmb
 䐵	btmc
 㬸	btop
 䑆	btov
@@ -26002,6 +26096,7 @@ max_phrase_length: 1
 䂄	bubue
 䂂	bubug
 䂃	bubwi
+䶽	buce
 䀰	bucor
 䁬	bucwa
 䙷	budi
@@ -26337,6 +26432,7 @@ max_phrase_length: 1
 㟚	deu
 䴮	deu
 䵁	devmi
+㿳	devmw
 㿳	devvw
 䴹	dewd
 䵂	deycb
@@ -27766,6 +27862,7 @@ max_phrase_length: 1
 㣜	homtn
 㼻	homvn
 䚘	honbn
+䶾	hono
 㸕	hooge
 㣥	hoogi
 㣡	hool
@@ -28086,6 +28183,7 @@ max_phrase_length: 1
 䵉	idomv
 㥻	idp
 㦄	idp
+䢄	idyjd
 䜆	idymr
 䥭	iec
 䳊	iehaf
@@ -28164,6 +28262,7 @@ max_phrase_length: 1
 㷱	iif
 㕖	iiid
 㕘	iiif
+㡼	iilp
 㦯	iim
 䣌	iinl
 㓪	iish
@@ -28232,6 +28331,8 @@ max_phrase_length: 1
 䴟	iphni
 䴤	iphqm
 䴪	ipife
+䴟	ipkni
+䴟	ipknk
 䴥	ipksr
 䘅	iplii
 䫲	ipmbc
@@ -30305,6 +30406,7 @@ max_phrase_length: 1
 䭉	oikmb
 䭙	oikua
 䬬	oilbk
+䶿	oilu
 䬪	oimf
 䬹	oimig
 䭛	oimjk
@@ -30575,6 +30677,7 @@ max_phrase_length: 1
 䭙	oykua
 䬬	oylbk
 㑊	oylc
+䶿	oylu
 㑐	oymf
 䬪	oymf
 䬹	oymig
@@ -30788,6 +30891,8 @@ max_phrase_length: 1
 㤃	pyhs
 㥔	pyib
 㤝	pyiu
+㤺	pyiu
+㤺	pyiv
 㦃	pykm
 㦆	pypd
 㥫	pyra
@@ -30983,6 +31088,7 @@ max_phrase_length: 1
 㩜	qsit
 㧜	qslb
 㩣	qsmj
+䂮	qsmr
 㩜	qsmt
 㨤	qsog
 䫨	qsokc
@@ -31078,6 +31184,7 @@ max_phrase_length: 1
 㗢	rhgs
 㗛	rhhk
 㘉	rhhl
+䶸	rhi
 㕭	rhk
 㖭	rhkp
 㖔	rhkr
@@ -31122,6 +31229,7 @@ max_phrase_length: 1
 㖀	rlq
 㠯	rlr
 㘎	rlsk
+䶷	rlu
 㖂	rlwp
 㖽	rmbc
 䟹	rmbdi
@@ -31375,6 +31483,7 @@ max_phrase_length: 1
 䭷	sfhqu
 䭹	sfhvl
 䮘	sfhxu
+䮅	sfih
 䮒	sfijb
 䭾	sfik
 䮂	sfike
@@ -31862,6 +31971,7 @@ max_phrase_length: 1
 䓫	tkmr
 㽀	tkmvn
 䣐	tknl
+䔪	tkoo
 䓐	tkpu
 䖃	tkrr
 㢣	tkt
@@ -32116,6 +32226,7 @@ max_phrase_length: 1
 㞿	ugk
 㟼	ugsk
 㠂	ugsk
+䶹	uh
 㟫	uhae
 㟸	uhaj
 㠗	uhbk
@@ -32812,6 +32923,7 @@ max_phrase_length: 1
 㱓	ymoml
 䳄	ymphf
 㰣	ympno
+䶶	ymqao
 䢩	ymrk
 㱕	ymsmb
 䢎	ymt
@@ -33555,6 +33667,7 @@ max_phrase_length: 1
 𥊚	buijc
 𥆿	buije
 𥅞	buipm
+𥋲	buitc
 𥌬	buiwg
 𥌀	bujbf
 𥈶	bujbj
@@ -33575,6 +33688,7 @@ max_phrase_length: 1
 𥆺	bumcw
 𥄬	bumdm
 𥄮	bumg
+𪛟	bumg
 𥆁	bumnn
 𥇼	bumrt
 𠖈	bumy
@@ -33871,6 +33985,7 @@ max_phrase_length: 1
 𨦈	ctw
 𨭬	ctwb
 𨮒	ctwn
+𨯌	ctyj
 𨥉	cu
 𨬌	cuap
 𡚃	cuk
@@ -33886,6 +34001,7 @@ max_phrase_length: 1
 𨯬	cwwv
 𨮈	cyao
 𨫢	cycb
+𨩌	cyck
 𨮏	cyed
 𨩱	cyhh
 𨮐	cyhu
@@ -33936,7 +34052,6 @@ max_phrase_length: 1
 𤿍	demd
 𢿫	demym
 𤿦	denin
-𣛯	deot
 𪍑	detcw
 𥀌	detir
 𪋿	dey
@@ -34001,6 +34116,7 @@ max_phrase_length: 1
 𣙪	dijc
 𣏞	diku
 𥖸	dimr
+𣛯	diot
 𢚳	dip
 𣕘	dird
 𣡹	disp
@@ -34062,7 +34178,9 @@ max_phrase_length: 1
 𣕑	dngd
 𣏐	dni
 𣚦	dnii
+𣏖	dnl
 𣗑	dnlj
+𣐕	dnom
 𣚦	dnri
 𣞽	dntl
 𠌊	doau
@@ -34073,6 +34191,7 @@ max_phrase_length: 1
 𢆠	domfj
 𣏴	domm
 𣜴	domp
+𣒍	domr
 𣔢	donn
 𣑻	doq
 𣗍	dotc
@@ -34214,6 +34333,7 @@ max_phrase_length: 1
 𢝳	ecp
 𤄱	ecpc
 𤂑	eddv
+𣸑	edhd
 𤄄	edkf
 𣸑	edmd
 𣸯	edod
@@ -34395,6 +34515,7 @@ max_phrase_length: 1
 𤀛	espo
 𣸹	estt
 𣺹	estv
+𤏁	esuf
 𣸹	esyj
 𤅎	etbc
 𪃡	etcf
@@ -34577,6 +34698,7 @@ max_phrase_length: 1
 𡮛	feag
 𤎛	febg
 𤐓	febk
+𤌧	feed
 𤋻	fehv
 𤍃	feoy
 𤒚	fetv
@@ -34603,6 +34725,7 @@ max_phrase_length: 1
 𤎑	fhce
 𤏨	fhdb
 𤎕	fhdp
+𡭝	fhf
 𤑬	fhhe
 𤌋	fhi
 𤇮	fhio
@@ -34835,6 +34958,7 @@ max_phrase_length: 1
 𧡘	gfbuu
 𥸮	gfd
 𡑝	gfdq
+𡑍	gffs
 𡓏	gfql
 𣙇	ggd
 𡋣	ggg
@@ -34898,6 +35022,9 @@ max_phrase_length: 1
 𡉕	gknk
 𡍲	gksj
 𠡺	glks
+𡊐	glml
+𡊐	glmn
+𡊐	glms
 𡉎	gm
 𡋦	gma
 𡓾	gmft
@@ -35103,8 +35230,10 @@ max_phrase_length: 1
 𥟈	hddl
 𥢳	hdeja
 𥮊	hdg
+𥢗	hdgrr
 𥢄	hdhce
 𥟉	hdhdn
+𥟉	hdhdu
 𤿤	hdhe
 𥯈	hdhe
 𥞴	hdhgr
@@ -35325,7 +35454,6 @@ max_phrase_length: 1
 𡙇	hmdk
 𦑗	hmdk
 𥷒	hmdm
-𩿨	hmhaf
 𤯰	hmihi
 𤯰	hmihm
 𠡏	hmks
@@ -35407,6 +35535,7 @@ max_phrase_length: 1
 𤓺	hoyj
 𢕔	hoytj
 𥷓	hoyv
+𠅐	hoyv
 𡮓	hpfh
 𣪘	hphne
 𥫩	hpi
@@ -35509,6 +35638,7 @@ max_phrase_length: 1
 𠒣	huhon
 𣰴	huhqu
 𣰳	huhyu
+𥟹	hujlk
 𣭯	hukn
 𦤑	hukq
 𧑉	hulii
@@ -35610,6 +35740,7 @@ max_phrase_length: 1
 𢇱	icms
 𪎩	idbbr
 𤇍	idf
+𡍼	idg
 𢉽	idjr
 𦓡	idmbl
 𢋬	idug
@@ -35661,6 +35792,7 @@ max_phrase_length: 1
 𨿽	iiog
 𤯿	iiyhm
 𤯿	iiykm
+𢊈	ijcn
 𣂋	ijhgr
 𣂋	ijhqr
 𠀋	ijk
@@ -35752,6 +35884,7 @@ max_phrase_length: 1
 𣂃	jayj
 𠄼	jbmdm
 𢆥	jboq
+𡩴	jbou
 𦣰	jbslo
 𦣰	jbsly
 𥦜	jcbb
@@ -35785,6 +35918,7 @@ max_phrase_length: 1
 𡪜	jebd
 𪍑	jecmw
 𢺺	jecsh
+𡨤	jeee
 𥽤	jefdc
 𪄳	jehaf
 𪍿	jeitc
@@ -35899,6 +36033,7 @@ max_phrase_length: 1
 𢋴	kbihm
 𢒰	kbikm
 𤺱	kbkf
+𠕆	kbm
 𠁑	kbmy
 𣱬	kbond
 𢃊	kbsmr
@@ -36315,9 +36450,10 @@ max_phrase_length: 1
 𤗖	llndt
 𤗆	llowy
 𧙻	llq
+𤘁	lltbo
 𤘂	lltwn
 𤖸	llyg
-𠁺	llygj
+𠁺	llygq
 𠁸	llyoj
 𤖹	llyt
 𤗈	llytv
@@ -36551,6 +36687,7 @@ max_phrase_length: 1
 𤤾	mgemn
 𤪤	mgffd
 𤫉	mgffe
+𤫎	mgffr
 𤩂	mgffs
 𤦔	mgfqu
 𤣰	mgg
@@ -36607,6 +36744,7 @@ max_phrase_length: 1
 𤧶	mgmue
 𤨧	mgmwf
 𤣻	mgne
+𤤂	mgnin
 𤥀	mgnin
 𤥁	mgnir
 𤣲	mgnj
@@ -36637,6 +36775,7 @@ max_phrase_length: 1
 𤣱	mgsu
 𤧅	mgsyj
 𦥃	mgtbc
+𪛞	mgtbd
 𤪌	mgtcf
 𤦈	mgtch
 𤩐	mgtcl
@@ -36788,6 +36927,7 @@ max_phrase_length: 1
 𥗳	mrjrc
 𥑆	mrksr
 𥓸	mrlhh
+𥐣	mrlll
 𥗠	mrmbs
 𥔦	mrmft
 𥐯	mrmmi
@@ -36797,6 +36937,7 @@ max_phrase_length: 1
 𦧝	mrnkm
 𦧝	mrnkv
 𥖐	mrnlo
+𥓂	mroir
 𥖩	mroma
 𥐨	mrpd
 𥖧	mrphf
@@ -36939,6 +37080,7 @@ max_phrase_length: 1
 𡥄	ndr
 𡥼	ndshc
 𡥙	ndshr
+𡥧	ndsoy
 𡦖	ndtlb
 𡦮	ndtnt
 𣫮	ndwyi
@@ -37087,6 +37229,7 @@ max_phrase_length: 1
 𨻧	nlhhw
 𨺲	nlhlb
 𨻬	nlhuk
+𨸝	nlhvp
 𨺙	nlhxu
 𨻮	nljuk
 𨸾	nllmp
@@ -37316,6 +37459,7 @@ max_phrase_length: 1
 𠊷	omge
 𠓾	omgg
 𠊷	omgk
+𩿨	omhaf
 𠎷	omkm
 𠍴	omkp
 𠉴	omlb
@@ -37366,6 +37510,7 @@ max_phrase_length: 1
 𤙖	orhq
 𠊟	orlu
 𠏠	ormg
+𨛭	ornl
 𢜔	orp
 𠊟	orwu
 𠍾	osav
@@ -37415,6 +37560,7 @@ max_phrase_length: 1
 𩞝	oyhce
 𩟵	oyhsf
 𪖬	oyhul
+𪖬	oyhut
 𩛃	oyhvo
 𩚧	oyi
 𩝻	oyjbc
@@ -37733,6 +37879,7 @@ max_phrase_length: 1
 𢴇	qgjk
 𧤹	qgnbg
 𧤹	qgnbq
+𢸋	qgob
 𢹤	qgou
 𢵼	qgov
 𢳆	qgsk
@@ -37908,7 +38055,6 @@ max_phrase_length: 1
 𢬧	qoq
 𢷵	qotq
 𢪗	qoy
-𠅐	qoyv
 𢭴	qpdk
 𢯑	qpeg
 𢯖	qpgi
@@ -38153,6 +38299,7 @@ max_phrase_length: 1
 𪄨	rfbf
 𠸑	rfbn
 𠶤	rfbr
+𡂢	rfd
 𠺫	rfdj
 𠺼	rfdo
 𡃇	rfkt
@@ -38295,9 +38442,9 @@ max_phrase_length: 1
 𠱜	rkld
 𠵇	rkmr
 𡁯	rkoi
+𠱑	rkr
 𡃉	rkrf
 𠸊	rksj
-𠲢	rlb
 𡃐	rlbj
 𡅢	rldf
 𡀨	rlib
@@ -38723,6 +38870,7 @@ max_phrase_length: 1
 𪛅	rrhxu
 𡄪	rrig
 𡃹	rrji
+𠲢	rrlb
 𧒍	rrlmi
 𠭤	rrme
 𠴔	rrmg
@@ -38926,6 +39074,7 @@ max_phrase_length: 1
 𡀫	rywd
 𡆗	rywg
 𠺖	rywo
+𡄤	rywv
 𡄡	ryxf
 𡂓	ryyb
 𡮺	scf
@@ -39043,6 +39192,7 @@ max_phrase_length: 1
 𦏵	smip
 𦐌	smki
 𠁨	sml
+𦏹	smmj
 𦏸	smpd
 𦒄	smqjm
 𦒄	smqjs
@@ -39050,6 +39200,7 @@ max_phrase_length: 1
 𡳥	smrj
 𡱰	smso
 𦐐	smyk
+𦐹	smytj
 𡳢	sojal
 𡳤	sojal
 𠥔	soog
@@ -39293,6 +39444,7 @@ max_phrase_length: 1
 𦬕	tl
 𩤯	tlkf
 𪃳	tlkf
+𦰩	tlqo
 𡅐	tltgr
 𡅐	tlttr
 𦻔	tlyk
@@ -39379,6 +39531,7 @@ max_phrase_length: 1
 𧕷	tqki
 𧁵	tqof
 𦾣	tqog
+𠲘	tqr
 𧂈	tqrd
 𦎾	tqseq
 𦎾	tqsyq
@@ -39402,6 +39555,7 @@ max_phrase_length: 1
 𦶇	tsju
 𦭧	tslb
 𧀓	tslv
+𦭳	tsmm
 𦬨	tso
 𦰡	tsql
 𦰦	tsuk
@@ -39542,6 +39696,7 @@ max_phrase_length: 1
 𡺉	umwg
 𡴭	un
 𡴯	un
+𪁏	unhaf
 𡶷	uniq
 𡺦	unst
 𡶀	uob
@@ -39760,6 +39915,7 @@ max_phrase_length: 1
 𡤒	vhcq
 𡞕	vhew
 𡚸	vhi
+𡟈	vhju
 𡟥	vhlb
 𡜮	vhmu
 𡠨	vhnh
@@ -39815,8 +39971,10 @@ max_phrase_length: 1
 𠃑	vn
 𡜆	vnau
 𡞵	vnbk
+𡠤	vnii
 𡡦	vnlo
 𡞳	vnok
+𡠤	vnri
 𡟚	vnst
 𡛧	vohh
 𠀳	vomy
@@ -39839,6 +39997,7 @@ max_phrase_length: 1
 𡝖	vsip
 𡛂	vsk
 𡝗	vskr
+𡣝	vsmj
 𡢡	vsrq
 𡟛	vstt
 𡜱	vsup
@@ -39886,6 +40045,7 @@ max_phrase_length: 1
 𡝃	vylh
 𡛨	vymy
 𡢢	vypk
+𡛩	vyt
 𡣙	vyx
 𨲖	wbsmi
 𡮨	wcf
@@ -40009,6 +40169,7 @@ max_phrase_length: 1
 𠦳	yhhj
 𥈠	yhmcu
 𨘋	yhsd
+𨖼	yhto
 𨖼	yhwo
 𨗮	yhxt
 𨒂	yhym
@@ -40072,6 +40233,7 @@ max_phrase_length: 1
 𠅜	yomn
 𨕀	yonk
 𨗵	yonq
+𪚥	ypybp
 𨙥	yqki
 𨘧	yqoc
 𨑕	yr
@@ -40216,24 +40378,44 @@ max_phrase_length: 1
 𨔁	yywn
 𣫺	yyyib
 𪾢	bubhu
+𫒇	chp
+𫝛	dubmr
+𪬬	ebop
+𪷽	ehuo
+𪷫	eibe
 𪷿	epfc
 𪷤	eywf
+𪸛	fmgi
 𪣻	gfdv
+𪣏	ghll
+𪣏	gill
+𪣏	gmll
 𪤗	gsmh
+𫜵	hf
+𫂐	hqke
+𫀗	ifhxu
 𫍣	ivbmr
 𫍲	ivhxe
 𫍯	ivihr
 𫍽	ivwlv
 𫠆	jembo
 𫛭	kgpym
+𪻁	khttc
+𪻁	khttm
 𫐐	kqhxu
 𫐄	kqmu
 𫐓	kqnhd
 𫟦	kqyto
+𫊻	lismi
 𫖯	lmuoo
 𫌀	lqmo
 𫔶	lshud
+𫀗	mfhxu
+𪻳	mgjbj
+𪻵	mgmwg
+𪻚	mgtk
 𫞩	mgtmb
+𪼓	mgwim
 𫘨	nmamo
 𫘬	nmbvk
 𫘝	nmdk
@@ -40246,6 +40428,9 @@ max_phrase_length: 1
 𫠊	nmyvi
 𫗧	nvdl
 𫗴	nvywm
+𪝼	obcv
+𪜱	ohd
+𪵥	onowy
 𫓯	opgg
 𫔍	ophdw
 𫔎	opnhb
@@ -40254,43 +40439,75 @@ max_phrase_length: 1
 𫟹	optc
 𫓹	optmc
 𫟼	opyk
+𫟷	opyt
+𫜷	qinl
 𪟝	qoks
+𫏜	rmwim
 𫑡	runl
+𫜹	sm
 𫖳	srmbo
 𫇭	tiks
+𫈣	tjju
+𫈟	tnld
 𪩘	ujbk
 𪨶	ukkq
 𪨰	utw
 𫖮	uumbo
+𪦴	vhaa
+𪦪	vhws
 𫄸	vmhgf
 𫄨	vmkkb
 𫄧	vmnkv
 𫟅	vmyrf
 𫄷	vmytp
+𪽇	wkn
 𫚖	ypnwm
+𫌴	yryk
+𫁢	ytjmd
 𫠜	yuhxu
 𬀪	abhu
+𬀲	acmk
 𫾻	ahok
+𬊏	aif
+𬊏	amf
+𬮍	anetc
 𬀩	aqs
+𬀲	atk
 𬶨	aunwm
+𬁆	bea
+𬠸	bolii
+𬫃	cmg
 𬃊	dhjo
 𬂩	dkt
 𬇙	ebo
+𬈹	ehkc
 𬍡	ehmgi
+𬇞	emob
 𬇕	ems
+𬇣	etlb
 𬇹	ewmg
 𬒈	fbmr
+𫩠	fbr
 𬊤	fcwj
+𬄾	fffd
+𬋋	fjmw
+𬊕	fnau
+𬊕	fshu
 𬉼	fsk
 𬊈	fsmi
+𬉷	fym
 𫮃	gcwj
 𫭢	gop
 𫭟	gsk
 𫭼	gtbs
+𬓥	hdmqj
 𬕂	hmbo
+𬔻	hoyk
 𬸪	hwpym
 𬷕	ibpym
+𬒰	ifng
 𫷷	iopo
+𬐨	irbt
 𬤊	ivamo
 𬣳	ivav
 𬣡	ivij
@@ -40299,20 +40516,35 @@ max_phrase_length: 1
 𬣙	ivmd
 𬤇	ivmwg
 𬸣	jtcm
+𬏺	kbto
+𬍂	khhum
+𬌲	khmcw
 𬸚	kkpym
+𫯜	klb
 𬨂	kqhvp
 𬨎	kqtcw
 𬟽	likd
+𬗋	lpvif
 𬮱	lsmwg
 𬱖	lwmbo
+𬰚	lyyt
+𬒰	mfng
 𬍛	mghvd
 𬍤	mgsmi
+𬎆	mgtbg
+𬍰	mgumr
+𬍳	mgyrd
 𬌗	mhomr
+𫨨	mki
+𬒀	mrhvp
 𬒗	mrliu
 𬒔	mrymb
 𬪩	mwhbv
 𫨏	myta
+𫲦	ndcru
 𬯎	nllmo
+𬮼	nlno
+𬯋	nltmv
 𬮿	nlusu
 𬯀	nlykl
 𬶭	nmbof
@@ -40330,9 +40562,13 @@ max_phrase_length: 1
 𬳿	nmomd
 𬶋	nmpr
 𬴃	nmqjr
+𬱃	nrmbc
 𫸩	nsk
 𬱟	numbo
 𫢸	ocwj
+𫤪	ogomg
+𫣲	ojbc
+𫣗	omwj
 𬭩	opcim
 𬭊	opdg
 𬭛	opede
@@ -40348,22 +40584,39 @@ max_phrase_length: 1
 𬬭	opop
 𬬮	oppo
 𬭬	opqjs
+𬬬	opqs
 𬬿	opshr
 𬭶	opwgf
 𬭁	opwyi
 𬭚	opyrd
 𬬻	opys
 𬭼	opyto
+𫺢	prrr
+𫽥	qfcq
 𫾔	qymu
+𫦪	rbks
 𫫇	rmcp
+𫬷	rsfr
 𬩽	sinl
+𬚖	sjshr
 𬸘	svpym
+𬁝	taa
+𬟓	thsf
+𬞆	tlpu
 𬜬	tlsr
 𬟁	tmbm
 𬜯	tmob
 𬞟	tyho
 𫵷	umks
+𬤹	utiop
 𫶇	utjb
+𬤹	utmop
+𫰾	vc
+𫲐	vfbc
+𫰋	vik
+𫲄	vjcb
+𫰪	vjkd
+𬳧	vlhda
 𬘭	vmdd
 𬙂	vmjmc
 𬘫	vmjmu
@@ -40377,8 +40630,44 @@ max_phrase_length: 1
 𬙋	vmyrv
 𫰛	vnom
 𬸦	ykpym
+𬗋	ypvif
+𬊧	yrff
 𬺓	yuddo
 𬺈	yukmr
 𬹼	yuoll
+𭨉	agrg
+𮌥	bdwf
+𮢆	caht
+𭪂	demn
+𭩚	dik
+𭲻	eant
+𭶙	ffbw
+𭏜	ghye
+𮆞	hhrj
+𮅠	hlbr
+𭺷	hmomo
+𭜅	hol
+𭓞	ju
+𮡀	mwyhr
+𮫸	nfsj
+𮬒	nfypf
+𬽺	oheh
+𮧵	qsopj
+𭇒	rbbm
+𭇒	rbt
+𭉝	rmnd
+𭇴	rtt
+𭇴	ryjj
+𭈮	rymf
+𮐠	thdu
+𮊦	tui
+𭒨	vjcb
+𰥍	buk
+𰗖	dop
+𰾑	opc
+𰬘	vmjbd
+𰌂	vybo
+𰻝	yjcp
+𰻞	yjcp
 ㋿	oihdr
 ㋿	olhdr

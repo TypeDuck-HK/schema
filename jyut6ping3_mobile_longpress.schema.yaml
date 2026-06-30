@@ -17,6 +17,7 @@ speller:
       - include:/fuzzy_with_shortcuts
       - include:/tone_ignore
       - include:/abbreviation
+      - include:/prefix_removal
 
 translator:
   prism: jyut6ping3_mobile_longpress

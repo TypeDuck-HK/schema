@@ -1,8 +1,8 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.1.4
   timestamps:
-    default: 1731826468
-    default.custom: 1739972229
+    default: 1782779665
+    default.custom: 1782779665
 ascii_composer:
   good_old_caps_lock: true
   switch_key:
@@ -10,8 +10,8 @@ ascii_composer:
     Control_L: noop
     Control_R: noop
     Eisu_toggle: clear
-    Shift_L: noop
-    Shift_R: noop
+    Shift_L: inline_ascii
+    Shift_R: commit_text
 config_version: 2024.05.10
 key_binder:
   bindings:
@@ -45,6 +45,7 @@ key_binder:
     - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
     - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
     - {accept: "Control+Shift+space", select: .next, when: always}
+    - {accept: "Shift+space", toggle: full_shape, when: always}
     - {accept: "Control+comma", toggle: full_shape, when: always}
     - {accept: "Control+period", toggle: ascii_punct, when: always}
 menu:
@@ -164,8 +165,11 @@ schema_list:
   - schema: luna_pinyin
   - schema: loengfan
   - schema: loengfan_longpress
+  - schema: stroke
   - schema: cangjie3
   - schema: cangjie5
+  - schema: quick3
+  - schema: quick5
 switcher:
   caption: "快捷選項 Options Menu"
   hide_lone_schema: true

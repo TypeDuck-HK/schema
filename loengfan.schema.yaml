@@ -24,6 +24,7 @@ translator:
   __patch: include:/letter_to_tone
   comment_format:
     - xform/^/\v/
+    - xform/~//
 
 __patch:
   - common:/disable_completion?

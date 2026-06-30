@@ -1,19 +1,20 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.1.4
   timestamps:
     cangjie3.custom: 0
-    cangjie3.schema: 1699210382
-    cangjie5.schema: 1712037225
-    common: 1712037225
-    common.custom: 1712037225
-    default: 1731826468
-    default.custom: 1739972229
-    include: 1741963851
+    cangjie3.schema: 1782779665
+    cangjie5.schema: 1782779665
+    common: 1782779665
+    common.custom: 1782779665
+    default: 1782779665
+    default.custom: 1782779665
+    include: 1782779665
     include.custom: 0
 dictionary_lookup_filter:
   dictionary: jyut6ping3_scolar
 engine:
   filters:
+    - single_char_filter
     - dictionary_lookup_filter
   processors:
     - ascii_composer
@@ -65,6 +66,7 @@ key_binder:
     - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
     - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
     - {accept: "Control+Shift+space", select: .next, when: always}
+    - {accept: "Shift+space", toggle: full_shape, when: always}
     - {accept: "Control+comma", toggle: full_shape, when: always}
     - {accept: "Control+period", toggle: ascii_punct, when: always}
   import_preset: default

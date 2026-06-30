@@ -1,14 +1,14 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.1.4
   timestamps:
-    common: 1712037225
-    common.custom: 1712037225
-    default: 1731826468
-    default.custom: 1739972229
-    include: 1741963851
+    common: 1782779665
+    common.custom: 1782779665
+    default: 1782779665
+    default.custom: 1782779665
+    include: 1782779665
     include.custom: 0
-    jyut6ping3_mobile.schema: 1712037225
-    template: 1699210382
+    jyut6ping3_mobile.schema: 1782779665
+    template: 1782779665
     template.custom: 0
 dictionary_lookup_filter:
   dictionary: jyut6ping3_scolar
@@ -66,6 +66,7 @@ key_binder:
     - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
     - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
     - {accept: "Control+Shift+space", select: .next, when: always}
+    - {accept: "Shift+space", toggle: full_shape, when: always}
     - {accept: "Control+comma", toggle: full_shape, when: always}
     - {accept: "Control+period", toggle: ascii_punct, when: always}
   import_preset: default
@@ -182,23 +183,11 @@ recognizer:
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 schema:
   author:
-    - "Ayaka Mikazuki <ayaka@mail.shn.hk>"
-    - "LeiMaau <leimaau@qq.com>"
-    - "chaaklau <chaakming@gmail.com>"
-    - "laubonghaudoi <laubonghaudoi@icloud.com>"
-    - "tanxpyox <tanxpyox@gmail.com>"
-    - "William915 <William915@gmail.com>"
-    - "szc126 (@szc126)"
-    - "Bing Jeung <bing@ososo.io>"
-    - "graphemecluster <graphemecluster@gmail.com>"
-  description: |
-    採用香港語言學學會粵語拼音方案
-    https://www.lshk.org/jyutping
-    支援聲調顯示同輸入
-    Telegram 用户交流組 https://t.me/rime_cantonese
+    - "TypeDuck Team"
+  description: "TypeDuck 輸入法方案"
   name: "粵語拼音"
   schema_id: jyut6ping3_mobile
-  version: 2023.11.03
+  version: 2.0.0
 simplifier:
   opencc_config: hk2s.json
 speller:
@@ -219,6 +208,7 @@ speller:
     - "derive/aa(?=\\d)/a/"
     - "derive/[1-6]//"
     - "abbrev/^([a-z]).+$/$1/"
+    - "xform/^~//"
     - "xform/1/v/"
     - "xform/4/vv/"
     - "xform/2/x/"
@@ -243,6 +233,7 @@ translator:
   combine_candidates: false
   comment_format:
     - "xform/^/\\f/"
+    - "xform/~//"
   dictionary: jyut6ping3
   preedit_format:
     - "xform/([aeiouymngptk])vv/${1}4/"

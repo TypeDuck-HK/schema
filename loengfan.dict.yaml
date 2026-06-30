@@ -10,7 +10,7 @@
 name: loengfan
 version: "2022.03.03"
 sort: by_weight
-max_phrase_length: 1
+use_preset_vocabulary: true
 ...
 
 一	jat1
