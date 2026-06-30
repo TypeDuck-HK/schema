@@ -5,6 +5,12 @@ on:
   push:
     branches:
       - master
+    paths:
+      - '**'
+      - '!.github'
+      - '!.gitignore'
+      - '!*.md'
+      - '!LICENSE'
 
 jobs:
   build:
