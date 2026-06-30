@@ -18,6 +18,7 @@ speller:
       - include:/fuzzy
       - include:/tone_removal
       - include:/abbreviation
+      - include:/prefix_removal
       - include:/letter_to_10keys
 
 translator:

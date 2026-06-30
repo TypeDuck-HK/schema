@@ -82,6 +82,10 @@ abbreviation:
   __append:
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
 
+prefix_removal:
+  __append:
+    - xform/^~//                  # 移除禁止簡拼前綴
+
 tone_to_letter:
   __append:
     - xform/1/v/                  # 陰平
@@ -114,17 +118,17 @@ replace_initial_digraph:
 
 enclose_syllable:
   __append:
-    - xform/^([GKNbcdfghjklmnpstwz]?)([aeimnouy]\D*)/${1}9${2}0/
+    - xform/^(~?[GKNbcdfghjklmnpstwz]?)([aeimnouy]\D*)/${1}9${2}0/
 
 any_initial:
   __append:
-    - derive/^.?(?=9)/X/
+    - derive/^[^~]?(?=9)/X/
 
 abbreviation_initial_tone:
   __append:
-    - abbrev/^(.)9.+$/$1/
-    - abbrev/^.+([1-6])$/$1/
-    - abbrev/^(.)9.+([1-6])$/$1$2/
+    - abbrev/^([^~])9.+$/$1/
+    - abbrev/^([^~]).*([1-6])$/$1/
+    - abbrev/^([^~])9.+([1-6])$/$1$2/
 
 # ---------------------------------------------------------
 
