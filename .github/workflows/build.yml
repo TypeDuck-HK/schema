@@ -161,7 +161,18 @@ jobs:
         run: |
           set -euo pipefail
 
-          "$RUNNER_TEMP/rime/dist/bin/rime_deployer" --build "$GITHUB_WORKSPACE"
+          rime_dir="$RUNNER_TEMP/rime"
+          dylib_paths="$(find "$rime_dir/dist/lib" -type f -name "*.dylib" -exec dirname {} \; | sort -u | paste -sd: -)"
+          if [ -z "$dylib_paths" ]; then
+            echo "Could not find any dylibs under $rime_dir/dist/lib." >&2
+            find "$rime_dir" -type f >&2
+            exit 1
+          fi
+
+          export DYLD_LIBRARY_PATH="$dylib_paths:${DYLD_LIBRARY_PATH:-}"
+          export DYLD_FALLBACK_LIBRARY_PATH="$dylib_paths:${DYLD_FALLBACK_LIBRARY_PATH:-}"
+
+          (cd "$rime_dir" && dist/bin/rime_deployer --build "$GITHUB_WORKSPACE")
           rm -f "$GITHUB_WORKSPACE/user.yaml" "$GITHUB_WORKSPACE/installation.yaml"
 
       - name: Package artifact
