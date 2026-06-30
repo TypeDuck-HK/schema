@@ -26,16 +26,14 @@ jobs:
             ".git",
             ".github",
             ".gitignore",
-            "common.custom.yaml",
-            "default.custom.yaml",
-            "jyut6ping3_mobile_10keys.schema.yaml",
-            "jyut6ping3_mobile_initial_final.schema.yaml",
-            "jyut6ping3_mobile_longpress.schema.yaml",
-            "jyut6ping3_mobile.schema.yaml",
-            "loengfan_longpress.schema.yaml"
+            "*.md",
+            "LICENSE",
+            "jyut6ping3_mobile*.schema.yaml",
+            "*_longpress*.schema.yaml",
+            "*.custom.yaml"
           ) | ForEach-Object {
-            if (Test-Path -LiteralPath $_) {
-              Remove-Item -LiteralPath $_ -Recurse -Force
+            if (Test-Path $_) {
+              Remove-Item $_ -Recurse -Force
             }
           }
 
@@ -111,7 +109,7 @@ jobs:
           set -euo pipefail
 
           rm -rf .git .github
-          rm -f .gitignore
+          rm -f .gitignore *.md LICENSE
 
       - name: Build MissingGlyphRemover
         run: |
