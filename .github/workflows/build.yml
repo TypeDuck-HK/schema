@@ -1,0 +1,179 @@
+name: Build
+
+on:
+  workflow_call:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  windows:
+    name: Windows
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Remove unused files
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = "Stop"
+
+          @(
+            ".git",
+            ".github",
+            ".gitignore",
+            "common.custom.yaml",
+            "default.custom.yaml",
+            "jyut6ping3_mobile_10keys.schema.yaml",
+            "jyut6ping3_mobile_initial_final.schema.yaml",
+            "jyut6ping3_mobile_longpress.schema.yaml",
+            "jyut6ping3_mobile.schema.yaml",
+            "loengfan_longpress.schema.yaml"
+          ) | ForEach-Object {
+            if (Test-Path -LiteralPath $_) {
+              Remove-Item -LiteralPath $_ -Recurse -Force
+            }
+          }
+
+      - name: Download RIME deployer
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $ErrorActionPreference = "Stop"
+
+          $rimeDir = Join-Path $env:RUNNER_TEMP "rime"
+          New-Item -ItemType Directory -Force -Path $rimeDir | Out-Null
+
+          $release = gh api repos/TypeDuck-HK/librime/releases/latest | ConvertFrom-Json
+          gh release download $release.tag_name `
+            --repo TypeDuck-HK/librime `
+            --pattern "rime-TypeDuck-*-Windows-clang-x64.7z" `
+            --dir $rimeDir
+
+          $archive = Get-ChildItem -LiteralPath $rimeDir -Filter "rime-TypeDuck-*-Windows-clang-x64.7z" | Select-Object -First 1
+          if (-not $archive) {
+            throw "Could not find a rime-TypeDuck Windows-clang-x64 .7z asset in the latest TypeDuck-HK/librime release."
+          }
+
+          7z x $archive.FullName "-o$rimeDir" -y
+
+          $rimeDll = Join-Path $rimeDir "dist/lib/rime.dll"
+          $binDir = Join-Path $rimeDir "dist/bin"
+          Copy-Item -LiteralPath $rimeDll -Destination $binDir -Force
+
+      - name: Deploy schemas
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = "Stop"
+
+          $schemaDir = $env:GITHUB_WORKSPACE
+          $deployer = Join-Path $env:RUNNER_TEMP "rime/dist/bin/rime_deployer.exe"
+
+          & $deployer --build $schemaDir
+
+          @("user.yaml", "installation.yaml") | ForEach-Object {
+            $path = Join-Path $schemaDir $_
+            if (Test-Path -LiteralPath $path) {
+              Remove-Item -LiteralPath $path -Force
+            }
+          }
+
+      - name: Package artifact
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = "Stop"
+
+          $artifact = Join-Path $env:RUNNER_TEMP "TypeDuck-Windows.zip"
+          Compress-Archive -Path (Join-Path $env:GITHUB_WORKSPACE "*") -DestinationPath $artifact -Force
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: TypeDuck-Windows
+          path: ${{ runner.temp }}/TypeDuck-Windows.zip
+          if-no-files-found: error
+
+  ios:
+    name: iOS
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Remove unused files
+        run: |
+          set -euo pipefail
+
+          rm -rf .git .github
+          rm -f .gitignore
+
+      - name: Build MissingGlyphRemover
+        run: |
+          set -euo pipefail
+
+          curl -fsSL \
+            https://raw.githubusercontent.com/TypeDuck-HK/TypeDuck-iOS/refs/heads/main/MissingGlyphRemover/main.swift \
+            -o "$RUNNER_TEMP/MissingGlyphRemover.swift"
+          swiftc "$RUNNER_TEMP/MissingGlyphRemover.swift" -o "$RUNNER_TEMP/MissingGlyphRemover"
+
+      - name: Remove missing glyph entries
+        run: |
+          set -euo pipefail
+
+          find "$GITHUB_WORKSPACE" \
+            -maxdepth 1 \
+            -name "*.dict.yaml" \
+            ! -name "jyut6ping3_scolar.dict.yaml" \
+            -print0 |
+          while IFS= read -r -d '' dict; do
+            "$RUNNER_TEMP/MissingGlyphRemover" --line "$dict"
+          done
+
+      - name: Download RIME deployer
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+
+          rime_dir="$RUNNER_TEMP/rime"
+          mkdir -p "$rime_dir"
+
+          tag="$(gh api repos/TypeDuck-HK/librime/releases/latest --jq .tag_name)"
+          gh release download "$tag" \
+            --repo TypeDuck-HK/librime \
+            --pattern "rime-TypeDuck-*-macOS-universal.tar.bz2" \
+            --dir "$rime_dir"
+
+          archive="$(find "$rime_dir" -maxdepth 1 -name 'rime-TypeDuck-*-macOS-universal.tar.bz2' -print -quit)"
+          if [ -z "$archive" ]; then
+            echo "Could not find a rime-TypeDuck macOS-universal tar.bz2 asset in the latest TypeDuck-HK/librime release." >&2
+            exit 1
+          fi
+
+          tar -xjf "$archive" -C "$rime_dir"
+          chmod +x "$rime_dir/dist/bin/rime_deployer"
+
+      - name: Deploy schemas
+        run: |
+          set -euo pipefail
+
+          "$RUNNER_TEMP/rime/dist/bin/rime_deployer" --build "$GITHUB_WORKSPACE"
+          rm -f "$GITHUB_WORKSPACE/user.yaml" "$GITHUB_WORKSPACE/installation.yaml"
+
+      - name: Package artifact
+        run: |
+          set -euo pipefail
+
+          (cd "$GITHUB_WORKSPACE" && zip -r "$RUNNER_TEMP/TypeDuck-iOS.zip" .)
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: TypeDuck-iOS
+          path: ${{ runner.temp }}/TypeDuck-iOS.zip
+          if-no-files-found: error

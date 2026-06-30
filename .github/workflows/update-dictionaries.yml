@@ -1,0 +1,141 @@
+name: Update Dictionaries
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update-dictionaries
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Ensure archive tools
+        run: |
+          set -euo pipefail
+          if ! command -v 7z >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y p7zip-full
+          fi
+
+      - name: Fetch dictionaries
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+
+          tmpdir="$(mktemp -d)"
+          trap 'rm -rf "$tmpdir"' EXIT
+
+          download_latest_release_asset() {
+            local repo="$1"
+            local pattern="$2"
+            local output="$3"
+            local releases asset_url asset_name
+
+            releases="$(gh api "repos/${repo}/releases?per_page=1")"
+            asset_url="$(jq -r --arg pattern "$pattern" '.[0].assets[] | select(.name | test($pattern)) | .url' <<<"$releases" | head -n 1)"
+            asset_name="$(jq -r --arg pattern "$pattern" '.[0].assets[] | select(.name | test($pattern)) | .name' <<<"$releases" | head -n 1)"
+
+            if [ -z "$asset_url" ]; then
+              echo "No asset matching ${pattern} found in the latest ${repo} release." >&2
+              jq -r '.[0].assets[].name' <<<"$releases" >&2
+              exit 1
+            fi
+
+            echo "Downloading ${repo} asset: ${asset_name}"
+            gh api "$asset_url" \
+              -H "Accept: application/octet-stream" \
+              > "$output"
+          }
+
+          curl -fsSL \
+            https://raw.githubusercontent.com/rime/rime-luna-pinyin/refs/heads/master/luna_pinyin.dict.yaml \
+            -o luna_pinyin.dict.yaml
+
+          curl -fsSL \
+            https://raw.githubusercontent.com/CanCLID/rime-loengfan/refs/heads/main/loengfan.dict.yaml \
+            -o loengfan.dict.yaml
+          perl -pi -e 's/([1-6])([a-z])/$1 $2/g' loengfan.dict.yaml
+
+          curl -fsSL \
+            https://raw.githubusercontent.com/rime/rime-stroke/refs/heads/master/stroke.dict.yaml \
+            -o stroke.dict.yaml
+
+          download_latest_release_asset \
+            Arthurmcarthur/Cangjie3-Plus \
+            '^RimeData_[0-9]{8}_Cangjie3_WithExtJ\.7z$' \
+            "$tmpdir/cangjie3.7z"
+          mkdir -p "$tmpdir/cangjie3"
+          7z x "$tmpdir/cangjie3.7z" "-o$tmpdir/cangjie3" -y
+          cangjie3_dict="$(find "$tmpdir/cangjie3" -path '*/僅漢字/cangjie3.dict.yaml' -print -quit)"
+          if [ -z "$cangjie3_dict" ]; then
+            echo "Could not find 僅漢字/cangjie3.dict.yaml in the Cangjie3 archive." >&2
+            find "$tmpdir/cangjie3" -type f >&2
+            exit 1
+          fi
+          cp "$cangjie3_dict" cangjie3.dict.yaml
+          perl -0pi -e 's/^use_preset_vocabulary: true\R.*?(?=^\.\.\.(?:\R|$))//ms' cangjie3.dict.yaml
+
+          download_latest_release_asset \
+            Jackchows/Cangjie5 \
+            '^RimeData_Cangjie5_[0-9]{8}\.zip$' \
+            "$tmpdir/cangjie5.zip"
+          mkdir -p "$tmpdir/cangjie5"
+          unzip -q "$tmpdir/cangjie5.zip" -d "$tmpdir/cangjie5"
+          cangjie5_dict="$tmpdir/cangjie5/傳統漢字優先（偏好香港用字習慣）/cangjie5_hk.dict.yaml"
+          if [ ! -f "$cangjie5_dict" ]; then
+            echo "Could not find 傳統漢字優先（偏好香港用字習慣）/cangjie5_hk.dict.yaml in the Cangjie5 archive." >&2
+            find "$tmpdir/cangjie5" -type f >&2
+            exit 1
+          fi
+          cp "$cangjie5_dict" cangjie5.dict.yaml
+          perl -pi -e 's/^name: "cangjie5_hk"$/name: "cangjie5"/' cangjie5.dict.yaml
+          perl -0pi -e 's/^use_preset_vocabulary: true\R.*?(?=^\.\.\.(?:\R|$))//ms' cangjie5.dict.yaml
+
+      - name: Build pull request body
+        run: |
+          set -euo pipefail
+
+          body="$RUNNER_TEMP/update-dictionaries-pr-body.md"
+          {
+            echo "Automated monthly dictionary refresh."
+            echo
+            echo "Updated sources:"
+          } > "$body"
+
+          add_source_if_changed() {
+            local file="$1"
+            local source="$2"
+
+            if ! git diff --quiet -- "$file"; then
+              echo "- ${source}" >> "$body"
+            fi
+          }
+
+          add_source_if_changed luna_pinyin.dict.yaml "rime/rime-luna-pinyin"
+          add_source_if_changed loengfan.dict.yaml "CanCLID/rime-loengfan"
+          add_source_if_changed stroke.dict.yaml "rime/rime-stroke"
+          add_source_if_changed cangjie3.dict.yaml "Arthurmcarthur/Cangjie3-Plus latest release"
+          add_source_if_changed cangjie5.dict.yaml "Jackchows/Cangjie5 latest release"
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ github.token }}
+          branch: update-dictionaries
+          delete-branch: true
+          commit-message: Update Dictionaries
+          title: Update Dictionaries
+          body-path: ${{ runner.temp }}/update-dictionaries-pr-body.md

@@ -42,6 +42,7 @@ engine:
     - punct_translator
     - table_translator
   filters:
+    - single_char_filter
     - dictionary_lookup_filter
 
 dictionary_lookup_filter:
@@ -56,6 +57,7 @@ speller:
 
 translator:
   dictionary: cangjie5
+  prism: cangjie5
   enable_sentence: false
   enable_user_dict: false
   encode_commit_history: false
