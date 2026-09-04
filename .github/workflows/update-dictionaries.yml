@@ -1,4 +1,4 @@
-name: Update Dictionaries
+name: Update Reverse Lookup Dictionaries
 
 on:
   workflow_dispatch:
@@ -137,6 +137,6 @@ jobs:
           token: ${{ github.token }}
           branch: update-dictionaries
           delete-branch: true
-          commit-message: Update Dictionaries
-          title: Update Dictionaries
+          commit-message: Update Reverse Lookup Dictionaries
+          title: Update Reverse Lookup Dictionaries
           body-path: ${{ runner.temp }}/update-dictionaries-pr-body.md
