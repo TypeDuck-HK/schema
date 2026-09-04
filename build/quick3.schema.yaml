@@ -1,17 +1,17 @@
 __build_info:
   rime_version: 1.1.4
   timestamps:
-    cangjie5.schema: 1782779665
-    common: 1782779665
-    common.custom: 1782779665
-    default: 1782779665
-    default.custom: 1782779665
-    include: 1782779665
+    cangjie5.schema: 1788502476
+    common: 1788502476
+    common.custom: 1788502476
+    default: 1788502476
+    default.custom: 1788502476
+    include: 1788502476
     include.custom: 0
     quick3.custom: 0
-    quick3.schema: 1782779665
+    quick3.schema: 1788502476
     quick5.custom: 0
-    quick5.schema: 1782779665
+    quick5.schema: 1788502476
 dictionary_lookup_filter:
   dictionary: jyut6ping3_scolar
 engine:

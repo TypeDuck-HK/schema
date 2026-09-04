@@ -27538,6 +27538,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠁚	hsnpnhszsnphszhh
 𠁝	nphssnphhphszhznp
 𠁟	nphssnphnphzhhsspn
+𠁣	szhh
 𠁨	znnszhs
 𠁪	phshszhs
 𠁵	szhssshhshpn
@@ -27562,6 +27563,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠃌	z
 𠃍	hs
 𠃑	z
+𠃛	szhh
 𠃝	zzpn
 𠃣	zspnp
 𠃩	pzpnppp
@@ -27624,6 +27626,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠉱	psppzhnhzp
 𠉴	pshszsnnpn
 𠉵	psnnzhshpn
+𠊎	pshphshhsh
 𠊙	psnnzszhhh
 𠊚	psszhhhhzn
 𠊛	szhhhhznpn
@@ -27735,6 +27738,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠕄	szhsz
 𠕆	hppzh
 𠕇	hpszn
+𠖄	nzszhszh
 𠖈	nzhhpzhsn
 𠖎	nzznznznzn
 𠖘	nzzznnnnszpn
@@ -27742,6 +27746,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠖤	nzhhpzphhhshhhnznn
 𠖥	nznhnphpznnhzhzhhh
 𠖨	nzhhpzhssnzhhpzpppn
+𠖫	nznhnphszhhhshshszhhhpn
 𠖭	nnzz
 𠖯	nnphz
 𠖰	nnzhz
@@ -27762,7 +27767,9 @@ max_phrase_length: 1         # 不生成詞彙
 𠗰	nnhhshpnppp
 𠗸	nnhshszhhhpn
 𠗹	nnhpznsznnnn
+𠗻	nnhszhszznhsh
 𠘃	nnphszhhhshzp
+𠘆	nnhspnhspnhspn
 𠘑	nnhszhszzhznnnn
 𠘕	nnhszhszzhznnnn
 𠘙	nnpszhhzznzznhspn
@@ -27782,6 +27789,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠛬	hhshhssz
 𠜎	phshpzsz
 𠜏	szhszssz
+𠜖	pnnphznsz
 𠜬	psszhhhzp
 𠜭	zphzhnzpz
 𠜮	phzznnhsz
@@ -27805,6 +27813,8 @@ max_phrase_length: 1         # 不生成詞彙
 𠞠	zpphspnphhpn
 𠞡	szhsnzpzhhsz
 𠞢	hhshnphhshzp
+𠞩	nhzznnnpnhssz
+𠞭	szhhszhszphsz
 𠞸	pszhhhznnnnsz
 𠞹	pnphspnnznnsz
 𠞺	hpznsznhpnszh
@@ -27814,6 +27824,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠟲	pszpnphspnhhzsz
 𠟸	nhhhszhhshszhsz
 𠟹	zpznzzhpszhhhpn
+𠠃	pnpnhshhhshhhhsz
 𠠇	pznzphshzzhshsz
 𠠉	pzsznhpszhhhpnsz
 𠠊	sznphszsszhszhhh
@@ -27821,7 +27832,9 @@ max_phrase_length: 1         # 不生成詞彙
 𠠑	phnphnzhhznzssz
 𠠙	nnzhpnnpszhhzpnsz
 𠠚	shshpnpnhpnpnzssz
+𠠝	hpphspnphspnshshsz
 𠠩	szhshpznszhnphpzhhsz
+𠠫	hsznhsznnhpzsshhzhzsz
 𠠬	phnphnpnhszhszhpnpnsz
 𠠭	nhpspnzppshzpzhzpzszhh
 𠠺	hhpzzp
@@ -27833,6 +27846,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠡳	hpszszhhzp
 𠡺	hshznzzszp
 𠢑	hphhzpnhznzp
+𠢕	hshnhzpphpnzp
 𠢝	szhhszsshznzp
 𠢞	hzhpznszhhhzp
 𠢟	szhhhzphzhpzn
@@ -28032,6 +28046,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠴥	szhnnnnzpz
 𠴨	szhnnzszhzh
 𠴫	szhshhzpnzn
+𠴭	szhszhhpzpp
 𠴰	szhpznpnszh
 𠴱	szhszhsszhh
 𠴲	szhzzpnszhh
@@ -28169,6 +28184,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠹼	szhnnznhnphhs
 𠹽	szhhssnhzppn
 𠹾	pnnpnzznzpszh
+𠺅	szhhpznsznnnn
 𠺌	szhpszhshpzzn
 𠺕	szhpznzpszhsh
 𠺖	szhnhszhshpzn
@@ -28179,6 +28195,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠺟	szhnhphszhhhs
 𠺠	szhnhnphszhhz
 𠺢	szhnnzhpzpppn
+𠺣	szhzhhznnpnsz
 𠺥	zpszhpnnpnzzn
 𠺦	szhpshsshszhh
 𠺧	szhpssphpnhspn
@@ -28223,6 +28240,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠻗	szhnhpnzsszshn
 𠻘	szhzpnpsnhhhsh
 𠻝	szhszhszhpnppp
+𠻞	szhnhpzhhznnpn
 𠻤	szhnnzhszhshpn
 𠻥	szhzzzszhhhspn
 𠻪	szhnnnnppnnppn
@@ -28579,6 +28597,7 @@ max_phrase_length: 1         # 不生成詞彙
 𡌡	hshnpzhzsp
 𡌢	hshpnnzszh
 𡌣	hshszsshpz
+𡌴	hsszhhhzhsh
 𡌶	hshnphssnph
 𡌺	hshznszhshn
 𡌽	hshnhpshszh
@@ -28804,6 +28823,7 @@ max_phrase_length: 1         # 不生成詞彙
 𡟃	zphshhspznzz
 𡟇	zphzzhpzpppn
 𡟈	zphpphsszhhh
+𡟓	zphnhszhpzpn
 𡟙	zphszhhphhsh
 𡟚	zphpzznszssh
 𡟛	zphzhpnphhps
@@ -28912,6 +28932,7 @@ max_phrase_length: 1         # 不生成詞彙
 𡧳	nnzhszpzh
 𡨌	nnzhznszhs
 𡨚	nnzpzszhpz
+𡨞	nnzzhhnzzn
 𡨤	nnzznznznzn
 𡨧	nnznhpnpnhs
 𡨭	nnzhspnpnzn
@@ -29013,6 +29034,7 @@ max_phrase_length: 1         # 不生成詞彙
 𡳛	zhpnphspnhshszh
 𡳜	zhpphhzphspnzzh
 𡳝	zhpphhznhpnpnhs
+𡳞	zhpnphspnpznhzs
 𡳢	zhpnhshpszhhzzs
 𡳣	hshpszhhzzszhpn
 𡳤	zhpnhshpszhhzzs
@@ -29083,6 +29105,7 @@ max_phrase_length: 1         # 不生成詞彙
 𡼞	szshshpszhhzzs
 𡼸	szsphnphnzhhhhs
 𡼹	szsphspnhshpnpzn
+𡽜	szsphspnsznhhhszh
 𡽪	szsppshzznspnphpn
 𡽫	szszphhszhspnphpn
 𡽶	szspszhhhszhshhps
@@ -29127,6 +29150,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢄂	szhhhzpnhszs
 𢄃	szsnnnpppzpn
 𢄝	pszhhszspzzhz
+𢄧	nhzpphphhpnszs
 𢄩	szshsshpznzszs
 𢄪	szsznnznnpnppp
 𢄯	szsphzznnhphpn
@@ -29177,6 +29201,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢌞	szzhzzzn
 𢌡	sznpszhzzn
 𢌥	szhphshzzn
+𢎙	zzzz
 𢎭	zhzszs
 𢎽	zhzpzzn
 𢏐	zhznzpzn
@@ -29192,6 +29217,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢑊	zhzphshpzphshpzszhhhpn
 𢑥	zznzszhhhspn
 𢑱	zhhnphspnpnzphpn
+𢒉	pppszhhh
 𢒋	nzzpnppp
 𢒎	nzhhpzppp
 𢒑	pnpnhhsppp
@@ -29202,6 +29228,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢓉	ppshpzn
 𢓌	ppsnhpn
 𢓚	ppszhppz
+𢓜	ppspznszh
 𢓭	ppsznpzpzn
 𢓳	ppsszhshhz
 𢔓	ppshhhpnhhs
@@ -29263,6 +29290,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢚹	nsnszhhhhz
 𢚼	nsnszspzzn
 𢚽	nsnnnnhszz
+𢛟	nsnhshzzhsh
 𢛳	hsszsshhnznn
 𢛴	nsnzzhszssh
 𢛵	nsnpnnpzhhz
@@ -29280,6 +29308,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢜡	nsnnhnphzph
 𢜢	nsnppspzszn
 𢜪	nsnshhshpszh
+𢜳	nsnhshszhnph
 𢝃	nhnpnzszsnznn
 𢝘	nsnpshzhhhsh
 𢝙	nsnhpsnszssh
@@ -29473,6 +29502,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢬭	hzhnznhzn
 𢬮	hzhhphznp
 𢬱	hzhhshznzp
+𢬳	hzhphspnpz
 𢬹	hzhzhshhsh
 𢬿	hzhhhpsznp
 𢭃	hzhhszhnph
@@ -29543,8 +29573,10 @@ max_phrase_length: 1         # 不生成詞彙
 𢯦	hzhhspnpnpn
 𢯧	hzhpnpnphpn
 𢯨	hzhhsshszs
+𢯭	hzhnphhpnszs
 𢯮	hzhszhshpznn
 𢯷	hzhzshszhhzs
+𢯾	hzhszhhszhhh
 𢰝	hzhhsshpznp
 𢰤	hzhnhnphzszh
 𢰥	hzhhssznszh
@@ -29573,6 +29605,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢱝	hzhhssszszs
 𢱞	phhzhssszszs
 𢱢	hzhhsnzzznzpn
+𢱤	hzhnphhpnnzzn
 𢱨	hzhnhpnzznzpn
 𢲈	hzhzhpppshszn
 𢲔	hzhhhshnphhsh
@@ -29597,6 +29630,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢲯	hzhnnnhpnpnpn
 𢲱	phhzhhsshszhsh
 𢲲	hzhnzhhznzzs
+𢲴	zhphhspnhznphhz
 𢲵	hzhhszhsshszhh
 𢲷	hzhnnzpznhpnpn
 𢲸	hzhshszpnnnnnh
@@ -29608,6 +29642,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢳞	hzhhsshhhszhsh
 𢳠	hzhhsshpnnhps
 𢳥	hzhphshszhnzzn
+𢳪	hzhhszhspnnzzn
 𢳳	hzhszspnhszhss
 𢴇	hzhhshnphhspzn
 𢴈	hzhphnphnszhhh
@@ -29662,6 +29697,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢵻	hzhnnnhshpszhh
 𢵼	hzhhshshpnhzznp
 𢵽	hzhzshshhszhspn
+𢶀	hzhszsshphhhshhh
 𢶂	hzhnzhszhhhsnzzn
 𢶍	hzhhhpnshhhshhhh
 𢶐	hzhshzphzhszhnph
@@ -29753,15 +29789,20 @@ max_phrase_length: 1         # 不生成詞彙
 𢺝	hzhhsszznnnnszpnhszssh
 𢺤	hzhshhsszhhszhhhsznphspn
 𢺳	hzhnhhhszhzznnnnzznnnnszhshn
+𢺴	hzhphhszshspnhspnnzpnnnnnzshzppp
 𢺹	pnzphszn
 𢺺	hsznpnzp
 𢻯	phpnzzh
+𢻷	zshzshzn
+𢼌	pzzhzshzn
+𢼛	pznszhshzn
 𢼨	pzhpzzshzn
 𢽙	zhpphhzphpn
 𢽚	hpzppnpnshzn
 𢽴	hpzppnpnphpn
 𢽼	zshzpnpnphpn
 𢿌	pzszpnszhhhshzn
+𢿞	hpnnpszhhzpnshzn
 𢿣	hshhshhshhpzshzn
 𢿨	hspnhspnpzhhshzn
 𢿫	hszhspnshznhshsh
@@ -29773,6 +29814,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣁔	nhpnszhhszhh
 𣁦	nhpnhhshshznpnhhsh
 𣁲	nnhspznnn
+𣁳	hhsszhnnhs
 𣁽	pszhshpznnhs
 𣁾	nnhsnnhsnnhs
 𣂃	hshpszhhnnhs
@@ -29925,6 +29967,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣍊	szhhpzpnzzhpnnn
 𣍋	pnhszsnphszhhhsn
 𣍍	nzpzszhpznszhssh
+𣍐	pzpppnhszsnphszhh
 𣍕	szhsshhshhshhshhpz
 𣍗	pnnhpnzsszshnszhssh
 𣍲	pzhhhszhzph
@@ -30050,6 +30093,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣗪	hspnshhspnhspn
 𣗱	phspnszhspnhsn
 𣗳	hspnhszhnphhzn
+𣗺	znszhhspnhsszh
 𣗼	hspnszhszhhhpn
 𣗾	pnhszhssphhspn
 𣗿	hspnnhpsnszhhh
@@ -30199,6 +30243,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣦛	pssnpszszhhshsh
 𣦮	nhpnpnhsshshhphsppznp
 𣦰	hpphspnphspnshshhszhpn
+𣦼	shpznzn
 𣧂	hpznhpn
 𣧑	hpznpnzs
 𣨕	hpznszhpszh
@@ -30208,6 +30253,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣨰	hzhphzhpznhz
 𣩁	hpznhzhzhpphs
 𣩂	hzhpphshpznhz
+𣩈	hpznnphhshphsh
 𣩦	hpznhshhshhshhpz
 𣩸	hpszhnhpnpnhshpznhz
 𣪘	pszhhhzpzzn
@@ -30227,6 +30273,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣭰	znphhsphhz
 𣭻	szhshshphhz
 𣮇	szhzhpnphhz
+𣮈	zhpszszsphhz
 𣯡	nhnphszhhzphhz
 𣰋	hszhhhszhhhpnphhz
 𣰏	phhzszspszhshpzzn
@@ -30253,6 +30300,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣲛	pnphzzpn
 𣲠	nnnhpzn
 𣲦	zzpnspnp
+𣲩	nnnzshz
 𣲵	nnnszhpn
 𣲷	nnnszznh
 𣲹	nnnszhsh
@@ -30315,6 +30363,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣸏	nnnzphznphhz
 𣸑	nnnhspnhhspn
 𣸣	nnnhshssszpn
+𣸤	nnnszsshnhzp
 𣸬	nnnszhhzpszh
 𣸭	nnnszhhnhnph
 𣸮	nnnpnhznhhzn
@@ -30362,6 +30411,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣻽	nnnpzhhhzzzhsh
 𣻾	nnnszhhhshspnp
 𣼍	nnnszspnhszhss
+𣼎	nnnzpnpsnhhhsh
 𣼩	nnnzzspnnzhhzn
 𣼪	pnnnnhphszhznp
 𣼫	nnnszhhhshznzz
@@ -30448,6 +30498,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤁙	hzhpnnnnhphszhznp
 𤁛	nnnhshpszhhpzzzh
 𤁠	nnnpznnphhszsnzzn
+𤁢	nnnzpnpsnhhhshhznp
 𤁩	nnnpphspphsszhhhpn
 𤂅	nnnhhshpzhhpnnphzn
 𤂋	nnnshhszzzszhhhspn
@@ -30579,6 +30630,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤊬	nppnphhhshhh
 𤊭	nppnnhphhspn
 𤊰	nppnnhsspnzn
+𤊶	nppnhszhspnsz
 𤊿	nppnhhspshzhh
 𤋁	szhhhpzppnnnn
 𤋉	nppnszhhnhzzn
@@ -30615,6 +30667,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤍋	nhhhszhphznnnn
 𤍌	hshzshpzhhnppn
 𤍑	nppnzznnnnpznnn
+𤍒	nppnzzzszhhhspn
 𤍢	nppnnppnnppnhsh
 𤍣	nppnnhzpnhzphsh
 𤍤	nppnnhnphszhhhs
@@ -30652,12 +30705,14 @@ max_phrase_length: 1         # 不生成詞彙
 𤏸	nppnshhshshpszhh
 𤐄	nppnnphpzhhsz
 𤐓	nppnnnnpnnpzznhpn
+𤐙	nppnzhpszhnhnphhs
 𤐚	nppnnhnphszhhpzpn
 𤐛	nppnszhhszhhnhszs
 𤐜	nppnszspszhshpzzn
 𤐝	nppnhnzshhhhszhsh
 𤐠	nppnnhpsnzzhznnpn
 𤐡	nppnhshpszhshpzzn
+𤐰	nppnshhspsnhhhshzn
 𤐵	nppnhshszhnphzpszh
 𤐶	nppnnhszhnzhpzpppn
 𤑈	nppnppsszshhshphpn
@@ -30706,6 +30761,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤕔	szhphzpnpn
 𤕸	zshpnhphsh
 𤖡	zshpnnzhpnnpszhhzpn
+𤖯	pshzhpsn
 𤖶	pshzhszpn
 𤖸	pshznhhsh
 𤖹	pshznhnph
@@ -30717,6 +30773,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤗹	pshzpnphspnszhsh
 𤘁	pshzhssnzhhpzpppn
 𤘂	pshzhssszsshnzpzn
+𤘅	hzzpzzh
 𤘋	hzzpphzhznp
 𤘓	hzzpnnznznnszsshhz
 𤘘	phshszh
@@ -30758,6 +30815,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤞕	pzphszhsh
 𤞖	pzphhhspn
 𤞘	pzppshhsh
+𤞚	pzpsnppznn
 𤞦	pzpphzznnh
 𤞧	pzpszhspnh
 𤞨	pzphpzhhsn
@@ -30796,6 +30854,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤡚	pzpzhhznhzpz
 𤡛	pzpnnzhszsshhz
 𤡮	pzppznnhpnnnnnn
+𤡯	pzppshzhhhznnnn
 𤢂	pzphszsshnphspn
 𤢇	pzpphnphnzhhhhs
 𤢈	pzpznppnhszhnph
@@ -30984,6 +31043,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤰖	szhshzn
 𤲂	szhshpnpshsn
 𤲌	hhshhpsszhsh
+𤲍	szhhshpnpnpn
 𤲞	pnnphspnszhsh
 𤲟	szhshhhshpzhh
 𤲼	szhshhzpnszhhzp
@@ -31019,6 +31079,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤵴	nhpnnpshsh
 𤵶	nhpnnshzhz
 𤵺	nhpnnszhhzp
+𤶃	nhpnnpnnzpn
 𤶄	nhpnnpshhsh
 𤶈	nhpnnhszpzh
 𤶎	nhpnnphhspn
@@ -31051,6 +31112,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤷴	nhpnnpsnhpzpn
 𤷵	nhpnnhshpzszn
 𤷶	nhpnnhhshpzpn
+𤸁	nhpnnzzhpzpppn
 𤸄	nhpnnszsshzzpn
 𤸎	nhpnnszhhpzpnz
 𤸒	nhpnnszhhszshn
@@ -31076,9 +31138,11 @@ max_phrase_length: 1         # 不生成詞彙
 𤹽	nhpnnnhhhszhszpn
 𤹾	nhpnnszhhphzznnh
 𤹿	nhpnnpzszhshnnnn
+𤺅	nhpnnszszshhspnzn
 𤺋	nhpnnhszhhhspnppp
 𤺥	nhpnnphnphnpnhszh
 𤺧	nhpnnnpszsnphszhh
+𤺪	nhpnnnphhhsnphszh
 𤺭	nhpnnphnphnzhhhhs
 𤺮	nhpnnnzhppsnhhhsh
 𤺯	nhpnnszhhszhhnznn
@@ -31134,6 +31198,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤾸	pszhhshhsnpzzznnnn
 𤿂	pszhhhpnszspnpnpnpnhhshn
 𤿍	pzsznhhz
+𤿎	hzhzpzszn
 𤿤	phnphnpzszn
 𤿦	pzsznpznpzn
 𤿪	phszhhspzszn
@@ -31228,6 +31293,7 @@ max_phrase_length: 1         # 不生成詞彙
 𥈿	szhhhhshszhhhpn
 𥉌	szhhhshhspnhszh
 𥉐	szhhhpnnpzznhpn
+𥉔	hsshhhnppnszhhh
 𥉩	nhnphszhhzszhhh
 𥉪	szhhhnnnphzznnh
 𥉫	szhhhnhnphszhhz
@@ -31283,6 +31349,7 @@ max_phrase_length: 1         # 不生成詞彙
 𥌑	szhhhshnzhpnpnszhhh
 𥌓	szhhhszsshhshpnszhh
 𥌙	zshpszhhhnhphszhhhs
+𥌚	szhhhhshszsshszhhhpn
 𥌛	szhhhphspnpzppnznnpn
 𥌥	szhhhnhhhszhszhhhspn
 𥌦	szhhhhhpnhhpnhszhhhs
@@ -31292,6 +31359,7 @@ max_phrase_length: 1         # 不生成詞彙
 𥌷	szhhhnnzhhshszsshnznn
 𥌸	szhhhszhhszhhpzpshzhh
 𥌹	szhhhpnhhsnphpszhhszs
+𥍉	szhhhhsshhhhsshhhhsshhh
 𥍍	szhhhhsshszhszphhszssh
 𥍎	szhhhszhhszshnhpszhhhpn
 𥍑	szhhhhszhhhsphpnszhszszh
@@ -31303,6 +31371,7 @@ max_phrase_length: 1         # 不生成詞彙
 𥏋	phshpzphhpn
 𥏌	phhpnphshpz
 𥏍	phhpnpznszh
+𥏘	phhpnzhpszszs
 𥏪	phhpnhzhzpszhh
 𥏿	phhpnszhhszhhszh
 𥐆	phhpnhszhnphnphhs
@@ -31324,6 +31393,7 @@ max_phrase_length: 1         # 不生成詞彙
 𥐮	hpszhzhpn
 𥐯	hpszhhhzn
 𥐰	hpszhhpnz
+𥐵	hpszhhpzz
 𥑂	hpszhhszn
 𥑃	hpszhnhsn
 𥑆	hpszhzpszh
@@ -31564,7 +31634,9 @@ max_phrase_length: 1         # 不生成詞彙
 𥯒	phnphnhshszhznp
 𥯓	phnphnhsshhhpzz
 𥯝	phnphnnnzpzhpnn
+𥯟	phnphnphhzhhhhs
 𥯤	phnphnzshszhhzs
+𥯥	phnphnhhspshzhh
 𥯨	phnphnszhshnznn
 𥯪	phnphnhhhpnhhpn
 𥰁	phnphnnhzpphhsh
@@ -31573,6 +31645,7 @@ max_phrase_length: 1         # 不生成詞彙
 𥰇	phnphnnhhhszhhs
 𥰈	phnphnpsszhhhsh
 𥰊	phnphnpnhszhhsn
+𥰔	phnphnszhszhszh
 𥰡	phnphnhszspnphpn
 𥱊	phnphnnhphsshszs
 𥱋	phnphnnnnzpnhspn
@@ -31602,6 +31675,7 @@ max_phrase_length: 1         # 不生成詞彙
 𥳐	phnphnszhhszhhhhps
 𥳓	phnphnphspnsnppznn
 𥳾	phnphnpnhhsnphpzhh
+𥴊	phnphnhshsshhhphpn
 𥴗	phnphnzznnnnnhznpz
 𥴘	phnphnzphhsshhhspn
 𥴙	phnphnhspnshszhhhs
@@ -31717,6 +31791,7 @@ max_phrase_length: 1         # 不生成詞彙
 𥽍	nphspnhspnhspnhhspn
 𥽎	nphspnzphnphzhhsspn
 𥽔	nphspnzznnnnpszhhszs
+𥽕	nphspnnnzpznnznhhspn
 𥽜	nphspnshzphzszhshnznn
 𥽡	pnzpnphspnszhshhsshpn
 𥽢	nphspnhspnpnpnhspnhpn
@@ -31805,6 +31880,7 @@ max_phrase_length: 1         # 不生成詞彙
 𦂿	zznnnnhsnzzzhzp
 𦃀	zznnnnppshshhzn
 𦃐	zznnnnznnnszhshn
+𦃓	zznnnnpznzpszhsh
 𦃭	zznnnnpszhhhzszs
 𦃮	zznnnnhssnhzppn
 𦃯	zznnnnszhshpzszn
@@ -31861,6 +31937,7 @@ max_phrase_length: 1         # 不生成詞彙
 𦈂	zznnnnpnhzhhznhshhshhshhpz
 𦈡	zzhhnzshhhhhpszss
 𦈽	phhszspnnpnzzn
+𦉎	phhszsszspsnhhhsh
 𦉘	phhszssnpnzszhhzzp
 𦉡	phhshshszhhhnzsnnpnhhzn
 𦉪	szpz
@@ -31869,6 +31946,7 @@ max_phrase_length: 1         # 不生成詞彙
 𦉱	szsshhz
 𦊂	szsshhzzh
 𦊆	szsshshsh
+𦊓	szsshpnhzn
 𦊚	szsshhspnh
 𦊛	szsshzhszh
 𦋐	nzpzshszhhhs
@@ -31908,6 +31986,7 @@ max_phrase_length: 1         # 不生成詞彙
 𦒉	snphpzznnznnpszhh
 𦒍	nhnphszhhhshznnznn
 𦒘	hszsshhpnzhzznnznn
+𦒨	znnznnnnzshhsszhhhpzn
 𦒮	nhnphpznnhzhzhhhznnznn
 𦒵	hshphzszh
 𦒹	hshphznhpn
@@ -31935,6 +32014,7 @@ max_phrase_length: 1         # 不生成詞彙
 𦗝	hsshhhhszhhhspphs
 𦗞	hsshhhnnzhpnhszhz
 𦗽	hsshhhnhpnnpszhhpzn
+𦘅	hsshhhnhphsshhszhshpn
 𦘒	zhhhs
 𦘦	nzhpszhphpnzhhhhs
 𦘧	zhpphhzzhhhshszhshh
@@ -31977,6 +32057,7 @@ max_phrase_length: 1         # 不生成詞彙
 𦛾	pzhhnsnzshh
 𦛿	pzhhhssnhz
 𦜀	pzhhszhhpnn
+𦜆	pznnzznnpnzs
 𦜖	pznnhshzzhsh
 𦜘	pznnpnnpzzhz
 𦜝	pzhhnhpnpshh
@@ -32392,9 +32473,11 @@ max_phrase_length: 1         # 不生成詞彙
 𧇍	phhszsshzphzpz
 𧈛	pnnhpnzsszshnppshzphzpz
 𧈣	szhshnpz
+𧉅	szhshnzhhp
 𧉙	szhshnhzsz
 𧉚	szhshnpzpp
 𧉝	szhshnhshz
+𧉟	szhshnznszh
 𧉧	szhshnhshzn
 𧉻	szhshnnphhs
 𧊀	szhshnzpszh
@@ -32434,6 +32517,7 @@ max_phrase_length: 1         # 不生成詞彙
 𧋿	szhshnnsnzhpn
 𧌀	szhshnhhpnszh
 𧌂	szhshnshshspp
+𧌄	szhshnhpnszhhz
 𧌆	szhshnnnzpzhsh
 𧌇	szhshnpzhhpzhh
 𧌎	szhshnszhsshpn
@@ -32573,6 +32657,7 @@ max_phrase_length: 1         # 不生成詞彙
 𧜗	nhpspnshhhsznnnn
 𧜘	nhpspnszhszhhhpn
 𧜙	nhpspnhshszhhhpn
+𧜞	nhpspnszhhszsshzn
 𧜣	nhpspnpszhhhznnnn
 𧜵	nhpspnhsshpznzszs
 𧜶	nhpspnhszhszznhsh
@@ -32645,6 +32730,7 @@ max_phrase_length: 1         # 不生成詞彙
 𧨾	nhhhszhnzpzhspn
 𧩓	nhhhszhpzppnznn
 𧩙	nhhhszhszhhhzzn
+𧩣	nhhhszhzzzpszpnh
 𧩹	nhhhszhnhzpphzsz
 𧪄	nhhhszhpsnhhhszh
 𧪽	nhhhszhhssnphszhh
@@ -32661,6 +32747,7 @@ max_phrase_length: 1         # 不生成詞彙
 𧬺	nhhhszhshhsnhnpnzszs
 𧭈	nhhhszhnnznznnszsshhz
 𧭥	nhhhszhpszhhzznzznhspn
+𧮙	ssnphnphhspshzhhpzznnhhhszh
 𧮞	nhhhszhszhhhszhhhpsnhhhshzn
 𧮪	nzshszh
 𧮳	pnpnszhhsshh
@@ -32676,6 +32763,7 @@ max_phrase_length: 1         # 不生成詞彙
 𧰗	hszhnphnnznznnszsshhz
 𧰜	shzphzhszhnphphszhhhsh
 𧰦	hpzpppnz
+𧰵	hpzppnpnpzzn
 𧰼	pzszpnpzpppn
 𧱬	hpzpppnpnhpzhhsz
 𧱺	hpzpppnpshpnhszhz
@@ -32737,12 +32825,14 @@ max_phrase_length: 1         # 不生成詞彙
 𧺂	hshpszhhszhhhpzhshpzpn
 𧺃	hshpzpnhshpszhhszhhhpz
 𧺕	hshshpnpzn
+𧺤	hshshpnpzpz
 𧻐	hshshpnnhpnhzn
 𧻙	hshshpnhpszhh
 𧻚	hshshpnhszhhh
 𧻩	hshshpnhshphz
 𧻪	hshshpnhhpznp
 𧻭	hshshpnszhhzp
+𧻴	hshshpnnzhhzpn
 𧼋	hshshpnpnnpzpp
 𧼌	pnnpzpphshshpn
 𧼍	hshshpnzhhnppn
@@ -32759,6 +32849,7 @@ max_phrase_length: 1         # 不生成詞彙
 𧿫	szhshshnnhs
 𧿬	szhshshpzsz
 𧿭	szhshshszhh
+𧿳	szhshshzhzps
 𧿹	szhshshzznnh
 𧿺	szhshshszszs
 𨀂	hpszhszhshpn
@@ -32822,6 +32913,7 @@ max_phrase_length: 1         # 不生成詞彙
 𨂼	szhshshpnnpzpppn
 𨂽	szhshshhpszhzzpn
 𨂾	szhshshhssznphhs
+𨂿	szhshshhpsnhshsh
 𨃈	szhshshhsshpnzhz
 𨃉	szhshshppshshhzn
 𨃊	szhshshshszhnnnn
@@ -32882,6 +32974,7 @@ max_phrase_length: 1         # 不生成詞彙
 𨅍	szhshshszhhszhhszhh
 𨅏	szhshshszspzhszhshn
 𨅐	phhsssshnnnnszhshpn
+𨅔	szhshshhzpzhzpzszhh
 𨅝	szhshshsnpnzszhhzzp
 𨅞	szhshshphnphnpnhszh
 𨅥	szhshshphhhshhhnznn
@@ -32997,6 +33090,7 @@ max_phrase_length: 1         # 不生成詞彙
 𨑳	phshnzzn
 𨑻	nzpznzn
 𨒂	pshshnzzn
+𨒇	szhhsnzzn
 𨒒	hzphsnzn
 𨒟	pznnnnzn
 𨒸	hpszzhnzn
@@ -33079,6 +33173,7 @@ max_phrase_length: 1         # 不生成詞彙
 𨡨	hszpzhhhsshhhpn
 𨡼	hszpzhhssznszssh
 𨢇	hszpzhhpznzpszhsh
+𨢑	hszpzhhpphzhhsspn
 𨢟	hszpzhhhssnhzppn
 𨢥	hszpzhhszhhszsshzn
 𨢻	hszpzhhszhhhzhhzpn
@@ -33453,6 +33548,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩍜	hsshszhhsszsshhshnphhs
 𩍢	hsshszhhshnzsnnpnszhsh
 𩍣	hsshszhhsshhshsshzhspn
+𩏠	zshszhhzsznppnhszhnph
 𩏳	zshszhhzspszhhpszhshpzzn
 𩐝	nhnphszhhpzszh
 𩐠	nhnphszhhhsshpn
@@ -33460,6 +33556,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩐿	nhnphszhhszhhnhszhzpn
 𩑈	nhnphszhhnhphsshhszhshpn
 𩑰	szhhhhpszhhhpn
+𩑾	pzhzhhpszhhhpn
 𩒐	hznhshhpszhhhpn
 𩒱	szhspnhhpszhhhpn
 𩓐	hsnzzzhhpszhhhpn
@@ -33470,6 +33567,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩓥	pshshszshpszhhhpn
 𩓧	nnzszhhhhpszhhhpn
 𩓪	zzhznnpnhpszhhhpn
+𩔵	hspnhspnzphhpszhhhpn
 𩕆	nhnphszhhhshpszhhhpn
 𩕳	nnznznnszsshhzhpszhhhpn
 𩖅	szhhszhszphphpnhpszhhhpn
@@ -33501,19 +33599,24 @@ max_phrase_length: 1         # 不生成詞彙
 𩚔	pnhzhhznzph
 𩚦	pnhzhhznhzzp
 𩚧	pnhzhhznhznp
+𩚨	pnhzhhznpshsh
 𩚩	pnhzhhznhsszh
 𩛂	pnhzhhznzphzn
 𩛃	pnhzhhznppznn
 𩛄	pnhzhhznhszpn
 𩛜	pnhzhhznnhpnhzn
+𩛩	pnhzhhznhpnpnpn
 𩛰	hznnpnnpnhzhhzpn
 𩛷	pnhzhhznhpsnszh
 𩛸	pnhzhhznphzznnh
 𩜁	pnhzhhznhshpzpzn
+𩜄	pnhzhhznhshzzhsh
+𩜇	pnhzhhznnphhpnzz
 𩜙	pnhzhhznhshsshpz
 𩜠	pnhzhhznszshpszh
 𩜪	pnhzhhznhpnhhspn
 𩜫	pnhzhhznhspnphpn
+𩜰	pnhzhhznhszhszhsh
 𩜲	pnhzhhznphszhhpzn
 𩜶	pnhzhhznpnhpzhhsz
 𩜽	pnhzhhznnhpnhpppp
@@ -33525,6 +33628,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩟂	pnhzhhznszhsszszhnzzn
 𩟆	pnhzhhznhphshpznnnzzn
 𩟔	pnhzhhznnnzpznnznhhspn
+𩟗	nnnhszhhhspphspnhzhhzpn
 𩟡	pnhzhhznssnphnphhshhzn
 𩟢	pnhzhhznshhsnnnhpzhhsn
 𩟬	pnhzhhznhpszhhpszhhpszh
@@ -33555,6 +33659,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩣑	shhhsznnnnnnzzph
 𩣪	shhhsznnnnhzzzhsh
 𩣱	shhhsznnnnhshpzhsh
+𩣳	shhhsznnnnhszhhspn
 𩣺	shhhsznnnnhpnhshps
 𩤃	shhhsznnnnhshzzhsh
 𩤅	shhhsznnnnzhphsszh
@@ -33572,6 +33677,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩧃	shhhsznnnnhpshhsszhhszshn
 𩧉	shhhsznnnnnhphsshhszhshpn
 𩧍	shhhsznnnnhpszhhpszhhpszh
+𩨑	szhsnzpznnhz
 𩨜	szhsnzpznnzshz
 𩨨	szznzpzhhhzhz
 𩨼	szhsnzpzhhpshsh
@@ -33630,6 +33736,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩵜	pzszhshnnnnpzz
 𩵝	pzszhshnnnnhzp
 𩵞	pzszhshnnnnphs
+𩵱	pzszhshnnnnphhs
 𩵼	pzszhshnnnnhpzn
 𩵽	pzszhshnnnnnznn
 𩵾	pzszhshnnnnhszn
@@ -33652,6 +33759,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩸆	pzszhshnnnnhpnszhhz
 𩸕	pzszhshnnnnshhhhzpn
 𩸘	pzszhshnnnnnnzszhzh
+𩸙	pzszhshnnnnzhhznnpn
 𩸭	pzszhshnnnnppzhhpnn
 𩸮	pzszhshnnnnhhhpnhhs
 𩸯	pzszhshnnnnznznznzn
@@ -33716,6 +33824,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩼢	zhpszhnhnphhspzszhshnnnn
 𩼣	pzszhshnnnnszhsszszhnzzn
 𩼤	pzszhshnnnnnhszszhhphspn
+𩼧	pzszhshnnnnnnzhsppszhhhpn
 𩼨	pzszhshnnnnhzphhpnznzshpn
 𩼰	pzszhshnnnnshhszznzznnznn
 𩼷	pzszhshnnnnssnphnphhshhzn
@@ -33747,6 +33856,7 @@ max_phrase_length: 1         # 不生成詞彙
 𪀄	shszhpszhhhznnnn
 𪀅	ppznnpszhhhznnnn
 𪀆	pshshpszhhhznnnn
+𪀋	pszhhhzszhhs
 𪀎	szhpnpszhhhznnnn
 𪀐	pszhhhznnnnpnhpn
 𪀔	pszhhhznnnnhshhzn
@@ -33861,6 +33971,7 @@ max_phrase_length: 1         # 不生成詞彙
 𪎩	nhphspnhspnszhsszszh
 𪏭	phspnszpnznnpn
 𪐀	phspnpnznnpnpznpzn
+𪐞	sznphhshnnnnphz
 𪐢	sznphhshnnnnhsh
 𪐴	sznphhshnnnnnhhsh
 𪐷	sznphhshnnnnnhzzn
@@ -33879,10 +33990,12 @@ max_phrase_length: 1         # 不生成詞彙
 𪔚	hshszhnphhsznszhszh
 𪔠	hhshhpshshszhnphhszn
 𪔡	szhhhpnhshszhnphhszn
+𪖐	pszhhhszhshhpsz
 𪖠	pszhhhszhshhpszpszh
 𪖫	pszhhhszhshhpsphzznnh
 𪖬	phzznnhpszhhhszhshhps
 𪖭	pszhhhszhshhpsszhhhhzn
+𪖶	pszhhhszhshhpsnhzznnnpnhs
 𪖺	pszhhhszhshhpszhhznhzpz
 𪗀	pszhhhszhshhpsszhhpzpnzpzpn
 𪗆	nhpnhnpszppznpshh
@@ -33891,6 +34004,7 @@ max_phrase_length: 1         # 不生成詞彙
 𪘁	shshpnpnhpnpnzspnhszh
 𪘂	hhshzpshshnphspnzs
 𪘌	shshpnpnhpnpnzshszhpn
+𪘒	shshpnpnhpnpnzspnhzszh
 𪘚	shshnphspnzshszhszh
 𪘨	shshpnpnhpnpnzshspnpnpn
 𪘲	shshpnpnhpnpnzsnnzszhhh
@@ -33906,8 +34020,10 @@ max_phrase_length: 1         # 不生成詞彙
 𪛅	szhshshpznszhpzszhhszzzhzhhpn
 𪛇	pzszhhszzzhzhhpnszszhnhszszhhh
 𪜱	pnphspn
+𪜶	psszhpnh
 𪝼	psszhhhpnszhhhpnzph
 𪟝	hhshszpnzp
+𪢼	hshpspz
 𪣏	hshnpnsns
 𪣻	hshnphspnzph
 𪤗	hshznnznnpnppp
@@ -33917,11 +34033,13 @@ max_phrase_length: 1         # 不生成詞彙
 𪨶	szshpnhzhs
 𪩘	szshssznphhshpnn
 𪬬	nnnhpzhhsnpnznnn
+𪳕	hspnphsshhhzpn
 𪵥	phhzphzznnh
 𪷤	nnnnhszszhhhhspn
 𪷫	nnnhpzhhsnpnznnpn
 𪷽	nnnphshpzphshpzszpn
 𪸛	nppnhhshn
+𪹚	nppnnhnpnznhzp
 𪻁	pzpnphssnph
 𪻚	hhshshhspn
 𪻳	hhshhssznphhs
@@ -33951,6 +34069,7 @@ max_phrase_length: 1         # 不生成詞彙
 𫑡	szhszhhzzzs
 𫒇	pnhhsnphphz
 𫓧	phhhzhhpn
+𫓩	phhhzpnpn
 𫓯	phhhzhshhsh
 𫓶	phhhzszhpzhh
 𫓹	phhhzhsshhhpn
@@ -49199,7 +49318,9 @@ max_phrase_length: 1         # 不生成詞彙
 𠗰	nhhhshpnppp
 𠗸	nhhshszhhhpn
 𠗹	nhhpznssnnnn
+𠗻	nhhszhszznhsh
 𠘃	nhphszhhshhzp
+𠘆	nhhspnhspnhspn
 𠘑	nhhszhszzhznnnn
 𠘕	nhhsszhszzhznnnn
 𠘙	nhpszhhzznzznhspn
@@ -49214,6 +49335,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠛬	hhphhsss
 𠜎	phshpzss
 𠜏	szhszsss
+𠜖	pnnphsnss
 𠜭	zphshnzpz
 𠜮	phzznhnss
 𠜯	phshszhss
@@ -49230,6 +49352,8 @@ max_phrase_length: 1         # 不生成詞彙
 𠞛	nzhpznhznhss
 𠞟	nhszhszszhss
 𠞡	szhsnzszhhss
+𠞩	nhzznnhpnhsss
+𠞭	szhhszhszphss
 𠞸	pszhhhznnnnss
 𠞹	pnphspnnznnss
 𠞺	hpznssnhpnszh
@@ -49238,6 +49362,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠟲	pszpnphspnhhzss
 𠟸	nhhhszhhshszhss
 𠟹	zpznzshpszhhhpn
+𠠃	pnpnhshhhshhhhss
 𠠇	pznzphshzzhshss
 𠠉	zpsznhpszhhhpnss
 𠠊	sznphszssshszhhh
@@ -49245,7 +49370,9 @@ max_phrase_length: 1         # 不生成詞彙
 𠠑	phnphnzhhznzsss
 𠠙	nnzhpnnpszhhspnss
 𠠚	shshpnpnhpnpnzsss
+𠠝	hpphspnphspnshshss
 𠠩	szhshpznszhnphszhhss
+𠠫	hsznhsznnhpzsshhzhzss
 𠠬	phnphnpnhszhszhpnpnss
 𠠭	nzspnzppshzpzhzpzszhh
 𠡺	hshznzszp
@@ -49377,8 +49504,10 @@ max_phrase_length: 1         # 不生成詞彙
 𠹷	szhzphphshzpn
 𠹺	szhhshszhhshh
 𠹻	szhpzhhpzhhpn
+𠺅	szhhpznssnnnn
 𠺘	szhnnhnzhhzpn
 𠺙	szhzhhzpnnzn
+𠺣	szhzhhsnhpnss
 𠺧	szhpsspznhspn
 𠺩	szhnnhnhznpsz
 𠺮	szhszhhhshhsn
@@ -49397,6 +49526,7 @@ max_phrase_length: 1         # 不生成詞彙
 𠻋	szhhsshpszhhs
 𠻗	szhnhpnzsszzn
 𠻘	szhspnpsnhhhsh
+𠻞	szhnhpzhhsnhpn
 𠻪	szhnnhnppnnppn
 𠻬	szhhshspnhhspn
 𠻱	szhzshshpzpzn
@@ -49768,6 +49898,7 @@ max_phrase_length: 1         # 不生成詞彙
 𡻕	szshphhspnzpn
 𡼞	szshshpszhhzs
 𡼹	szshspnhshpnpzn
+𡽜	szsphspnssnhhhszh
 𡾞	szsnphhshphspnhzzpn
 𡾫	szsphspnzphpszhhhpn
 𡾬	szsphnphnhshhsznnnn
@@ -49864,6 +49995,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢚹	nnsszhhhhz
 𢚼	nnsszspzn
 𢚽	nnsnnhhszz
+𢛟	nnshshzzhsh
 𢛳	hpszsshhnznn
 𢛴	nnszshszssh
 𢛵	nnsppnnzhhs
@@ -49876,6 +50008,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢜡	nnsnhnphzph
 𢜢	nnsppszpszn
 𢜪	nnshshshpszh
+𢜳	nnshshszhnph
 𢝘	nnspshzhhhsh
 𢝙	nnshpsnszssh
 𢝚	nnsnnhphshpz
@@ -50056,6 +50189,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢬭	hshnznhsn
 𢬮	hshhphzpn
 𢬱	hshhshznzp
+𢬳	hshphspnpz
 𢬹	hshhshzhsh
 𢬿	hshhhpszpn
 𢭃	hshhszhnph
@@ -50126,8 +50260,10 @@ max_phrase_length: 1         # 不生成詞彙
 𢯦	hshhpnpnspn
 𢯧	hshpnpnphpn
 𢯨	hshhsshszs
+𢯭	hshnphhpnszs
 𢯮	hshszhshszhh
 𢯷	hshzshszhhzs
+𢯾	hshszhhszhhh
 𢰝	hshhsshpzpn
 𢰤	hshnhnphszhs
 𢰥	hshhssznszh
@@ -50156,6 +50292,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢱝	hshhsszsszs
 𢱞	phhshsszsszs
 𢱢	hshhsnzzznspn
+𢱤	hshnphhpnnzn
 𢱨	hshnhpnzznspn
 𢲈	hshzhpppshszn
 𢲔	hshhhshnphhsh
@@ -50179,6 +50316,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢲯	hshnnhhpnpnpn
 𢲱	phhshhsshszshh
 𢲲	hshnzhhznzs
+𢲴	zhphhspnhsnphhs
 𢲵	hshhszhsshszhh
 𢲷	hshnnzpznhpnpn
 𢲸	hshshszpnnnnnh
@@ -50190,6 +50328,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢳞	hshhsshhhszshh
 𢳠	hshhsshpnnhps
 𢳥	hshphshszhnzn
+𢳪	hshhszhspnnzn
 𢳳	hshszspnhszhss
 𢴇	hshhshnphhspzn
 𢴈	hshphnphnszhhh
@@ -50242,6 +50381,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢵻	hshnnhhshpszhh
 𢵼	hshhshshpnhzzpn
 𢵽	hshzshshhszhspn
+𢶀	hshszsshphhhshhh
 𢶂	hshnzhszhhhsnzn
 𢶍	hshphpnshhhshhhh
 𢶐	hshshzphzhszhnph
@@ -50332,7 +50472,9 @@ max_phrase_length: 1         # 不生成詞彙
 𢺝	hshhsszznnnnszpnhszssh
 𢺤	hshhssszhhszhhhsznphspn
 𢺳	hshnhhhszhzznnnnzznnnnszhshn
+𢺴	hshhspnphhszshspnnzpnnnnnzspzppp
 𢻯	phpnzsh
+𢿞	hpnnpszhhspnshzn
 𢿼	zhhhshszhhsnphpn
 𣁋	szshpzphpn
 𣁔	nhpnszhhzhz
@@ -50493,6 +50635,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣫷	phzznhnnphhs
 𣫺	phzznhnnhznszhh
 𣭛	phhzpnzn
+𣮈	zhpzsszsphhz
 𣰵	phhznhnphszhhhzhzhhh
 𣱰	phhzpnpnhshhhshhhhzpn
 𣱶	nnhsn
@@ -50508,6 +50651,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣲛	pnphszpn
 𣲠	nnhhpzn
 𣲦	szpnspnp
+𣲩	nnhzshz
 𣲵	nnhszhpn
 𣲷	nnhszznh
 𣲹	nnhszshh
@@ -50570,6 +50714,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣸏	nnhzphznphhs
 𣸑	nnhhspnphspn
 𣸣	nnhhshssszpn
+𣸤	nnhszsshnhzp
 𣸬	nnhszhhzpszh
 𣸭	nnhszhhnhnph
 𣸮	nnhpnhznhhzn
@@ -50617,6 +50762,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣻽	nnhpzhhhzzzhsh
 𣻾	nnhszhhhshspnp
 𣼍	nnhszspnhszhss
+𣼎	nnhspnpsnhhhsh
 𣼩	nnhzspnnzhhzn
 𣼪	pnnnhhphszhzpn
 𣼫	nnhszhhshhznzs
@@ -50703,6 +50849,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤁙	hshpnnnhhphszhzpn
 𤁛	nnhhshpszhhzpzsh
 𤁠	nnhpznnphhszsnzn
+𤁢	nnhspnpsnhhhshhzpn
 𤁩	nnhpphspphsszhhhpn
 𤂅	nnhhhshszhhpnnphsn
 𤂋	nnhhshszzzszhhhspn
@@ -50781,6 +50928,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤊨	nppnhszhhzpn
 𤊫	nppnhshzpszn
 𤊬	nppnshhhshhh
+𤊶	nppnhszhspnss
 𤋵	nppnppshshhsn
 𤋶	nppnhsspnnzn
 𤋻	nppnnnhpppzpn
@@ -50806,6 +50954,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤐓	nppnnnhpnnpzznhpn
 𤐝	nppnhnzsnnnnszhsh
 𤐠	nppnnzsnzzhsnhpn
+𤐰	nppnshshpsnhhhshzn
 𤑉	nppnpshhhzszhhhpn
 𤑍	nppnpshhszhhzhhhpn
 𤑛	nppnphszhhshhzpnnnn
@@ -50829,6 +50978,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤖡	zshpnnzhpnnpszhhspn
 𤗆	pshzphzznhn
 𤗖	pshzzshszssh
+𤘅	hzspzsh
 𤘋	hzspphshzpn
 𤘓	hzspnnznznnszsshhs
 𤙭	phshhszhhsn
@@ -50847,6 +50997,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤞐	pzphpszsh
 𤞕	pzphszshh
 𤞘	pzppsphsh
+𤞚	pzpsnpszhh
 𤞦	pzpphzznhn
 𤞨	pzphszhhsn
 𤞫	pzphhpszpn
@@ -50955,6 +51106,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤵴	nhpnhpshsh
 𤵶	nhpnhshzhz
 𤵺	nhpnhszhhzp
+𤶃	nhpnhpnhzpn
 𤶄	nhpnhpshhsh
 𤶈	nhpnhhszpzh
 𤶎	nhpnhphhspn
@@ -50987,6 +51139,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤷴	nhpnhpsnhpzpn
 𤷵	nhpnhhshzpszn
 𤷶	nhpnhhhshpzpn
+𤸁	nhpnhzzhpzpppn
 𤸄	nhpnhsszsshszpn
 𤸎	nhpnhszhhpzpnz
 𤸒	nhpnhszhhszshn
@@ -51012,9 +51165,11 @@ max_phrase_length: 1         # 不生成詞彙
 𤹽	nhpnhnhhhszhszpn
 𤹾	nhpnhszhhphzznhn
 𤹿	nhpnhpzszhshnnnn
+𤺅	nhpnhzsszshhspnzn
 𤺋	nhpnhhszhhhspnppp
 𤺥	nhpnhphnphnpnhszh
 𤺧	nhpnhnpszsnphszhh
+𤺪	nhpnhnphhhsnphszh
 𤺭	nhpnhphnphnzhhhhs
 𤺮	nhpnhnzhppsnhhhsh
 𤺯	nhpnhszhhszhhnznn
@@ -51057,6 +51212,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤾷	pszhhhshssnphnphhhpn
 𤾸	pszhhhsspnnppzzznnnn
 𤿍	zpsznhhs
+𤿎	hzhzzpszn
 𤿤	phnphnzpszn
 𤿦	zpsznpznpzn
 𤿪	phszhhszpszn
@@ -51122,6 +51278,7 @@ max_phrase_length: 1         # 不生成詞彙
 𥍘	szhhhpnnzhhznhshhshhshhpz
 𥍛	szhhhszsszhszhhpzhsshhhphpn
 𥎁	znzsphspnshszh
+𥏘	phhpnzhpzsszs
 𥏪	phhpnhzpzpszhh
 𥐒	phhpnhszhnphszznzszhh
 𥑭	hpszhhzhz
@@ -51230,6 +51387,8 @@ max_phrase_length: 1         # 不生成詞彙
 𥮲	phnphnhshhhzpn
 𥯇	phnphnpnnpzshz
 𥯒	phnphnhshszhzpn
+𥯟	phnphnphhphhhhs
+𥯥	phnphnphspshzhh
 𥯪	phnphnhhhpnphpn
 𥱋	phnphnnnhzpnhspn
 𥱥	phnphnzspznhspn
@@ -51365,6 +51524,7 @@ max_phrase_length: 1         # 不生成詞彙
 𦒉	snphpzznhznhpszhh
 𦒍	nhnphszhhshhznhznh
 𦒘	hszsshhpnzhzznhznh
+𦒨	znhznhnnzshshszhhhpzn
 𦒮	nhnphszhhhzhzhhhznhznh
 𦒵	hshppzszh
 𦒹	hshppznhpn
@@ -51403,6 +51563,7 @@ max_phrase_length: 1         # 不生成詞彙
 𦛺	pzhhszhzpss
 𦛻	pzhhhspnhsn
 𦛾	pzhhnnszshh
+𦜆	pzhhzsnhpnzs
 𦜖	pzhhhshzzhsh
 𦜘	pzhhpnnpzshz
 𦝁	pzhhhsshhhpn
@@ -51800,6 +51961,7 @@ max_phrase_length: 1         # 不生成詞彙
 𧜗	nzspnhshhsznnnn
 𧜘	nzspnszhszhhhpn
 𧜙	nzspnhshszhhhpn
+𧜞	nzspnszhhszsshzn
 𧜣	nzspnpszhhhznnnn
 𧜵	nzspnhpsshznzszs
 𧜶	nzspnhszhszznhsh
@@ -51970,6 +52132,7 @@ max_phrase_length: 1         # 不生成詞彙
 𨑬	hsshnzn
 𨑳	phshnzn
 𨒂	pshshnzn
+𨒇	szhhsnzn
 𨒸	hpszshnzn
 𨒻	nznhsnnzn
 𨔈	phhszsssnzn
@@ -52281,6 +52444,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩟂	pnnzhhznszzszszhnzn
 𩟆	pnnzhhznhphshszhhnzn
 𩟔	pnnzhhznnnzpznnznhhspn
+𩟗	nnhhszhhhspphspnhzhhzpn
 𩟡	pnnzhhznssnphnphhshhsn
 𩟢	pnnzhhznhssnnhhszhhsn
 𩟬	pnnzhhznhpszhhpszhhpszh
@@ -52298,6 +52462,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩣑	hshhsznnnnnnzzph
 𩣪	hshhsznnnnhzzzhsh
 𩣱	hshhsznnnnhshpzhsh
+𩣳	hshhsznnnnhszhhspn
 𩣺	hshhsznnnnhpnhshps
 𩤃	hshhsznnnnhshzzhsh
 𩤅	hshhsznnnnzhphsszh
@@ -52315,6 +52480,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩧃	hshhsznnnnhphshsszhhszshn
 𩧉	hshhsznnnnnhphsshhszhshpn
 𩧍	hshhsznnnnhpszhhpszhhpszh
+𩨑	szhsnzpznhhs
 𩨜	szhsnzpznhzshz
 𩨨	szznzszhhhzpz
 𩨼	szhsnzszhhpshsh
@@ -52372,6 +52538,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩷛	pzszhshnnnnpzpzhhs
 𩷶	pzszhshnnnnhssnhz
 𩸕	pzszhshnnnnhshhhzpn
+𩸙	pzszhshnnnnzhhsnhpn
 𩸭	pzszhshnnnnpzhphpnn
 𩸰	pzszhshnnnnzshppznn
 𩸽	pzszhshnnnnhsspspz
@@ -52464,6 +52631,7 @@ max_phrase_length: 1         # 不生成詞彙
 𪋟	nhpzsshhzpznhnphszhhhs
 𪏭	phspnsspnsnhpn
 𪐀	phspnpnsnhpnpznpzn
+𪐞	sznphshhnnnnphz
 𪐢	sznphshhnnnnhsh
 𪐴	sznphshhnnnnnhhsh
 𪐷	sznphshhnnnnnhzzn
@@ -52481,6 +52649,8 @@ max_phrase_length: 1         # 不生成詞彙
 𪖫	pszhhhszhshhpsphzznhn
 𪖬	phzznhnpszhhhszhshhps
 𪖭	pszhhhszhshhpsszhhhhsn
+𪖶	pszhhhszhshhpsnhzznnhpnhs
+𪘒	shshpnpnhpnpnzspnnzszh
 𪘨	shshpnpnhpnpnzshpnpnspn
 𪙛	shshpnpnhpnpnzshhshshpszhz
 𪚚	nhnphszhhhzhzhhhszhs
@@ -52543,6 +52713,21 @@ max_phrase_length: 1         # 不生成詞彙
 ⻞	pnhzhhshh
 ⻡	zzzhpszhhh
 ⼹	zhh
+㇀	h
+㇁	z
+㇂	z
+㇃	z
+㇄	z
+㇅	z
+㇇	z
+㇉	z
+㇊	z
+㇋	z
+㇌	z
+㇍	z
+㇎	z
+㇏	n
+㇥	z
 㐦	pshhhzpzhhhpnphhsz
 㑤	pshshsszhsh
 㑷	psznpznhhzhz
@@ -57154,6 +57339,8 @@ max_phrase_length: 1         # 不生成詞彙
 𠟲	psznphspnhhzss
 𠠇	pzpzshshzzhshss
 𠠩	szhshpznszhnphpzhhss
+𠠫	hsznhsznnhpzsshhzpzss
+𠢕	hhshzpphpnzp
 𠢹	nhphsshszhshpnzp
 𠤧	hzhshszhhhshpn
 𠤩	szsshznszhhpzpzhz
@@ -57265,6 +57452,7 @@ max_phrase_length: 1         # 不生成詞彙
 𡉴	hshppzh
 𡋾	szhpzsshsh
 𡋿	hshszhszh
+𡌴	hsszhhhhhsh
 𡍵	zsznpnpznhsh
 𡍶	hznhshphpnhsh
 𡎘	hshhshsszhpn
@@ -57404,6 +57592,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢯥	hshhshshhpz
 𢯦	hshhspnpnpn
 𢯨	hshhshshszs
+𢯭	hshpnhhpnszs
 𢯮	hshszhshpznh
 𢰝	hshhshshpzpn
 𢰥	hshhshsznszh
@@ -57431,6 +57620,7 @@ max_phrase_length: 1         # 不生成詞彙
 𢵭	hshhshshspnpnpn
 𢵮	hshznzspszpzszh
 𢵵	hshhshsszhhhspn
+𢶀	hshszsshshhhshhh
 𢶍	hshhhpnshhhshhhh
 𢶕	hshnphpzhhssnnnn
 𢶟	phhsszspszhshpzzn
@@ -57450,7 +57640,9 @@ max_phrase_length: 1         # 不生成詞彙
 𢺀	hshnhhhszhhshsszhhhpn
 𢺝	hshhsszznnnnszhhszssh
 𢺤	hshhshsszhhszhhhsznphspn
+𢺴	hshhspnphhszshspnnzpnnnnnzshzppp
 𢿨	hspnhspnszhhshzn
+𣁳	phsszhnnhs
 𣁽	pszhhpznnhs
 𣂋	ppzhnnhsphshszh
 𣂼	shshhszhhshpphs
@@ -57520,6 +57712,7 @@ max_phrase_length: 1         # 不生成詞彙
 𣨕	hpznszhszh
 𣩁	hpznhzhshpphs
 𣩂	hshpphshpznhz
+𣩈	hpznnphhhphsh
 𣫲	zzphpshs
 𣫺	nhzznhnnhznpznh
 𣬚	pzszhhzpzpzszhpznpzszhpzn
@@ -57610,6 +57803,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤐜	nppnszspszhhpzzn
 𤐠	nppnnzsnzhhsnhpn
 𤐡	nppnhshpszhhpzzn
+𤐰	nppnhsspsnhhhshzn
 𤑉	nppnpshhhzpzhhhpn
 𤑫	nppnhshspznhhhsnzn
 𤑮	nppnhshsszhhhpnphhs
@@ -57623,6 +57817,7 @@ max_phrase_length: 1         # 不生成詞彙
 𤔾	hshsnzhhpzpppnppsn
 𤘁	pshzhshsnzhhpzpppn
 𤜆	phshnhnphpznhhzhzhhh
+𤞚	pzpsnppznh
 𤞪	pzpszhszh
 𤞽	pzphshsnhz
 𤟂	pzpnhznszhh
@@ -57751,6 +57946,7 @@ max_phrase_length: 1         # 不生成詞彙
 𥳁	phnphnszphzsszshh
 𥳓	phnphnphspnsnppznh
 𥳾	phnphnpnhhsnphpznh
+𥴊	phnphnzhsshhhphpn
 𥴗	phnphnzznnnnhznpz
 𥴚	phnphnpszhhhnhpnhs
 𥴠	phnphnszhhhhpnsnhpn
@@ -57766,6 +57962,7 @@ max_phrase_length: 1         # 不生成詞彙
 𥻹	nphspnhshspnhspn
 𥼲	nphspnzhsshhhphpn
 𥽇	nphspnhphszhnznnzpn
+𥽕	nphspnnnzpznhznhhspn
 𥾵	zznnnnppzn
 𥿔	zznnnnhshpn
 𥿻	zznnnnpzszhh
@@ -57785,14 +57982,17 @@ max_phrase_length: 1         # 不生成詞彙
 𦅴	zhpphhzzznnnnpzhzn
 𦆟	zznnnnhssnzhhpzpppn
 𦉡	phhshshszhhhnzsnnnnhhzn
+𦊓	szsshpnnzn
 𦋐	nzpnshszhhhs
 𦍑	nphhhpzn
 𦏒	nphhshhpnhshsszhsh
 𦑊	znhznhhhshpzhh
+𦒨	znhznhnnzhssszhhhpzn
 𦒮	nhnphpznhhzhzhhhznhznh
 𦔒	hhhspnnphzznzzn
 𦔒	phhspnhshszznzzn
 𦖿	hsshhhhsspnhszh
+𦘅	hsshhhnhphsshszhshpn
 𦘩	pznhpn
 𦙀	pznhhpzn
 𦙜	pzhhhpzz
@@ -57807,6 +58007,7 @@ max_phrase_length: 1         # 不生成詞彙
 𦚵	pzhhhszpzh
 𦛚	pznhszpnszh
 𦛜	pznhpnhzszh
+𦜆	pznhzsnhpnzs
 𦜖	pznhhshzzhsh
 𦜘	pznhpnnpzshz
 𦝁	pznhhsshhhpn
@@ -58182,6 +58383,7 @@ max_phrase_length: 1         # 不生成詞彙
 𨗮	pshzhhspnhpsnzn
 𨘱	hszhspnpzzhhsnzn
 𨚼	szhzshzhpszhh
+𨢑	hszpzhhnphzhhsspn
 𨢟	hszpzhhhshsnhzppn
 𨤍	hszpzhhhnzsnhpnszhszhszhhspnpnh
 𨧜	pnhhsnphhhhpzs
@@ -58258,6 +58460,7 @@ max_phrase_length: 1         # 不生成詞彙
 𩌂	hsshszhhshshsznszh
 𩍣	hsshszhhshshshsshzhspn
 𩑈	nhnphszhhnhphsshszhshpn
+𩑾	pzhznhpszhhhpn
 𩓙	pzphhpnhpszhhhpn
 𩓜	hshsnhzhpszhhhpn
 𩓪	zhhsnhpnhpszhhhpn
@@ -58275,21 +58478,28 @@ max_phrase_length: 1         # 不生成詞彙
 𩙻	zpnppzpnsshhhshhhnznn
 𩙻	zpnphpsshhhshhhnznn
 𩙿	pnnzhhshh
+𩚨	pnnzhhznpshsh
 𩚩	pnnzhhznhsszh
 𩛜	pnnzhhznnhpnhsn
+𩛩	pnnzhhznhpnpnpn
 𩛰	hsnhpnnpnnzhhzpn
 𩜁	pnnzhhznhshpnpzn
+𩜄	pnnzhhznhshzzhsh
+𩜇	pnnzhhznnphhpnzz
 𩜙	pnnzhhznhshsshpz
+𩜰	pnnzhhznhszhszhsh
 𩜲	pnnzhhznphszhhpzn
 𩜶	pnnzhhznpnhszhhss
 𩜽	pnnzhhznnhnphpppp
 𩟆	pnhzhhznhphshpznhnzn
 𩟔	pnhzhhznnnzpznhznhhspn
+𩟗	nnhhszhhhspphspnnzhhzpn
 𩣱	hshhsznnnnhshpnhsh
 𩤯	hssszhpnhshhsznnnn
 𩥈	hshhsznnnnszhhszssh
 𩧃	hshhsznnnnhphssszhhszshn
 𩧉	hshhsznnnnnhphsshszhshpn
+𩨑	szznzszhhhs
 𩨜	szznzszhhzshz
 𩨼	szznzszhhpshsh
 𩩇	nhznpzszznzszhh
@@ -58366,6 +58576,7 @@ max_phrase_length: 1         # 不生成詞彙
 𪤗	hshznhznhpnppp
 𪦪	zphpsznphspnhhz
 𪬬	nnhhszhhsnpnsnnn
+𪳕	hspnphsshhpzpn
 𪵥	phhzphzznhn
 𪷤	nnhnhszszhhhhspn
 𪷫	nnhhszhhsnpnsnhpn
@@ -58399,9 +58610,28 @@ max_phrase_length: 1         # 不生成詞彙
 𫜵	pnnp
 𫜷	hhhphsnzs
 𫜹	zhh
+𫜼	zsszsznznznzn
+𫜽	hsshhhpshspn
+𫝏	nhnhnphpppp
+𫝏	nhnhpnhpppp
+𫝘	szhhpz
+𫝙	pszszhshh
 𫝛	hspnszhhhszhszh
+𫝞	szhhnzsnnnnznzsppznzp
+𫝞	szhhnzsnhpnznzspphpnzp
+𫝺	hshpzhhz
+𫝻	hshszszhh
+𫞭	nhpnhszhhhpnhsp
+𫞼	nhnphhpshsh
+𫟂	zznnnnnnzhhsshpnnn
 𫟅	zzhnhszhspn
+𫟊	pzhhnhphsshszs
+𫟊	pznhnhphsshszs
+𫟧	hsnzn
+𫠄	zshszhhzsnhzppn
+𫠛	shshpnpnhpnpnzsszhhphhsh
 𫢸	psnpszhhhs
+𫣆	psszhpnhnznn
 𫣗	pshszsshszhhhs
 𫣲	pshspnpnnzszhhhpn
 𫤪	pnhhshpnhhsh
@@ -58419,6 +58649,7 @@ max_phrase_length: 1         # 不生成詞彙
 𫯜	hpnszs
 𫰋	zphhpnn
 𫰛	zphznhsh
+𫰡	zphpspzhs
 𫰪	zphhshpzsh
 𫰾	zphpnhhsnph
 𫲄	zphnnzpnszhszzn
@@ -58451,6 +58682,8 @@ max_phrase_length: 1         # 不生成詞彙
 𬇞	nnhhszpn
 𬇣	nnhnphszs
 𬇹	nnhszhhshnh
+𬈜	nnhhssnzszpn
+𬈜	nnhshshnzszpn
 𬈹	nnhphpnpnhhsnph
 𬉷	nppnshh
 𬉼	nppnhpnz
@@ -58469,6 +58702,7 @@ max_phrase_length: 1         # 不生成詞彙
 𬍰	hhshszshpszh
 𬍳	hhshnhszhzsh
 𬎆	hhshhssnzhhshn
+𬏛	nhpnhhsp
 𬏺	nhpnhszsshpzpppn
 𬐨	hphszhzpnszssh
 𬒀	hpszhpzhz
@@ -58502,6 +58736,8 @@ max_phrase_length: 1         # 不生成詞彙
 𬟁	hsshszhsznphspznzh
 𬟓	hssphsznphshhzpnnnn
 𬟽	szhshnhzspn
+𬠖	szhshnpnnznznn
+𬠖	szhshnpnhznznn
 𬠸	pnnpzpppnszhshnszhshn
 𬣙	nzhhs
 𬣞	nznnzh
@@ -58509,9 +58745,11 @@ max_phrase_length: 1         # 不生成詞彙
 𬣳	nzzhhzpn
 𬤇	nzhszsshhsh
 𬤊	nzszhhhshpn
+𬤐	nzhszhshszhs
 𬤝	nzhszhhshnnznn
 𬤹	szshszhnphnhpzpnnznn
 𬤹	szshszhnphhhpzpnnznn
+𬦰	szhshshhpszhh
 𬨂	hzshpzhz
 𬨎	hzshnphszpzhh
 𬩽	zhhhsnzs
@@ -58524,6 +58762,7 @@ max_phrase_length: 1         # 不生成詞彙
 𬬱	phhhzpphs
 𬬸	phhhzhspnn
 𬬹	phhhzszhhs
+𬬺	phhhzszhhh
 𬬻	phhhzshzhp
 𬬿	phhhzzpszh
 𬭁	phhhzzznhn
@@ -58540,6 +58779,7 @@ max_phrase_length: 1         # 不生成詞彙
 𬭸	phhhznphspnpznhzs
 𬭼	phhhznphpzpppnnzn
 𬮍	szhhszhhnnhhsshpn
+𬮤	nszpnhszh
 𬮱	nszhszsshhsh
 𬮼	zspzpn
 𬮿	zsszszhz
@@ -58594,6 +58834,7 @@ max_phrase_length: 1         # 不生成詞彙
 𭲻	nnhszhhszhhnhnph
 𭶙	nppnsnpnzszhszhsh
 𭺷	phhshpnhszhszhpnpn
+𮀎	pnzphpszh
 𮅠	phnphnszsshszh
 𮆞	phnphnpszhzhnhnphhs
 𮊦	nphhhshpzzn
@@ -58603,15 +58844,32 @@ max_phrase_length: 1         # 不生成詞彙
 𮐠	hshsphspnpzzhz
 𮡀	hszpzhhphshszhnzn
 𮢆	pnhhsnphszhhphps
+𮣳	phhhzhpzn
 𮧵	hhzspspzhs
 𮫸	pzszhshnnnnhsshhh
 𮬒	pzszhshnnnnshshpzzznspn
 𮬒	pzszhshnnnnshshhzzznspn
+𮭦	szspnnzpznzh
+𮯴	pspz
 𰌂	zphshszpn
 𰗖	hspnpnpz
+𰣻	nhpnhhszhshszhs
 𰥍	szhhhhpn
 𰬘	zzhhsnzzsh
+𰵝	nzphspn
+𰵞	nznzzpn
+𰵧	nzhshnznn
+𰹬	hszhhhshsshpzhphszhszzpn
+𰹬	hszhhhshshshpzhphszhszzpn
 𰻝	nnzpnnhhhszhzznzznzzhphznphznpzhhssnznnnzn
 𰻞	nnzpnnhhhszhzznzznhshhsznnnnhshhhzpnhshhhzpnpzhhssnznnnzn
 𰻞	nnzpznhhhszhzznzznhshhsznnnnhshhhzpnhshhhzpnpzhhssnznnnzn
 𰾑	phhhzpnhhsnph
+𰾫	phhhzssphnszssh
+𱂐	nhnphszhhszhszpn
+𱮒	pzphsspnhspn
+𱮒	pzphshspnhspn
+𱱿	zpsznsn
+𱳪	hpszhhpnn
+𲂎	nzhshpszhh
+𲓖	pzpppnnpnznznnpzn

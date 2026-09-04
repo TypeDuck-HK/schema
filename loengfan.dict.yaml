@@ -35146,6 +35146,7 @@ use_preset_vocabulary: true
 𠁚	haa6 wui6
 𠁝	bing6 haam4
 𠁟	bing6 gim1
+𠁣	gwan2 gai3
 𠁨	zaap6 zung1
 𠁨	zaap6 zung3
 𠁪	jam4 zung1
@@ -35189,6 +35190,8 @@ use_preset_vocabulary: true
 𠃍	jyut6
 𠃑	jyut3
 𠃑	jyut6
+𠃛	gai3 jyut3
+𠃛	gai3 jyut6
 𠃝	jyut3 siu2
 𠃝	jyut6 siu2
 𠃣	jyut3 siu2
@@ -35276,6 +35279,7 @@ use_preset_vocabulary: true
 𠉱	jan4 fong4
 𠉴	jan4 jyu5
 𠉵	jan4 ding6
+𠊎	jan4 ngaai4
 𠊙	jan4 ji4
 𠊚	jan4 dak1
 𠊛	dak1 jan4
@@ -35402,6 +35406,7 @@ use_preset_vocabulary: true
 𠕄	tong4 jyut6
 𠕆	mou5 jat1
 𠕇	mou5 zyu2
+𠖄	mik6 tung4
 𠖈	mik6 haa5
 𠖈	mik6 haa6
 𠖎	mik6 zyut3
@@ -35411,6 +35416,7 @@ use_preset_vocabulary: true
 𠖤	mik6 bei1
 𠖥	mik6 lung4
 𠖨	mik6 mung4
+𠖫	mik6 gung3
 𠖭	bing1 liu5
 𠖯	bing1 hat1
 𠖰	bing1 ji5
@@ -35434,7 +35440,9 @@ use_preset_vocabulary: true
 𠗰	bing1 zan1
 𠗸	bing1 gung3
 𠗹	bing1 lit6
+𠗻	bing1 gin1
 𠘃	bing1 dung6
+𠘆	bing1 sam1
 𠘑	bing1 hei1
 𠘕	bing1 hei1
 𠘙	bing1 lok6
@@ -35461,6 +35469,7 @@ use_preset_vocabulary: true
 𠛬	gon1 dou1
 𠜎	sin1 dou1
 𠜏	diu3 dou1
+𠜖	zaau2 dou1
 𠜬	daan6 dou1
 𠜭	dou1 jam4
 𠜭	dou1 jau4
@@ -35489,6 +35498,9 @@ use_preset_vocabulary: true
 𠞠	dou1 dit6
 𠞡	gwat1 dou1
 𠞢	baan1 dou1
+𠞩	leot6 dou1
+𠞩	seot1 dou1
+𠞭	lau4 dou1
 𠞸	niu5 dou1
 𠞹	sik1 dou1
 𠞺	lit6 leon6
@@ -35498,6 +35510,7 @@ use_preset_vocabulary: true
 𠟲	jyut6 dou1
 𠟸	jin4 dou1
 𠟹	dou1 jyu6
+𠠃	cung4 dou1
 𠠇	maau5 dou1
 𠠉	pei4 dou1
 𠠊	gong1 gang2
@@ -35505,7 +35518,9 @@ use_preset_vocabulary: true
 𠠑	zit3 dou1
 𠠙	liu4 dou1
 𠠚	ci2 dou1
+𠠝	lik6 dou1
 𠠩	loek6 cin4
+𠠫	lai6 dou1
 𠠬	cim1 dou1
 𠠭	co1 jat6
 𠠺	jyun4 lik6
@@ -35519,6 +35534,7 @@ use_preset_vocabulary: true
 𠡳	min6 lik6
 𠡺	heoi3 lik6
 𠢑	juk6 lik6
+𠢕	ngou4 lik6
 𠢝	maan6 lik6
 𠢞	zap1 zo6
 𠢟	zo6 zap1
@@ -35767,6 +35783,8 @@ use_preset_vocabulary: true
 𠴥	hau2 sam2
 𠴨	hau2 gun1
 𠴫	hau2 suk1
+𠴭	hau2 ji6
+𠴭	hau2 jik6
 𠴰	hau2 gau3
 𠴱	hau2 gu3
 𠴲	hau2 daap6
@@ -35926,6 +35944,7 @@ use_preset_vocabulary: true
 𠹽	hau2 hoi6
 𠹾	sau6 siu6
 𠹾	sau6 ziu6
+𠺅	hau2 lit6
 𠺌	hau2 gwai2
 𠺕	hau2 lau4
 𠺖	hau2 gau2
@@ -35937,6 +35956,7 @@ use_preset_vocabulary: true
 𠺟	hau2 fu3
 𠺠	hau2 din6
 𠺢	hau2 gaa1
+𠺣	hau2 mok1
 𠺥	siu6 sau6
 𠺥	ziu6 sau6
 𠺦	hau2 ze3
@@ -35987,6 +36007,7 @@ use_preset_vocabulary: true
 𠻗	hau2 lei6
 𠻘	hau2 zoek3
 𠻝	ban2 zan1
+𠻞	hau2 hong1
 𠻤	hau2 jan4
 𠻥	hau2 caau4
 𠻪	hau2 daam6
@@ -36422,6 +36443,7 @@ use_preset_vocabulary: true
 𡌡	tou2 tai5
 𡌢	tou2 ham4
 𡌣	tou2 cat1
+𡌴	zik6 tou2
 𡌶	tou2 bing6
 𡌺	tou2 seoi1
 𡌽	tou2 dim3
@@ -36690,6 +36712,7 @@ use_preset_vocabulary: true
 𡟃	neoi5 jyun2
 𡟇	neoi5 teon3
 𡟈	neoi5 teon5
+𡟓	neoi5 oi1
 𡟙	neoi5 sing1
 𡟚	neoi5 jing4
 𡟛	neoi5 bing2
@@ -36824,6 +36847,7 @@ use_preset_vocabulary: true
 𡨌	sau3 zung1
 𡨌	sau3 zung3
 𡨚	min4 min5
+𡨞	min4 jau6
 𡨤	min4 zyut3
 𡨧	min4 cyut3
 𡨧	min4 zeot1
@@ -36961,6 +36985,7 @@ use_preset_vocabulary: true
 𡳜	mei5 gwai3
 𡳝	mei5 cyut3
 𡳝	mei5 zeot1
+𡳞	si1 leon4
 𡳢	ce2 dou1
 𡳢	cek3 dou1
 𡳣	dou1 ce2
@@ -37046,6 +37071,7 @@ use_preset_vocabulary: true
 𡼞	saan1 dou1
 𡼸	saan1 bat1
 𡼹	saan1 ling4
+𡽜	saan1 jin4
 𡽪	saan1 man4
 𡽫	saan1 nyun6
 𡽶	saan1 bei6
@@ -37097,6 +37123,7 @@ use_preset_vocabulary: true
 𢄂	zo6 si5
 𢄃	gan1 paai3
 𢄝	baak6 baau1
+𢄧	zuk6 gan1
 𢄩	gan1 daai3
 𢄪	gan1 lau6
 𢄯	gan1 man5
@@ -37167,6 +37194,10 @@ use_preset_vocabulary: true
 𢌞	jan5 wui4
 𢌡	jan5 gwing1
 𢌥	jan5 cing4
+𢎙	jyut3 jyut3
+𢎙	jyut3 jyut6
+𢎙	jyut6 jyut3
+𢎙	jyut6 jyut6
 𢎭	gung1 gan1
 𢎽	gung1 kap6
 𢏐	gung1 gwang1
@@ -37183,6 +37214,8 @@ use_preset_vocabulary: true
 𢑊	gung1 zaan3
 𢑥	gai3 gwo2
 𢑱	gai3 daai6
+𢒉	saam1 ce2
+𢒉	saam1 zeoi1
 𢒋	wing5 saam1
 𢒎	mik6 saam1
 𢒑	cung4 saam1
@@ -37194,6 +37227,7 @@ use_preset_vocabulary: true
 𢓉	cik1 faan2
 𢓌	cik1 luk6
 𢓚	cik1 nei4
+𢓜	cik1 gok3
 𢓭	cik1 ceon1
 𢓭	cik1 zeon3
 𢓳	cik1 ping1
@@ -37270,6 +37304,7 @@ use_preset_vocabulary: true
 𢚹	sam1 jat6
 𢚼	sam1 kap6
 𢚽	sam1 min5
+𢛟	sam1 aa3
 𢛳	sap6 sam1
 𢛴	sam1 maang6
 𢛵	sam1 zang1
@@ -37288,6 +37323,7 @@ use_preset_vocabulary: true
 𢜡	sam1 cip3
 𢜢	sam1 bei2
 𢜪	sam1 joek6
+𢜳	sam1 zyu3
 𢝃	dai3 sam1
 𢝘	sam1 gung1
 𢝙	sam1 ming5
@@ -37515,6 +37551,7 @@ use_preset_vocabulary: true
 𢬭	sau2 deoi3
 𢬮	sau2 seot1
 𢬱	sau2 gip3
+𢬳	sau2 tuk1
 𢬹	sau2 tou2
 𢬿	sau2 gaai3
 𢭃	sau2 dau6
@@ -37591,9 +37628,12 @@ use_preset_vocabulary: true
 𢯦	sau2 loi4
 𢯧	sau2 man4
 𢯨	sau2 fat1
+𢯭	sau2 gan1
 𢯮	sau2 wai6
 𢯷	sau2 wai4
 𢯷	sau2 wai5
+𢯾	sau2 mak6
+𢯾	sau2 mou6
 𢰝	sau2 mau6
 𢰤	sau2 ho2
 𢰥	sau2 toi4
@@ -37625,6 +37665,7 @@ use_preset_vocabulary: true
 𢱝	sau2 zyut3
 𢱞	sau2 zyut3
 𢱢	sau2 sok3
+𢱤	sau2 sung3
 𢱨	sau2 man6
 𢲈	sau2 zi1
 𢲔	sau2 baan1
@@ -37649,6 +37690,8 @@ use_preset_vocabulary: true
 𢲯	sau2 gaap3
 𢲱	sau2 gau3
 𢲲	sau2 long4
+𢲴	wai3 sau2
+𢲴	wat1 sau2
 𢲵	sau2 cou4
 𢲷	sau2 gaau1
 𢲸	sau2 lou5
@@ -37661,6 +37704,7 @@ use_preset_vocabulary: true
 𢳞	sau2 jim5
 𢳠	sau2 mong5
 𢳥	sau2 zou6
+𢳪	sau2 cuk1
 𢳳	sau2 leon4
 𢴇	sau2 zap1
 𢴈	sau2 daan2
@@ -37727,6 +37771,7 @@ use_preset_vocabulary: true
 𢵼	sau2 jyut6
 𢵽	sau2 so1
 𢵽	sau2 so3
+𢶀	sau2 zeoi6
 𢶂	sau2 wan6
 𢶍	sau2 gau2
 𢶐	sau2 dau6
@@ -37837,11 +37882,18 @@ use_preset_vocabulary: true
 𢺝	sau2 wan5
 𢺤	sau2 laan4
 𢺳	sau2 maan4
+𢺴	sau2 wat1
 𢺹	fan1 zi1
 𢺹	fan6 zi1
 𢺺	zi1 fan1
 𢺺	zi1 fan6
 𢻯	man4 zi2
+𢻷	baa1 bok1
+𢻷	baa1 pok3
+𢼌	baau1 bok1
+𢼌	baau1 pok3
+𢼛	gok3 bok1
+𢼛	gok3 pok3
 𢼨	ngai4 bok1
 𢼨	ngai4 pok3
 𢽙	mei5 man4
@@ -37851,6 +37903,8 @@ use_preset_vocabulary: true
 𢽼	baa1 man4
 𢿌	dou1 bok1
 𢿌	dou1 pok3
+𢿞	liu4 bok1
+𢿞	liu4 pok3
 𢿣	jiu4 bok1
 𢿣	jiu4 pok3
 𢿨	lam4 bok1
@@ -37867,6 +37921,8 @@ use_preset_vocabulary: true
 𣁔	leon6 geoi6
 𣁦	ban1 cyun4
 𣁲	dau2 dung1
+𣁳	sit3 dau2
+𣁳	sit6 dau2
 𣁽	baak6 dau2
 𣁾	dau2 dau2
 𣂃	ze2 dau2
@@ -38058,6 +38114,8 @@ use_preset_vocabulary: true
 𣍋	wui6 haa5
 𣍋	wui6 haa6
 𣍍	jyun1 kuk1
+𣍐	mat6 wui5
+𣍐	mat6 wui6
 𣍕	kuk1 jiu4
 𣍗	kam4 kuk1
 𣍲	jyut6 neoi5
@@ -38213,6 +38271,8 @@ use_preset_vocabulary: true
 𣗱	lei4 haa5
 𣗱	lei4 haa6
 𣗳	muk6 cyun3
+𣗺	toi1 gu2
+𣗺	toi4 gu2
 𣗼	muk6 jyun4
 𣗾	leon4 zyu1
 𣗿	muk6 zou2
@@ -38389,6 +38449,7 @@ use_preset_vocabulary: true
 𣦮	cyut3 seoi3
 𣦮	zeot1 seoi3
 𣦰	lik6 lei6
+𣦼	ngaat6 jau6
 𣧂	daai2 daai6
 𣧑	daai2 hung1
 𣨕	daai2 leoi5
@@ -38405,6 +38466,9 @@ use_preset_vocabulary: true
 𣩂	zip3 si2
 𣩂	zit3 sei2
 𣩂	zit3 si2
+𣩈	daai2 caa1
+𣩈	daai2 caai1
+𣩈	daai2 ci1
 𣩦	daai2 jiu4
 𣩸	seoi3 sei2
 𣩸	seoi3 si2
@@ -38425,6 +38489,7 @@ use_preset_vocabulary: true
 𣭰	mau4 mou4
 𣭻	zuk1 mou4
 𣮇	ng4 mou4
+𣮈	wat1 mou4
 𣯡	laap6 mou4
 𣯡	lap6 mou4
 𣰋	daai6 mou4
@@ -38456,6 +38521,7 @@ use_preset_vocabulary: true
 𣲠	seoi2 daai2
 𣲦	seoi2 siu2
 𣲦	seoi2 siu3
+𣲩	seoi2 baa1
 𣲵	seoi2 zi2
 𣲷	seoi2 jau6
 𣲹	seoi2 jim5
@@ -38528,6 +38594,7 @@ use_preset_vocabulary: true
 𣸣	seoi2 ban1
 𣸣	seoi2 bei3
 𣸣	seoi2 fan4
+𣸤	seoi2 fong1
 𣸬	seoi2 ciu1
 𣸭	seoi2 juk1
 𣸮	seoi2 wan4
@@ -38583,6 +38650,7 @@ use_preset_vocabulary: true
 𣻾	nip6 siu2
 𣻾	nip6 siu3
 𣼍	seoi2 leon4
+𣼎	seoi2 zoek3
 𣼩	seoi2 jam1
 𣼪	baat3 gaam2
 𣼫	seoi2 je5
@@ -38682,6 +38750,7 @@ use_preset_vocabulary: true
 𤁙	paa4 gaam2
 𤁛	zyu2 jan6
 𤁠	seoi2 jiu4
+𤁢	seoi2 gwo1
 𤁩	seoi2 zat1
 𤁩	seoi2 zi3
 𤂅	seoi2 cyun3
@@ -38833,6 +38902,8 @@ use_preset_vocabulary: true
 𤊬	fo2 fei1
 𤊭	fo2 si6
 𤊰	fo2 bin3
+𤊶	fo2 laa1
+𤊶	fo2 laat6
 𤊿	fo2 caap3
 𤋁	joeng4 fo2
 𤋉	fo2 jyun4
@@ -38878,6 +38949,7 @@ use_preset_vocabulary: true
 𤍋	ngat6 fo2
 𤍌	sing1 ling4
 𤍑	fo2 zung1
+𤍒	fo2 caau4
 𤍢	fo2 tou2
 𤍣	fo2 tou2
 𤍤	fo2 zoeng1
@@ -38920,12 +38992,15 @@ use_preset_vocabulary: true
 𤏸	fo2 zyu3
 𤐄	fo2 zin1
 𤐓	fo2 kai1
+𤐙	fo2 bik1
+𤐙	fo2 pik1
 𤐚	fo2 jam1
 𤐛	fo2 naau6
 𤐜	fo2 ngai4
 𤐝	fo2 leoi4
 𤐠	fo2 luk6
 𤐡	fo2 faai3
+𤐰	fo2 wok6
 𤐵	fo2 gaa1
 𤐶	fo2 hou4
 𤑈	fo2 zi2
@@ -38984,6 +39059,8 @@ use_preset_vocabulary: true
 𤕔	zaa1 fu6
 𤕸	baan6 zong1
 𤖡	baan6 liu4
+𤖯	pin2 bat1
+𤖯	pin3 bat1
 𤖶	pin2 bing2
 𤖶	pin3 bing2
 𤖸	pin2 zyu2
@@ -39012,6 +39089,7 @@ use_preset_vocabulary: true
 𤘁	pin3 mung4
 𤘂	pin2 mung6
 𤘂	pin3 mung6
+𤘅	ngaa4 zi2
 𤘋	ngaa4 ngo5
 𤘓	ngaa4 ning4
 𤘘	ngau4 hau2
@@ -39059,6 +39137,7 @@ use_preset_vocabulary: true
 𤞖	hyun2 loi6
 𤞘	hyun2 jam4
 𤞘	hyun2 jam6
+𤞚	hyun2 ciu3
 𤞦	hyun2 mui5
 𤞧	hyun2 kwan3
 𤞨	hyun2 fu2
@@ -39104,6 +39183,8 @@ use_preset_vocabulary: true
 𤡚	hyun2 gei3
 𤡛	hyun2 ning4
 𤡮	hyun2 jin4
+𤡯	hyun2 jyu5
+𤡯	hyun2 jyu6
 𤢂	hyun2 suk1
 𤢇	hyun2 bat1
 𤢈	hyun2 dang1
@@ -39465,6 +39546,7 @@ use_preset_vocabulary: true
 𤲂	gaai3 haa5
 𤲂	gaai3 haa6
 𤲌	lung6 tin4
+𤲍	gaap3 gaap3
 𤲞	jan4 tin4
 𤲟	tin4 cing1
 𤲼	wai3 jai6
@@ -39508,6 +39590,7 @@ use_preset_vocabulary: true
 𤵴	beng6 si6
 𤵶	beng6 gung1
 𤵺	beng6 jai6
+𤶃	beng6 siu6
 𤶄	beng6 jam4
 𤶄	beng6 jam6
 𤶈	beng6 sai1
@@ -39547,6 +39630,7 @@ use_preset_vocabulary: true
 𤷵	beng6 po1
 𤷶	beng6 biu1
 𤷶	beng6 biu2
+𤸁	beng6 teon3
 𤸄	beng6 seoi2
 𤸎	beng6 hot3
 𤸒	beng6 jyu4
@@ -39573,10 +39657,12 @@ use_preset_vocabulary: true
 𤹽	beng6 noi6
 𤹾	beng6 fui3
 𤹿	beng6 jyu4
+𤺅	beng6 jau6
 𤺋	beng6 zan1
 𤺥	beng6 daap3
 𤺧	beng6 cang4
 𤺧	beng6 zang1
+𤺪	beng6 sin6
 𤺭	beng6 bat1
 𤺮	beng6 gu3
 𤺯	beng6 mun6
@@ -39645,6 +39731,9 @@ use_preset_vocabulary: true
 𤿂	baak6 juk6
 𤿍	pei4 jyu1
 𤿍	pei4 jyu4
+𤿎	bei2 pei4
+𤿎	bei3 pei4
+𤿎	bei6 pei4
 𤿤	zuk1 pei4
 𤿦	pei4 do1
 𤿪	cin1 pei4
@@ -39750,6 +39839,7 @@ use_preset_vocabulary: true
 𥈿	muk6 gung3
 𥉌	muk6 daap3
 𥉐	muk6 hai4
+𥉔	gang2 muk6
 𥉩	laap6 muk6
 𥉩	lap6 muk6
 𥉪	muk6 hoi2
@@ -39814,6 +39904,7 @@ use_preset_vocabulary: true
 𥌓	muk6 cyu5
 𥌓	muk6 syu5
 𥌙	mei4 fu3
+𥌚	muk6 maai6
 𥌛	muk6 lai4
 𥌥	muk6 fo3
 𥌦	muk6 lin5
@@ -39823,6 +39914,7 @@ use_preset_vocabulary: true
 𥌷	muk6 hin3
 𥌸	muk6 jim4
 𥌹	muk6 gam2
+𥍉	muk6 nip6
 𥍍	muk6 laam4
 𥍎	muk6 jip6
 𥍑	muk6 giu2
@@ -39835,6 +39927,7 @@ use_preset_vocabulary: true
 𥏋	sin1 ci2
 𥏌	ci2 sin1
 𥏍	ci2 meng2
+𥏘	ci2 wat1
 𥏪	ci2 gaai1
 𥏿	ci2 man6
 𥐆	dyun2 bun3
@@ -39859,6 +39952,7 @@ use_preset_vocabulary: true
 𥐮	sek6 cek3
 𥐯	sek6 wan4
 𥐰	sek6 keoi1
+𥐵	sek6 pat1
 𥑂	sek6 zi1
 𥑃	sek6 bin6
 𥑆	sek6 gaa1
@@ -40157,8 +40251,10 @@ use_preset_vocabulary: true
 𥯒	zuk1 zoi1
 𥯓	zuk1 sam6
 𥯝	zuk1 dat6
+𥯟	zuk1 baai3
 𥯤	zuk1 wai4
 𥯤	zuk1 wai5
+𥯥	zuk1 caap3
 𥯨	zuk1 si1
 𥯨	zuk1 si3
 𥯨	zuk1 soi1
@@ -40173,6 +40269,7 @@ use_preset_vocabulary: true
 𥰈	zuk1 cing4
 𥰊	daap3 haa5
 𥰊	daap3 haa6
+𥰔	zuk1 ban2
 𥰡	zuk1 man4
 𥱊	zuk1 zik6
 𥱋	zuk1 loeng4
@@ -40206,6 +40303,7 @@ use_preset_vocabulary: true
 𥳐	zuk1 hoi1
 𥳓	zuk1 saau2
 𥳾	zuk1 gwan1
+𥴊	zuk1 gam2
 𥴗	zuk1 tung2
 𥴘	zuk1 mui4
 𥴙	zuk1 coek3
@@ -40344,6 +40442,7 @@ use_preset_vocabulary: true
 𥽍	mai5 kam1
 𥽎	mai5 jim4
 𥽔	mai5 min4
+𥽕	mai5 caat3
 𥽜	mai5 leoi6
 𥽡	fan1 fan3
 𥽡	fan6 fan3
@@ -40445,6 +40544,7 @@ use_preset_vocabulary: true
 𦂿	si1 but6
 𦃀	si1 doi6
 𦃐	si1 zou2
+𦃓	si1 lau4
 𦃭	si1 dou2
 𦃮	si1 hoi6
 𦃯	si1 pei4
@@ -40508,6 +40608,7 @@ use_preset_vocabulary: true
 𦈂	si1 jiu4
 𦈡	si1 seoi1
 𦈽	fau2 sau6
+𦉎	fau2 ceoi1
 𦉘	fau2 ngaa4
 𦉡	se3 wan4
 𦉪	tong4 ji4
@@ -40516,6 +40617,8 @@ use_preset_vocabulary: true
 𦉱	sei3 cat1
 𦊂	sei3 wu6
 𦊆	sei3 zi2
+𦊓	sei3 ling1
+𦊓	sei3 ling6
 𦊚	sei3 bun2
 𦊛	sei3 si1
 𦋐	mik6 coek3
@@ -40561,6 +40664,7 @@ use_preset_vocabulary: true
 𦒉	gwong1 zaap6
 𦒍	tung4 jyu5
 𦒘	sai1 jyu5
+𦒨	jyu5 fun1
 𦒮	lung4 jyu5
 𦒵	lou5 hau2
 𦒹	lou5 luk6
@@ -40595,6 +40699,7 @@ use_preset_vocabulary: true
 𦗝	ji5 zaam2
 𦗞	ji5 gei3
 𦗽	ji5 dik1
+𦘅	ji5 gwong2
 𦘒	leot6 sap6
 𦘒	wat6 sap6
 𦘦	kai2 leot6
@@ -40646,6 +40751,7 @@ use_preset_vocabulary: true
 𦛿	jyut6 mong1
 𦛿	jyut6 mong4
 𦜀	jyut6 fai6
+𦜆	jyut6 haam4
 𦜖	jyut6 aa3
 𦜘	jyut6 jyu5
 𦜝	jyut6 cai4
@@ -41148,9 +41254,12 @@ use_preset_vocabulary: true
 𧇍	fau2 fu2
 𧈛	kam4 fu2
 𧈣	cung4 naai5
+𧉅	cung4 wan5
 𧉙	cung4 tyun4
 𧉚	cung4 mat6
 𧉝	cung4 koi3
+𧉟	cung4 toi1
+𧉟	cung4 toi4
 𧉧	cung4 heoi3
 𧉻	cung4 bun3
 𧊀	cung4 gaa1
@@ -41200,6 +41309,8 @@ use_preset_vocabulary: true
 𧋿	cung4 faai3
 𧌀	cung4 tan1
 𧌂	cung4 bou6
+𧌄	cung4 jim1
+𧌄	cung4 jim2
 𧌆	cung4 hung1
 𧌇	cung4 pang4
 𧌎	cung4 din2
@@ -41377,6 +41488,7 @@ use_preset_vocabulary: true
 𧜗	ji1 maa5
 𧜘	ji1 jyun4
 𧜙	ji1 gung3
+𧜞	ji1 maan6
 𧜣	ji1 niu5
 𧜵	ji1 daai3
 𧜶	ji1 gin1
@@ -41468,6 +41580,7 @@ use_preset_vocabulary: true
 𧩓	jin4 fat1
 𧩙	jin4 daan2
 𧩙	jin4 daan3
+𧩣	jin4 nou5
 𧩹	jin4 si1
 𧪄	jin4 jan4
 𧪽	jin4 zeon3
@@ -41490,6 +41603,7 @@ use_preset_vocabulary: true
 𧭥	jin4 lok6
 𧭥	jin4 ngaau6
 𧭥	jin4 ngok6
+𧮙	jip6 jin4
 𧮞	jin4 fok3
 𧮪	jin4 zim1
 𧮳	guk1 gam1
@@ -41518,6 +41632,7 @@ use_preset_vocabulary: true
 𧰜	fu1 zung6
 𧰦	jyut3 ci2
 𧰦	jyut6 ci2
+𧰵	ci2 syu4
 𧰼	dou1 ci2
 𧱬	ci2 jyu4
 𧱺	ci2 ji2
@@ -41609,12 +41724,14 @@ use_preset_vocabulary: true
 𧺃	cik3 gin3
 𧺕	zau2 soek3
 𧺕	zau2 zoek3
+𧺤	zau2 gau2
 𧻐	zau2 deoi3
 𧻙	zau2 baak3
 𧻚	zau2 gang2
 𧻩	zau2 lou5
 𧻪	zau2 jung4
 𧻭	zau2 jai6
+𧻴	zau2 loeng4
 𧼋	zau2 zaai6
 𧼋	zau2 zi6
 𧼌	zaai6 zau2
@@ -41634,6 +41751,8 @@ use_preset_vocabulary: true
 𧿫	zuk1 dau2
 𧿬	zuk1 tyun4
 𧿭	zuk1 jat6
+𧿳	zuk1 fat1
+𧿳	zuk1 fik1
 𧿹	zuk1 mou5
 𧿺	zuk1 ceot1
 𨀂	sek6 zuk1
@@ -41707,6 +41826,7 @@ use_preset_vocabulary: true
 𨂼	zuk1 zi6
 𨂽	zuk1 bam1
 𨂾	zuk1 naam4
+𨂿	zuk1 waai1
 𨃈	zuk1 hong6
 𨃉	zuk1 doi6
 𨃊	zuk1 dim2
@@ -41775,6 +41895,7 @@ use_preset_vocabulary: true
 𨅏	zuk1 fung1
 𨅏	zuk1 fung3
 𨅐	mou4 zuk1
+𨅔	zuk1 jat6
 𨅝	zuk1 ngaa4
 𨅞	zuk1 daap3
 𨅥	zuk1 bei1
@@ -41911,6 +42032,7 @@ use_preset_vocabulary: true
 𨑻	zau2 jam4
 𨑻	zau2 jau4
 𨒂	zau2 zi2
+𨒇	zau2 gaap3
 𨒒	maai6 sap6
 𨒟	zau2 dung1
 𨒸	zau2 cyun4
@@ -42009,6 +42131,7 @@ use_preset_vocabulary: true
 𨡼	jau5 gaam1
 𨡼	jau5 gaam3
 𨢇	jau5 lau4
+𨢑	jau5 gim1
 𨢟	jau5 hoi6
 𨢥	jau5 maan6
 𨢻	jau5 ngaan5
@@ -42456,6 +42579,8 @@ use_preset_vocabulary: true
 𩍜	gaak3 hang6
 𩍢	gaak3 leoi4
 𩍣	gaak3 jip6
+𩏠	wai4 dang1
+𩏠	wai5 dang1
 𩏳	wai4 paak3
 𩏳	wai5 paak3
 𩐝	jam1 geoi3
@@ -42465,6 +42590,8 @@ use_preset_vocabulary: true
 𩑈	jam1 gwong2
 𩑰	daan2 jip6
 𩑰	daan3 jip6
+𩑾	dai1 jip6
+𩑾	dai2 jip6
 𩒐	zi3 jip6
 𩒱	kwan3 jip6
 𩓐	bui6 jip6
@@ -42477,6 +42604,7 @@ use_preset_vocabulary: true
 𩓥	ngok6 jip6
 𩓧	ji4 jip6
 𩓪	luk6 jip6
+𩔵	laam4 jip6
 𩕆	zoeng1 jip6
 𩕳	ning4 jip6
 𩖅	sok3 jip6
@@ -42539,20 +42667,25 @@ use_preset_vocabulary: true
 𩚦	sik6 cai3
 𩚦	sik6 cit3
 𩚧	sik6 gwo1
+𩚨	sik6 jau1
 𩚩	sik6 gu2
 𩛂	sik6 nou4
 𩛃	sik6 gwaa1
 𩛄	sik6 bing2
 𩛜	sik6 deoi3
+𩛩	sik6 gaap3
 𩛰	kau4 sik6
 𩛷	sik6 fau2
 𩛷	sik6 pei2
 𩛸	sik6 mui5
 𩜁	sik6 ling4
+𩜄	sik6 aa3
+𩜇	sik6 gyun2
 𩜙	sik6 jiu4
 𩜠	sik6 ngaam4
 𩜪	sik6 noi6
 𩜫	sik6 mui4
+𩜰	sik6 fuk1
 𩜲	sik6 fuk1
 𩜲	sik6 fuk6
 𩜶	sik6 jyu4
@@ -42566,6 +42699,8 @@ use_preset_vocabulary: true
 𩟂	sik6 gwo3
 𩟆	sik6 ceoi4
 𩟔	sik6 caat3
+𩟗	zim1 sik6
+𩟗	zim6 sik6
 𩟡	sik6 deoi3
 𩟢	sik6 pou4
 𩟬	sik6 leoi5
@@ -42602,6 +42737,7 @@ use_preset_vocabulary: true
 𩣑	maa5 on1
 𩣪	maa5 ging1
 𩣱	maa5 luk6
+𩣳	maa5 dung1
 𩣺	maa5 ban1
 𩤃	maa5 aa3
 𩤅	maa5 geoi1
@@ -42622,6 +42758,8 @@ use_preset_vocabulary: true
 𩧃	maa5 lai6
 𩧉	maa5 gwong2
 𩧍	maa5 leoi5
+𩨑	gwat1 ding1
+𩨑	gwat1 zang1
 𩨜	gwat1 baa1
 𩨨	gwat1 bei2
 𩨨	gwat1 bei3
@@ -42700,6 +42838,7 @@ use_preset_vocabulary: true
 𩵜	jyu4 go3
 𩵝	jyu4 coi4
 𩵞	jyu4 cin1
+𩵱	jyu4 ng5
 𩵼	jyu4 jau5
 𩵽	jyu4 sam1
 𩵾	jyu4 zi1
@@ -42730,6 +42869,8 @@ use_preset_vocabulary: true
 𩸕	jyu4 zoeng2
 𩸕	jyu4 zoeng6
 𩸘	jyu4 gun1
+𩸙	jyu4 dai6
+𩸙	jyu4 doi6
 𩸭	jyu4 leoi6
 𩸮	jyu4 fung6
 𩸯	jyu4 zyut3
@@ -42807,6 +42948,7 @@ use_preset_vocabulary: true
 𩼢	pik1 jyu4
 𩼣	jyu4 gwo3
 𩼤	jyu4 ban2
+𩼧	jyu4 ban1
 𩼨	jyu4 ji4
 𩼰	jyu4 sam1
 𩼷	jyu4 deoi3
@@ -42843,6 +42985,7 @@ use_preset_vocabulary: true
 𪀄	zim1 niu5
 𪀅	gwaa1 niu5
 𪀆	si6 niu5
+𪀋	niu5 gaap3
 𪀎	si2 niu5
 𪀐	niu5 fat6
 𪀔	niu5 zi6
@@ -42971,6 +43114,7 @@ use_preset_vocabulary: true
 𪎩	maa4 gwo1
 𪏭	lei6 seoi2
 𪐀	syu2 do1
+𪐞	hak1 tok3
 𪐢	hak1 si6
 𪐴	hak1 zyu2
 𪐷	hak1 jyun4
@@ -42991,11 +43135,15 @@ use_preset_vocabulary: true
 𪔚	gu2 tung4
 𪔠	lung6 gu2
 𪔡	bui3 gu2
+𪖐	bei6 jyut3
+𪖐	bei6 jyut6
 𪖠	bei6 siu6
 𪖠	bei6 ziu6
 𪖫	bei6 mui5
 𪖬	mui5 bei6
 𪖭	bei6 dak1
+𪖶	bei6 leot6
+𪖶	bei6 seot1
 𪖺	bei6 gei3
 𪗀	bei6 hit3
 𪗆	am1 cai4
@@ -43007,6 +43155,7 @@ use_preset_vocabulary: true
 𪘁	ci2 hap6
 𪘂	fung1 mai5
 𪘌	ci2 lei6
+𪘒	ci2 ham4
 𪘚	ci2 ng4
 𪘨	ci2 loi4
 𪘲	ci2 ji4
@@ -43025,8 +43174,10 @@ use_preset_vocabulary: true
 𪛅	lou6 gwai1
 𪛇	gwai1 tou4
 𪜱	jan4 wo4
+𪜶	jan4 jan1
 𪝼	jan4 jing1
 𪟝	zaak3 lik6
+𪢼	tou2 faa3
 𪣏	tou2 zau1
 𪣻	tou2 lau4
 𪤗	tou2 lau6
@@ -43036,6 +43187,8 @@ use_preset_vocabulary: true
 𪨶	saan1 ce1
 𪩘	saan1 hin3
 𪬬	pou2 sam1
+𪳕	muk6 sing4
+𪳕	muk6 sing6
 𪵥	hei3 mui5
 𪷤	seoi2 ban2
 𪷫	pou2 seoi2
@@ -43043,6 +43196,8 @@ use_preset_vocabulary: true
 𪷽	seoi2 zaan3
 𪷿	seoi2 jip6
 𪸛	fo2 juk6
+𪹚	fo2 bong6
+𪹚	fo2 pong4
 𪻁	hyun2 bing6
 𪻚	wong4 ngaai6
 𪻚	wong6 ngaai6
@@ -43081,6 +43236,7 @@ use_preset_vocabulary: true
 𫒇	gam1 tok3
 𫓧	gam1 fu1
 𫓧	gam1 fu4
+𫓩	gam1 cung4
 𫓯	gam1 gwai1
 𫓶	gam1 jyun1
 𫓹	gam1 kei4
@@ -43105,21 +43261,40 @@ use_preset_vocabulary: true
 𫚖	ci2 jyu4
 𫚭	jyu4 lip6
 𫛭	kwong4 niu5
+𫝏	bing1 jin6
+𫝘	hau2 wong1
+𫝘	hau2 jau4
+𫝙	hoeng3 soeng5
+𫝙	hoeng3 soeng6
 𫝛	soeng1 tung4
 𫝛	soeng3 tung4
+𫝞	hau2 mou6
+𫝺	sau2 lat1
+𫝻	sau2 wui4
 𫞩	wong4 mun5
 𫞩	wong6 mun5
+𫞭	beng6 coi4
+𫞼	laap6 zoi6
+𫞼	lap6 zoi6
+𫟂	si1 hon4
 𫟅	si1 ging1
+𫟊	jyut6 zik6
 𫟦	ce1 seoi6
+𫟧	zau2 ding1
+𫟧	zau2 zang1
 𫟷	gam1 laap6
 𫟷	gam1 lap6
 𫟹	gam1 gung6
 𫟼	gam1 daat6
+𫠄	wai4 hoi6
+𫠄	wai5 hoi6
 𫠆	zi1 jip6
 𫠊	maa5 jyun4
+𫠛	ci2 sing1
 𫠜	ci2 ji4
 𫢸	jan4 daan1
 𫢸	jan4 sim4
+𫣆	jan4 jan1
 𫣗	jan4 cam4
 𫣗	jan4 taam4
 𫣲	jan4 bui3
@@ -43147,6 +43322,8 @@ use_preset_vocabulary: true
 𫯜	daai6 gan1
 𫰋	neoi5 hyun2
 𫰛	neoi5 ging1
+𫰡	neoi5 waa4
+𫰡	neoi5 waa6
 𫰪	neoi5 haau3
 𫰾	neoi5 gam1
 𫲄	neoi5 wo1
@@ -43181,6 +43358,7 @@ use_preset_vocabulary: true
 𬇞	seoi2 bing2
 𬇣	seoi2 gan1
 𬇹	seoi2 gwok3
+𬈜	seoi2 seoi2
 𬈹	seoi2 gam1
 𬉷	fo2 soeng5
 𬉷	fo2 soeng6
@@ -43212,6 +43390,7 @@ use_preset_vocabulary: true
 𬍳	wong6 hoeng2
 𬎆	wong4 jing4
 𬎆	wong6 jing4
+𬏛	beng6 coi4
 𬏺	beng6 ci2
 𬐨	haam4 ming5
 𬒀	sek6 si6
@@ -43246,6 +43425,7 @@ use_preset_vocabulary: true
 𬟁	cou2 niu5
 𬟓	cou2 fan1
 𬟽	cung4 dung1
+𬠖	cung4 nim6
 𬠸	zaai6 cung4
 𬠸	zi6 cung4
 𬣙	jin4 jyu1
@@ -43255,9 +43435,11 @@ use_preset_vocabulary: true
 𬣳	jin4 gan3
 𬤇	jin4 tou2
 𬤊	jin4 si6
+𬤐	jin4 go1
 𬤝	jin4 wai6
 𬤹	hei2 zi1
 𬤹	hei2 zi3
+𬦰	zuk1 baak3
 𬨂	ce1 si6
 𬨂	ce1 zi1
 𬨎	ce1 jau4
@@ -43276,6 +43458,8 @@ use_preset_vocabulary: true
 𬬱	gam1 gan1
 𬬸	gam1 seot6
 𬬹	gam1 san1
+𬬺	gam1 ce2
+𬬺	gam1 zeoi1
 𬬻	gam1 lou4
 𬬿	gam1 siu6
 𬬿	gam1 ziu6
@@ -43293,6 +43477,8 @@ use_preset_vocabulary: true
 𬭸	gam1 leon4
 𬭼	gam1 seoi6
 𬮍	mun4 hung4
+𬮤	mun4 gap3
+𬮤	mun4 hap6
 𬮱	mun4 tou2
 𬮼	ji5 him3
 𬮿	ji5 hei2
@@ -43359,6 +43545,8 @@ use_preset_vocabulary: true
 𭶙	fo2 dong3
 𭺷	saang1 cim1
 𭺷	sang1 cim1
+𮀎	fan1 sek6
+𮀎	fan6 sek6
 𮅠	zuk1 tip3
 𮆞	zuk1 san1
 𮊦	joeng4 si1
@@ -43366,18 +43554,31 @@ use_preset_vocabulary: true
 𮐠	cou2 baau1
 𮡀	jau5 zou6
 𮢆	gam1 sing1
+𮣳	gam1 gwang1
 𮧵	wai4 waa4
 𮧵	wai4 waa6
 𮧵	wai5 waa4
 𮧵	wai5 waa6
 𮫸	jyu4 ji5
 𮬒	jyu4 zi2
+𮭦	saan1 niu5
 𰌂	neoi5 zing1
 𰗖	muk6 leon4
 𰗖	muk6 leon4
+𰣻	beng6 go1
 𰥍	muk6 daai6
 𰬘	si1 bui6
 𰬘	si1 but6
+𰵝	jin4 wo4
+𰵞	jin4 wing5
+𰵧	jin4 zi3
+𰹬	ce1 cong4
+𰹬	ce1 zong6
 𰻝	zau2 sam1
 𰻞	zau2 sam1
 𰾑	gam1 gam1
+𰾫	gam1 gaam1
+𰾫	gam1 gaam3
+𱂐	jam1 jyun4
+𱂐	jam1 wan4
+𱂐	jam1 wan6
