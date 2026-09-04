@@ -1,0 +1,349 @@
+__build_info:
+  rime_version: 1.1.4
+  timestamps:
+    common: 1788502473
+    common.custom: 0
+    default: 1788502473
+    default.custom: 0
+    include: 1788502473
+    include.custom: 0
+    jyut6ping3.schema: 1788502473
+    template: 1788502473
+    template.custom: 0
+cangjie:
+  comment_format:
+    - "xform/^/\\v/"
+    - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
+  dictionary: cangjie5
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  prefix: "`c"
+  suffix: ";"
+  tag: cangjie
+  tips: "〔倉頡五代〕"
+dictionary_lookup_filter:
+  dictionary: jyut6ping3_scolar
+engine:
+  filters:
+    - dictionary_lookup_filter
+    - simplifier
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - "affix_segmentor@luna_pinyin"
+    - "affix_segmentor@loengfan"
+    - "affix_segmentor@stroke"
+    - "affix_segmentor@cangjie"
+    - "affix_segmentor@quick"
+    - "affix_segmentor@reverse_lookup"
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - "script_translator@luna_pinyin"
+    - "script_translator@loengfan"
+    - "table_translator@stroke"
+    - "table_translator@cangjie"
+    - "script_translator@quick"
+key_binder:
+  bindings:
+    - {accept: "Control+p", send: Up, when: composing}
+    - {accept: "Control+n", send: Down, when: composing}
+    - {accept: "Control+b", send: Left, when: composing}
+    - {accept: "Control+f", send: Right, when: composing}
+    - {accept: "Control+a", send: Home, when: composing}
+    - {accept: "Control+e", send: End, when: composing}
+    - {accept: "Control+d", send: Delete, when: composing}
+    - {accept: "Control+k", send: "Shift+Delete", when: composing}
+    - {accept: "Control+h", send: BackSpace, when: composing}
+    - {accept: "Control+g", send: Escape, when: composing}
+    - {accept: "Control+bracketleft", send: Escape, when: composing}
+    - {accept: "Control+y", send: Page_Up, when: composing}
+    - {accept: "Alt+v", send: Page_Up, when: composing}
+    - {accept: "Control+v", send: Page_Down, when: composing}
+    - {accept: ISO_Left_Tab, send: "Shift+Left", when: composing}
+    - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+    - {accept: Tab, send: "Shift+Right", when: composing}
+    - {accept: minus, send: Page_Up, when: paging}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: comma, send: Page_Up, when: paging}
+    - {accept: period, send: Page_Down, when: has_menu}
+    - {accept: bracketleft, send: Page_Up, when: paging}
+    - {accept: bracketright, send: Page_Down, when: has_menu}
+    - {accept: "Control+Shift+1", select: .next, when: always}
+    - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+3", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+exclam", select: .next, when: always}
+    - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+space", select: .next, when: always}
+    - {accept: "Shift+space", toggle: full_shape, when: always}
+    - {accept: "Control+comma", toggle: full_shape, when: always}
+    - {accept: "Control+period", toggle: ascii_punct, when: always}
+  import_preset: default
+loengfan:
+  always_show_comments: true
+  comment_format:
+    - "xform/^/\\v/"
+    - "xform/~//"
+  dictionary: loengfan
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  preedit_format:
+    - "xform/([aeiouymngptk])vv/${1}4/"
+    - "xform/([aeiouymngptk])xx/${1}5/"
+    - "xform/([aeiouymngptk])qq/${1}6/"
+    - "xform/([aeiouymngptk])v/${1}1/"
+    - "xform/([aeiouymngptk])x/${1}2/"
+    - "xform/([aeiouymngptk])q/${1}3/"
+  prefix: "`l"
+  suffix: ";"
+  tag: loengfan
+  tips: "〔粵語兩分〕"
+luna_pinyin:
+  always_show_comments: true
+  comment_format:
+    - "xform/^/\\v/"
+  dictionary: luna_pinyin
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  preedit_format:
+    - "xform/([nl])v/$1ü/"
+    - "xform/([nl])ue/$1üe/"
+    - "xform/([jqxy])v/$1u/"
+  prefix: "`p"
+  suffix: ";"
+  tag: luna_pinyin
+  tips: "〔普通話〕"
+menu:
+  page_size: 6
+punctuator:
+  ascii_style:
+    "!": {commit: "!"}
+    "\"": "\""
+    "#": "#"
+    "$": "$"
+    "%": "%"
+    "&": "&"
+    "'": "'"
+    "(": "("
+    ")": ")"
+    "*": "*"
+    "+": "+"
+    ",": {commit: ","}
+    "-": "-"
+    .: {commit: .}
+    "/": "/"
+    ":": {commit: ":"}
+    ";": {commit: ";"}
+    "<": "<"
+    "=": "="
+    ">": ">"
+    "?": {commit: "?"}
+    "@": "@"
+    "[": "["
+    "\\": "\\"
+    "]": "]"
+    "^": "^"
+    _: _
+    "`": "`"
+    "{": "{"
+    "|": "|"
+    "}": "}"
+    "~": "~"
+  full_shape:
+    " ": {commit: "　"}
+    "!": {commit: "！"}
+    "\"": ["＂", "\"", "“", "”", "„", "‟", "″", "〃", "〝", "〞", "〟"]
+    "#": ["＃", "#", "№", "⌘", "⌥", "⌃"]
+    "$": ["＄", "$", "￥", "¥", "￦", "₩", "￡", "£", "￠", "¢", "€", "₽", "¤"]
+    "%": ["％", "%", "‰", "‱", "℃", "℉"]
+    "&": ["＆", "&", "¶", "§"]
+    "'": ["＇", "'", "‘", "’", "‛", "′", "↑", "↓"]
+    "(": {commit: "（"}
+    ")": {commit: "）"}
+    "*": ["＊", "*", "×", "※", "✓", "✗"]
+    "+": ["＋", "+", "±", "∓"]
+    ",": {commit: "，"}
+    "-": ["－", "-", "‒", "―", "–", "—", "＿", _, "￣", "‾"]
+    .: {commit: "。"}
+    "/": ["／", "/", "＼", "\\", "､", "÷", "∕", "√"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "＜", "<", "«", "‹", "⟨", "←", "⇐", "↔", "⇔", "≤", "⩽", "≦", "⫹"]
+    "=": ["＝", "=", "≡", "≈", "≠", "≒", "≅"]
+    ">": ["》", "〉", "＞", ">", "»", "›", "⟩", "→", "⇒", "↔", "⇔", "≥", "⩾", "≧", "⫺"]
+    "?": {commit: "？"}
+    "@": ["＠", "@", "©", "®", "℗", "™", "℠", "∅"]
+    "[": ["「", "｢", "【", "〔", "［", "[", "〚", "〘"]
+    "\\": {commit: "、"}
+    "]": ["」", "｣", "】", "〕", "］", "]", "〛", "〙"]
+    "^": {commit: "……"}
+    _: {commit: "——"}
+    "`": ["｀", "`", "·", "•", "‣", "°", "○", "◌", "◦"]
+    "{": ["『", "〖", "｛", "{", "⦅", "⸨", "｟"]
+    "|": ["｜", "|", "＼", "\\", "¦"]
+    "}": ["』", "〗", "｝", "}", "⦆", "⸩", "｠"]
+    "~": ["～", "~", "﹏", "﹋"]
+  half_shape:
+    "!": {commit: "！"}
+    "\"": ["\"", "＂", "“", "”", "„", "‟", "″", "〃", "〝", "〞", "〟"]
+    "#": ["#", "＃", "№", "⌘", "⌥", "⌃"]
+    "$": ["$", "＄", "¥", "￥", "₩", "￦", "£", "￡", "¢", "￠", "€", "₽", "¤"]
+    "%": ["％", "%", "‰", "‱", "℃", "℉"]
+    "&": ["＆", "&", "¶", "§"]
+    "'": ["'", "＇", "‘", "’", "‛", "′", "↑", "↓"]
+    "(": {commit: "（"}
+    ")": {commit: "）"}
+    "*": ["＊", "*", "×", "※", "✓", "✗"]
+    "+": ["+", "＋", "±", "∓"]
+    ",": {commit: "，"}
+    "-": ["-", "－", "‒", "―", "–", "—", _, "＿", "‾", "￣"]
+    .: {commit: "。"}
+    "/": ["/", "／", "\\", "＼", "､", "÷", "∕", "√"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "<", "＜", "«", "‹", "⟨", "←", "⇐", "↔", "⇔", "≤", "⩽", "≦", "⫹"]
+    "=": ["=", "＝", "≡", "≈", "≠", "≒", "≅"]
+    ">": ["》", "〉", ">", "＞", "»", "›", "⟩", "→", "⇒", "↔", "⇔", "≥", "⩾", "≧", "⫺"]
+    "?": {commit: "？"}
+    "@": ["@", "＠", "©", "®", "℗", "™", "℠", "∅"]
+    "[": ["「", "｢", "【", "〔", "［", "[", "〚", "〘"]
+    "\\": {commit: "、"}
+    "]": ["」", "｣", "】", "〕", "］", "]", "〛", "〙"]
+    "^": {commit: "……"}
+    _: {commit: "——"}
+    "`": ["`", "｀", "·", "•", "‣", "°", "○", "◌", "◦"]
+    "{": ["『", "〖", "｛", "{", "⦅", "⸨", "｟"]
+    "|": ["|", "｜", "＼", "\\", "¦"]
+    "}": ["』", "〗", "｝", "}", "⦆", "⸩", "｠"]
+    "~": ["~", "～", "﹏", "﹋"]
+  import_preset: default
+quick:
+  always_show_comments: true
+  comment_format:
+    - "xform/^/\\v/"
+    - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
+  dictionary: quick5
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  prefix: "`q"
+  suffix: ";"
+  tag: quick
+  tips: "〔速成五代〕"
+recognizer:
+  import_preset: default
+  patterns:
+    cangjie: "^`c[a-z']*;?$"
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    loengfan: "^`l[a-z']*;?$"
+    luna_pinyin: "^`p[a-z']*;?$"
+    quick: "^`q[a-z']*;?$"
+    reverse_lookup: "^`[a-z']*;?$"
+    stroke: "^`b[a-z']*;?$"
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+reverse_lookup:
+  prefix: "`"
+  suffix: ";"
+  tag: reverse_lookup
+  tips: "〔反查〕"
+schema:
+  author:
+    - "TypeDuck Team"
+  dependencies:
+    - jyut6ping3_scolar
+    - luna_pinyin
+    - loengfan
+    - stroke
+    - cangjie3
+    - cangjie5
+    - quick3
+    - quick5
+  description: "TypeDuck 輸入法方案"
+  name: "粵語拼音"
+  schema_id: jyut6ping3
+  version: 2.0.0
+simplifier:
+  opencc_config: hk2s.json
+speller:
+  algebra:
+    - "derive/^ng(?=[aeiou])//"
+    - "derive/^(?=[aeiou])/ng/"
+    - "derive/^n(?!g)/l/"
+    - "derive/^ng(?=\\d)/m/"
+    - "derive/^(g|k)w(?=o)/$1/"
+    - "derive/^jy?(?=[aeiou])/y/"
+    - "derive/^jyu/ju/"
+    - "derive/yu(?!ng|k)/y/"
+    - "derive/(g|k)u(?!ng|k)/$1wu/"
+    - "derive/^([zcs])/$1h/"
+    - "derive/eoi(?=\\d)/eoy/"
+    - "derive/eo/oe/"
+    - "derive/oe/eo/"
+    - "derive/aa(?=\\d)/a/"
+    - "derive/[1-6]//"
+    - "abbrev/^([a-z]).+$/$1/"
+    - "xform/^~//"
+    - "xform/1/v/"
+    - "xform/4/vv/"
+    - "xform/2/x/"
+    - "xform/5/xx/"
+    - "xform/3/q/"
+    - "xform/6/qq/"
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+stroke:
+  comment_format:
+    - "xform/^/\\v/"
+    - "xform/~//"
+    - "xlit/hspnz/一丨丿丶乙/"
+  dictionary: stroke
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  preedit_format:
+    - "xlit/hspnz/一丨丿丶乙/"
+  prefix: "`b"
+  suffix: ";"
+  tag: stroke
+  tips: "〔筆畫〕"
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["中文", "英文"]
+  - name: full_shape
+    states: ["半形", "全形"]
+  - name: simplification
+    reset: 0
+    states: ["繁體", "简体"]
+  - name: ascii_punct
+    states: ["。，", "．，"]
+translator:
+  always_show_comments: true
+  comment_format:
+    - "xform/^/\\f/"
+    - "xform/~//"
+  dictionary: jyut6ping3
+  preedit_format:
+    - "xform/([aeiouymngptk])vv/${1}4/"
+    - "xform/([aeiouymngptk])xx/${1}5/"
+    - "xform/([aeiouymngptk])qq/${1}6/"
+    - "xform/([aeiouymngptk])v/${1}1/"
+    - "xform/([aeiouymngptk])x/${1}2/"
+    - "xform/([aeiouymngptk])q/${1}3/"

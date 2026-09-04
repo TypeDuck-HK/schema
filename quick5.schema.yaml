@@ -1,0 +1,23 @@
+# Rime schema
+# encoding: utf-8
+
+__include: cangjie5.schema:/
+
+schema:
+  schema_id: quick5
+  name: 速成五代
+
+engine:
+  translators:
+    - punct_translator
+    - script_translator
+  filters:
+    - dictionary_lookup_filter
+
+speller:
+  algebra:
+    - xform/^(?!yyy)([a-y])[a-z]+([a-z])$/$1$2/
+
+translator:
+  dictionary: quick5
+  prism: quick5

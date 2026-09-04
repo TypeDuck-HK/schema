@@ -1,0 +1,46 @@
+# Rime schema
+# encoding: utf-8
+
+__include: template:/
+
+schema:
+  schema_id: luna_pinyin
+  name: 普通話
+  author:
+    - 佛振 <chen.sst@gmail.com>
+  description: |
+    Rime 預設的拼音輸入方案。
+    參考以下作品而創作：
+      * CC-CEDICT
+      * Android open source project
+      * Chewing - 新酷音
+      * opencc - 開放中文轉換
+
+menu:
+  __patch: include:/no_candidate_selection
+
+speller:
+  algebra:
+    - abbrev/^([a-z]).+$/$1/
+    - derive/^([nl])ve$/$1ue/
+    - derive/^([jqxy])u/$1v/
+    - derive/un$/uen/
+    - derive/ui$/uei/
+    - derive/iu$/iou/
+
+translator:
+  dictionary: luna_pinyin
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+  comment_format:
+    - xform/^/\v/
+
+__patch:
+  - common:/disable_completion?
+  - common:/enable_correction?
+  - common:/separate_candidates?
