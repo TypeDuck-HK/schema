@@ -1,14 +1,14 @@
 __build_info:
   rime_version: 1.1.4
   timestamps:
-    common: 1788502476
-    common.custom: 1788502476
-    default: 1788502476
-    default.custom: 1788502476
-    include: 1788502476
+    common: 1788506349
+    common.custom: 1788506349
+    default: 1788506349
+    default.custom: 1788506349
+    include: 1788506349
     include.custom: 0
-    jyut6ping3_mobile_initial_final.schema: 1788502476
-    template: 1788502476
+    jyut6ping3_mobile_initial_final.schema: 1788506349
+    template: 1788506349
     template.custom: 0
 dictionary_lookup_filter:
   dictionary: jyut6ping3_scolar
