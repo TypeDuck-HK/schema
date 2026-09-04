@@ -1,14 +1,14 @@
 __build_info:
   rime_version: 1.1.4
   timestamps:
-    common: 1788502473
+    common: 1788506349
     common.custom: 0
-    default: 1788502473
+    default: 1788506349
     default.custom: 0
-    include: 1788502473
+    include: 1788506349
     include.custom: 0
-    luna_pinyin.schema: 1788502473
-    template: 1788502473
+    luna_pinyin.schema: 1788506349
+    template: 1788506349
     template.custom: 0
 dictionary_lookup_filter:
   dictionary: jyut6ping3_scolar
