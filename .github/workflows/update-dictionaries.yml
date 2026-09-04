@@ -94,8 +94,8 @@ jobs:
             "$tmpdir/cangjie5.zip"
           mkdir -p "$tmpdir/cangjie5"
           unzip -q "$tmpdir/cangjie5.zip" -d "$tmpdir/cangjie5"
-          cangjie5_dict="$tmpdir/cangjie5/傳統漢字優先（偏好香港用字習慣）/cangjie5_hk.dict.yaml"
-          if [ ! -f "$cangjie5_dict" ]; then
+          cangjie5_dict="$(find "$tmpdir/cangjie5" -name 'cangjie5_hk.dict.yaml' -print -quit)"
+          if [ -z "$cangjie5_dict" ]; then
             echo "Could not find 傳統漢字優先（偏好香港用字習慣）/cangjie5_hk.dict.yaml in the Cangjie5 archive." >&2
             find "$tmpdir/cangjie5" -type f >&2
             exit 1
