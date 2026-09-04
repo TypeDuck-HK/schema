@@ -54,3 +54,50 @@ jobs:
             echo "No .zip artifacts were downloaded." >&2
             exit 1
           fi
+
+      - name: Update Artifact Branches
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          zip_dir="$RUNNER_TEMP/release-artifacts"
+          mkdir -p "$zip_dir"
+
+          found=false
+          while IFS= read -r -d '' zipfile; do
+            found=true
+            cp "$zipfile" "$zip_dir/"
+          done < <(find artifacts -name "*.zip" -print0)
+
+          if [ "$found" = false ]; then
+            echo "No .zip artifacts were downloaded." >&2
+            exit 1
+          fi
+
+          while IFS= read -r -d '' zipfile; do
+            artifact_name="$(basename "$zipfile")"
+            branch="${artifact_name#TypeDuck-}"
+            branch="${branch%.zip}"
+            branch="$(printf '%s' "$branch" | tr '[:upper:]' '[:lower:]')"
+
+            if git ls-remote --exit-code --heads origin "$branch" >/dev/null 2>&1; then
+              git fetch origin "$branch:refs/remotes/origin/$branch"
+              git checkout -B "$branch" "origin/$branch"
+            else
+              git checkout --orphan "$branch"
+            fi
+
+            git rm -r --cached . >/dev/null 2>&1 || true
+            find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+            unzip -q "$zipfile" -d .
+
+            git add -A
+            if git diff --cached --quiet; then
+              echo "No changes for $branch."
+            else
+              git commit -m "Update to Files from $GITHUB_SHA"
+              git push origin "$branch"
+            fi
+          done < <(find "$zip_dir" -name "*.zip" -print0)
