@@ -121,7 +121,7 @@ jobs:
             local source="$2"
 
             if ! git diff --quiet -- "$file"; then
-              echo "- ${source}" >> "$body"
+              echo "- https://github.com/${source}" >> "$body"
             fi
           }
 
