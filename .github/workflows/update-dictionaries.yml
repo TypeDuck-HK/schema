@@ -101,6 +101,7 @@ jobs:
             exit 1
           fi
           cp "$cangjie5_dict" cangjie5.dict.yaml
+          perl -0pi -e 's/\r\n/\n/g' cangjie5.dict.yaml
           perl -pi -e 's/^name: "cangjie5_hk"$/name: "cangjie5"/' cangjie5.dict.yaml
           perl -0pi -e 's/^use_preset_vocabulary: true\R.*?(?=^\.\.\.(?:\R|$))//ms' cangjie5.dict.yaml
 
