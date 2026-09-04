@@ -1,7 +1,7 @@
 
 ---
 name: jyut6ping3
-version: "2026.06.20"
+version: "2026.09.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1123,6 +1123,7 @@ use_preset_vocabulary: true
 龕	am1	58.0%
 𡁏	am1	100.0%
 𥂝	am1	100.0%
+菴邊	am1 bin1	100.0%
 鵪鶉	am1 ceon1	100.0%
 鵪鶉蛋	am1 ceon1 daan2	100.0%
 諳練	am1 lin6	100.0%
@@ -2428,6 +2429,7 @@ use_preset_vocabulary: true
 伯勞	baak3 lou4	100.0%
 伯勞鳥	baak3 lou4 niu5	100.0%
 百老匯	baak3 lou5 wui2	100.0%
+百老滙	baak3 lou5 wui6	100.0%
 百老匯街	baak3 lou5 wui6 gaai1	100.0%
 百祿徑	baak3 luk6 ging3	100.0%
 百萬	baak3 maan6	100.0%
@@ -2861,6 +2863,8 @@ use_preset_vocabulary: true
 白石坑	baak6 sek6 haang1	100.0%
 白石橋	baak6 sek6 kiu4	100.0%
 白石砬子	baak6 sek6 laa1 zi2	100.0%
+白石臺	baak6 sek6 toi4	100.0%
+白石臺路	baak6 sek6 toi4 lou6	100.0%
 白石窩	baak6 sek6 wo1	100.0%
 白石窩新村	baak6 sek6 wo1 san1 cyun1	100.0%
 白石窩新村路	baak6 sek6 wo1 san1 cyun1 lou6	100.0%
@@ -4021,6 +4025,7 @@ use_preset_vocabulary: true
 爆肝	baau3 gon1	100.0%
 爆缸	baau3 gong1	100.0%
 爆管	baau3 gun2	100.0%
+爆佢	baau3 heoi5	14.23%
 爆香	baau3 hoeng1	100.0%
 爆響口	baau3 hoeng2 hau2	100.0%
 爆紅	baau3 hung4	100.0%
@@ -4269,6 +4274,7 @@ use_preset_vocabulary: true
 北角山	bak1 gok3 saan1	100.0%
 北角新村	bak1 gok3 san1 cyun1	100.0%
 北角台	bak1 gok3 toi4	100.0%
+北角臺	bak1 gok3 toi4	100.0%
 北角衞理小學	bak1 gok3 wai6 lei5 siu2 hok6	100.0%
 北角站	bak1 gok3 zaam6	100.0%
 北角咀	bak1 gok3 zeoi2	100.0%
@@ -4276,6 +4282,7 @@ use_preset_vocabulary: true
 北港	bak1 gong2	100.0%
 北港㘭	bak1 gong2 aau3	100.0%
 北港㘭路	bak1 gong2 aau3 lou6	100.0%
+北港島綫	bak1 gong2 dou2 sin3	100.0%
 北港路	bak1 gong2 lou6	100.0%
 北姑	bak1 gu1	100.0%
 北菇雞	bak1 gu1 gai1	100.0%
@@ -4362,6 +4369,7 @@ use_preset_vocabulary: true
 北灣	bak1 waan1	100.0%
 北灣頂	bak1 waan1 deng2	100.0%
 北環路	bak1 waan4 lou6	100.0%
+北環綫	bak1 waan4 sin3	100.0%
 北圍	bak1 wai4	100.0%
 北圍村	bak1 wai4 cyun1	100.0%
 北緯	bak1 wai5	100.0%
@@ -4934,6 +4942,7 @@ use_preset_vocabulary: true
 不過	bat1 gwo3	100.0%
 不過不失	bat1 gwo3 bat1 sat1	100.0%
 不過係	bat1 gwo3 hai6	100.0%
+不過佢	bat1 gwo3 heoi5	12.79%
 不過有	bat1 gwo3 jau5	100.0%
 不過佢	bat1 gwo3 keoi5	100.0%
 不過你	bat1 gwo3 nei5	100.0%
@@ -5570,6 +5579,7 @@ use_preset_vocabulary: true
 拔取	bat6 ceoi2	100.0%
 拔除	bat6 ceoi4	100.0%
 拔出嚟	bat6 ceot1 lai4	100.0%
+拔出嚟	bat6 ceot1 lei4	107.18%
 跋前躓後	bat6 cin4 zi3 hau6	100.0%
 拔草	bat6 cou2	100.0%
 拔頂	bat6 deng2	100.0%
@@ -5832,6 +5842,8 @@ use_preset_vocabulary: true
 俾盒	bei2 haap6	107.18%
 俾盒	bei2 hap6	100.0%
 比起	bei2 hei2	100.0%
+俾佢	bei2 heoi5	10.21%
+俾佢哋	bei2 heoi5 dei6	19.48%
 俾人	bei2 jan4	100.0%
 俾人呃	bei2 jan4 aak1	172.4%
 俾人呃	bei2 jan4 ak1	100.0%
@@ -5990,7 +6002,9 @@ use_preset_vocabulary: true
 庇利金街	bei3 lei6 gam1 gaai1	100.0%
 祕撈	bei3 lou1	100.0%
 祕魯	bei3 lou5	100.0%
+秘魯	bei3 lou5	100.0%
 祕魯苦蘵	bei3 lou5 fu2 zik1	100.0%
+秘魯人	bei3 lou5 jan4	100.0%
 祕聞	bei3 man4	100.0%
 祕密	bei3 mat6	100.0%
 祕密警察	bei3 mat6 ging2 caat3	100.0%
@@ -6390,6 +6404,7 @@ use_preset_vocabulary: true
 逼科	bik1 fo1	100.0%
 壁虎	bik1 fu2	100.0%
 逼虎跳牆	bik1 fu2 tiu3 coeng4	100.0%
+璧峰路	bik1 fung1 lou6	100.0%
 壁架	bik1 gaa2	100.0%
 碧街	bik1 gaai1	100.0%
 逼姦	bik1 gaan1	100.0%
@@ -6402,6 +6417,7 @@ use_preset_vocabulary: true
 壁掛	bik1 gwaa3	100.0%
 壁櫃	bik1 gwai6	100.0%
 逼過嚟	bik1 gwo3 lai4	100.0%
+逼過嚟	bik1 gwo3 lei4	107.18%
 逼下逼下	bik1 haa5 bik1 haa5	100.0%
 碧咸	bik1 haam4	100.0%
 壁效應	bik1 haau6 jing3	100.0%
@@ -6421,9 +6437,10 @@ use_preset_vocabulary: true
 璧如徑	bik1 jyu4 ging3	100.0%
 壁球	bik1 kau4	100.0%
 逼來逼去	bik1 lai4 bik1 heoi3	100.0%
+逼嚟逼去	bik1 lai4 bik1 heoi3	100.0%
 碧荔道	bik1 lai6 dou6	100.0%
 迫臨	bik1 lam4	100.0%
-逼嚟逼去	bik1 lei4 bik1 heoi3	100.0%
+逼嚟逼去	bik1 lei4 bik1 heoi3	119.62%
 壁壘分明	bik1 leoi5 fan1 ming4	100.0%
 壁壘森嚴	bik1 leoi5 sam1 jim4	100.0%
 逼令	bik1 ling6	100.0%
@@ -6573,6 +6590,7 @@ use_preset_vocabulary: true
 邊個都信	bin1 go3 dou1 seon3	100.0%
 邊個都制	bin1 go3 dou1 zai3	100.0%
 邊個敢嚟	bin1 go3 gam2 lai4	100.0%
+邊個敢嚟	bin1 go3 gam2 lei4	107.18%
 邊個係	bin1 go3 hai6	100.0%
 邊個靚	bin1 go3 leng3	100.0%
 邊個信	bin1 go3 seon3	100.0%
@@ -7093,6 +7111,7 @@ use_preset_vocabulary: true
 丙烯酸酯	bing2 hei1 syun1 zi2	100.0%
 摒棄	bing2 hei3	100.0%
 屏氣凝神	bing2 hei3 jing4 san4	100.0%
+抦佢	bing2 heoi5	84.09%
 丙寅	bing2 jan4	100.0%
 抦人	bing2 jan4	100.0%
 丙二醇	bing2 ji6 seon4	100.0%
@@ -7220,6 +7239,7 @@ use_preset_vocabulary: true
 必不可少	bit1 bat1 ho2 siu2	100.0%
 必備	bit1 bei6	100.0%
 咇出嚟	bit1 ceot1 lai4	100.0%
+咇出嚟	bit1 ceot1 lei4	121.48%
 必定	bit1 ding6	100.0%
 必發道	bit1 faat3 dou6	100.0%
 必嘉街	bit1 gaa1 gaai1	100.0%
@@ -7796,6 +7816,7 @@ use_preset_vocabulary: true
 扑嘢	bok1 je5	100.0%
 扑落去	bok1 lok6 heoi3	100.0%
 扑落嚟	bok1 lok6 lai4	100.0%
+扑落嚟	bok1 lok6 lei4	107.18%
 㩧佬	bok1 lou2	100.0%
 扑咪	bok1 mai1	100.0%
 卜帽	bok1 mou2	100.0%
@@ -7944,6 +7965,7 @@ use_preset_vocabulary: true
 搏懵呀	bok3 mung2 aa4	100.0%
 壆岸	bok3 ngon6	100.0%
 駁岸	bok3 ngon6	100.0%
+博鰲亞洲論壇	bok3 ngou4 aa3 zau1 leon6 taan4	100.0%
 博愛	bok3 oi3	100.0%
 博愛交匯處	bok3 oi3 gaau1 wui6 cyu3	100.0%
 博愛交匯處	bok3 oi3 gaau1 wui6 cyu5	100.0%
@@ -8100,6 +8122,7 @@ use_preset_vocabulary: true
 幫嚇眼	bong1 haak3 ngaan5	100.0%
 幫口	bong1 hau2	100.0%
 幫輕	bong1 heng1	100.0%
+幫佢	bong1 heoi5	10.82%
 幫腔	bong1 hong1	100.0%
 幫兇	bong1 hung1	100.0%
 幫人	bong1 jan4	100.0%
@@ -8348,6 +8371,7 @@ use_preset_vocabulary: true
 補飛	bou2 fei1	100.0%
 補課	bou2 fo3	100.0%
 寶庫	bou2 fu3	100.0%
+寶峰徑	bou2 fung1 ging3	100.0%
 寶豐路	bou2 fung1 lou6	100.0%
 寶豐台	bou2 fung1 toi4	100.0%
 寶嘉康蒂	bou2 gaa1 hong1 dai3	100.0%
@@ -9396,7 +9420,8 @@ use_preset_vocabulary: true
 本溪	bun2 kai1	100.0%
 本溪縣	bun2 kai1 jyun6	100.0%
 本溪滿族自治縣	bun2 kai1 mun5 zuk6 zi6 zi6 jyun6	100.0%
-本嚟	bun2 lei4	100.0%
+本嚟	bun2 lai4	100.0%
+本嚟	bun2 lei4	189.14%
 本壘	bun2 leoi5	100.0%
 本壘打	bun2 leoi5 daa2	100.0%
 本領	bun2 ling5	100.0%
@@ -9882,6 +9907,7 @@ use_preset_vocabulary: true
 叉拖	caa1 to1	100.0%
 叉簧	caa1 wong4	100.0%
 叉隻腳埋嚟	caa1 zek3 goek3 maai4 lai4	100.0%
+叉隻腳埋嚟	caa1 zek3 goek3 maai4 lei4	107.18%
 差之毫釐繆以千里	caa1 zi1 hou4 lei4 mau6 ji5 cin1 lei5	100.0%
 差之毫釐謬以千里	caa1 zi1 hou4 lei4 mau6 ji5 cin1 lei5	100.0%
 差之毫釐繆之千里	caa1 zi1 hou4 lei4 mau6 zi1 cin1 lei5	100.0%
@@ -10021,6 +10047,7 @@ use_preset_vocabulary: true
 茶果洲	caa4 gwo2 zau1	100.0%
 茶客	caa4 haak3	100.0%
 查考	caa4 haau2	100.0%
+查核	caa4 hak6	16.24%
 查勘	caa4 ham3	100.0%
 查核	caa4 hat6	100.0%
 茬口	caa4 hau2	100.0%
@@ -11107,6 +11134,7 @@ use_preset_vocabulary: true
 抄本	caau1 bun2	100.0%
 抄查	caau1 caa4	100.0%
 抄出嚟	caau1 ceot1 lai4	100.0%
+抄出嚟	caau1 ceot1 lei4	107.18%
 抄低	caau1 dai1	100.0%
 抄底	caau1 dai2	100.0%
 抄化	caau1 faa3	100.0%
@@ -11800,6 +11828,7 @@ use_preset_vocabulary: true
 哂啲	can2 di1	100.0%
 診斷	can2 dyun6	100.0%
 診金	can2 gam1	100.0%
+哂佢	can2 heoi5	14.71%
 縝潤	can2 jeon6	100.0%
 診咭	can2 kaat1	100.0%
 哂佢	can2 keoi5	100.0%
@@ -11875,6 +11904,7 @@ use_preset_vocabulary: true
 陳百祥	can4 baak3 coeng4	100.0%
 陳伯達	can4 baak3 daat6	100.0%
 陳百強	can4 baak3 koeng4	100.0%
+陳栢緯	can4 baak3 wai5	100.0%
 陳白沙	can4 baak6 saa1	100.0%
 陳白沙紀念中學	can4 baak6 saa1 gei2 nim6 zung1 hok6	100.0%
 塵爆	can4 baau3	100.0%
@@ -11943,6 +11973,7 @@ use_preset_vocabulary: true
 陳廣仁	can4 gwong2 jan4	100.0%
 陳克勤	can4 haak1 kan4	149.83%
 陳克勤	can4 hak1 kan4	100.0%
+陳恒鑌	can4 hang4 ban1	100.0%
 陳恆山	can4 hang4 saan1	100.0%
 陳熙蕊	can4 hei1 jeoi5	100.0%
 陳熙蕊	can4 hei1 jeoi6	75.98%
@@ -12137,6 +12168,7 @@ use_preset_vocabulary: true
 陳哲廬	can4 zit3 lou4	100.0%
 陳佐洱	can4 zo3 ji5	100.0%
 陳賬	can4 zoeng3	100.0%
+陳祖恒	can4 zou2 hang4	100.0%
 塵俗	can4 zuk6	100.0%
 陳宗澤	can4 zung1 zaak6	100.0%
 陳誦賢	can4 zung6 jin4	100.0%
@@ -13952,6 +13984,7 @@ use_preset_vocabulary: true
 脆肉鯇	ceoi3 juk6 waan5	100.0%
 翠園	ceoi3 jyun2	100.0%
 覷窺	ceoi3 kwai1	100.0%
+翠群徑	ceoi3 kwan4 ging3	100.0%
 淬礪	ceoi3 lai6	100.0%
 翠林	ceoi3 lam4	100.0%
 翠林邨	ceoi3 lam4 cyun1	100.0%
@@ -14222,6 +14255,7 @@ use_preset_vocabulary: true
 春花落	ceon1 faa1 lok6	100.0%
 春化	ceon1 faa3	100.0%
 春暉道	ceon1 fai1 dou6	100.0%
+春暉臺	ceon1 fai1 toi4	100.0%
 春分	ceon1 fan1	100.0%
 春分點	ceon1 fan1 dim2	100.0%
 春芳號	ceon1 fong1 hou6	100.0%
@@ -14271,6 +14305,7 @@ use_preset_vocabulary: true
 春天	ceon1 tin1	100.0%
 春田街	ceon1 tin4 gaai1	100.0%
 春貼	ceon1 tip3	100.0%
+春核	ceon1 wak6	70.71%
 春核	ceon1 wat6	100.0%
 春黃菊屬	ceon1 wong4 guk1 suk6	100.0%
 春孳	ceon1 zi1	100.0%
@@ -14339,6 +14374,7 @@ use_preset_vocabulary: true
 秦都	ceon4 dou1	100.0%
 循道	ceon4 dou6	100.0%
 循道學校	ceon4 dou6 hok6 haau6	100.0%
+循道衛理	ceon4 dou6 wai6 lei5	100.0%
 循道衞理聯合教會	ceon4 dou6 wai6 lei5 lyun4 hap6 gaau3 wui2	100.0%
 循分	ceon4 fan1	100.0%
 秦火	ceon4 fo2	100.0%
@@ -14513,6 +14549,7 @@ use_preset_vocabulary: true
 出過國	ceot1 gwo3 gwok3	100.0%
 出過去	ceot1 gwo3 heoi3	100.0%
 出過嚟	ceot1 gwo3 lai4	100.0%
+出過嚟	ceot1 gwo3 lei4	161.27%
 出過力	ceot1 gwo3 lik6	100.0%
 出過聲	ceot1 gwo3 seng1	100.0%
 出過事	ceot1 gwo3 si6	100.0%
@@ -14535,6 +14572,7 @@ use_preset_vocabulary: true
 出去	ceot1 heoi3	100.0%
 出去蒲	ceot1 heoi3 pou4	100.0%
 出去威	ceot1 heoi3 wai1	100.0%
+出佢	ceot1 heoi5	14.64%
 出竅	ceot1 hiu3	100.0%
 出海	ceot1 hoi2	100.0%
 出海三分命	ceot1 hoi2 saam1 fan1 meng6	100.0%
@@ -14596,6 +14634,13 @@ use_preset_vocabulary: true
 出簍子	ceot1 lau5 zi2	100.0%
 出溜	ceot1 lau6	100.0%
 出漏子	ceot1 lau6 zi2	100.0%
+出嚟	ceot1 lei4	320.58%
+出嚟擺	ceot1 lei4 baai2	145.32%
+出嚟趁	ceot1 lei4 can3	117.46%
+出嚟行	ceot1 lei4 haang4	196.95%
+出嚟嘞	ceot1 lei4 laak3	107.18%
+出嚟撈	ceot1 lei4 lou1	133.51%
+出嚟蒲	ceot1 lei4 pou4	127.1%
 出類拔萃	ceot1 leoi6 bat6 seoi6	100.0%
 出力	ceot1 lik6	100.0%
 出獵	ceot1 lip6	100.0%
@@ -14619,6 +14664,7 @@ use_preset_vocabulary: true
 出唔出街	ceot1 m4 ceot1 gaai1	100.0%
 出唔出去	ceot1 m4 ceot1 heoi3	100.0%
 出唔出嚟	ceot1 m4 ceot1 lai4	100.0%
+出唔出嚟	ceot1 m4 ceot1 lei4	131.95%
 出唔出名	ceot1 m4 ceot1 meng2	100.0%
 出唔出聲	ceot1 m4 ceot1 seng1	100.0%
 出唔到	ceot1 m4 dou3	100.0%
@@ -14655,6 +14701,7 @@ use_preset_vocabulary: true
 出晒去	ceot1 saai3 heoi3	100.0%
 出晒汗	ceot1 saai3 hon6	100.0%
 出晒嚟	ceot1 saai3 lai4	100.0%
+出晒嚟	ceot1 saai3 lei4	174.38%
 出晒名	ceot1 saai3 meng2	100.0%
 出晒面	ceot1 saai3 min2	100.0%
 出晒水	ceot1 saai3 seoi2	100.0%
@@ -14721,6 +14768,7 @@ use_preset_vocabulary: true
 出咗局	ceot1 zo2 guk6	100.0%
 出咗去	ceot1 zo2 heoi3	100.0%
 出咗嚟	ceot1 zo2 lai4	100.0%
+出咗嚟	ceot1 zo2 lei4	177.53%
 出咗名	ceot1 zo2 meng2	100.0%
 出咗聲	ceot1 zo2 seng1	100.0%
 出咗事	ceot1 zo2 si6	100.0%
@@ -15303,6 +15351,9 @@ use_preset_vocabulary: true
 遲嚟先上岸	ci4 lai4 sin1 soeng5 ngon6	100.0%
 遲嚟先走	ci4 lai4 sin1 zau2	100.0%
 茨林圍	ci4 lam4 wai4	100.0%
+遲嚟先上渡	ci4 lei4 sin1 soeng5 dou2	107.18%
+遲嚟先上岸	ci4 lei4 sin1 soeng5 ngon6	107.18%
+遲嚟先走	ci4 lei4 sin1 zau2	111.61%
 臍輪	ci4 leon4	100.0%
 持論	ci4 leon6	100.0%
 磁力	ci4 lik6	100.0%
@@ -15426,7 +15477,9 @@ use_preset_vocabulary: true
 似非而是	ci5 fei1 ji4 si6	100.0%
 似乎	ci5 fu4	100.0%
 似係	ci5 hai6	100.0%
+似核	ci5 hak6	52.66%
 似核	ci5 hat6	100.0%
+似佢	ci5 heoi5	31.54%
 似樣	ci5 joeng2	100.0%
 似佢	ci5 keoi5	100.0%
 恃強欺弱	ci5 koeng4 hei1 joek6	100.0%
@@ -15700,6 +15753,7 @@ use_preset_vocabulary: true
 誗	cim4	100.0%
 鬵	cim4	50.0%
 撏出嚟	cim4 ceot1 lai4	100.0%
+撏出嚟	cim4 ceot1 lei4	107.18%
 潛藏	cim4 cong4	100.0%
 潛伏	cim4 fuk6	100.0%
 潛伏期	cim4 fuk6 kei4	100.0%
@@ -16943,6 +16997,7 @@ use_preset_vocabulary: true
 腈綸	cing1 leon4	100.0%
 青麟路	cing1 leon4 lou6	100.0%
 清廉	cing1 lim4	100.0%
+青蓮臺	cing1 lin4 toi4	100.0%
 青菱徑	cing1 ling4 ging3	100.0%
 蜻蛉目	cing1 ling4 muk6	100.0%
 清涼	cing1 loeng4	100.0%
@@ -16999,6 +17054,7 @@ use_preset_vocabulary: true
 清晒袋	cing1 saai3 doi6	100.0%
 青山	cing1 saan1	100.0%
 青山出嚟	cing1 saan1 ceot1 lai4	100.0%
+青山出嚟	cing1 saan1 ceot1 lei4	121.48%
 青山村	cing1 saan1 cyun1	100.0%
 青山道	cing1 saan1 dou6	100.0%
 青山坊	cing1 saan1 fong1	100.0%
@@ -17159,6 +17215,7 @@ use_preset_vocabulary: true
 請教	cing2 gaau3	100.0%
 請教下	cing2 gaau3 haa6	100.0%
 拯救	cing2 gau3	100.0%
+拯救佢	cing2 gau3 heoi5	63.89%
 拯救佢	cing2 gau3 keoi5	100.0%
 請吃宵夜	cing2 hek3 siu1 je2	100.0%
 逞凶	cing2 hung1	100.0%
@@ -17839,6 +17896,7 @@ use_preset_vocabulary: true
 潮水	ciu4 seoi2	100.0%
 憔悴	ciu4 seoi5	100.0%
 朝鮮	ciu4 sin1	100.0%
+朝鮮核談	ciu4 sin1 hak6 taam4	84.09%
 朝鮮核談	ciu4 sin1 hat6 taam4	100.0%
 朝鮮海峽	ciu4 sin1 hoi2 haap6	100.0%
 朝鮮人	ciu4 sin1 jan4	100.0%
@@ -17948,6 +18006,13 @@ use_preset_vocabulary: true
 初嚟暴到	co1 lai4 bou6 dou3	100.0%
 初嚟步到	co1 lai4 bou6 dou3	100.0%
 初嚟甫到	co1 lai4 bou6 dou3	50.0%
+初嚟埗到	co1 lei4 bou3 dou3	0.0%
+初嚟報到	co1 lei4 bou3 dou3	129.24%
+初嚟甫到	co1 lei4 bou3 dou3	58.73%
+初嚟埗到	co1 lei4 bou6 dou3	124.57%
+初嚟暴到	co1 lei4 bou6 dou3	107.18%
+初嚟步到	co1 lei4 bou6 dou3	107.18%
+初嚟甫到	co1 lei4 bou6 dou3	58.73%
 芻糧	co1 loeng4	100.0%
 初來報到	co1 loi4 bou3 dou3	100.0%
 初來乍到	co1 loi4 zaa3 dou3	100.0%
@@ -18187,6 +18252,7 @@ use_preset_vocabulary: true
 桌機	coek3 gei1	100.0%
 卓見	coek3 gin3	100.0%
 戳下戳下	coek3 haa5 coek3 haa5	100.0%
+戳佢	coek3 heoi5	84.09%
 綽號	coek3 hou6	100.0%
 桌遊	coek3 jau4	100.0%
 卓有成效	coek3 jau5 sing4 haau6	100.0%
@@ -19082,6 +19148,7 @@ use_preset_vocabulary: true
 蔡國威	coi3 gwok3 wai1	100.0%
 賽夏族	coi3 haa6 zuk6	100.0%
 賽後	coi3 hau6	100.0%
+蔡曉峰	coi3 hiu2 fung1	100.0%
 蔡曉慧	coi3 hiu2 wai6	100.0%
 菜香不愁巷仔深	coi3 hoeng1 bat1 sau4 hong6 zai2 sam1	100.0%
 蔡愷穎	coi3 hoi2 wing6	100.0%
@@ -19886,7 +19953,9 @@ use_preset_vocabulary: true
 曹公坊	cou4 gung1 fong1	100.0%
 曹公街	cou4 gung1 gaai1	100.0%
 曹公潭	cou4 gung1 taam4	100.0%
+曹公潭戶外康樂中心	cou4 gung1 taam4 wu6 ngoi6 hong1 lok6 zung1 sam1	100.0%
 嘈起上嚟	cou4 hei2 soeng5 lai4	100.0%
+嘈起上嚟	cou4 hei2 soeng5 lei4	131.95%
 槽孔	cou4 hung2	100.0%
 嘈喧巴閉	cou4 hyun1 baa1 bai3	100.0%
 嘈喧天	cou4 hyun1 tin1	100.0%
@@ -20233,6 +20302,7 @@ use_preset_vocabulary: true
 沖挹	cung1 jap1	100.0%
 衝入	cung1 jap6	100.0%
 衝入嚟	cung1 jap6 lai4	100.0%
+衝入嚟	cung1 jap6 lei4	140.04%
 充溢	cung1 jat6	100.0%
 葱油	cung1 jau4	100.0%
 葱油餅	cung1 jau4 beng2	100.0%
@@ -20524,6 +20594,7 @@ use_preset_vocabulary: true
 叢林鴉	cung4 lam4 aa1	100.0%
 叢林地	cung4 lam4 dei6	100.0%
 叢林戰	cung4 lam4 zin3	100.0%
+從嚟	cung4 lei4	117.46%
 松嶺	cung4 leng5	100.0%
 松嶺里	cung4 leng5 lei5	100.0%
 松嶺路	cung4 leng5 lou6	100.0%
@@ -20603,9 +20674,11 @@ use_preset_vocabulary: true
 從頭到尾	cung4 tau4 dou3 mei5	100.0%
 松頭下路	cung4 tau4 haa6 lou6	100.0%
 從頭嚟過	cung4 tau4 lai4 gwo3	100.0%
+從頭嚟過	cung4 tau4 lei4 gwo3	107.18%
 從頭來	cung4 tau4 loi4	100.0%
 從頭説起	cung4 tau4 syut3 hei2	100.0%
-從頭再嚟	cung4 tau4 zoi3 lei4	100.0%
+從頭再嚟	cung4 tau4 zoi3 lai4	100.0%
+從頭再嚟	cung4 tau4 zoi3 lei4	117.46%
 從頭做起	cung4 tau4 zou6 hei2	100.0%
 從天而降	cung4 tin1 ji4 gong3	100.0%
 叢台	cung4 toi4	100.0%
@@ -20667,6 +20740,7 @@ use_preset_vocabulary: true
 重工業	cung5 gung1 jip6	100.0%
 重櫃	cung5 gwai6	100.0%
 重過	cung5 gwo3	100.0%
+重核	cung5 hak6	59.46%
 重核	cung5 hat6	100.0%
 重口	cung5 hau2	100.0%
 重口味	cung5 hau2 mei6	100.0%
@@ -21551,6 +21625,7 @@ use_preset_vocabulary: true
 荃灣路	cyun4 waan1 lou6	100.0%
 荃灣西	cyun4 waan1 sai1	100.0%
 荃灣西站	cyun4 waan1 sai1 zaam6	100.0%
+荃灣綫	cyun4 waan1 sin3	100.0%
 荃灣聖芳濟中學	cyun4 waan1 sing3 fong1 zai3 zung1 hok6	100.0%
 荃灣商會學校	cyun4 waan1 soeng1 wui2 hok6 haau6	100.0%
 荃灣天主教小學	cyun4 waan1 tin1 zyu2 gaau3 siu2 hok6	100.0%
@@ -21673,6 +21748,7 @@ use_preset_vocabulary: true
 打齊	daa2 cai4	100.0%
 打沉	daa2 cam4	100.0%
 打層次	daa2 cang4 ci3	100.0%
+打柒佢	daa2 cat1 heoi5	15.6%
 打柒佢	daa2 cat1 keoi5	30.92%
 打柒	daa2 cat6	16.88%
 打秋風	daa2 cau1 fung1	100.0%
@@ -21714,7 +21790,6 @@ use_preset_vocabulary: true
 打底	daa2 dai2	100.0%
 打底褲	daa2 dai2 fu3	100.0%
 打得	daa2 dak1	100.0%
-🦆	~daa2 ~dak1	100.0%
 打得火熱	daa2 dak1 fo2 jit6	100.0%
 打得好	daa2 dak1 hou2	100.0%
 打得埋	daa2 dak1 maai4	100.0%
@@ -21771,6 +21846,7 @@ use_preset_vocabulary: true
 打翻電話	daa2 faan1 din6 waa2	100.0%
 打番幾鋪	daa2 faan1 gei2 pou1	100.0%
 打返嚟	daa2 faan1 lai4	100.0%
+打返嚟	daa2 faan1 lei4	138.52%
 打翻身仗	daa2 faan1 san1 zoeng3	100.0%
 打飯	daa2 faan6	100.0%
 打法	daa2 faat3	100.0%
@@ -21888,6 +21964,7 @@ use_preset_vocabulary: true
 打氣	daa2 hei3	100.0%
 打氣筒	daa2 hei3 tung2	100.0%
 打去	daa2 heoi3	100.0%
+打佢	daa2 heoi5	15.06%
 打芡	daa2 hin3	100.0%
 打河	daa2 ho2	100.0%
 打荷	daa2 ho2	100.0%
@@ -21977,6 +22054,7 @@ use_preset_vocabulary: true
 打蠟	daa2 laap6	100.0%
 打撈	daa2 laau4	100.0%
 打嚟	daa2 lai4	100.0%
+打嚟	daa2 lei4	222.56%
 打理	daa2 lei5	100.0%
 打雷	daa2 leoi4	100.0%
 打壘球	daa2 leoi4 kau4	100.0%
@@ -22132,6 +22210,8 @@ use_preset_vocabulary: true
 打橫行	daa2 waang4 haang4	100.0%
 打橫嚟	daa2 waang4 lai4	100.0%
 打橫嚟講	daa2 waang4 lai4 gong2	100.0%
+打橫嚟	daa2 waang4 lei4	171.18%
+打橫嚟講	daa2 waang4 lei4 gong2	144.25%
 打橫來講	daa2 waang4 loi4 gong2	100.0%
 打橫炮	daa2 waang4 paau3	100.0%
 打橫寫	daa2 waang4 se2	100.0%
@@ -22259,6 +22339,7 @@ use_preset_vocabulary: true
 戴孝	daai3 haau3	100.0%
 戴口罩	daai3 hau2 zaau3	100.0%
 帶起	daai3 hei2	100.0%
+帶佢	daai3 heoi5	16.57%
 帶協	daai3 hip3	100.0%
 帶挈	daai3 hit3	100.0%
 帶紅色	daai3 hung4 sik1	100.0%
@@ -22273,6 +22354,7 @@ use_preset_vocabulary: true
 帶菌	daai3 kwan2	100.0%
 帶菌者	daai3 kwan2 ze2	100.0%
 帶嚟	daai3 lai4	100.0%
+帶嚟	daai3 lei4	183.38%
 帶累	daai3 leoi6	100.0%
 帶領	daai3 ling5	100.0%
 帶囉	daai3 lo1	100.0%
@@ -22344,6 +22426,9 @@ use_preset_vocabulary: true
 大壓力	daai6 aat3 lik6	100.0%
 大坳門	daai6 aau3 mun4	100.0%
 大坳門路	daai6 aau3 mun4 lou6	100.0%
+大菴	daai6 am1	100.0%
+大菴路	daai6 am1 lou6	100.0%
+大菴山	daai6 am1 saan1	100.0%
 大巴	daai6 baa1	100.0%
 大把	daai6 baa2	100.0%
 大把錢	daai6 baa2 cin2	100.0%
@@ -22368,6 +22453,7 @@ use_preset_vocabulary: true
 大白象	daai6 baak6 zoeng6	100.0%
 大班	daai6 baan1	100.0%
 大班椅	daai6 baan1 ji2	100.0%
+大班麵包西餅	daai6 baan1 min6 baau1 sai1 beng2	100.0%
 大斑鶺鴒	daai6 baan1 zek3 ling4	100.0%
 大阪	daai6 baan2	100.0%
 大阪地	daai6 baan2 dei6	100.0%
@@ -22400,6 +22486,7 @@ use_preset_vocabulary: true
 大煲	daai6 bou1	100.0%
 大煲特煲	daai6 bou1 dak6 bou1	100.0%
 大埔	daai6 bou3	100.0%
+大埔循道衛理小學	daai6 bou3 ceon4 dou6 wai6 lei5 siu2 hok6	100.0%
 大埔超級城	daai6 bou3 ciu1 kap1 sing4	100.0%
 大埔道	daai6 bou3 dou6	100.0%
 大埔街	daai6 bou3 gaai1	100.0%
@@ -22832,6 +22919,8 @@ use_preset_vocabulary: true
 大學大馬路	daai6 hok6 daai6 maa5 lou6	100.0%
 大學道	daai6 hok6 dou6	100.0%
 大學教育資助委員會	daai6 hok6 gaau3 juk6 zi1 zo6 wai2 jyun4 wui2	100.0%
+大學教育資助委員會秘書處	daai6 hok6 gaau3 juk6 zi1 zo6 wai2 jyun4 wui6 bei3 syu1 cyu3	100.0%
+大學教育資助委員會秘書處	daai6 hok6 gaau3 juk6 zi1 zo6 wai2 jyun4 wui6 bei3 syu1 cyu5	100.0%
 大學學科能力測驗	daai6 hok6 hok6 fo1 nang4 lik6 caak1 jim6	107.18%
 大學學科能力測驗	daai6 hok6 hok6 fo1 nang4 lik6 cak1 jim6	100.0%
 大學南圓形地	daai6 hok6 naam4 jyun4 jing4 dei6	100.0%
@@ -23220,6 +23309,7 @@ use_preset_vocabulary: true
 大腦死亡	daai6 nou5 sei2 mong4	100.0%
 大腦上洋	daai6 nou5 soeng6 joeng4	100.0%
 大愛	daai6 oi3	100.0%
+大安臺	daai6 on1 toi4	100.0%
 大安指意	daai6 on1 zi2 ji3	100.0%
 大安指擬	daai6 on1 zi2 ji3	100.0%
 大安旨意	daai6 on1 zi2 ji3	100.0%
@@ -23677,6 +23767,7 @@ use_preset_vocabulary: true
 大姊	daai6 zi2	100.0%
 大紙	daai6 zi2	100.0%
 大紫荊勛章	daai6 zi2 ging1 fan1 zoeng1	100.0%
+大紫荊勳章	daai6 zi2 ging1 fan1 zoeng1	100.0%
 金紫荊星章	daai6 zi2 ging1 sing1 zoeng1	100.0%
 大志	daai6 zi3	100.0%
 大致	daai6 zi3	100.0%
@@ -23812,6 +23903,7 @@ use_preset_vocabulary: true
 儋州	daam1 zau1	100.0%
 擔正	daam1 zeng3	100.0%
 擔張凳嚟	daam1 zoeng1 dang3 lai4	100.0%
+擔張凳嚟	daam1 zoeng1 dang3 lei4	107.18%
 擔住口煙	daam1 zyu6 hau2 jin1	100.0%
 䃫	daam2	100.0%
 担	daam2	0.0%
@@ -24033,6 +24125,7 @@ use_preset_vocabulary: true
 丹霞地貌	daan1 haa4 dei6 maau6	100.0%
 丹霞山	daan1 haa4 saan1	100.0%
 單係	daan1 hai6	100.0%
+單核細胞	daan1 hak6 sai3 baau1	56.23%
 單行線	daan1 hang4 sin3	100.0%
 單核細胞	daan1 hat6 sai3 baau1	100.0%
 單口相聲	daan1 hau2 soeng3 sing1	100.0%
@@ -24219,6 +24312,7 @@ use_preset_vocabulary: true
 但不	daan6 bat1	100.0%
 彈叉	daan6 caa1	100.0%
 彈出嚟	daan6 ceot1 lai4	100.0%
+彈出嚟	daan6 ceot1 lei4	195.24%
 彈槍	daan6 coeng1	100.0%
 彈牀	daan6 cong4	100.0%
 彈地波	daan6 dei6 bo1	100.0%
@@ -24247,11 +24341,13 @@ use_preset_vocabulary: true
 蛋餡烘餅	daan6 haam2 hung3 beng2	100.0%
 但係	daan6 hai6	100.0%
 但係都	daan6 hai6 dou1	100.0%
+但係佢	daan6 hai6 heoi5	13.86%
 但係又	daan6 hai6 jau6	100.0%
 但係佢	daan6 hai6 keoi5	100.0%
 但係唔	daan6 hai6 m4	100.0%
 但係你	daan6 hai6 nei5	100.0%
 但係我	daan6 hai6 ngo5	100.0%
+但佢	daan6 heoi5	10.41%
 彈開	daan6 hoi1	100.0%
 但好似	daan6 hou2 ci5	100.0%
 但也	daan6 jaa5	100.0%
@@ -24528,6 +24624,7 @@ use_preset_vocabulary: true
 𢴈餐死	daat3 caan1 sei2	100.0%
 𢴈親	daat3 can1	100.0%
 撻出嚟	daat3 ceot1 lai4	100.0%
+撻出嚟	daat3 ceot1 lei4	111.61%
 撻大佬朵	daat3 daai6 lou2 do2	100.0%
 撻大佬朵	daat3 daai6 lou2 doe2	100.0%
 𢴈低	daat3 dai1	100.0%
@@ -24537,6 +24634,7 @@ use_preset_vocabulary: true
 𢴈落牀	daat3 lok6 cong4	100.0%
 𢴈落地	daat3 lok6 dei6	100.0%
 𢴈落嚟	daat3 lok6 lai4	100.0%
+𢴈落嚟	daat3 lok6 lei4	107.18%
 𢴈落來	daat3 lok6 loi4	100.0%
 笪沙魚	daat3 saa1 jyu2	100.0%
 撻生魚	daat3 saang1 jyu2	100.0%
@@ -25416,11 +25514,13 @@ use_preset_vocabulary: true
 得閒飲茶	dak1 haan4 jam2 caa4	100.0%
 得閒嚟坐	dak1 haan4 lai4 co5	100.0%
 得閒呢	dak1 haan4 le1	100.0%
+得閒嚟坐	dak1 haan4 lei4 co5	117.46%
 得閒嗎	dak1 haan4 maa3	100.0%
 得閒咪	dak1 haan4 mai1	100.0%
 得閒麼	dak1 haan4 mo1	100.0%
 得閒再傾	dak1 haan4 zoi3 king1	100.0%
-得閒再嚟	dak1 haan4 zoi3 lei4	100.0%
+得閒再嚟	dak1 haan4 zoi3 lai4	100.0%
+得閒再嚟	dak1 haan4 zoi3 lei4	107.18%
 德黑蘭	dak1 hak1 laan4	100.0%
 德克羅	dak1 hak1 lo4	100.0%
 德克薩斯	dak1 hak1 saat3 si1	100.0%
@@ -25428,6 +25528,8 @@ use_preset_vocabulary: true
 得很	dak1 han2	100.0%
 德行	dak1 hang6	100.0%
 德厚街	dak1 hau5 gaai1	100.0%
+得佢	dak1 heoi5	9.36%
+得佢哋	dak1 heoi5 dei6	18.69%
 德興街	dak1 hing1 gaai1	100.0%
 德慶縣	dak1 hing3 jyun6	100.0%
 得香港	dak1 hoeng1 gong2	100.0%
@@ -25475,6 +25577,7 @@ use_preset_vocabulary: true
 得嚟	dak1 lai4	100.0%
 德勒斯登	dak1 lak6 si1 dang1	100.0%
 德立街	dak1 lap6 gaai1	100.0%
+得嚟	dak1 lei4	243.76%
 德里	dak1 lei5	100.0%
 得理不饒人	dak1 lei5 bat1 jiu4 jan4	100.0%
 得利街	dak1 lei6 gaai1	100.0%
@@ -25772,6 +25875,7 @@ use_preset_vocabulary: true
 揼雞	dam3 gai1	100.0%
 髧落地	dam3 lok6 dei6	100.0%
 髧落嚟	dam3 lok6 lai4	100.0%
+髧落嚟	dam3 lok6 lei4	107.18%
 凳	dam4	0.0%
 揼	dam4	0.0%
 榃	dam4	50.0%
@@ -25998,6 +26102,7 @@ use_preset_vocabulary: true
 等閒	dang2 haan4	100.0%
 等閒之輩	dang2 haan4 zi1 bui3	100.0%
 等候	dang2 hau6	100.0%
+等佢	dang2 heoi5	11.46%
 等號	dang2 hou6	100.0%
 等因奉此	dang2 jan1 fung6 ci2	100.0%
 等人	dang2 jan4	100.0%
@@ -26113,6 +26218,7 @@ use_preset_vocabulary: true
 鄧穎超	dang6 wing6 ciu1	100.0%
 鄧俊文	dang6 zeon3 man4	100.0%
 鄧子恢	dang6 zi2 fui1	100.0%
+鄧梓峰	dang6 zi2 fung1	100.0%
 鄧紫棋	dang6 zi2 kei4	100.0%
 鄧智堅	dang6 zi3 gin1	100.0%
 鄧中華	dang6 zung1 waa4	100.0%
@@ -26282,6 +26388,7 @@ use_preset_vocabulary: true
 兜兒	dau1 ji4	100.0%
 兜攬	dau1 laam5	100.0%
 兜嚟兜去	dau1 lai4 dau1 heoi3	100.0%
+兜嚟兜去	dau1 lei4 dau1 heoi3	111.61%
 兜路	dau1 lou6	100.0%
 兜路走	dau1 lou6 zau2	100.0%
 兜賣	dau1 maai6	100.0%
@@ -26289,6 +26396,7 @@ use_preset_vocabulary: true
 兜鍪	dau1 mau4	100.0%
 兜痞	dau1 pei2	100.0%
 兜晒出嚟	dau1 saai3 ceot1 lai4	100.0%
+兜晒出嚟	dau1 saai3 ceot1 lei4	107.18%
 兜潺仔	dau1 saan4 zai1	100.0%
 兜生意	dau1 saang1 ji3	100.0%
 兜售	dau1 sau6	100.0%
@@ -26523,6 +26631,8 @@ use_preset_vocabulary: true
 嗲地媽咪	de1 di4 maa1 mi4	100.0%
 嗲掂	de1 dim6	100.0%
 嗲幾句	de1 gei2 geoi3	100.0%
+爹核里	de1 hak6 lei5	100.0%
+爹核士街	de1 hak6 si6 gaai1	63.89%
 爹核里	de1 hat6 lei5	100.0%
 爹核士街	de1 hat6 si6 gaai1	100.0%
 爹利	de1 lei2	100.0%
@@ -26955,6 +27065,7 @@ use_preset_vocabulary: true
 對口徑	deoi3 hau2 ging3	100.0%
 對口型	deoi3 hau2 jing4	100.0%
 對口相聲	deoi3 hau2 soeng3 sing1	100.0%
+對佢	deoi3 heoi5	11.65%
 對開	deoi3 hoi1	100.0%
 對號入座	deoi3 hou6 jap6 zo6	100.0%
 對胸衫	deoi3 hung1 saam1	100.0%
@@ -27222,6 +27333,7 @@ use_preset_vocabulary: true
 的的骰骰	dik1 dik1 sik1 sik1	100.0%
 嫡系	dik1 hai6	100.0%
 扚起嚟	dik1 hei2 lai4	100.0%
+扚起嚟	dik1 hei2 lei4	107.18%
 𢯊起心肝	dik1 hei2 sam1 gon1	100.0%
 扚起身	dik1 hei2 san1	100.0%
 的人	dik1 jan4	100.0%
@@ -27333,6 +27445,7 @@ use_preset_vocabulary: true
 敵視	dik6 si6	100.0%
 迪士尼	dik6 si6 nei4	100.0%
 迪士尼樂園	dik6 si6 nei4 lok6 jyun4	100.0%
+迪士尼綫	dik6 si6 nei4 sin3	100.0%
 迪士尼站	dik6 si6 nei4 zaam6	100.0%
 敵探	dik6 taam3	100.0%
 敵台	dik6 toi4	100.0%
@@ -27399,6 +27512,7 @@ use_preset_vocabulary: true
 點㗎	dim2 gaa3	100.0%
 點解	dim2 gaai2	100.0%
 點解噉	dim2 gaai2 gam2	100.0%
+點解佢	dim2 gaai2 heoi5	13.92%
 點解可以	dim2 gaai2 ho2 ji5	100.0%
 點解有	dim2 gaai2 jau5	100.0%
 點解依家	dim2 gaai2 ji1 gaa1	100.0%
@@ -27459,6 +27573,8 @@ use_preset_vocabulary: true
 點嚟	dim2 lai4	100.0%
 點嚟點去	dim2 lai4 dim2 heoi3	100.0%
 點撚樣	dim2 lan2 joeng2	24.68%
+點嚟	dim2 lei4	201.25%
+點嚟點去	dim2 lei4 dim2 heoi3	107.18%
 點理解	dim2 lei5 gaai2	100.0%
 點買	dim2 maai5	100.0%
 點卯	dim2 maau5	100.0%
@@ -27649,6 +27765,7 @@ use_preset_vocabulary: true
 典型用途	din2 jing4 jung6 tou4	100.0%
 捵嚟捵去	din2 lai4 din2 heoi3	100.0%
 典禮	din2 lai5	100.0%
+捵嚟捵去	din2 lei4 din2 heoi3	107.18%
 典雅	din2 ngaa5	100.0%
 碘酸	din2 syun1	100.0%
 典質	din2 zat1	100.0%
@@ -28299,6 +28416,7 @@ use_preset_vocabulary: true
 定量分塊	ding6 loeng6 fan1 faai3	100.0%
 定量分析	ding6 loeng6 fan1 sik1	100.0%
 定落嚟	ding6 lok6 lai4	100.0%
+定落嚟	ding6 lok6 lei4	160.58%
 定乜	ding6 mat1	100.0%
 定女同事	ding6 neoi2 tung4 si6	100.0%
 定額	ding6 ngaak2	100.0%
@@ -28634,6 +28752,8 @@ use_preset_vocabulary: true
 屌鳩	diu2 gau1	8.56%
 屌蝦拆蟹	diu2 haa1 caak3 haai5	81.23%
 屌閪	diu2 hai1	27.27%
+屌佢	diu2 heoi5	1.44%
+屌佢老母	diu2 heoi5 lou5 mou2	2.09%
 屌人	diu2 jan4	8.54%
 屌完	diu2 jyun4	10.67%
 屌佢	diu2 keoi5	6.86%
@@ -28701,6 +28821,8 @@ use_preset_vocabulary: true
 吊槓	diu3 gong3	100.0%
 吊高嚟賣	diu3 gou1 lai4 maai6	100.0%
 釣高嚟賣	diu3 gou1 lai4 maai6	100.0%
+吊高嚟賣	diu3 gou1 lei4 maai6	182.46%
+釣高嚟賣	diu3 gou1 lei4 maai6	107.18%
 弔詭	diu3 gwai2	100.0%
 弔詭矜奇	diu3 gwai2 ging1 kei4	100.0%
 吊骨	diu3 gwat1	100.0%
@@ -28709,6 +28831,9 @@ use_preset_vocabulary: true
 吊起嚟賣	diu3 hei2 lai4 maai6	100.0%
 弔起嚟賣	diu3 hei2 lai4 maai6	100.0%
 釣起嚟賣	diu3 hei2 lai4 maai6	100.0%
+吊起嚟賣	diu3 hei2 lei4 maai6	128.21%
+弔起嚟賣	diu3 hei2 lei4 maai6	107.18%
+釣起嚟賣	diu3 hei2 lei4 maai6	107.18%
 吊起來賣	diu3 hei2 loi4 maai6	100.0%
 吊靴鬼	diu3 hoe1 gwai2	100.0%
 吊癮	diu3 jan5	100.0%
@@ -28797,6 +28922,7 @@ use_preset_vocabulary: true
 調兵遣將	diu6 bing1 hin2 zoeng3	100.0%
 調錶器	diu6 biu1 hei3	100.0%
 調查	diu6 caa4	100.0%
+調查核實	diu6 caa4 hak6 sat6	52.66%
 調查核實	diu6 caa4 hat6 sat6	100.0%
 調查後	diu6 caa4 hau6	100.0%
 調參	diu6 caam1	100.0%
@@ -28809,6 +28935,7 @@ use_preset_vocabulary: true
 調度	diu6 dou6	100.0%
 調動	diu6 dung6	100.0%
 調返嚟	diu6 faan1 lai4	100.0%
+調返嚟	diu6 faan1 lei4	107.18%
 掉返轉	diu6 faan1 zyun3	100.0%
 掉粉	diu6 fan2	100.0%
 調赴	diu6 fu6	100.0%
@@ -28842,6 +28969,7 @@ use_preset_vocabulary: true
 調轉	diu6 zyun2	100.0%
 掉轉	diu6 zyun3	100.0%
 調轉嚟	diu6 zyun3 lai4	100.0%
+調轉嚟	diu6 zyun3 lei4	151.09%
 掉轉頭	diu6 zyun3 tau4	100.0%
 哆	do1	100.0%
 多	do1	100.0%
@@ -29185,6 +29313,7 @@ use_preset_vocabulary: true
 墮落	do6 lok6	100.0%
 墮落雞	do6 lok6 gai1	100.0%
 惰落嚟	do6 lok6 lai4	100.0%
+惰落嚟	do6 lok6 lei4	107.18%
 墮馬	do6 maa5	100.0%
 惰性	do6 sing3	100.0%
 惰性氣體	do6 sing3 hei3 tai2	100.0%
@@ -29462,6 +29591,7 @@ use_preset_vocabulary: true
 當下	dong1 haa6	100.0%
 當黑	dong1 haak1	205.89%
 當黑	dong1 hak1	100.0%
+當佢	dong1 heoi5	12.71%
 當行出色	dong1 hong4 ceot1 sik1	100.0%
 當紅	dong1 hung4	100.0%
 當紅炸子雞	dong1 hung4 zaa3 zi2 gai1	100.0%
@@ -29625,6 +29755,7 @@ use_preset_vocabulary: true
 蕩然無存	dong6 jin4 mou4 cyun4	100.0%
 蕩漾	dong6 joeng6	100.0%
 蕩嚟蕩去	dong6 lai4 dong6 heoi3	100.0%
+蕩嚟蕩去	dong6 lei4 dong6 heoi3	107.18%
 盪排頭	dong6 paai4 tau4	100.0%
 蕩平	dong6 ping4	100.0%
 蕩失	dong6 sat1	100.0%
@@ -29692,6 +29823,7 @@ use_preset_vocabulary: true
 都係	dou1 hai6	100.0%
 都係得	dou1 hai6 dak1	100.0%
 都係噉	dou1 hai6 gam2	100.0%
+都係佢	dou1 hai6 heoi5	14.59%
 都係因為	dou1 hai6 jan1 wai6	100.0%
 都係一樣	dou1 hai6 jat1 joeng6	100.0%
 都係有	dou1 hai6 jau5	100.0%
@@ -29700,6 +29832,7 @@ use_preset_vocabulary: true
 都係垃圾	dou1 hai6 laap6 saap3	100.0%
 都係冇	dou1 hai6 mou5	100.0%
 都係會	dou1 hai6 wui5	100.0%
+氘核	dou1 hak6	84.09%
 都肯	dou1 hang2	100.0%
 氘核	dou1 hat6	100.0%
 都去	dou1 heoi3	100.0%
@@ -29874,6 +30007,7 @@ use_preset_vocabulary: true
 倒車擋	dou2 ce1 dong3	100.0%
 倒春寒	dou2 ceon1 hon4	56.0%
 倒出嚟	dou2 ceot1 lai4	100.0%
+倒出嚟	dou2 ceot1 lei4	138.52%
 賭錢	dou2 cin2	100.0%
 倒錢落海	dou2 cin2 lok6 hoi2	100.0%
 賭場	dou2 coeng4	100.0%
@@ -30068,6 +30202,8 @@ use_preset_vocabulary: true
 蠹國害民	dou3 gwok3 hoi6 man4	100.0%
 倒後	dou3 hau6	100.0%
 倒後鏡	dou3 hau6 geng3	100.0%
+到佢	dou3 heoi5	8.63%
+到佢哋	dou3 heoi5 dei6	16.7%
 蠹害	dou3 hoi6	100.0%
 倒汗水	dou3 hon6 seoi2	100.0%
 到任	dou3 jam6	100.0%
@@ -30122,6 +30258,7 @@ use_preset_vocabulary: true
 倒褪	dou3 tan3	100.0%
 到頭	dou3 tau4	100.0%
 到頭嚟	dou3 tau4 lai4	100.0%
+到頭嚟	dou3 tau4 lei4	152.04%
 到頭來	dou3 tau4 loi4	100.0%
 倒退	dou3 teoi3	44.0%
 倒貼	dou3 tip3	100.0%
@@ -30301,6 +30438,7 @@ use_preset_vocabulary: true
 道卡斯族	dou6 kaa1 si1 zuk6	100.0%
 導購	dou6 kau3	100.0%
 杜琪峯	dou6 kei4 fung1	100.0%
+杜琪峰	dou6 kei4 fung1	100.0%
 道瓊斯指數	dou6 king4 si1 zi2 sou3	100.0%
 杜林	dou6 lam4	100.0%
 導流板	dou6 lau4 baan2	100.0%
@@ -30395,6 +30533,7 @@ use_preset_vocabulary: true
 督察小組	duk1 caat3 siu2 zou2	100.0%
 督親	duk1 can1	100.0%
 篤出嚟	duk1 ceot1 lai4	100.0%
+篤出嚟	duk1 ceot1 lei4	107.18%
 督促	duk1 cuk1	100.0%
 篤穿	duk1 cyun1	100.0%
 㧻穿個窿	duk1 cyun1 go3 lung1	100.0%
@@ -30742,6 +30881,7 @@ use_preset_vocabulary: true
 東涌游泳池	dung1 cung1 jau4 wing6 ci4	100.0%
 東涌沙灘	dung1 cung1 saa1 taan1	100.0%
 東衝西衝	dung1 cung1 sai1 cung1	100.0%
+東涌綫	dung1 cung1 sin3	100.0%
 東涌天主教學校	dung1 cung1 tin1 zyu2 gaau3 hok6 haau6	100.0%
 東涌灣	dung1 cung1 waan1	100.0%
 東涌站	dung1 cung1 zaam6	100.0%
@@ -30785,6 +30925,7 @@ use_preset_vocabulary: true
 東風西風	dung1 fung1 sai1 fung1	100.0%
 東街	dung1 gaai1	100.0%
 冬耕	dung1 gaang1	100.0%
+東九龍綫	dung1 gau2 lung4 sin3	100.0%
 東狗牙	dung1 gau2 ngaa4	100.0%
 東健道	dung1 gin6 dou6	100.0%
 東京	dung1 ging1	100.0%
@@ -30893,6 +31034,7 @@ use_preset_vocabulary: true
 東沙島街	dung1 saa1 dou2 gaai1	100.0%
 東山	dung1 saan1	100.0%
 東山下	dung1 saan1 haa6	100.0%
+東山臺	dung1 saan1 toi4	100.0%
 東山再起	dung1 saan1 zoi3 hei2	100.0%
 東西	dung1 sai1	100.0%
 東西半球	dung1 sai1 bun3 kau4	100.0%
@@ -30924,6 +31066,7 @@ use_preset_vocabulary: true
 東頭洲	dung1 tau4 zau1	100.0%
 冬天	dung1 tin1	100.0%
 東鐵	dung1 tit3	100.0%
+東鐵綫	dung1 tit3 sin3	100.0%
 東台	dung1 toi4	100.0%
 東討西征	dung1 tou2 sai1 zing1	100.0%
 東華	dung1 waa2	100.0%
@@ -31989,6 +32132,8 @@ use_preset_vocabulary: true
 返嚟咯	faan1 lai4 lo3	100.0%
 番荔枝	faan1 lai6 zi1	100.0%
 番梨	faan1 lei2	100.0%
+返嚟	faan1 lei4	285.59%
+返嚟咯	faan1 lei4 lo3	107.18%
 翻領	faan1 leng5	100.0%
 翻來覆去	faan1 loi4 fuk1 heoi3	100.0%
 翻老賬	faan1 lou5 zoeng3	100.0%
@@ -32002,6 +32147,7 @@ use_preset_vocabulary: true
 翻盤	faan1 pun2	100.0%
 翻晒	faan1 saai3	100.0%
 返晒嚟	faan1 saai3 lai4	100.0%
+返晒嚟	faan1 saai3 lei4	162.58%
 翻山越嶺	faan1 saan1 jyut6 leng5	100.0%
 翻生	faan1 saang1	100.0%
 返生女	faan1 saang1 neoi2	100.0%
@@ -32045,6 +32191,7 @@ use_preset_vocabulary: true
 返咗	faan1 zo2	100.0%
 返咗去	faan1 zo2 heoi3	100.0%
 返咗嚟	faan1 zo2 lai4	100.0%
+返咗嚟	faan1 zo2 lei4	168.82%
 翻作	faan1 zok3	100.0%
 翻造	faan1 zou6	100.0%
 翻煮	faan1 zyu2	100.0%
@@ -32719,6 +32866,7 @@ use_preset_vocabulary: true
 法棍	faat3 gwan3	100.0%
 發掘	faat3 gwat6	100.0%
 發過嚟	faat3 gwo3 lai4	100.0%
+發過嚟	faat3 gwo3 lei4	107.18%
 發過夢	faat3 gwo3 mung6	100.0%
 發過豬啼	faat3 gwo3 zyu1 tai4	100.0%
 發過豬蹄	faat3 gwo3 zyu1 tai4	100.0%
@@ -33121,6 +33269,7 @@ use_preset_vocabulary: true
 費格遜	fai3 gaak3 seon3	100.0%
 費𨳊事	fai3 gau1 si6	81.23%
 費勁	fai3 ging3	100.0%
+肺結核	fai3 git3 hak6	20.28%
 肺結核	fai3 git3 hat6	100.0%
 費口舌	fai3 hau2 sit6	100.0%
 廢棄	fai3 hei3	100.0%
@@ -34039,12 +34188,14 @@ use_preset_vocabulary: true
 佛教語	fat6 gaau3 jyu5	100.0%
 佛教林炳炎紀念學校	fat6 gaau3 lam4 bing2 jim4 gei2 nim6 hok6 haau6	100.0%
 佛教林金殿紀念小學	fat6 gaau3 lam4 gam1 din6 gei2 nim6 siu2 hok6	100.0%
+佛教茂峰法師紀念中學	fat6 gaau3 mau6 fung1 faat3 si1 gei2 nim6 zung1 hok6	100.0%
 佛教沈香林紀念中學	fat6 gaau3 sam2 hoeng1 lam4 gei2 nim6 zung1 hok6	100.0%
 佛教善德英文中學	fat6 gaau3 sin6 dak1 jing1 man4 zung1 hok6	100.0%
 佛教慧因	fat6 gaau3 wai6 jan1	100.0%
 佛教榮茵學校	fat6 gaau3 wing4 jan1 hok6 haau6	100.0%
 佛教黃鳳翎中學	fat6 gaau3 wong4 fung6 ling4 zung1 hok6	100.0%
 佛教黃允畋中學	fat6 gaau3 wong4 wan5 tin4 zung1 hok6	100.0%
+佛教黃焯菴小學	fat6 gaau3 wong4 zoek3 am1 siu2 hok6	100.0%
 佛教志蓮小學	fat6 gaau3 zi3 lin4 siu2 hok6	100.0%
 佛教志蓮中學	fat6 gaau3 zi3 lin4 zung1 hok6	100.0%
 佛教中華康山學校	fat6 gaau3 zung1 waa4 hong1 saan1 hok6 haau6	100.0%
@@ -34384,6 +34535,9 @@ use_preset_vocabulary: true
 飛霞路	fei1 haa4 lou6	100.0%
 非黑即白	fei1 haak1 zik1 baak6	207.8%
 非黑即白	fei1 hak1 zik1 baak6	100.0%
+非核地帶	fei1 hak6 dei6 daai3	84.09%
+非核化	fei1 hak6 faa3	41.72%
+非核國家	fei1 hak6 gwok3 gaa1	66.87%
 飛行	fei1 hang4	100.0%
 飛行服務隊	fei1 hang4 fuk6 mou6 deoi6	100.0%
 飛行記錄	fei1 hang4 gei3 luk6	100.0%
@@ -34583,6 +34737,7 @@ use_preset_vocabulary: true
 悱惻	fei2 cak1	100.0%
 翡翠	fei2 ceoi3	100.0%
 翡翠道	fei2 ceoi3 dou6	100.0%
+翡翠拉麵小籠包	fei2 ceoi3 laai1 min6 siu2 lung4 baau1	100.0%
 翡翠里	fei2 ceoi3 lei5	100.0%
 翡翠台	fei2 ceoi3 toi4	100.0%
 匪夷所思	fei2 ji4 so2 si1	100.0%
@@ -35501,6 +35656,7 @@ use_preset_vocabulary: true
 放唔放	fong3 m4 fong3	100.0%
 放唔放假	fong3 m4 fong3 gaa3	100.0%
 放馬過嚟	fong3 maa5 gwo3 lai4	100.0%
+放馬過嚟	fong3 maa5 gwo3 lei4	131.1%
 放馬後炮	fong3 maa5 hau6 paau3	100.0%
 放馬鋪	fong3 maa5 pou3	100.0%
 放馬莆	fong3 maa5 pou4	100.0%
@@ -36213,8 +36369,10 @@ use_preset_vocabulary: true
 褲骨	fu3 gwat1	100.0%
 富國安民	fu3 gwok3 on1 man4	100.0%
 庫克羣島	fu3 haak1 kwan4 dou2	111.61%
+庫克群島	fu3 haak1 kwan4 dou2	107.18%
 庫克山	fu3 haak1 saan1	125.89%
 庫克羣島	fu3 hak1 kwan4 dou2	100.0%
+庫克群島	fu3 hak1 kwan4 dou2	100.0%
 庫克山	fu3 hak1 saan1	100.0%
 富亨邨	fu3 hang1 cyun1	100.0%
 富亨商場	fu3 hang1 soeng1 coeng4	100.0%
@@ -36892,6 +37050,7 @@ use_preset_vocabulary: true
 腹稿	fuk1 gou2	100.0%
 腹黑	fuk1 haak1	160.72%
 腹黑	fuk1 hak1	100.0%
+覆核	fuk1 hak6	10.14%
 福亨村	fuk1 hang1 cyun1	100.0%
 福亨村徑	fuk1 hang1 cyun1 ging3	100.0%
 福亨村里	fuk1 hang1 cyun1 lei5	100.0%
@@ -36939,6 +37098,7 @@ use_preset_vocabulary: true
 腹吸盤	fuk1 kap1 pun4	100.0%
 腹鰭	fuk1 kei4	100.0%
 覆蓋	fuk1 koi3	100.0%
+福群道	fuk1 kwan4 dou6	100.0%
 福利	fuk1 lei6	100.0%
 福利街	fuk1 lei6 gaai1	100.0%
 福利事業	fuk1 lei6 si6 jip6	100.0%
@@ -37465,6 +37625,7 @@ use_preset_vocabulary: true
 風光大葬	fung1 gwong1 daai6 zong3	100.0%
 風光明媚	fung1 gwong1 ming4 mei4	100.0%
 風光十足	fung1 gwong1 sap6 zuk1	100.0%
+峰霞道	fung1 haa4 dou6	100.0%
 風行	fung1 hang4	100.0%
 封口	fung1 hau2	100.0%
 風口	fung1 hau2	100.0%
@@ -37660,6 +37821,7 @@ use_preset_vocabulary: true
 蜂肚	fung1 tou5	100.0%
 風筒	fung1 tung2	100.0%
 瘋話	fung1 waa2	100.0%
+峰華邨	fung1 waa4 cyun1	100.0%
 豐華街	fung1 waa4 gaai1	100.0%
 豐滑	fung1 waat1	100.0%
 風雲	fung1 wan4	100.0%
@@ -37830,6 +37992,7 @@ use_preset_vocabulary: true
 鳳地	fung6 dei6	100.0%
 鳳蝶科	fung6 dip6 fo1	100.0%
 奉化	fung6 faa3	100.0%
+鳳輝臺	fung6 fai1 toi4	100.0%
 鳳喙	fung6 fui3	100.0%
 奉基千禧小學	fung6 gei1 cin1 hei1 siu2 hok6	100.0%
 奉基小學	fung6 gei1 siu2 hok6	100.0%
@@ -37867,6 +38030,8 @@ use_preset_vocabulary: true
 鳳溪廖萬石堂中學	fung6 kai1 liu6 maan6 sek6 tong4 zung1 hok6	100.0%
 鳳琴街	fung6 kam4 gaai1	100.0%
 鳳麒路	fung6 kei4 lou6	100.0%
+鳳群街	fung6 kwan4 gaai1	100.0%
+鳳群徑	fung6 kwan4 ging3	100.0%
 鳳禮道	fung6 lai5 dou6	100.0%
 鳳林	fung6 lam4	100.0%
 鳳梨	fung6 lei4	100.0%
@@ -37914,6 +38079,7 @@ use_preset_vocabulary: true
 鳳凰新村	fung6 wong4 san1 cyun1	100.0%
 鳳凰城	fung6 wong4 sing4	100.0%
 鳳凰樹	fung6 wong4 syu6	100.0%
+鳳凰臺	fung6 wong4 toi4	100.0%
 鳳凰湖	fung6 wong4 wu4	100.0%
 鳳凰座	fung6 wong4 zo6	100.0%
 鳳爪	fung6 zaau2	100.0%
@@ -38214,6 +38380,7 @@ use_preset_vocabulary: true
 加侖	gaa1 leon2	100.0%
 加崙	gaa1 leon4	100.0%
 加倫大道	gaa1 leon4 daai6 dou6	100.0%
+加倫臺	gaa1 leon4 toi4	100.0%
 加連威老道	gaa1 lin4 wai1 lou5 dou6	100.0%
 加連威老廣場	gaa1 lin4 wai1 lou5 gwong2 coeng4	100.0%
 嘉齡道	gaa1 ling4 dou6	100.0%
@@ -38249,6 +38416,7 @@ use_preset_vocabulary: true
 加冕	gaa1 min5	100.0%
 嘉勉	gaa1 min5	100.0%
 加冕典禮	gaa1 min5 din2 lai5	100.0%
+加冕臺	gaa1 min5 toi4	100.0%
 嘉模前地	gaa1 mou4 cin4 dei6	100.0%
 嘉模堂	gaa1 mou4 tong4	100.0%
 家母	gaa1 mou5	100.0%
@@ -38378,6 +38546,7 @@ use_preset_vocabulary: true
 家雜	gaa1 zaap6	100.0%
 家陣	gaa1 zan2	100.0%
 家陣嚟講	gaa1 zan2 lai4 gong2	100.0%
+家陣嚟講	gaa1 zan2 lei4 gong2	107.18%
 家陣時	gaa1 zan6 si2	100.0%
 加州	gaa1 zau1	100.0%
 加州花園大道	gaa1 zau1 faa1 jyun4 daai6 dou6	100.0%
@@ -39255,6 +39424,7 @@ use_preset_vocabulary: true
 減計	gaam2 gai3	100.0%
 減緊肥	gaam2 gan2 fei4	100.0%
 減下肥	gaam2 haa5 fei4	100.0%
+減核	gaam2 hak6	61.48%
 減核	gaam2 hat6	100.0%
 減輕	gaam2 heng1	100.0%
 減號	gaam2 hou2	100.0%
@@ -39297,9 +39467,12 @@ use_preset_vocabulary: true
 鑑察	gaam3 caat3	100.0%
 鑒察	gaam3 caat3	100.0%
 監粗	gaam3 cou1	100.0%
+監粗嚟	gaam3 cou1 lai4	100.0%
 監粗嚟吖	gaam3 cou1 lai4 aa1	100.0%
 監粗嚟呀	gaam3 cou1 lai4 aa4	100.0%
-監粗嚟	gaam3 cou1 lei4	100.0%
+監粗嚟	gaam3 cou1 lei4	130.2%
+監粗嚟吖	gaam3 cou1 lei4 aa1	107.18%
+監粗嚟呀	gaam3 cou1 lei4 aa4	107.18%
 監粗來	gaam3 cou1 loi4	100.0%
 鑑定	gaam3 ding6	100.0%
 鑑定人	gaam3 ding6 jan4	100.0%
@@ -39316,6 +39489,7 @@ use_preset_vocabulary: true
 尷唔尷尬	gaam3 m4 gaam3 gaai3	100.0%
 監硬	gaam3 ngaang2	100.0%
 監硬嚟	gaam3 ngaang2 lai4	100.0%
+監硬嚟	gaam3 ngaang2 lei4	107.18%
 監硬死撐	gaam3 ngaang2 sei2 caang3	100.0%
 鑑頻	gaam3 pan4	100.0%
 鑑頻器	gaam3 pan4 hei3	100.0%
@@ -39470,6 +39644,7 @@ use_preset_vocabulary: true
 梘盒	gaan2 haap6	114.87%
 梘盒	gaan2 hap6	100.0%
 揀起	gaan2 hei2	100.0%
+簡豪銳	gaan2 hou4 jeoi6	100.0%
 揀飲識食	gaan2 jam2 sik1 sik6	100.0%
 揀飲擇吃	gaan2 jam2 zaak6 jaak3	100.0%
 揀飲擇食	gaan2 jam2 zaak6 sik6	100.0%
@@ -39573,6 +39748,7 @@ use_preset_vocabulary: true
 間歇訓練	gaan3 hit3 fan3 lin6	100.0%
 間開	gaan3 hoi1	100.0%
 間開嚟	gaan3 hoi1 lai4	100.0%
+間開嚟	gaan3 hoi1 lei4	107.18%
 諫言	gaan3 jin4	100.0%
 澗溪	gaan3 kai1	100.0%
 間距	gaan3 keoi5	100.0%
@@ -39759,6 +39935,7 @@ use_preset_vocabulary: true
 夾硬抵冷	gaap3 ngaang2 dai2 laang5	100.0%
 夾硬講	gaap3 ngaang2 gong2	100.0%
 夾硬嚟	gaap3 ngaang2 lai4	100.0%
+夾硬嚟	gaap3 ngaang2 lei4	149.29%
 甲胺	gaap3 on1	100.0%
 甲氨基	gaap3 on1 gei1	100.0%
 夾襖	gaap3 ou3	100.0%
@@ -40117,6 +40294,7 @@ use_preset_vocabulary: true
 絞纜	gaau2 laam6	100.0%
 攪嚟攪去	gaau2 lai4 gaau2 heoi3	100.0%
 攪撚錯	gaau2 lan2 co3	71.92%
+攪嚟攪去	gaau2 lei4 gaau2 heoi3	107.18%
 鉸鏈	gaau2 lin2	100.0%
 搞亂	gaau2 lyun6	100.0%
 搞亂檔	gaau2 lyun6 dong3	100.0%
@@ -40594,6 +40772,7 @@ use_preset_vocabulary: true
 計有	gai3 jau5	100.0%
 繼而	gai3 ji4	100.0%
 繼園街	gai3 jyun4 gaai1	100.0%
+繼園臺	gai3 jyun4 toi4	100.0%
 計量	gai3 loeng6	100.0%
 計量棒	gai3 loeng6 paang5	100.0%
 計量制	gai3 loeng6 zai3	100.0%
@@ -40887,6 +41066,7 @@ use_preset_vocabulary: true
 金撈	gam1 lou1	100.0%
 甘露糖醇	gam1 lou6 tong4 seon4	100.0%
 金龍前地	gam1 lung4 cin4 dei6	100.0%
+金龍臺	gam1 lung4 toi4	100.0%
 甘唔甘心	gam1 m4 gam1 sam1	100.0%
 金馬倫道	gam1 maa5 leon4 dou6	100.0%
 金馬倫廣場	gam1 maa5 leon4 gwong2 coeng4	100.0%
@@ -40975,6 +41155,7 @@ use_preset_vocabulary: true
 金色	gam1 sik1	100.0%
 金飾	gam1 sik1	100.0%
 金色鴉雀	gam1 sik1 aa1 zoek3	100.0%
+金色不如帰	gam1 sik1 bat1 jyu4 gwai1	100.0%
 金色林鴝	gam1 sik1 lam4 keoi4	100.0%
 今昔面貌	gam1 sik1 min6 maau6	100.0%
 金色童年	gam1 sik1 tung4 nin4	100.0%
@@ -41142,6 +41323,7 @@ use_preset_vocabulary: true
 噉係	gam2 hai6	100.0%
 噉係唔係	gam2 hai6 m4 hai6	100.0%
 噉係咪	gam2 hai6 mai6	100.0%
+噉佢	gam2 heoi5	54.91%
 感興趣	gam2 hing3 ceoi3	100.0%
 錦慶路	gam2 hing3 lou6	100.0%
 錦慶圍	gam2 hing3 wai4	100.0%
@@ -41204,6 +41386,11 @@ use_preset_vocabulary: true
 錦山路	gam2 saan1 lou6	100.0%
 錦繡	gam2 sau3	100.0%
 錦繡前程	gam2 sau3 cin4 cing4	100.0%
+錦綉大道北	gam2 sau3 daai6 dou6 bak1	100.0%
+錦綉大道東	gam2 sau3 daai6 dou6 dung1	100.0%
+錦綉大道南	gam2 sau3 daai6 dou6 naam4	100.0%
+錦綉大道西	gam2 sau3 daai6 dou6 sai1	100.0%
+錦綉花園大道	gam2 sau3 faa1 jyun4 daai6 dou6	100.0%
 錦繡河山	gam2 sau3 ho4 saan1	100.0%
 感受	gam2 sau6	100.0%
 感受到	gam2 sau6 dou3	100.0%
@@ -41429,6 +41616,7 @@ use_preset_vocabulary: true
 㩒鷓鴣	gam6 ze3 gu1	100.0%
 撳鐘仔	gam6 zung1 zai2	100.0%
 撳住嚟搶	gam6 zyu6 lai4 coeng2	100.0%
+撳住嚟搶	gam6 zyu6 lei4 coeng2	114.87%
 㩒住頭	gam6 zyu6 tau4	100.0%
 䈥	gan1	90.13%
 䈽	gan1	90.13%
@@ -41783,6 +41971,7 @@ use_preset_vocabulary: true
 𬒔	gang2	90.13%
 梗板	gang2 baan2	100.0%
 耿餅	gang2 beng2	100.0%
+耿飈	gang2 biu1	100.0%
 骾親	gang2 can1	35.0%
 梗廚	gang2 cyu4	100.0%
 梗房	gang2 fong2	100.0%
@@ -42830,6 +43019,7 @@ use_preset_vocabulary: true
 夠口福	gau3 hau2 fuk1	100.0%
 夠喉	gau3 hau4	100.0%
 夠氣夠力	gau3 hei3 gau3 lik6	100.0%
+夠佢	gau3 heoi5	16.97%
 夠行頭	gau3 hong4 tau4	100.0%
 救恩	gau3 jan1	100.0%
 救恩計劃	gau3 jan1 gai3 waak6	100.0%
@@ -42848,6 +43038,7 @@ use_preset_vocabulary: true
 夠啦	gau3 laa1	100.0%
 夠喇	gau3 laa3	100.0%
 夠嚟	gau3 lai4	100.0%
+夠嚟	gau3 lei4	132.75%
 夠雷	gau3 leoi4	100.0%
 夠力	gau3 lik6	100.0%
 夠來	gau3 loi2	100.0%
@@ -43149,6 +43340,7 @@ use_preset_vocabulary: true
 機場北交匯處	gei1 coeng4 bak1 gaau1 wui6 cyu5	100.0%
 機場邊檢	gei1 coeng4 bin1 gim2	100.0%
 機場出口	gei1 coeng4 ceot1 hau2	100.0%
+機場快綫	gei1 coeng4 faai3 sin3	100.0%
 機場路	gei1 coeng4 lou6	100.0%
 機場路口	gei1 coeng4 lou6 hau2	100.0%
 機場尾	gei1 coeng4 mei5	100.0%
@@ -43496,6 +43688,7 @@ use_preset_vocabulary: true
 幾多個	gei2 do1 go3	100.0%
 幾多個人	gei2 do1 go3 jan4	100.0%
 幾多下	gei2 do1 haa5	100.0%
+幾多核	gei2 do1 hak6	75.98%
 幾多核	gei2 do1 hat6	100.0%
 幾多號	gei2 do1 hou6	100.0%
 幾多人	gei2 do1 jan4	100.0%
@@ -43953,6 +44146,7 @@ use_preset_vocabulary: true
 幾時打	gei2 si4 daa2	100.0%
 幾時得閒	gei2 si4 dak1 haan4	100.0%
 幾時得嚟	gei2 si4 dak1 lai4	100.0%
+幾時得嚟	gei2 si4 dak1 lei4	107.18%
 幾時放假	gei2 si4 fong3 gaa3	100.0%
 幾時交	gei2 si4 gaau1	100.0%
 幾時幾日	gei2 si4 gei2 jat6	100.0%
@@ -44062,6 +44256,7 @@ use_preset_vocabulary: true
 記低晒	gei3 dai1 saai3	100.0%
 既得	gei3 dak1	100.0%
 記得	gei3 dak1	100.0%
+記得佢	gei3 dak1 heoi5	15.46%
 記得有	gei3 dak1 jau5	100.0%
 記得又點	gei3 dak1 jau6 dim2	100.0%
 既得期間	gei3 dak1 kei4 gaan1	100.0%
@@ -44234,6 +44429,7 @@ use_preset_vocabulary: true
 驚到面青	geng1 dou3 min6 ceng1	100.0%
 驚到震晒	geng1 dou3 zan3 saai3	100.0%
 驚閪	geng1 hai1	26.86%
+驚佢	geng1 heoi5	14.01%
 驚佢	geng1 keoi5	100.0%
 驚你	geng1 nei5	100.0%
 麂皮	geng1 pei2	100.0%
@@ -45059,10 +45255,12 @@ use_preset_vocabulary: true
 建黨節	gin3 dong2 zit3	100.0%
 見到	gin3 dou2	100.0%
 見到個	gin3 dou2 go3	100.0%
+見到佢	gin3 dou2 heoi5	0.0%
 見到有	gin3 dou2 jau5	4.0%
 見到佢	gin3 dou2 keoi5	0.0%
 見到你	gin3 dou2 nei5	100.0%
 見到我	gin3 dou2 ngo5	100.0%
+見到佢	gin3 dou3 heoi5	11.98%
 見到有	gin3 dou3 jau5	96.0%
 見到佢	gin3 dou3 keoi5	100.0%
 見到距	gin3 dou3 keoi5	100.0%
@@ -45099,6 +45297,7 @@ use_preset_vocabulary: true
 見下面	gin3 haa5 min6	100.0%
 見客	gin3 haak3	100.0%
 見效	gin3 haau6	100.0%
+見佢	gin3 heoi5	11.13%
 建行	gin3 hong2	100.0%
 見好就收	gin3 hou2 zau6 sau1	100.0%
 見紅	gin3 hung4	100.0%
@@ -45122,6 +45321,7 @@ use_preset_vocabulary: true
 建構正義理論	gin3 kau3 zing3 ji6 lei5 leon6	100.0%
 毽球	gin3 kau4	100.0%
 見佢	gin3 keoi5	100.0%
+建群街	gin3 kwan4 gaai1	100.0%
 建立	gin3 laap6	292.12%
 建立正式外交關係	gin3 laap6 zing3 sik1 ngoi6 gaau1 gwaan1 hai6	107.18%
 建立	gin3 lap6	100.0%
@@ -45521,6 +45721,8 @@ use_preset_vocabulary: true
 境況	ging2 fong3	100.0%
 景福街	ging2 fuk1 gaai1	100.0%
 景福宮	ging2 fuk1 gung1	100.0%
+景峰	ging2 fung1	100.0%
+景峰徑	ging2 fung1 ging3	100.0%
 境界	ging2 gaai3	100.0%
 警戒	ging2 gaai3	100.0%
 警誡	ging2 gaai3	100.0%
@@ -45856,6 +46058,8 @@ use_preset_vocabulary: true
 結恭	git3 gung1	100.0%
 結果	git3 gwo2	100.0%
 結過婚	git3 gwo3 fan1	100.0%
+結核桿菌	git3 hak6 gon1 kwan2	51.7%
+結核菌素	git3 hak6 kwan2 sou3	66.87%
 結合	git3 hap6	100.0%
 結合點	git3 hap6 dim2	100.0%
 結合過程	git3 hap6 gwo3 cing4	100.0%
@@ -46094,6 +46298,8 @@ use_preset_vocabulary: true
 叫個	giu3 go3	100.0%
 叫喊	giu3 haam3	100.0%
 叫起手	giu3 hei2 sau2	100.0%
+叫佢	giu3 heoi5	6.92%
+叫佢哋	giu3 heoi5 dei6	20.43%
 叫囂	giu3 hiu1	100.0%
 叫響	giu3 hoeng2	100.0%
 叫開叫埋	giu3 hoi1 giu3 maai4	100.0%
@@ -46627,6 +46833,7 @@ use_preset_vocabulary: true
 姜濤	goeng1 tou4	100.0%
 姜偉年	goeng1 wai5 nin4	100.0%
 疆域	goeng1 wik6	100.0%
+姜咏鑫	goeng1 wing6 jam1	100.0%
 薑黃色	goeng1 wong4 sik1	100.0%
 羌活	goeng1 wut6	100.0%
 薑汁撞奶	goeng1 zap1 zong6 naai5	100.0%
@@ -46844,6 +47051,7 @@ use_preset_vocabulary: true
 覺得	gok3 dak1	100.0%
 覺得個	gok3 dak1 go3	100.0%
 覺得係	gok3 dak1 hai6	100.0%
+覺得佢	gok3 dak1 heoi5	10.32%
 覺得好	gok3 dak1 hou2	100.0%
 覺得有	gok3 dak1 jau5	100.0%
 各得其所	gok3 dak1 kei4 so2	100.0%
@@ -47253,6 +47461,7 @@ use_preset_vocabulary: true
 江欣燕	gong1 jan1 jin3	100.0%
 江油	gong1 jau4	100.0%
 剛柔相濟	gong1 jau4 soeng1 zai3	100.0%
+江𤒹生	gong1 jip6 sang1	100.0%
 綱要	gong1 jiu3	100.0%
 缸窰	gong1 jiu4	100.0%
 江瑤柱	gong1 jiu4 cyu5	100.0%
@@ -47354,6 +47563,8 @@ use_preset_vocabulary: true
 講得口響	gong2 dak1 hau2 hoeng2	100.0%
 講得好	gong2 dak1 hou2	100.0%
 講得通	gong2 dak1 tung1	100.0%
+講得核突	gong2 dak1 wak6 dak6	73.84%
+講得核突	gong2 dak1 wak6 dat6	84.09%
 講得核突	gong2 dak1 wat6 dak6	84.09%
 講得核突	gong2 dak1 wat6 dat6	100.0%
 港燈	gong2 dang1	100.0%
@@ -47372,6 +47583,7 @@ use_preset_vocabulary: true
 港島區	gong2 dou2 keoi1	100.0%
 港島民生	gong2 dou2 man4 sang1	100.0%
 港島民生書院	gong2 dou2 man4 sang1 syu1 jyun2	100.0%
+港島綫	gong2 dou2 sin3	100.0%
 講到	gong2 dou3	100.0%
 講到白	gong2 dou3 baak6	100.0%
 講到白晒	gong2 dou3 baak6 saai3	100.0%
@@ -47426,6 +47638,7 @@ use_preset_vocabulary: true
 講起	gong2 hei2	100.0%
 講起又講	gong2 hei2 jau6 gong2	100.0%
 講起上嚟	gong2 hei2 soeng5 lai4	100.0%
+講起上嚟	gong2 hei2 soeng5 lei4	142.69%
 講開	gong2 hoi1	100.0%
 講開又講	gong2 hoi1 jau6 gong2	100.0%
 講學	gong2 hok6	100.0%
@@ -47454,9 +47667,12 @@ use_preset_vocabulary: true
 講爛口	gong2 laan6 hau2	100.0%
 講嚟都	gong2 lai4 dou1	100.0%
 講嚟聽下	gong2 lai4 teng1 haa5	100.0%
+講嚟話長	gong2 lai4 waa6 coeng4	100.0%
 講禮貌	gong2 lai5 maau6	100.0%
 講漏嘴	gong2 lau6 zeoi2	100.0%
-講嚟話長	gong2 lei4 waa6 coeng4	100.0%
+講嚟都	gong2 lei4 dou1	127.1%
+講嚟聽下	gong2 lei4 teng1 haa5	141.86%
+講嚟話長	gong2 lei4 waa6 coeng4	107.18%
 講理	gong2 lei5	100.0%
 講論	gong2 leon6	100.0%
 講兩句	gong2 loeng5 geoi3	100.0%
@@ -47635,6 +47851,7 @@ use_preset_vocabulary: true
 鋼水	gong3 seoi2	100.0%
 鋼絲鋸	gong3 si1 goe3	100.0%
 鋼絲繩	gong3 si1 sing4	100.0%
+鋼綫灣道	gong3 sin3 waan1 dou6	100.0%
 槓上開花	gong3 soeng5 hoi1 faa1	100.0%
 槓頭	gong3 tau4	100.0%
 降頭	gong3 tau4	100.0%
@@ -48001,6 +48218,7 @@ use_preset_vocabulary: true
 高聲	gou1 sing1	100.0%
 高陞街	gou1 sing1 gaai1	100.0%
 高盛	gou1 sing6	100.0%
+高盛臺	gou1 sing6 toi4	100.0%
 高燒	gou1 siu1	100.0%
 高尚	gou1 soeng6	100.0%
 高上路	gou1 soeng6 lou6	100.0%
@@ -48833,6 +49051,7 @@ use_preset_vocabulary: true
 官服	gun1 fuk6	100.0%
 官復原職	gun1 fuk6 jyun4 zik1	100.0%
 觀風	gun1 fung1	100.0%
+冠峰街	gun1 fung1 gaai1	100.0%
 官俸	gun1 fung2	100.0%
 官架子	gun1 gaa3 zi2	100.0%
 官階	gun1 gaai1	100.0%
@@ -48903,6 +49122,7 @@ use_preset_vocabulary: true
 冠脈	gun1 mak6	100.0%
 冠脈循環	gun1 mak6 ceon4 waan4	100.0%
 冠冕	gun1 min5	100.0%
+冠冕臺	gun1 min5 toi4	100.0%
 冠冕堂皇	gun1 min5 tong4 wong4	100.0%
 觀摩	gun1 mo1	100.0%
 官網	gun1 mong5	100.0%
@@ -48945,6 +49165,7 @@ use_preset_vocabulary: true
 觀塘老母	gun1 tong4 lou5 mou2	100.0%
 觀塘瑪利諾書院	gun1 tong4 maa5 lei6 nok6 syu1 jyun2	100.0%
 觀塘碼頭廣場	gun1 tong4 maa5 tau4 gwong2 coeng4	100.0%
+觀塘綫	gun1 tong4 sin3	100.0%
 觀塘泳池	gun1 tong4 wing6 ci4	100.0%
 觀塘站	gun1 tong4 zaam6	100.0%
 觀塘仔灣	gun1 tong4 zai2 waan1	100.0%
@@ -49770,6 +49991,7 @@ use_preset_vocabulary: true
 貢入被竇	gung3 jap6 pei5 dau3	100.0%
 貢丸	gung3 jyun2	100.0%
 貢嚟貢去	gung3 lai4 gung3 heoi3	100.0%
+貢嚟貢去	gung3 lei4 gung3 heoi3	111.61%
 貢物	gung3 mat6	100.0%
 貢山	gung3 saan1	100.0%
 供神	gung3 san4	100.0%
@@ -49978,6 +50200,7 @@ use_preset_vocabulary: true
 掛軸	gwaa3 zuk6	100.0%
 掛鐘	gwaa3 zung1	100.0%
 掛住	gwaa3 zyu6	100.0%
+掛住佢	gwaa3 zyu6 heoi5	18.05%
 掛住佢	gwaa3 zyu6 keoi5	100.0%
 㔞	gwaai1	100.0%
 㾩	gwaai1	100.0%
@@ -50053,6 +50276,7 @@ use_preset_vocabulary: true
 𡃈	gwaak1	15.0%
 摑	gwaak3	100.0%
 摑幾巴	gwaak3 gei2 baa1	100.0%
+摑佢	gwaak3 heoi5	61.48%
 摑一巴掌	gwaak3 jat1 baa1 zoeng2	100.0%
 摑一下	gwaak3 jat1 haa5	100.0%
 摑耳光	gwaak3 ji5 gwong1	100.0%
@@ -50936,6 +51160,7 @@ use_preset_vocabulary: true
 滾動球	gwan2 dung6 kau4	100.0%
 滾動條	gwan2 dung6 tiu4	100.0%
 滾返嚟	gwan2 faan1 lai4	100.0%
+滾返嚟	gwan2 faan1 lei4	107.18%
 滾沸	gwan2 fai3	100.0%
 滾攪	gwan2 gaau2	100.0%
 滾搞晒	gwan2 gaau2 saai3	100.0%
@@ -51358,6 +51583,7 @@ use_preset_vocabulary: true
 果汁	gwo2 zap1	100.0%
 果汁機	gwo2 zap1 gei1	100.0%
 果洲羣島	gwo2 zau1 kwan4 dou2	100.0%
+果洲群島	gwo2 zau1 kwan4 dou2	100.0%
 果洲灣	gwo2 zau1 waan1	100.0%
 果子	gwo2 zi2	100.0%
 果子狸	gwo2 zi2 lei4	100.0%
@@ -51475,6 +51701,7 @@ use_preset_vocabulary: true
 過橋貸款	gwo3 kiu4 taai3 fun2	100.0%
 過冷河	gwo3 laang5 ho2	100.0%
 過嚟	gwo3 lai4	100.0%
+過嚟	gwo3 lei4	220.21%
 過慮	gwo3 leoi6	100.0%
 過濾	gwo3 leoi6	100.0%
 過濾嘴香煙	gwo3 leoi6 zeoi2 hoeng1 jin1	100.0%
@@ -51767,6 +51994,7 @@ use_preset_vocabulary: true
 國安	gwok3 on1	100.0%
 國安法	gwok3 on1 faat3	100.0%
 國奧會	gwok3 ou3 wui2	100.0%
+郭柏姸	gwok3 paak3 jin4	100.0%
 國票	gwok3 piu3	100.0%
 國破家亡	gwok3 po3 gaa1 mong4	100.0%
 國璽	gwok3 saai2	100.0%
@@ -51797,6 +52025,7 @@ use_preset_vocabulary: true
 國土安全局	gwok3 tou2 on1 cyun4 guk6	100.0%
 國土資源部	gwok3 tou2 zi1 jyun4 bou6	100.0%
 國畫	gwok3 waa2	100.0%
+郭偉强	gwok3 wai5 koeng4	100.0%
 郭偉亮	gwok3 wai5 loeng6	100.0%
 郭榮鏗	gwok3 wing4 hang1	100.0%
 郭永懷	gwok3 wing5 waai4	100.0%
@@ -51965,6 +52194,7 @@ use_preset_vocabulary: true
 光檢測器	gwong1 gim2 caak1 hei3	107.18%
 光檢測器	gwong1 gim2 cak1 hei3	100.0%
 光景	gwong1 ging2	100.0%
+光景臺	gwong1 ging2 toi4	100.0%
 光腳	gwong1 goek3	100.0%
 光顧	gwong1 gu3	100.0%
 光管	gwong1 gun2	100.0%
@@ -51980,6 +52210,7 @@ use_preset_vocabulary: true
 光學	gwong1 hok6	100.0%
 光學玻璃	gwong1 hok6 bo1 lei4	100.0%
 光學顯微鏡	gwong1 hok6 hin2 mei4 geng3	100.0%
+光漢臺	gwong1 hon3 toi4	100.0%
 光圈	gwong1 hyun1	100.0%
 光陰	gwong1 jam1	100.0%
 光陰似箭	gwong1 jam1 ci5 zin3	100.0%
@@ -52011,6 +52242,7 @@ use_preset_vocabulary: true
 光明學校	gwong1 ming4 hok6 haau6	100.0%
 光明英來學校	gwong1 ming4 jing1 loi4 hok6 haau6	100.0%
 光明磊落	gwong1 ming4 leoi5 lok6	100.0%
+光明臺	gwong1 ming4 toi4	100.0%
 光明正大	gwong1 ming4 zing3 daai6	100.0%
 光明節	gwong1 ming4 zit3	100.0%
 光芒	gwong1 mong4	100.0%
@@ -52575,6 +52807,7 @@ use_preset_vocabulary: true
 下牀	haa6 cong4	100.0%
 下廚	haa6 cyu4	100.0%
 下村	haa6 cyun1	100.0%
+厦村	haa6 cyun1	100.0%
 廈村	haa6 cyun1	100.0%
 下村塱	haa6 cyun1 long5	100.0%
 廈村路	haa6 cyun1 lou6	100.0%
@@ -53479,6 +53712,7 @@ use_preset_vocabulary: true
 鬫	haam3	33.0%
 喊包	haam3 baau1	100.0%
 喊出嚟	haam3 ceot1 lai4	100.0%
+喊出嚟	haam3 ceot1 lei4	197.87%
 喊打喊殺	haam3 daa2 haam3 saat3	100.0%
 喊都無謂	haam3 dou1 mou4 wai6	100.0%
 喊到	haam3 dou3	100.0%
@@ -53870,6 +54104,7 @@ use_preset_vocabulary: true
 行開先	haang4 hoi1 sin1	100.0%
 行開陣先	haang4 hoi1 zan6 sin1	100.0%
 行入嚟	haang4 jap6 lai4	100.0%
+行入嚟	haang4 jap6 lei4	156.3%
 行逛	haang4 kwaang3	129.24%
 行喇	haang4 laa3	100.0%
 行禮	haang4 lai5	100.0%
@@ -54105,6 +54340,7 @@ use_preset_vocabulary: true
 巧克力	haau2 hak1 lik6	100.0%
 巧克力脆片	haau2 hak1 lik6 ceoi3 pin2	100.0%
 巧克力棒	haau2 hak1 lik6 paang5	100.0%
+考核	haau2 hak6	14.06%
 巧合	haau2 hap6	100.0%
 考核	haau2 hat6	100.0%
 考起	haau2 hei2	100.0%
@@ -54382,6 +54618,8 @@ use_preset_vocabulary: true
 係啩	hai6 gwaa3	100.0%
 係鬼	hai6 gwai2	100.0%
 係喺	hai6 hai2	100.0%
+係佢	hai6 heoi5	8.51%
+係佢哋	hai6 heoi5 dei6	16.28%
 係可以	hai6 ho2 ji5	100.0%
 係香港人	hai6 hoeng1 gong2 jan4	100.0%
 係好多	hai6 hou2 do1	100.0%
@@ -54391,6 +54629,7 @@ use_preset_vocabulary: true
 係好少	hai6 hou2 siu2	100.0%
 係好正	hai6 hou2 zeng3	100.0%
 係因為	hai6 jan1 wai6	100.0%
+係因為佢	hai6 jan1 wai6 heoi5	14.7%
 係因為佢	hai6 jan1 wai6 keoi5	100.0%
 係人	hai6 jan4	100.0%
 係人哋	hai6 jan4 dei6	100.0%
@@ -54874,6 +55113,88 @@ use_preset_vocabulary: true
 黑椒	hak1 ziu1	100.0%
 黑種人	hak1 zung2 jan4	100.0%
 客	hak3	0.0%
+核	hak6	0.0%
+覈	hak6	0.0%
+核辦	hak6 baan6	75.98%
+核爆	hak6 baau3	13.63%
+核爆炸	hak6 baau3 zaa3	56.23%
+核變形	hak6 bin3 jing4	84.09%
+核查小組	hak6 caa4 siu2 zou2	84.09%
+核柱	hak6 cyu5	84.09%
+核大國	hak6 daai6 gwok3	52.66%
+核彈	hak6 daan2	10.1%
+核蛋白	hak6 daan2 baak6	56.23%
+核地雷	hak6 dei6 leoi4	70.71%
+核對	hak6 deoi3	13.99%
+核對峙	hak6 deoi3 ci5	66.87%
+核對帳目	hak6 deoi3 zoeng3 muk6	70.71%
+核電	hak6 din6	11.18%
+核電荷數	hak6 din6 ho6 sou3	84.09%
+核冬天	hak6 dung1 tin1	75.98%
+核發電	hak6 faat3 din6	57.74%
+核廢物	hak6 fai3 mat6	70.71%
+核分裂	hak6 fan1 lit6	44.72%
+核飛彈	hak6 fei1 daan6	70.71%
+核防御	hak6 fong4 jyu6	84.09%
+核鹼基	hak6 gaan2 gei1	57.74%
+核計	hak6 gai3	75.98%
+核結構	hak6 git3 kau3	84.09%
+核工程	hak6 gung1 cing4	57.74%
+核工業部	hak6 gung1 jip6 bou6	66.87%
+核軍備	hak6 gwan1 bei6	59.46%
+核均勢	hak6 gwan1 sai3	70.71%
+核轟炸	hak6 gwang1 zaa3	63.89%
+核轟炸機	hak6 gwang1 zaa3 gei1	63.89%
+核國家	hak6 gwok3 gaa1	44.72%
+核合成	hak6 hap6 sing4	84.09%
+核仁	hak6 jan4	59.46%
+核驗	hak6 jim6	61.48%
+核型	hak6 jing4	66.87%
+核熱	hak6 jit6	66.87%
+核融合	hak6 jung4 hap6	37.06%
+核球	hak6 kau4	84.09%
+核力	hak6 lik6	37.06%
+核裂變	hak6 lit6 bin3	33.54%
+核物理	hak6 mat6 lei5	66.87%
+核模型	hak6 mou4 jing4	84.09%
+核武	hak6 mou5	10.81%
+核門檻	hak6 mun4 laam6	66.87%
+核能	hak6 nang4	16.32%
+核能源	hak6 nang4 jyun4	63.89%
+核屏蔽	hak6 ping4 bai3	84.09%
+核心	hak6 sam1	7.37%
+核實	hak6 sat6	12.08%
+核試	hak6 si3	15.2%
+核試爆	hak6 si3 baau3	44.72%
+核試驗堆	hak6 si3 jim6 deoi1	84.09%
+核事件	hak6 si6 gin2	57.74%
+核小體	hak6 siu2 tai2	75.98%
+核數	hak6 sou3	15.81%
+核數師	hak6 sou3 si1	16.53%
+核酸	hak6 syun1	14.36%
+核推進	hak6 teoi1 zeon3	70.71%
+核陀螺	hak6 to4 lo4	84.09%
+核糖	hak6 tong4	50.81%
+核糖酶	hak6 tong4 mui4	84.09%
+核桃	hak6 tou4	25.99%
+核桃仁	hak6 tou4 jan4	52.66%
+核桃糊	hak6 tou4 wu2	100.0%
+核酮糖	hak6 tung4 tong4	84.09%
+核黃素	hak6 wong4 sou3	63.89%
+核聚變	hak6 zeoi6 bin3	27.04%
+核准	hak6 zeon2	17.13%
+核子潛艇	hak6 zi2 cim4 ting5	56.23%
+核子彈頭	hak6 zi2 daan6 tau4	61.48%
+核子武器	hak6 zi2 mou5 hei3	37.42%
+核子能	hak6 zi2 nang4	63.89%
+核子試爆	hak6 zi2 si3 baau3	61.48%
+核子戰爭	hak6 zi2 zin3 zang1	57.74%
+核自旋	hak6 zi6 syun4	84.09%
+核戰斗部	hak6 zin3 dau2 bou6	84.09%
+核戰爭	hak6 zin3 zang1	39.76%
+核證模型	hak6 zing3 mou4 jing4	84.09%
+核裝置	hak6 zong1 zi3	56.23%
+核轉變	hak6 zyun2 bin3	84.09%
 㘛	ham1	100.0%
 㤷	ham1	100.0%
 㽍	ham1	100.0%
@@ -55306,6 +55627,7 @@ use_preset_vocabulary: true
 衡情酌理	hang4 cing4 zoek3 lei5	100.0%
 行牀	hang4 cong4	100.0%
 恆速率	hang4 cuk1 leot2	100.0%
+恒大	hang4 daai6	100.0%
 恆德街	hang4 dak1 gaai1	100.0%
 恆定狀態	hang4 ding6 zong6 taai3	100.0%
 行動	hang4 dung6	100.0%
@@ -55317,10 +55639,13 @@ use_preset_vocabulary: true
 蘅暉徑	hang4 fai1 ging3	100.0%
 行房	hang4 fong4	100.0%
 恆富街	hang4 fu3 gaai1	100.0%
+恒福商場	hang4 fuk1 soeng1 coeng4	100.0%
 恆加速度	hang4 gaa1 cuk1 dou6	100.0%
 恆錦街	hang4 gam2 gaai1	100.0%
 恆久	hang4 gau2	100.0%
+恒基兆業	hang4 gei1 siu6 jip6	100.0%
 恆健街	hang4 gin6 gaai1	100.0%
+恒景商場	hang4 ging2 soeng1 coeng4	100.0%
 行徑	hang4 ging3	100.0%
 行宮	hang4 gung1	100.0%
 行拐	hang4 gwaai2	100.0%
@@ -55370,6 +55695,8 @@ use_preset_vocabulary: true
 衡量制	hang4 loeng6 zai3	100.0%
 行落來	hang4 lok6 lai4	100.0%
 恆樂里	hang4 lok6 lei5	100.0%
+恒隆	hang4 lung2	100.0%
+恒隆中心	hang4 lung2 zung1 sam1	100.0%
 行文	hang4 man4	100.0%
 行文流暢	hang4 man4 lau4 coeng3	100.0%
 恆明街	hang4 ming4 gaai1	100.0%
@@ -55377,10 +55704,12 @@ use_preset_vocabulary: true
 恆牙	hang4 ngaa4	100.0%
 姮娥	hang4 ngo4	100.0%
 行年	hang4 nin4	100.0%
+恒安	hang4 on1	100.0%
 恆安邨	hang4 on1 cyun1	100.0%
 恆安街	hang4 on1 gaai1	100.0%
 蘅安徑	hang4 on1 ging3	100.0%
 恆安商場	hang4 on1 soeng1 coeng4	100.0%
+恒安站	hang4 on1 zaam6	100.0%
 恆柏道	hang4 paak3 dou6	100.0%
 行騙	hang4 pin3	100.0%
 衡平	hang4 ping4	100.0%
@@ -55389,6 +55718,11 @@ use_preset_vocabulary: true
 行駛	hang4 sai2	100.0%
 行使職權	hang4 sai2 zik1 kyun4	100.0%
 恆心	hang4 sam1	100.0%
+恒生	hang4 sang1	100.0%
+恒生大學	hang4 sang1 daai6 hok6	100.0%
+恒生銀行	hang4 sang1 ngan4 hong4	100.0%
+恒生指數	hang4 sang1 zi2 sou3	100.0%
+恒生中資企業指數	hang4 sang1 zung1 zi1 kei5 jip6 zi2 sou3	100.0%
 恆信街	hang4 seon3 gaai1	100.0%
 行訊通	hang4 seon3 tung1	100.0%
 行屍走肉	hang4 si1 zau2 juk6	100.0%
@@ -55413,6 +55747,7 @@ use_preset_vocabulary: true
 行會	hang4 wui2	74.0%
 衡州道	hang4 zau1 dou6	100.0%
 行走	hang4 zau2	100.0%
+恒指	hang4 zi2	100.0%
 恆智街	hang4 zi3 gaai1	100.0%
 行跡	hang4 zik1	100.0%
 行政	hang4 zing3	100.0%
@@ -55623,6 +55958,7 @@ use_preset_vocabulary: true
 合財街	hap6 coi4 gaai1	100.0%
 闔第光臨	hap6 dai6 gwong1 lam4	100.0%
 合得嚟	hap6 dak1 lai4	100.0%
+合得嚟	hap6 dak1 lei4	124.57%
 俠盜飛車	hap6 dou6 fei1 ce1	100.0%
 合法	hap6 faat3	100.0%
 合法化	hap6 faat3 faa3	100.0%
@@ -55680,6 +56016,7 @@ use_preset_vocabulary: true
 合球	hap6 kau4	100.0%
 合規	hap6 kwai1	100.0%
 合羣	hap6 kwan4	100.0%
+合群街	hap6 kwan4 gaai1	100.0%
 合流	hap6 lau4	100.0%
 合理	hap6 lei5	100.0%
 合理化	hap6 lei5 faa3	100.0%
@@ -56191,6 +56528,7 @@ use_preset_vocabulary: true
 喉糖	hau4 tong2	100.0%
 猴塘溪	hau4 tong4 kai1	100.0%
 猴塘溪營地	hau4 tong4 kai1 jing4 dei6	100.0%
+喉核	hau4 wak2	27.49%
 喉核	hau4 wat2	100.0%
 侯王	hau4 wong4	100.0%
 侯王道	hau4 wong4 dou6	100.0%
@@ -56342,9 +56680,11 @@ use_preset_vocabulary: true
 後期聖徒	hau6 kei4 sing3 tou4	100.0%
 候缺	hau6 kyut3	100.0%
 後欄	hau6 laan1	100.0%
+後嚟	hau6 lai4	100.0%
 後嚟變晒	hau6 lai4 bin3 saai3	100.0%
 後樓梯	hau6 lau4 tai1	100.0%
-後嚟	hau6 lei4	100.0%
+後嚟	hau6 lei4	210.0%
+後嚟變晒	hau6 lei4 bin3 saai3	107.18%
 後力不繼	hau6 lik6 bat1 gai3	100.0%
 後涼	hau6 loeng4	100.0%
 後兩首	hau6 loeng5 sau2	100.0%
@@ -56582,6 +56922,7 @@ use_preset_vocabulary: true
 熙龍里	hei1 lung4 lei5	100.0%
 希望	hei1 mong6	100.0%
 希望大家	hei1 mong6 daai6 gaa1	100.0%
+希望佢	hei1 mong6 heoi5	13.27%
 希望可以	hei1 mong6 ho2 ji5	100.0%
 希望有	hei1 mong6 jau5	100.0%
 希望佢	hei1 mong6 keoi5	100.0%
@@ -56760,10 +57101,11 @@ use_preset_vocabulary: true
 起擒	hei2 kam4	100.0%
 喜劇	hei2 kek6	100.0%
 起立	hei2 laap6	196.08%
+起嚟	hei2 lai4	100.0%
 囍臨門	hei2 lam4 mun4	100.0%
 起立	hei2 lap6	100.0%
 起樓	hei2 lau2	100.0%
-起嚟	hei2 lei4	100.0%
+起嚟	hei2 lei4	215.78%
 喜利徑	hei2 lei6 ging3	100.0%
 喜靈洲	hei2 ling4 zau1	100.0%
 喜靈洲路	hei2 ling4 zau1 lou6	100.0%
@@ -56810,7 +57152,8 @@ use_preset_vocabulary: true
 起薪	hei2 san1	100.0%
 起身	hei2 san1	100.0%
 喜新厭舊	hei2 san1 jim3 gau6	100.0%
-起身嚟	hei2 san1 lei4	100.0%
+起身嚟	hei2 san1 lai4	100.0%
+起身嚟	hei2 san1 lei4	107.18%
 起身了	hei2 san1 liu5	100.0%
 起身咯	hei2 san1 lo3	100.0%
 起手	hei2 sau2	100.0%
@@ -56832,7 +57175,8 @@ use_preset_vocabulary: true
 喜笑顏開	hei2 siu3 ngaan4 hoi1	100.0%
 起雙飛	hei2 soeng1 fei1	100.0%
 喜雙逢酒家	hei2 soeng1 fung4 zau2 gaa1	100.0%
-起上嚟	hei2 soeng5 lei4	100.0%
+起上嚟	hei2 soeng5 lai4	100.0%
+起上嚟	hei2 soeng5 lei4	222.76%
 起訴	hei2 sou3	100.0%
 起訴員	hei2 sou3 jyun4	100.0%
 喜泰街	hei2 taai3 gaai1	100.0%
@@ -57149,6 +57493,7 @@ use_preset_vocabulary: true
 吃不住	hek3 bat1 zyu6	100.0%
 吃布	hek3 bou3	100.0%
 吃茶三千	hek3 caa4 saam1 cin1	100.0%
+喫茶舍	hek3 caa4 se3	100.0%
 吃餐飯	hek3 caan1 faan6	100.0%
 吃槍藥	hek3 coeng1 joek6	100.0%
 吃醋	hek3 cou3	100.0%
@@ -57512,6 +57857,76 @@ use_preset_vocabulary: true
 去中大	heoi3 zung1 daai6	100.0%
 佢	heoi5	0.0%
 渠	heoi5	0.0%
+佢俾	heoi5 bei2	15.72%
+佢本身	heoi5 bun2 san1	15.01%
+佢哋	heoi5 dei6	4.31%
+佢哋都	heoi5 dei6 dou1	16.52%
+佢哋講	heoi5 dei6 gong2	20.21%
+佢哋係	heoi5 dei6 hai6	16.52%
+佢哋好	heoi5 dei6 hou2	19.03%
+佢哋有	heoi5 dei6 jau5	17.97%
+佢哋唔	heoi5 dei6 m4	16.7%
+佢哋會	heoi5 dei6 wui5	18.65%
+佢哋就	heoi5 dei6 zau6	19.19%
+佢哋自己嘅	heoi5 dei6 zi6 gei2 ge3	84.09%
+佢啲	heoi5 di1	11.76%
+佢都	heoi5 dou1	9.31%
+佢都係	heoi5 dou1 hai6	28.39%
+佢都唔	heoi5 dou1 m4	13.78%
+佢返	heoi5 faan1	15.07%
+佢咁	heoi5 gam3	25.73%
+佢嘅	heoi5 ge3	11.6%
+佢叫	heoi5 giu3	14.77%
+佢個	heoi5 go3	9.42%
+佢覺得	heoi5 gok3 dak1	15.2%
+佢講	heoi5 gong2	10.23%
+佢喺	heoi5 hai2	15.42%
+佢係	heoi5 hai6	8.75%
+佢係唔係	heoi5 hai6 m4 hai6	21.15%
+佢係咪	heoi5 hai6 mai6	13.61%
+佢去	heoi5 heoi3	12.92%
+佢可以	heoi5 ho2 ji5	14.02%
+佢開	heoi5 hoi1	13.75%
+佢好似	heoi5 hou2 ci5	13.48%
+佢有	heoi5 jau5	9.8%
+佢又	heoi5 jau6	11.19%
+佢依家	heoi5 ji1 gaa1	16.27%
+佢而家	heoi5 ji4 gaa1	15.05%
+佢已經	heoi5 ji5 ging1	14.12%
+佢應該	heoi5 jing1 goi1	13.2%
+佢要	heoi5 jiu3	13.03%
+佢用	heoi5 jung6	14.11%
+佢呢	heoi5 le1	28.3%
+佢兩個	heoi5 loeng5 go3	14.66%
+佢老豆	heoi5 lou5 dau6	15.34%
+佢老味	heoi5 lou5 mei2	3.1%
+佢老母	heoi5 lou5 mou2	1.6%
+佢唔係	heoi5 m4 hai6	13.01%
+佢唔會	heoi5 m4 wui5	15.34%
+佢冇	heoi5 mou5	12.72%
+佢成日	heoi5 seng4 jat6	15.42%
+佢食	heoi5 sik6	13.89%
+佢先	heoi5 sin1	12.81%
+佢成日	heoi5 sing4 jat6	15.42%
+佢想	heoi5 soeng2	13.06%
+佢睇	heoi5 tai2	13.72%
+佢條	heoi5 tiu4	13.98%
+佢同	heoi5 tung4	11.08%
+佢屋企	heoi5 uk1 kei2	15.19%
+佢話	heoi5 waa6	10.33%
+佢玩	heoi5 waan2	14.55%
+佢會	heoi5 wui5	10.97%
+佢真係	heoi5 zan1 hai6	11.59%
+佢走	heoi5 zau2	14.36%
+佢就	heoi5 zau6	10.3%
+佢就要	heoi5 zau6 jiu3	40.82%
+佢隻	heoi5 zek3	15.25%
+佢知	heoi5 zi1	14.36%
+佢之前	heoi5 zi1 cin4	15.36%
+佢只係	heoi5 zi2 hai6	15.42%
+佢自己	heoi5 zi6 gei2	11.54%
+佢做	heoi5 zou6	11.09%
+佢仲	heoi5 zung6	12.08%
 咦	hi1	0.0%
 嘻	hi1	19.0%
 𠺪	hi1	0.0%
@@ -57943,6 +58358,7 @@ use_preset_vocabulary: true
 輕於鴻毛	hing1 jyu1 hung4 mou4	100.0%
 輕如羽毛	hing1 jyu4 jyu5 mou4	100.0%
 輕元素	hing1 jyun4 sou3	100.0%
+氫原子核	hing1 jyun4 zi2 hak6	84.09%
 氫原子核	hing1 jyun4 zi2 hat6	100.0%
 輕騎	hing1 ke4	100.0%
 輕騎兵	hing1 ke4 bing1	100.0%
@@ -58059,6 +58475,7 @@ use_preset_vocabulary: true
 慶幸	hing3 hang6	100.0%
 㷫烚烚	hing3 hap6 hap6	100.0%
 㷫起嚟	hing3 hei2 lai4	100.0%
+㷫起嚟	hing3 hei2 lei4	111.61%
 慶賀	hing3 ho6	100.0%
 罄然	hing3 jin4	100.0%
 㷫熱	hing3 jit6	100.0%
@@ -58510,6 +58927,7 @@ use_preset_vocabulary: true
 可能都	ho2 nang4 dou1	100.0%
 可能掛	ho2 nang4 gwaa3	100.0%
 可能係	ho2 nang4 hai6	100.0%
+可能佢	ho2 nang4 heoi5	14.03%
 可能因	ho2 nang4 jan1	100.0%
 可能有	ho2 nang4 jau5	100.0%
 可能要	ho2 nang4 jiu3	100.0%
@@ -58687,6 +59105,8 @@ use_preset_vocabulary: true
 荷蘭皇家航空	ho4 laan1 wong4 gaa1 hong4 hung1	100.0%
 荷蘭豬	ho4 laan1 zyu1	100.0%
 荷蘭人	ho4 laan4 jan4	100.0%
+何立峰	ho4 laap6 fung1	114.87%
+何立峰	ho4 lap6 fung1	100.0%
 河流	ho4 lau4	100.0%
 河狸	ho4 lei4	100.0%
 荷李活	ho4 lei5 wut6	100.0%
@@ -58751,6 +59171,7 @@ use_preset_vocabulary: true
 何嘗	ho4 soeng4	100.0%
 河上鄉	ho4 soeng6 hoeng1	100.0%
 河上鄉路	ho4 soeng6 hoeng1 lou6	100.0%
+河上鄉排峰路	ho4 soeng6 hoeng1 paai4 fung1 lou6	100.0%
 河灘	ho4 taan1	100.0%
 河田	ho4 tin4	100.0%
 河田村	ho4 tin4 cyun1	100.0%
@@ -58767,6 +59188,7 @@ use_preset_vocabulary: true
 何瑋桁	ho4 wai5 hang4	100.0%
 何偉業	ho4 wai5 jip6	100.0%
 何謂	ho4 wai6	100.0%
+何衛東	ho4 wai6 dung1	100.0%
 何韻詩	ho4 wan5 si1	100.0%
 何永賢	ho4 wing5 jin4	100.0%
 何泳芍	ho4 wing6 coek3	100.0%
@@ -58780,6 +59202,7 @@ use_preset_vocabulary: true
 何俊賢	ho4 zeon3 jin4	100.0%
 何晉樂	ho4 zeon3 lok6	100.0%
 何止	ho4 zi2	100.0%
+何芷姗	ho4 zi2 saan1	100.0%
 何至於此	ho4 zi3 jyu1 ci2	100.0%
 何志平	ho4 zi3 ping4	100.0%
 何足掛齒	ho4 zuk1 gwaa3 ci2	100.0%
@@ -58964,10 +59387,13 @@ use_preset_vocabulary: true
 香港公園	hoeng1 gong2 gung1 jyun4	100.0%
 香港工會聯合會	hoeng1 gong2 gung1 wui2 lyun4 hap6 wui2	100.0%
 香港國際仲裁中心	hoeng1 gong2 gwok3 zai3 zung6 coi4 zung1 sam1	100.0%
+香港考試及評核局	hoeng1 gong2 haau2 si3 kap6 ping4 hak6 guk2	0.0%
 香港考試及評核局	hoeng1 gong2 haau2 si3 kap6 ping4 hat6 guk2	0.0%
 香港考試局	hoeng1 gong2 haau2 si5 guk6	100.0%
+香港考試及評核局	hoeng1 gong2 haau2 si5 kap6 ping4 hak6 guk2	84.09%
 香港考試及評核局	hoeng1 gong2 haau2 si5 kap6 ping4 hat6 guk2	100.0%
 香港係	hoeng1 gong2 hai6	100.0%
+香港恒生大學	hoeng1 gong2 hang4 sang1 daai6 hok6	100.0%
 香港海防博物館	hoeng1 gong2 hoi2 fong4 bok3 mat6 gun2	100.0%
 香港海關	hoeng1 gong2 hoi2 gwaan1	100.0%
 香港海事博物館	hoeng1 gong2 hoi2 si6 bok3 mat6 gun2	100.0%
@@ -59282,6 +59708,7 @@ use_preset_vocabulary: true
 享唔享受	hoeng2 m4 hoeng2 sau6	100.0%
 響尾蛇	hoeng2 mei5 se4	100.0%
 晌午	hoeng2 ng5	100.0%
+響巖	hoeng2 ngaam4	100.0%
 享年	hoeng2 nin4	100.0%
 響安	hoeng2 on1	100.0%
 響按聲	hoeng2 on3 seng1	100.0%
@@ -59539,6 +59966,7 @@ use_preset_vocabulary: true
 開嚟	hoi1 lai4	100.0%
 開例	hoi1 lai6	100.0%
 開溜	hoi1 lau6	100.0%
+開嚟	hoi1 lei4	195.34%
 開鐮	hoi1 lim4	100.0%
 開臉	hoi1 lim5	100.0%
 開了	hoi1 liu5	100.0%
@@ -59878,6 +60306,7 @@ use_preset_vocabulary: true
 海裕街	hoi2 jyu6 gaai1	100.0%
 海員	hoi2 jyun4	100.0%
 海員之家	hoi2 jyun4 zi1 gaa1	100.0%
+海悅豪園購物商場	hoi2 jyut6 hou4 jyun4 gau3 mat6 soeng1 coeng4	100.0%
 海蛞蝓	hoi2 kut3 jyu4	100.0%
 海藍徑	hoi2 laam4 ging3	100.0%
 海蠣	hoi2 lai6	100.0%
@@ -60666,6 +61095,7 @@ use_preset_vocabulary: true
 康輝路	hong1 fai1 lou6	100.0%
 康富路	hong1 fu3 lou6	100.0%
 匡扶社稷	hong1 fu4 se5 zik1	100.0%
+康福臺	hong1 fuk1 toi4	100.0%
 匡復	hong1 fuk6	100.0%
 康復	hong1 fuk6	100.0%
 康復香港	hong1 fuk6 hoeng1 gong2	100.0%
@@ -60873,6 +61303,7 @@ use_preset_vocabulary: true
 項目	hong6 muk6	100.0%
 項上人頭	hong6 soeng6 jan4 tau4	100.0%
 巷仔街	hong6 zai2 gaai1	100.0%
+巷仔見麵館	hong6 zai2 gin3 min6 gun2	100.0%
 巷戰	hong6 zin3	100.0%
 㓭	hot3	100.0%
 㬞	hot3	100.0%
@@ -61128,6 +61559,7 @@ use_preset_vocabulary: true
 好鬼正喎	hou2 gwai2 zing1 wo3	100.0%
 好貴	hou2 gwai3	100.0%
 好過	hou2 gwo3	100.0%
+好過佢	hou2 gwo3 heoi5	16.41%
 好過佢	hou2 gwo3 keoi5	100.0%
 好過沒	hou2 gwo3 mut6	100.0%
 好過你	hou2 gwo3 nei5	100.0%
@@ -61374,6 +61806,7 @@ use_preset_vocabulary: true
 好事多為	hou2 si6 do1 wai4	100.0%
 好事近	hou2 si6 gan6	100.0%
 好事嚟	hou2 si6 lai4	100.0%
+好事嚟	hou2 si6 lei4	145.66%
 好識	hou2 sik1	100.0%
 好色水	hou2 sik1 seoi2	100.0%
 好識歎	hou2 sik1 taan3	100.0%
@@ -63031,6 +63464,7 @@ use_preset_vocabulary: true
 音效	jam1 haau6	100.0%
 音效卡	jam1 haau6 kaat1	100.0%
 音系	jam1 hai6	100.0%
+陰核	jam1 hak6	34.21%
 陰狠	jam1 han2	100.0%
 陰核	jam1 hat6	100.0%
 陰氣重	jam1 hei3 cung4	100.0%
@@ -63497,6 +63931,7 @@ use_preset_vocabulary: true
 欣喜	jan1 hei2	100.0%
 欣喜若狂	jan1 hei2 joek6 kwong4	100.0%
 焮起嚟	jan1 hei2 lai4	100.0%
+焮起嚟	jan1 hei2 lei4	107.18%
 因航	jan1 hong4	100.0%
 欣欣向榮	jan1 jan1 hoeng3 wing4	100.0%
 恩人	jan1 jan4	100.0%
@@ -63569,6 +64004,8 @@ use_preset_vocabulary: true
 恩惠	jan1 wai6	100.0%
 因為噉	jan1 wai6 gam2	100.0%
 因為係	jan1 wai6 hai6	100.0%
+因為佢	jan1 wai6 heoi5	10.85%
+因為佢哋	jan1 wai6 heoi5 dei6	18.84%
 因為有	jan1 wai6 jau5	100.0%
 因為佢	jan1 wai6 keoi5	100.0%
 因為佢哋	jan1 wai6 keoi5 dei6	100.0%
@@ -63592,6 +64029,7 @@ use_preset_vocabulary: true
 因住凍親	jan1 zyu6 dung3 can1	100.0%
 因住骾親	jan1 zyu6 kang2 can1	100.0%
 因住嚟	jan1 zyu6 lai4	100.0%
+因住嚟	jan1 zyu6 lei4	121.48%
 因住來	jan1 zyu6 loi4	100.0%
 因住焫親	jan1 zyu6 naat6 can1	100.0%
 因住收尾嗰兩年	jan1 zyu6 sau1 mei1 go2 loeng5 nin4	100.0%
@@ -64019,6 +64457,8 @@ use_preset_vocabulary: true
 人流	jan4 lau4	100.0%
 引流	jan4 lau4	100.0%
 人流手術	jan4 lau4 sau2 seot6	100.0%
+人嚟	jan4 lei4	239.95%
+人嚟人去	jan4 lei4 jan4 heoi3	107.18%
 人靚歌甜	jan4 leng3 go1 tim4	100.0%
 人靚聲甜	jan4 leng3 seng1 tim4	100.0%
 人類	jan4 leoi6	100.0%
@@ -64308,6 +64748,7 @@ use_preset_vocabulary: true
 引語	jan5 jyu5	100.0%
 引擎	jan5 king4	100.0%
 癮嚟	jan5 lai4	100.0%
+癮嚟	jan5 lei4	111.61%
 引力	jan5 lik6	100.0%
 引力波	jan5 lik6 bo1	100.0%
 引領	jan5 ling5	100.0%
@@ -64442,7 +64883,7 @@ use_preset_vocabulary: true
 入不敷出	jap6 bat1 fu1 ceot1	100.0%
 入不敷支	jap6 bat1 fu1 zi1	100.0%
 入邊	jap6 bin1	100.0%
-入邊有	jap6 bin1 jau5	8.61%
+入邊有	jap6 bin1 jau5	100.0%
 入便街	jap6 bin6 gaai1	100.0%
 入錶	jap6 biu1	100.0%
 入波	jap6 bo1	100.0%
@@ -64517,6 +64958,7 @@ use_preset_vocabulary: true
 入球	jap6 kau4	100.0%
 入嚟	jap6 lai4	100.0%
 入流	jap6 lau4	100.0%
+入嚟	jap6 lei4	295.2%
 入笭	jap6 leng1	100.0%
 入龍	jap6 lung2	100.0%
 入籠	jap6 lung4	100.0%
@@ -64540,6 +64982,7 @@ use_preset_vocabulary: true
 入拍	jap6 paak3	100.0%
 入票	jap6 piu3	100.0%
 入晒嚟	jap6 saai3 lai4	100.0%
+入晒嚟	jap6 saai3 lei4	114.87%
 入世	jap6 sai3	100.0%
 入世未深	jap6 sai3 mei6 sam1	100.0%
 入心入肺	jap6 sam1 jap6 fai3	100.0%
@@ -64580,6 +65023,7 @@ use_preset_vocabulary: true
 入咗	jap6 zo2	100.0%
 入咗去	jap6 zo2 heoi3	100.0%
 入咗嚟	jap6 zo2 lai4	100.0%
+入咗嚟	jap6 zo2 lei4	172.85%
 入座	jap6 zo6	100.0%
 入主	jap6 zyu2	100.0%
 入住	jap6 zyu6	100.0%
@@ -65141,6 +65585,7 @@ use_preset_vocabulary: true
 一場兄弟	jat1 coeng4 hing1 dai6	100.0%
 一場空	jat1 coeng4 hung1	100.0%
 一場嚟到	jat1 coeng4 lai4 dou3	100.0%
+一場嚟到	jat1 coeng4 lei4 dou3	114.87%
 一草	jat1 cou2	100.0%
 一束	jat1 cuk1	100.0%
 一簇	jat1 cuk1	100.0%
@@ -65341,10 +65786,12 @@ use_preset_vocabulary: true
 一個唔	jat1 go3 m4	100.0%
 一個師兄	jat1 go3 si1 hing1	100.0%
 一個星期	jat1 go3 sing1 kei4	100.0%
+一個酸梅兩個核	jat1 go3 syun1 mui4 loeng5 go3 wak6	84.09%
 一個酸梅兩個核	jat1 go3 syun1 mui4 loeng5 go3 wat6	100.0%
 一個啫	jat1 go3 ze1	100.0%
 一個字	jat1 go3 zi6	100.0%
 一個招牌砸落嚟都砸死幾件	jat1 go3 ziu1 paai4 zaak3 lok6 lai4 dou1 zaak3 sei2 gei2 gin6	100.0%
+一個招牌砸落嚟都砸死幾件	jat1 go3 ziu1 paai4 zaak3 lok6 lei4 dou1 zaak3 sei2 gei2 gin6	107.18%
 一個做好	jat1 go3 zou6 hou2	100.0%
 一個鐘	jat1 go3 zung1	100.0%
 一個中國政策	jat1 go3 zung1 gwok3 zing3 caak3	100.0%
@@ -66021,6 +66468,7 @@ use_preset_vocabulary: true
 一神教	jat1 san4 gaau3	100.0%
 一生	jat1 sang1	100.0%
 一生出嚟	jat1 sang1 ceot1 lai4	100.0%
+一生出嚟	jat1 sang1 ceot1 lei4	107.18%
 一生一世	jat1 sang1 jat1 sai3	100.0%
 一生所愛	jat1 sang1 so2 oi3	100.0%
 一十	jat1 sap6	100.0%
@@ -66142,6 +66590,7 @@ use_preset_vocabulary: true
 一團漆黑	jat1 tyun4 cat1 hak1	100.0%
 一懷愁緒	jat1 waai4 sau4 seoi5	100.0%
 一彎	jat1 waan1	100.0%
+一幻拉麵	jat1 waan6 laai1 min6	100.0%
 一橫一棟	jat1 waang4 jat1 dung6	100.0%
 一位	jat1 wai2	100.0%
 一為神功二為弟子	jat1 wai6 san4 gung1 ji6 wai6 dai6 zi2	100.0%
@@ -66254,6 +66703,7 @@ use_preset_vocabulary: true
 一早	jat1 zou2	100.0%
 一竹篙打一船人	jat1 zuk1 gou1 daa2 jat1 syun4 jan4	100.0%
 一竹篙揇沉一船人	jat1 zuk1 gou1 naam5 cam4 jat1 syun4 jan4	100.0%
+一粥麵	jat1 zuk1 min6	100.0%
 一觸即發	jat1 zuk1 zik1 faat3	100.0%
 一觸即潰	jat1 zuk1 zik1 kui2	100.0%
 一族	jat1 zuk6	100.0%
@@ -66725,6 +67175,7 @@ use_preset_vocabulary: true
 由得	jau2 dak1	100.0%
 黝黑	jau2 haak1	192.7%
 黝黑	jau2 hak1	100.0%
+由佢	jau2 heoi5	0.0%
 由佢	jau2 keoi5	0.0%
 柚木	jau2 muk6	100.0%
 油門	jau2 mun4	100.0%
@@ -66994,6 +67445,7 @@ use_preset_vocabulary: true
 遊戲咭	jau4 hei3 kaat1	100.0%
 遊戲規則	jau4 hei3 kwai1 zak1	100.0%
 遊戲説	jau4 hei3 syut3	100.0%
+由佢	jau4 heoi5	13.35%
 游興	jau4 hing3	100.0%
 遊興正濃	jau4 hing3 zing3 nung4	100.0%
 遊河	jau4 ho4	100.0%
@@ -67536,6 +67988,7 @@ use_preset_vocabulary: true
 有效期	jau5 haau6 kei4	100.0%
 有效流量	jau5 haau6 lau4 loeng6	100.0%
 有效數字	jau5 haau6 sou3 zi6	100.0%
+有核國家	jau5 hak6 gwok3 gaa1	75.98%
 有幸	jau5 hang6	100.0%
 有核國家	jau5 hat6 gwok3 gaa1	100.0%
 有口	jau5 hau2	100.0%
@@ -67549,6 +68002,7 @@ use_preset_vocabulary: true
 有氣無力	jau5 hei3 mou3 lik6	100.0%
 有氣水	jau5 hei3 seoi2	100.0%
 有去	jau5 heoi3	100.0%
+有佢	jau5 heoi5	12.52%
 有險可守	jau5 him2 ho2 sau2	100.0%
 有興趣	jau5 hing3 ceoi3	100.0%
 有可疑	jau5 ho2 ji4	100.0%
@@ -68113,6 +68567,7 @@ use_preset_vocabulary: true
 右手便	jau6 sau2 bin6	100.0%
 右手面	jau6 sau2 min6	100.0%
 又肆嚟過	jau6 sei3 lai4 gwo3	100.0%
+又肆嚟過	jau6 sei3 lei4 gwo3	107.18%
 又睡不着	jau6 seoi6 bat1 zoek6	100.0%
 又屎又巴閉	jau6 si2 jau6 baa1 bai3	100.0%
 又試	jau6 si3	100.0%
@@ -68889,6 +69344,7 @@ use_preset_vocabulary: true
 伊斯蘭學校	ji1 si1 laan4 hok6 haau6	100.0%
 伊斯蘭曆	ji1 si1 laan4 lik6	100.0%
 伊斯蘭聖戰組織	ji1 si1 laan4 sing3 zin3 zou2 zik1	100.0%
+伊斯蘭脫維善紀念中學	ji1 si1 laan4 tyut3 wai4 sin6 gei2 nim6 zung1 hok6	100.0%
 伊斯蘭會議組織	ji1 si1 laan4 wui6 ji5 zou2 zik1	100.0%
 伊斯梅爾	ji1 si1 mui4 ji5	100.0%
 伊斯坦堡	ji1 si1 taan2 bou2	100.0%
@@ -69645,6 +70101,7 @@ use_preset_vocabulary: true
 耳後見腮	ji5 hau6 gin3 soi1	100.0%
 以後唔	ji5 hau6 m4	100.0%
 以虛帶實	ji5 heoi1 daai3 sat6	100.0%
+以佢	ji5 heoi5	13.2%
 擬任	ji5 jam6	100.0%
 以人廢言	ji5 jan4 fai3 jin4	100.0%
 以人為本	ji5 jan4 wai4 bun2	100.0%
@@ -69680,6 +70137,7 @@ use_preset_vocabulary: true
 議決書	ji5 kyut3 syu1	100.0%
 耳蠟	ji5 laap6	100.0%
 以嚟	ji5 lai4	100.0%
+以嚟	ji5 lei4	239.98%
 以利亞	ji5 lei6 aa3	100.0%
 以利於	ji5 lei6 jyu1	100.0%
 以卵擊石	ji5 leon2 gik1 sek6	100.0%
@@ -69765,6 +70223,7 @@ use_preset_vocabulary: true
 耳挖勺	ji5 waat3 zoek3	100.0%
 以為	ji5 wai4	100.0%
 以為係	ji5 wai4 hai6	100.0%
+以為佢	ji5 wai4 heoi5	13.63%
 以為佢	ji5 wai4 keoi5	100.0%
 以為你	ji5 wai4 nei5	100.0%
 以為自己	ji5 wai4 zi6 gei2	100.0%
@@ -70364,11 +70823,13 @@ use_preset_vocabulary: true
 臆見	jik1 gin3	100.0%
 益健	jik1 gin6	100.0%
 憶江南	jik1 gong1 naam4	100.0%
+益佢	jik1 heoi5	34.7%
 益陽	jik1 joeng4	100.0%
 抑揚頓挫	jik1 joeng4 deon6 co3	100.0%
 抑揚格	jik1 joeng4 gaak3	100.0%
 億元	jik1 jyun4	100.0%
 益佢	jik1 keoi5	100.0%
+益群道	jik1 kwan4 dou6	100.0%
 益力多	jik1 lik6 do1	100.0%
 膉味	jik1 mei6	100.0%
 益母草	jik1 mou5 cou2	100.0%
@@ -70998,6 +71459,7 @@ use_preset_vocabulary: true
 驗光法	jim6 gwong1 faat3	100.0%
 驗光配鏡法	jim6 gwong1 pui3 geng3 faat3	100.0%
 驗光配鏡業	jim6 gwong1 pui3 geng3 jip6	100.0%
+驗核	jim6 hak6	52.66%
 驗核	jim6 hat6	100.0%
 豔紅色	jim6 hung4 sik1	100.0%
 驗血	jim6 hyut3	100.0%
@@ -71007,6 +71469,7 @@ use_preset_vocabulary: true
 豔遇	jim6 jyu6	100.0%
 豔麗	jim6 lai6	100.0%
 驗樓	jim6 lau2	100.0%
+艷馬道	jim6 maa5 dou6	100.0%
 驗明	jim6 ming4	100.0%
 豔舞	jim6 mou5	100.0%
 驗眼	jim6 ngaan5	100.0%
@@ -71130,6 +71593,7 @@ use_preset_vocabulary: true
 煙酸	jin1 syun1	100.0%
 燕太子丹	jin1 taai3 zi2 daan1	100.0%
 煙頭	jin1 tau2	100.0%
+煙臺	jin1 toi4	100.0%
 煙土	jin1 tou2	100.0%
 煙囱	jin1 tung1	100.0%
 煙筒	jin1 tung2	100.0%
@@ -71875,10 +72339,12 @@ use_preset_vocabulary: true
 英華女學校	jing1 waa4 neoi5 hok6 haau6	100.0%
 英華小學	jing1 waa4 siu2 hok6	100.0%
 英華書院	jing1 waa4 syu1 jyun2	100.0%
+英華臺	jing1 waa4 toi4	100.0%
 應允	jing1 wan5	100.0%
 英皇	jing1 wong2	100.0%
 英皇集團中心	jing1 wong2 zaap6 tyun4 zung1 sam1	100.0%
 英皇道	jing1 wong4 dou6	100.0%
+英王麵包	jing1 wong4 min6 baau1	100.0%
 英皇書院	jing1 wong4 syu1 jyun2	100.0%
 英皇書院同學會小學	jing1 wong4 syu1 jyun2 tung4 hok6 wui2 siu2 hok6	100.0%
 英皇集團	jing1 wong4 zaap6 tyun4	100.0%
@@ -71944,6 +72410,7 @@ use_preset_vocabulary: true
 影劇	jing2 kek6	100.0%
 影嚟	jing2 lai4	100.0%
 影樓	jing2 lau4	100.0%
+影嚟	jing2 lei4	171.88%
 影唔影響	jing2 m4 jing2 hoeng2	100.0%
 影迷	jing2 mai4	100.0%
 影藝	jing2 ngai6	100.0%
@@ -71972,6 +72439,8 @@ use_preset_vocabulary: true
 認真夠運	jing2 zan1 gau3 wan6	100.0%
 認真惡頂	jing2 zan1 ok3 ding2	100.0%
 認真濕滯	jing2 zan1 sap1 zai6	100.0%
+認真核突	jing2 zan1 wak6 dak6	73.84%
+認真核突	jing2 zan1 wak6 dat6	84.09%
 認真核突	jing2 zan1 wat6 dak6	84.09%
 認真核突	jing2 zan1 wat6 dat6	100.0%
 影子	jing2 zi2	100.0%
@@ -72205,6 +72674,7 @@ use_preset_vocabulary: true
 螢光屏	jing4 gwong1 ping4	100.0%
 扔下	jing4 haa6	100.0%
 形骸	jing4 haai4	100.0%
+形核	jing4 hak6	84.09%
 迎合	jing4 hap6	100.0%
 迎合人心	jing4 hap6 jan4 sam1	100.0%
 形核	jing4 hat6	100.0%
@@ -72593,6 +73063,7 @@ use_preset_vocabulary: true
 葉偉民	jip6 wai5 man4	100.0%
 葉偉明	jip6 wai5 ming4	100.0%
 葉慧虹	jip6 wai6 hung4	100.0%
+葉蘊儀	jip6 wan3 ji4	100.0%
 葉泓聲	jip6 wang4 sing1	100.0%
 葉永烈	jip6 wing5 lit6	100.0%
 業和街	jip6 wo4 gaai1	100.0%
@@ -72713,6 +73184,11 @@ use_preset_vocabulary: true
 熱狗	jit6 gau2	100.0%
 熱巧克力	jit6 haau2 haak1 lik6	119.62%
 熱巧克力	jit6 haau2 hak1 lik6	100.0%
+熱核	jit6 hak6	34.95%
+熱核反應	jit6 hak6 faan2 jing3	63.89%
+熱核反應堆	jit6 hak6 faan2 jing3 deoi1	84.09%
+熱核武器	jit6 hak6 mou5 hei3	63.89%
+熱核聚變反應	jit6 hak6 zeoi6 bin3 faan2 jing3	84.09%
 嚙合	jit6 hap6	100.0%
 熱核	jit6 hat6	100.0%
 熱核反應	jit6 hat6 faan2 jing3	100.0%
@@ -72831,6 +73307,7 @@ use_preset_vocabulary: true
 舀飯	jiu1 faan6	100.0%
 吆呼	jiu1 fu1	100.0%
 腰封	jiu1 fung1	100.0%
+么鳳士多	jiu1 fung2 si6 do1	100.0%
 腰間	jiu1 gaan1	100.0%
 腰間盤	jiu1 gaan1 pun4	100.0%
 腰金衣紫	jiu1 gam1 ji1 zi2	100.0%
@@ -72993,6 +73470,7 @@ use_preset_vocabulary: true
 要考	jiu3 haau2	100.0%
 要去	jiu3 heoi3	100.0%
 要去廣州	jiu3 heoi3 gwong2 zau1	100.0%
+要佢	jiu3 heoi5	12.22%
 要害	jiu3 hoi6	100.0%
 要學	jiu3 hok6	100.0%
 要好	jiu3 hou2	100.0%
@@ -73011,6 +73489,7 @@ use_preset_vocabulary: true
 要嚟	jiu3 lai4	100.0%
 要留	jiu3 lau4	100.0%
 要留意	jiu3 lau4 ji3	100.0%
+要嚟	jiu3 lei4	217.31%
 要臉	jiu3 lim5	100.0%
 要拎	jiu3 ling1	100.0%
 要攞去	jiu3 lo2 heoi3	100.0%
@@ -74104,6 +74583,7 @@ use_preset_vocabulary: true
 沃灌	juk1 gun3	100.0%
 郁下	juk1 haa5	100.0%
 喐下喐下	juk1 haa5 juk1 haa5	100.0%
+喐佢	juk1 heoi5	84.09%
 毓學里	juk1 hok6 lei5	100.0%
 煜熠	juk1 jap1	100.0%
 旭日	juk1 jat6	100.0%
@@ -74115,6 +74595,7 @@ use_preset_vocabulary: true
 喐喐下	juk1 juk1 haa2	100.0%
 喐佢	juk1 keoi5	100.0%
 喐嚟喐去	juk1 lai4 juk1 heoi3	100.0%
+喐嚟喐去	juk1 lei4 juk1 heoi3	107.18%
 郁烈	juk1 lit6	100.0%
 喐來喐去	juk1 loi4 juk1 heoi3	100.0%
 勗勉	juk1 min5	100.0%
@@ -74273,6 +74754,7 @@ use_preset_vocabulary: true
 肉丸	juk6 jyun2	100.0%
 玉扣紙	juk6 kau3 zi2	100.0%
 浴球	juk6 kau4	100.0%
+育群街	juk6 kwan4 gaai1	100.0%
 玉蘭花	juk6 laan4 faa1	100.0%
 玉蘭徑	juk6 laan4 ging3	100.0%
 玉蘭路	juk6 laan4 lou6	100.0%
@@ -74794,6 +75276,7 @@ use_preset_vocabulary: true
 用過晒	jung6 gwo3 saai3	100.0%
 用下	jung6 haa5	100.0%
 用起上來	jung6 hei2 soeng5 loi4	100.0%
+用佢	jung6 heoi5	13.25%
 用開	jung6 hoi1	100.0%
 用項	jung6 hong6	100.0%
 用人	jung6 jan4	100.0%
@@ -74813,6 +75296,7 @@ use_preset_vocabulary: true
 用佢	jung6 keoi5	100.0%
 用啦	jung6 laa1	100.0%
 用嚟	jung6 lai4	100.0%
+用嚟	jung6 lei4	263.21%
 用力	jung6 lik6	100.0%
 用力一搡	jung6 lik6 jat1 song2	100.0%
 用料	jung6 liu2	100.0%
@@ -75199,6 +75683,7 @@ use_preset_vocabulary: true
 余富根	jyu4 fu3 gan1	100.0%
 漁婦	jyu4 fu5	100.0%
 魚腐	jyu4 fu6	100.0%
+愉峰道	jyu4 fung1 dou6	100.0%
 漁豐街	jyu4 fung1 gaai1	100.0%
 如風過耳	jyu4 fung1 gwo3 ji5	100.0%
 儒家	jyu4 gaa1	100.0%
@@ -75244,6 +75729,7 @@ use_preset_vocabulary: true
 如估	jyu4 gu2	100.0%
 茹古涵今	jyu4 gu2 haam4 gam1	100.0%
 如估係	jyu4 gu2 hai6	100.0%
+如估佢	jyu4 gu2 heoi5	100.0%
 如估有	jyu4 gu2 jau5	100.0%
 如估要	jyu4 gu2 jiu3	100.0%
 如估佢	jyu4 gu2 keoi5	100.0%
@@ -75264,6 +75750,7 @@ use_preset_vocabulary: true
 魚骨天線	jyu4 gwat1 tin1 sin3	100.0%
 如果	jyu4 gwo2	100.0%
 如果係	jyu4 gwo2 hai6	100.0%
+如果佢	jyu4 gwo2 heoi5	11.73%
 如果有	jyu4 gwo2 jau5	100.0%
 如果要	jyu4 gwo2 jiu3	100.0%
 如果佢	jyu4 gwo2 keoi5	100.0%
@@ -75343,6 +75830,7 @@ use_preset_vocabulary: true
 漁撈	jyu4 laau4	100.0%
 如臨大敵	jyu4 lam4 daai6 dik6	100.0%
 儒林外史	jyu4 lam4 ngoi6 si2	100.0%
+儒林臺	jyu4 lam4 toi4	100.0%
 餘留無符號數	jyu4 lau4 mou4 fu4 hou6 sou3	100.0%
 餘留事務	jyu4 lau4 si6 mou6	100.0%
 魚柳	jyu4 lau5	100.0%
@@ -76158,6 +76646,7 @@ use_preset_vocabulary: true
 丸子	jyun2 zi2	100.0%
 院子	jyun2 zi2	100.0%
 丸子頭	jyun2 zi2 tau4	100.0%
+阮政峰	jyun2 zing3 fung1	100.0%
 院長	jyun2 zoeng2	100.0%
 丸作食茶	jyun2 zok3 sik6 caa4	100.0%
 阮頌揚	jyun2 zung6 joeng4	100.0%
@@ -76457,6 +76946,8 @@ use_preset_vocabulary: true
 圓光	jyun4 gwong1	100.0%
 原函數	jyun4 haam4 sou3	100.0%
 緣慳一面	jyun4 haan1 jat1 min6	100.0%
+原核細胞	jyun4 hak6 sai3 baau1	84.09%
+原核細胞型微生物	jyun4 hak6 sai3 baau1 jing4 mei4 sang1 mat6	84.09%
 原核細胞	jyun4 hat6 sai3 baau1	100.0%
 原核細胞型微生物	jyun4 hat6 sai3 baau1 jing4 mei4 sang1 mat6	100.0%
 圓口綱脊椎動物	jyun4 hau2 gong1 zek3 zeoi1 dung6 mat6	100.0%
@@ -76540,6 +77031,7 @@ use_preset_vocabulary: true
 圓括號	jyun4 kut3 hou6	100.0%
 圓規	jyun4 kwai1	100.0%
 圓規座	jyun4 kwai1 zo6	100.0%
+鉛鑛坳	jyun4 kwong3 aau3	100.0%
 鉛礦凹街	jyun4 kwong3 aau3 gaai1	100.0%
 鉛礦坳營地	jyun4 kwong3 aau3 jing4 dei6	100.0%
 原嚟	jyun4 lai4	100.0%
@@ -76548,6 +77040,7 @@ use_preset_vocabulary: true
 爰泐貞珉	jyun4 lak6 zing1 man4	100.0%
 園林	jyun4 lam4	100.0%
 園林大道	jyun4 lam4 daai6 dou6	100.0%
+原嚟	jyun4 lei4	114.87%
 原理	jyun4 lei5	100.0%
 玄理	jyun4 lei5	100.0%
 元嶺	jyun4 leng5	100.0%
@@ -76771,6 +77264,8 @@ use_preset_vocabulary: true
 原子科學家通報	jyun4 zi2 fo1 hok6 gaa1 tung1 bou3	100.0%
 原子褲	jyun4 zi2 fu3	100.0%
 原子光譜	jyun4 zi2 gwong1 pou2	100.0%
+原子核	jyun4 zi2 hak6	40.28%
+原子核反應堆	jyun4 zi2 hak6 faan2 jing3 deoi1	84.09%
 原子核	jyun4 zi2 hat6	100.0%
 原子核反應堆	jyun4 zi2 hat6 faan2 jing3 deoi1	100.0%
 原子印	jyun4 zi2 jan3	100.0%
@@ -77211,6 +77706,7 @@ use_preset_vocabulary: true
 月坑	jyut6 haang1	100.0%
 月黑天	jyut6 hak1 tin1	100.0%
 月後	jyut6 hau6	100.0%
+悅海街	jyut6 hoi2 gaai1	100.0%
 月刊	jyut6 hon2	100.0%
 越好	jyut6 hou2	100.0%
 粵音	jyut6 jam1	100.0%
@@ -77261,12 +77757,17 @@ use_preset_vocabulary: true
 越嚟越似	jyut6 lai4 jyut6 ci5	100.0%
 越嚟越難	jyut6 lai4 jyut6 naan4	100.0%
 越禮	jyut6 lai5	100.0%
+越嚟	jyut6 lei4	213.1%
+越嚟越	jyut6 lei4 jyut6	255.19%
+越嚟越似	jyut6 lei4 jyut6 ci5	133.51%
+越嚟越難	jyut6 lei4 jyut6 naan4	130.2%
 月輪街	jyut6 leon4 gaai1	100.0%
 月曆	jyut6 lik6	100.0%
 閲歷	jyut6 lik6	100.0%
 月亮	jyut6 loeng6	100.0%
 月亮盈虧	jyut6 loeng6 jing4 kwai1	100.0%
 越來	jyut6 loi4	100.0%
+悅來坊	jyut6 loi4 fong1	100.0%
 越來越	jyut6 loi4 jyut6	100.0%
 月盲症	jyut6 maang4 zing3	100.0%
 穴脈	jyut6 mak6	100.0%
@@ -77334,6 +77835,7 @@ use_preset_vocabulary: true
 越戰	jyut6 zin3	100.0%
 越俎代庖	jyut6 zo2 doi6 paau4	100.0%
 越障	jyut6 zoeng3	100.0%
+穴蔵	jyut6 zong6	100.0%
 月租	jyut6 zou1	100.0%
 月中	jyut6 zung1	100.0%
 㤉	kaa1	100.0%
@@ -77611,6 +78113,7 @@ use_preset_vocabulary: true
 啟信學校	kai2 seon3 hok6 haau6	100.0%
 啟順	kai2 seon6	100.0%
 啟思小學	kai2 si1 siu2 hok6	100.0%
+啓思中學	kai2 si1 zung1 hok6	100.0%
 啟市	kai2 si5	100.0%
 啟事	kai2 si6	100.0%
 啟示	kai2 si6	100.0%
@@ -77786,6 +78289,7 @@ use_preset_vocabulary: true
 蠄蟝石頂	kam4 keoi4 sek6 deng2	100.0%
 擒嚟擒去	kam4 lai4 kam4 heoi3	100.0%
 禽流感	kam4 lau4 gam2	100.0%
+擒嚟擒去	kam4 lei4 kam4 heoi3	114.87%
 擒佬	kam4 lou2	100.0%
 禽勞	kam4 lou4	100.0%
 蠄蟧	kam4 lou4	100.0%
@@ -78699,6 +79203,7 @@ use_preset_vocabulary: true
 其實係	kei4 sat6 hai6	100.0%
 其實係唔係	kei4 sat6 hai6 m4 hai6	100.0%
 其實係咪	kei4 sat6 hai6 mai6	100.0%
+其實佢	kei4 sat6 heoi5	11.69%
 其實好多	kei4 sat6 hou2 do1	100.0%
 其實有	kei4 sat6 jau5	100.0%
 其實已經	kei4 sat6 ji5 ging1	100.0%
@@ -78770,6 +79275,7 @@ use_preset_vocabulary: true
 企櫃面	kei5 gwai6 min2	100.0%
 企起	kei5 hei2	100.0%
 企起嚟	kei5 hei2 lai4	100.0%
+企起嚟	kei5 hei2 lei4	107.18%
 徛起身	kei5 hei2 san1	100.0%
 企響度	kei5 hoeng2 dou6	100.0%
 企響嗰邊	kei5 hoeng2 go2 bin1	100.0%
@@ -78793,6 +79299,7 @@ use_preset_vocabulary: true
 企埋邊	kei5 maai4 bin1	100.0%
 企埋一邊	kei5 maai4 jat1 bin1	100.0%
 企埋嚟	kei5 maai4 lai4	100.0%
+企埋嚟	kei5 maai4 lei4	114.87%
 企歪	kei5 me2	100.0%
 企望	kei5 mong6	100.0%
 企硬	kei5 ngaang6	100.0%
@@ -79909,6 +80416,7 @@ use_preset_vocabulary: true
 抗鋸齒	kong3 goe3 ci2	100.0%
 抗軍	kong3 gwan1	100.0%
 抗捐	kong3 gyun1	100.0%
+抗核加固	kong3 hak6 gaa1 gu3	84.09%
 抗衡	kong3 hang4	100.0%
 抗衡作用	kong3 hang4 zok3 jung6	100.0%
 抗核加固	kong3 hat6 gaa1 gu3	100.0%
@@ -81299,7 +81807,9 @@ use_preset_vocabulary: true
 拉蘇	laai1 sou4	100.0%
 拉頭纜	laai1 tau4 laam6	100.0%
 拉頭馬	laai1 tau4 maa5	100.0%
+拉脫維亞	laai1 tyut3 wai4 aa3	100.0%
 拉脱維亞	laai1 tyut3 wai4 aa3	100.0%
+拉脫維亞人	laai1 tyut3 wai4 aa3 jan4	100.0%
 拉勻	laai1 wan4	100.0%
 拉活	laai1 wut6	100.0%
 拉碴	laai1 zaa1	100.0%
@@ -81459,6 +81969,7 @@ use_preset_vocabulary: true
 攬上身	laam2 soeng5 san1	100.0%
 攬頭攬髻	laam2 tau4 laam2 gai3	100.0%
 攬頭攬頸	laam2 tau4 laam2 geng2	100.0%
+欖核	laam2 wak6	84.09%
 欖核	laam2 wat6	100.0%
 攬枕	laam2 zam2	100.0%
 攬住死	laam2 zyu6 sei2	100.0%
@@ -81688,6 +82199,7 @@ use_preset_vocabulary: true
 躝開	laan1 hoi1	100.0%
 躝嚟躝去	laan1 lai4 laan1 heoi3	100.0%
 躝撚開	laan1 lan2 hoi1	81.23%
+躝嚟躝去	laan1 lei4 laan1 heoi3	107.18%
 躝屍	laan1 si1	100.0%
 躝屍趌路	laan1 si1 gat6 lou6	100.0%
 躝屍趷路	laan1 si1 gat6 lou6	100.0%
@@ -82351,6 +82863,7 @@ use_preset_vocabulary: true
 嚟緊	lai4 gan2	100.0%
 嚟緊頭	lai4 gan2 tau2	100.0%
 嚟嘅	lai4 ge3	100.0%
+嚟經	lai4 ging1	100.0%
 嚟講	lai4 gong2	100.0%
 犁骨	lai4 gwat1	100.0%
 嚟過	lai4 gwo3	100.0%
@@ -82365,9 +82878,11 @@ use_preset_vocabulary: true
 嚟喇	lai4 laa3	100.0%
 嚟嚟去去	lai4 lai4 heoi3 heoi3	100.0%
 嚟臨	lai4 lam4	100.0%
+嚟嚟去去	lai4 lei4 heoi3 heoi3	194.48%
 嚟料	lai4 liu2	100.0%
 嚟唔切	lai4 m4 cit3	100.0%
 嚟唔嚟	lai4 m4 lai4	100.0%
+嚟唔嚟	lai4 m4 lei4	149.56%
 黎曼曲面	lai4 maan6 kuk1 min2	100.0%
 黎曼羅赫定理	lai4 maan6 lo4 haak1 ding6 lei5	107.18%
 黎曼羅赫定理	lai4 maan6 lo4 hak1 ding6 lei5	100.0%
@@ -82569,6 +83084,7 @@ use_preset_vocabulary: true
 麗都花園商場	lai6 dou1 faa1 jyun4 soeng1 coeng4	100.0%
 麗都灣泳灘	lai6 dou1 waan1 wing6 taan1	100.0%
 荔發街	lai6 faat3 gaai1	100.0%
+荔峰街	lai6 fung1 gaai1	100.0%
 例假	lai6 gaa3	100.0%
 例句	lai6 geoi3	100.0%
 荔景	lai6 ging2	100.0%
@@ -82656,6 +83172,7 @@ use_preset_vocabulary: true
 荔枝南路	lai6 zi1 naam4 lou6	100.0%
 荔枝山	lai6 zi1 saan1	100.0%
 荔枝西路	lai6 zi1 sai1 lou6	100.0%
+荔枝核	lai6 zi1 wak6	56.23%
 荔枝核	lai6 zi1 wat6	100.0%
 荔枝窩	lai6 zi1 wo1	100.0%
 荔枝碗	lai6 zi1 wun2	100.0%
@@ -82848,11 +83365,14 @@ use_preset_vocabulary: true
 臨幸	lam4 hang6	100.0%
 林熹瞳	lam4 hei1 tung4	100.0%
 臨興街	lam4 hing1 gaai1	100.0%
+林曉峰	lam4 hiu2 fung1	100.0%
+林可悅	lam4 ho2 jyut6	100.0%
 林可霉素	lam4 ho2 mui4 sou3	100.0%
 臨河	lam4 ho4	100.0%
 臨河羨魚	lam4 ho4 sin6 jyu4	100.0%
 林香檸	lam4 hoeng1 ning4	100.0%
 臨海	lam4 hoi2	100.0%
+林海峰	lam4 hoi2 fung1	100.0%
 林凱恩	lam4 hoi2 jan1	100.0%
 臨海縣	lam4 hoi2 jyun6	100.0%
 林凱玲	lam4 hoi2 ling4	100.0%
@@ -82863,6 +83383,8 @@ use_preset_vocabulary: true
 淋紅油	lam4 hung4 jau2	100.0%
 林欣彤	lam4 jan1 tung4	100.0%
 臨邑	lam4 jap1	100.0%
+林一峰	lam4 jat1 fung1	100.0%
+林逸峰	lam4 jat6 fung1	100.0%
 林漪娸	lam4 ji1 hei1	100.0%
 臨沂	lam4 ji4	100.0%
 林二汶	lam4 ji6 man4	100.0%
@@ -83007,6 +83529,7 @@ use_preset_vocabulary: true
 臨戰	lam4 zin3	100.0%
 臨戰狀態	lam4 zin3 zong6 taai3	100.0%
 林正財	lam4 zing3 coi4	100.0%
+林正峰	lam4 zing3 fung1	100.0%
 林哲玄	lam4 zit3 jyun4	100.0%
 林捷	lam4 zit6	100.0%
 臨終	lam4 zung1	100.0%
@@ -83513,6 +84036,7 @@ use_preset_vocabulary: true
 劉桂芳	lau4 gwai3 fong1	100.0%
 留軍壁鄴	lau4 gwan1 bik1 jip6	100.0%
 留過言	lau4 gwo3 jin4	100.0%
+劉國勳	lau4 gwok3 fan1	100.0%
 劉國榮	lau4 gwok3 wing4	100.0%
 劉國中	lau4 gwok3 zung1	100.0%
 劉光第	lau4 gwong1 dai6	100.0%
@@ -83609,6 +84133,7 @@ use_preset_vocabulary: true
 流理台	lau4 lei5 toi4	100.0%
 流利	lau4 lei6	100.0%
 留利	lau4 lei6	100.0%
+劉利群	lau4 lei6 kwan4	100.0%
 流裏流氣	lau4 leoi5 lau4 hei3	100.0%
 流淚	lau4 leoi6	100.0%
 留力	lau4 lik6	100.0%
@@ -83723,7 +84248,9 @@ use_preset_vocabulary: true
 硫酸鐵	lau4 syun1 tit3	100.0%
 樓梯	lau4 tai1	100.0%
 樓梯街	lau4 tai1 gaai1	100.0%
+樓梯臺	lau4 tai1 toi4	100.0%
 流體	lau4 tai2	100.0%
+流體核試驗	lau4 tai2 hak6 si3 jim6	84.09%
 流體核試驗	lau4 tai2 hat6 si3 jim6	100.0%
 留頭髮	lau4 tau4 faat3	100.0%
 劉天龍	lau4 tin1 lung4	100.0%
@@ -84006,7 +84533,7 @@ use_preset_vocabulary: true
 剺	lei4	50.0%
 劙	lei4	50.0%
 厘	lei4	100.0%
-嚟	lei4	39.0%
+嚟	lei4	136.61%
 囄	lei4	100.0%
 嫠	lei4	90.13%
 孋	lei4	73.2%
@@ -84075,9 +84602,13 @@ use_preset_vocabulary: true
 離別	lei4 bit6	100.0%
 梨貝街	lei4 bui3 gaai1	100.0%
 離巢	lei4 caau4	100.0%
+嚟齊未	lei4 cai4 mei6	107.18%
+嚟遲	lei4 ci4	140.97%
 釐清	lei4 cing1	100.0%
 離情別緒	lei4 cing4 bit6 seoi5	100.0%
 離場	lei4 coeng4	100.0%
+嚟得切	lei4 dak1 cit3	159.86%
+嚟得啱	lei4 dak1 ngaam1	117.46%
 厘戥	lei4 dang2	100.0%
 釐戥	lei4 dang2	100.0%
 離地	lei4 dei6	100.0%
@@ -84092,15 +84623,21 @@ use_preset_vocabulary: true
 嫠婦	lei4 fu5	100.0%
 離家別井	lei4 gaa1 bit6 zeng2	100.0%
 離家出走	lei4 gaa1 ceot1 zau2	100.0%
+嚟㗎	lei4 gaa3	248.82%
 離間	lei4 gaan3	100.0%
 籬更竹	lei4 gaang1 zuk1	100.0%
 離教	lei4 gaau3	100.0%
 離教者	lei4 gaau3 ze2	100.0%
 厘金	lei4 gam1	100.0%
-嚟經	lei4 ging1	100.0%
+嚟緊	lei4 gan2	266.61%
+嚟緊頭	lei4 gan2 tau2	123.11%
+嚟嘅	lei4 ge3	220.43%
+嚟經	lei4 ging1	138.52%
 離境	lei4 ging2	100.0%
 驪歌	lei4 go1	100.0%
+嚟講	lei4 gong2	285.88%
 梨果	lei4 gwo2	100.0%
+嚟過	lei4 gwo3	189.53%
 離合	lei4 hap6	100.0%
 離合板	lei4 hap6 baan2	100.0%
 離合詞	lei4 hap6 ci4	100.0%
@@ -84123,8 +84660,18 @@ use_preset_vocabulary: true
 離遠遠	lei4 jyun5 jyun5	100.0%
 離奇	lei4 kei4	100.0%
 離奇有趣	lei4 kei4 jau5 ceoi3	100.0%
+嚟葵	lei4 kwai4	117.46%
+嚟啦	lei4 laa1	211.71%
+嚟喇	lei4 laa3	210.23%
+嚟嚟去去	lei4 lai4 heoi3 heoi3	194.48%
+嚟臨	lei4 lam4	117.46%
 蒞臨	lei4 lam4	100.0%
 離離光光	lei4 lei4 gwong1 gwong1	100.0%
+嚟嚟去去	lei4 lei4 heoi3 heoi3	404.24%
+嚟料	lei4 liu2	208.88%
+嚟唔切	lei4 m4 cit3	165.8%
+嚟唔嚟	lei4 m4 lai4	149.56%
+嚟唔嚟	lei4 m4 lei4	232.87%
 離唔離婚	lei4 m4 lei4 fan1	100.0%
 狸貓	lei4 maau1	100.0%
 狸貓換太子	lei4 maau1 wun6 taai3 zi2	100.0%
@@ -84150,6 +84697,7 @@ use_preset_vocabulary: true
 離心離德	lei4 sam1 lei4 dak1	100.0%
 離心力	lei4 sam1 lik6	100.0%
 離深圳	lei4 sam1 zan3	100.0%
+嚟神	lei4 san2	119.62%
 離神	lei4 san4	100.0%
 離愁別緒	lei4 sau4 bit6 seoi5	100.0%
 離石	lei4 sek6	100.0%
@@ -84157,6 +84705,7 @@ use_preset_vocabulary: true
 厘升	lei4 sing1	100.0%
 梨樹	lei4 syu6	100.0%
 梨樹路	lei4 syu6 lou6	100.0%
+嚟睇	lei4 tai2	214.71%
 離題	lei4 tai4	100.0%
 離天百丈遠	lei4 tin1 baak3 zoeng6 jyun5	100.0%
 離天隔丈遠	lei4 tin1 gaak3 zoeng6 jyun5	100.0%
@@ -84167,12 +84716,15 @@ use_preset_vocabulary: true
 驪黃牝牡	lei4 wong4 pan5 maau5	100.0%
 籬垣	lei4 wun4	100.0%
 離罩	lei4 zaau3	100.0%
+嚟就	lei4 zau6	212.12%
 狸子	lei4 zi2	100.0%
 離子	lei4 zi2	100.0%
 離子交換	lei4 zi2 gaau1 wun6	100.0%
 離子鍵	lei4 zi2 gin6	100.0%
+嚟自	lei4 zi6	234.24%
 離職	lei4 zik1	100.0%
 離席	lei4 zik6	100.0%
+嚟咗	lei4 zo2	184.98%
 離咗婚	lei4 zo2 fan1	100.0%
 㸚	lei5	100.0%
 㾖	lei5	100.0%
@@ -84269,6 +84821,7 @@ use_preset_vocabulary: true
 李金小學	lei5 gam1 siu2 hok6	100.0%
 李基舜	lei5 gei1 seon3	100.0%
 理據	lei5 geoi3	100.0%
+李鉅峰	lei5 geoi6 fung1	100.0%
 李健宏	lei5 gin6 wang4	100.0%
 鯉景道	lei5 ging2 dou6	100.0%
 李岡	lei5 gong1	100.0%
@@ -84297,6 +84850,7 @@ use_preset_vocabulary: true
 里希特霍芬	lei5 hei1 dak6 fok3 fan1	100.0%
 理氣	lei5 hei3	100.0%
 理氣化痰	lei5 hei3 faa3 taam4	100.0%
+理佢	lei5 heoi5	13.03%
 履險如夷	lei5 him2 jyu4 ji4	100.0%
 李顯曜	lei5 hin2 jiu6	100.0%
 李顯龍	lei5 hin2 lung4	100.0%
@@ -84348,6 +84902,7 @@ use_preset_vocabulary: true
 理喻	lei5 jyu6	100.0%
 李源潮	lei5 jyun4 ciu4	100.0%
 李元簇	lei5 jyun4 cuk1	100.0%
+李啓傑	lei5 kai2 git6	100.0%
 李啟明	lei5 kai2 ming4	100.0%
 李求恩	lei5 kau4 jan1	100.0%
 李求恩紀念中學	lei5 kau4 jan1 gei2 nim6 zung1 hok6	100.0%
@@ -84421,6 +84976,7 @@ use_preset_vocabulary: true
 里氏震級	lei5 si6 zan3 kap1	100.0%
 履舄交錯	lei5 sik1 gaau1 co3	100.0%
 李先念	lei5 sin1 nim6	100.0%
+李善恒	lei5 sin6 hang4	100.0%
 李倩菱	lei5 sin6 ling4	100.0%
 李陞大坑學校	lei5 sing1 daai6 haang1 hok6 haau6	100.0%
 李陞街	lei5 sing1 gaai1	100.0%
@@ -84593,6 +85149,7 @@ use_preset_vocabulary: true
 利源東街	lei6 jyun4 dung1 gaai1	100.0%
 利園山道	lei6 jyun4 saan1 dou6	100.0%
 利源西街	lei6 jyun4 sai1 gaai1	100.0%
+利群道	lei6 kwan4 dou6	100.0%
 利勒哈默爾	lei6 laak6 haa1 mak6 ji5	107.18%
 利勒哈默爾	lei6 lak6 haa1 mak6 ji5	100.0%
 莉莉四十	lei6 lei6 sei3 sap6	100.0%
@@ -84615,6 +85172,7 @@ use_preset_vocabulary: true
 利物	lei6 mat6	100.0%
 利物浦	lei6 mat6 pou2	100.0%
 利眠寧	lei6 min4 ning4	100.0%
+利舞臺廣場	lei6 mou5 toi4 gwong2 coeng4	100.0%
 利牧徑	lei6 muk6 ging3	100.0%
 利南道	lei6 naam4 dou6	100.0%
 利雅得	lei6 ngaa5 dak1	100.0%
@@ -85177,6 +85735,7 @@ use_preset_vocabulary: true
 類精神分裂型人格違常	leoi6 zing1 san4 fan1 lit6 jing4 jan4 gaak3 wai4 soeng4	100.0%
 㖥	leon1	100.0%
 噒	leon1	100.0%
+噒欖核	leon1 laam5 wak6	84.09%
 噒欖核	leon1 laam5 wat6	100.0%
 噒諄	leon1 zeon1	100.0%
 侖	leon2	10.0%
@@ -85361,6 +85920,7 @@ use_preset_vocabulary: true
 輪種	leon4 zung3	100.0%
 輪住	leon4 zyu6	100.0%
 輪住嚟	leon4 zyu6 lai4	100.0%
+輪住嚟	leon4 zyu6 lei4	155.56%
 輪住值班	leon4 zyu6 zik6 baan1	100.0%
 輪轉機	leon4 zyun3 gei1	100.0%
 亃	leon5	100.0%
@@ -86109,6 +86669,7 @@ use_preset_vocabulary: true
 拎到	ling1 dou2	100.0%
 拎返	ling1 faan1	100.0%
 拎返過嚟	ling1 faan1 gwo3 lai4	100.0%
+拎返過嚟	ling1 faan1 gwo3 lei4	107.18%
 拎返去	ling1 faan1 heoi3	100.0%
 拎緊	ling1 gan2	100.0%
 軨蓋	ling1 goi3	100.0%
@@ -86521,6 +87082,7 @@ use_preset_vocabulary: true
 另行規定	ling6 hang4 kwai1 ding6	100.0%
 另行安排	ling6 hang4 on1 paai4	100.0%
 另起爐灶	ling6 hei2 lou4 zou3	100.0%
+令佢	ling6 heoi5	13.42%
 令兄	ling6 hing1	100.0%
 另開一張	ling6 hoi1 jat1 zoeng1	100.0%
 令人	ling6 jan4	100.0%
@@ -86691,6 +87253,7 @@ use_preset_vocabulary: true
 列缺霹靂	lit6 kyut3 pik1 lik1	100.0%
 裂罅	lit6 laa3	100.0%
 列明	lit6 ming4	100.0%
+列拿士地臺	lit6 naa4 si6 dei6 toi4	100.0%
 烈怒	lit6 nou6	100.0%
 列斯	lit6 si1	100.0%
 烈士	lit6 si6	100.0%
@@ -86732,6 +87295,7 @@ use_preset_vocabulary: true
 撂地	liu1 dei6	100.0%
 撂地攤	liu1 dei6 taan1	100.0%
 了番出嚟	liu1 faan1 ceot1 lai4	100.0%
+了番出嚟	liu1 faan1 ceot1 lei4	107.18%
 了哥	liu1 go1	100.0%
 溜開	liu1 hoi1	100.0%
 撩陰腿	liu1 jam1 teoi2	100.0%
@@ -86826,6 +87390,7 @@ use_preset_vocabulary: true
 寮國	liu4 gwok3	100.0%
 聊下	liu4 haa5	100.0%
 療效	liu4 haau6	100.0%
+撩佢	liu4 heoi5	41.72%
 撩開	liu4 hoi1	100.0%
 撩惹	liu4 je5	100.0%
 聊以解悶	liu4 ji5 gaai2 mun6	100.0%
@@ -86968,6 +87533,7 @@ use_preset_vocabulary: true
 囉氣	lo1 hei3	100.0%
 籮柚	lo1 jau2	100.0%
 攞嚟混	lo1 lai4 wan6	100.0%
+攞嚟混	lo1 lei4 wan6	107.18%
 囉哩囉唆	lo1 li1 lo1 so1	100.0%
 囉哩囉嗦	lo1 li1 lo1 so1	100.0%
 囉囉攣	lo1 lo1 lyun1	100.0%
@@ -87008,10 +87574,12 @@ use_preset_vocabulary: true
 攞掂	lo2 dim6	100.0%
 攞碟	lo2 dip6	100.0%
 攞快勞嚟	lo2 faai1 lou2 lai4	100.0%
+攞快勞嚟	lo2 faai1 lou2 lei4	107.18%
 攞返去	lo2 faan1 heoi3	100.0%
 攞返晒	lo2 faan1 saai3	100.0%
 裸婚	lo2 fan1	100.0%
 攞苦嚟辛	lo2 fu2 lai4 san1	100.0%
+攞苦嚟辛	lo2 fu2 lei4 san1	153.37%
 攞架生	lo2 gaa2 caang1	100.0%
 攞假	lo2 gaa3	100.0%
 攞交嗌	lo2 gaau1 aai3	100.0%
@@ -87021,6 +87589,7 @@ use_preset_vocabulary: true
 攞景定贈興	lo2 ging2 ding6 zang6 hing3	100.0%
 攞個	lo2 go3	100.0%
 攞個鏡嚟	lo2 go3 geng3 lai4	100.0%
+攞個鏡嚟	lo2 go3 geng3 lei4	107.18%
 攞下	lo2 haa5	100.0%
 攞口響	lo2 hau2 hoeng2	100.0%
 攞去填海	lo2 heoi3 tin4 hoi2	100.0%
@@ -87039,11 +87608,20 @@ use_preset_vocabulary: true
 攞嚟睇睇	lo2 lai4 tai2 tai2	100.0%
 攞嚟賤	lo2 lai4 zin6	100.0%
 攞嚟做	lo2 lai4 zou6	100.0%
-攞嚟衰	lo2 lei4 seoi1	0.0%
+攞嚟	lo2 lei4	229.17%
+攞嚟搞	lo2 lei4 gaau2	131.1%
+攞嚟講	lo2 lei4 gong2	174.18%
+攞嚟衰	lo2 lei4 seoi1	176.54%
+攞嚟笑	lo2 lei4 siu3	121.48%
+攞嚟睇下	lo2 lei4 tai2 haa5	107.18%
+攞嚟睇睇	lo2 lei4 tai2 tai2	107.18%
+攞嚟賤	lo2 lei4 zin6	158.01%
+攞嚟做	lo2 lei4 zou6	182.15%
 瘰癧	lo2 lek6	100.0%
 攞料	lo2 liu2	100.0%
 攞攞手	lo2 lo2 sau2	100.0%
 攞落嚟	lo2 lok6 lai4	100.0%
+攞落嚟	lo2 lok6 lei4	117.46%
 裸露	lo2 lou6	100.0%
 裸露狂	lo2 lou6 kwong4	100.0%
 攞唔攞	lo2 m4 lo2	100.0%
@@ -87408,6 +87986,7 @@ use_preset_vocabulary: true
 量測	loeng4 cak1	100.0%
 量尺寸	loeng4 cek3 cyun3	100.0%
 量程	loeng4 cing4	100.0%
+梁釗峰	loeng4 ciu1 fung1	100.0%
 梁朝偉	loeng4 ciu4 wai5	100.0%
 梁卓文	loeng4 coek3 man4	100.0%
 梁卓偉	loeng4 coek3 wai5	100.0%
@@ -87421,6 +88000,7 @@ use_preset_vocabulary: true
 良玳瑩	loeng4 doi6 jing4	100.0%
 量度	loeng4 dok6	100.0%
 涼快	loeng4 faai3	100.0%
+梁輝臺	loeng4 fai1 toi4	100.0%
 涼粉	loeng4 fan2	100.0%
 涼粉草	loeng4 fan2 cou2	100.0%
 良方	loeng4 fong1	100.0%
@@ -87460,6 +88040,7 @@ use_preset_vocabulary: true
 良工心苦	loeng4 gung1 sam1 fu2	100.0%
 涼瓜	loeng4 gwaa1	100.0%
 梁季彝	loeng4 gwai3 ji4	100.0%
+梁季彜中學	loeng4 gwai3 ji4 zung1 hok6	100.0%
 梁君彥	loeng4 gwan1 jin6	100.0%
 涼果	loeng4 gwo2	100.0%
 梁國雄	loeng4 gwok3 hung4	100.0%
@@ -87586,6 +88167,7 @@ use_preset_vocabulary: true
 涼席	loeng4 zik6	100.0%
 梁植偉	loeng4 zik6 wai5	100.0%
 梁菁琳	loeng4 zing1 lam4	100.0%
+梁証嘉	loeng4 zing3 gaa1	100.0%
 良種	loeng4 zung2	100.0%
 良種繁育	loeng4 zung2 faan4 juk6	100.0%
 梁仲恆	loeng4 zung6 hang4	100.0%
@@ -88489,6 +89071,7 @@ use_preset_vocabulary: true
 落花生	lok6 faa1 sang1	100.0%
 落返去	lok6 faan1 heoi3	100.0%
 落返嚟	lok6 faan1 lai4	100.0%
+落返嚟	lok6 faan1 lei4	134.93%
 落肥	lok6 fei4	100.0%
 落貨	lok6 fo3	100.0%
 落荒而逃	lok6 fong1 ji4 tou4	100.0%
@@ -88506,6 +89089,7 @@ use_preset_vocabulary: true
 落機	lok6 gei1	100.0%
 樂極生悲	lok6 gik6 sang1 bei1	100.0%
 樂景街	lok6 ging2 gaai1	100.0%
+樂景臺	lok6 ging2 toi4	100.0%
 落腳	lok6 goek3	100.0%
 落腳處	lok6 goek3 cyu3	100.0%
 落腳處	lok6 goek3 cyu5	131.1%
@@ -88571,11 +89155,14 @@ use_preset_vocabulary: true
 落旗	lok6 kei4	100.0%
 落區	lok6 keoi1	100.0%
 樂葵徑	lok6 kwai4 ging3	100.0%
+樂群街	lok6 kwan4 gaai1	100.0%
 落嚟	lok6 lai4	100.0%
 落嚟先咯	lok6 lai4 sin1 lok3	100.0%
 樂禮街	lok6 lai5 gaai1	100.0%
 樂林路	lok6 lam4 lou6	100.0%
 落樓	lok6 lau2	100.0%
+落嚟	lok6 lei4	263.76%
+落嚟先咯	lok6 lei4 sin1 lok3	107.18%
 落淚	lok6 leoi6	100.0%
 落力	lok6 lik6	100.0%
 落簾	lok6 lim4	100.0%
@@ -89081,6 +89668,7 @@ use_preset_vocabulary: true
 勞苦大眾	lou4 fu2 daai6 zung3	100.0%
 勞苦功高	lou4 fu2 gung1 gou1	100.0%
 勞福局	lou4 fuk1 guk2	100.0%
+爐峰峽	lou4 fung1 haap6	100.0%
 爐架	lou4 gaa2	100.0%
 勞駕	lou4 gaa3	100.0%
 盧吉道	lou4 gat1 dou6	100.0%
@@ -89449,6 +90037,7 @@ use_preset_vocabulary: true
 老老套套	lou5 lou5 tou2 tou2	100.0%
 老龍坑街	lou5 lung4 haang1 gaai1	100.0%
 老龍田	lou5 lung4 tin4	100.0%
+老媽拌麵	lou5 maa1 bun6 min6	100.0%
 老媽子	lou5 maa1 zi2	100.0%
 老馬戀棧	lou5 maa5 lyun2 zaan6	100.0%
 老馬失蹄	lou5 maa5 sat1 tai4	100.0%
@@ -89804,6 +90393,7 @@ use_preset_vocabulary: true
 碌卡	luk1 kaat1	100.0%
 轆咭	luk1 kat1	100.0%
 碌嚟碌去	luk1 lai4 luk1 heoi3	100.0%
+碌嚟碌去	luk1 lei4 luk1 heoi3	111.61%
 碌碌半生	luk1 luk1 bun3 sang1	100.0%
 轆轆轉	luk1 luk1 zyun3	100.0%
 碌死老鼠	luk1 sei2 lou5 syu2	100.0%
@@ -90270,6 +90860,7 @@ use_preset_vocabulary: true
 六両	luk6 loeng2	100.0%
 六輛	luk6 loeng6	100.0%
 錄落嚟	luk6 lok6 lai4	100.0%
+錄落嚟	luk6 lok6 lei4	107.18%
 綠鷺	luk6 lou6	100.0%
 陸路	luk6 lou6	100.0%
 陸陸續續	luk6 luk6 zuk6 zuk6	100.0%
@@ -90579,6 +91170,7 @@ use_preset_vocabulary: true
 龍如路	lung4 jyu4 lou6	100.0%
 隆乳	lung4 jyu5	100.0%
 隆乳手術	lung4 jyu5 sau2 seot6	100.0%
+龍悅道	lung4 jyut6 dou6	100.0%
 龍駒道	lung4 keoi1 dou6	100.0%
 龍駒鳳雛	lung4 keoi1 fung6 co1	100.0%
 籠裏雞	lung4 lei5 gai1	100.0%
@@ -90789,6 +91381,7 @@ use_preset_vocabulary: true
 戀情	lyun2 cing4	100.0%
 戀家	lyun2 gaa1	100.0%
 亂咁嚟	lyun2 gam3 lai4	100.0%
+亂咁嚟	lyun2 gam3 lei4	164.15%
 戀舊情結	lyun2 gau6 cing4 git3	100.0%
 戀腳癖	lyun2 goek3 pik1	100.0%
 戀腳癖者	lyun2 goek3 pik1 ze2	100.0%
@@ -90873,6 +91466,8 @@ use_preset_vocabulary: true
 聯繫羣眾	lyun4 hai6 kwan4 zung3	100.0%
 聯繫匯率	lyun4 hai6 wui6 leot2	100.0%
 聯合	lyun4 hap6	100.0%
+聯合秘書處	lyun4 hap6 bei3 syu1 cyu3	100.0%
+聯合秘書處	lyun4 hap6 bei3 syu1 cyu5	100.0%
 聯合道	lyun4 hap6 dou6	100.0%
 聯合古大陸	lyun4 hap6 gu2 daai6 luk6	100.0%
 聯合國	lyun4 hap6 gwok3	100.0%
@@ -90976,6 +91571,7 @@ use_preset_vocabulary: true
 亂立立	lyun6 lap6 laap6	107.18%
 亂立立	lyun6 lap6 lap6	100.0%
 亂流	lyun6 lau4	100.0%
+亂嚟	lyun6 lei4	211.61%
 亂離	lyun6 lei4	100.0%
 亂倫	lyun6 leon4	100.0%
 亂攞	lyun6 lo2	100.0%
@@ -91089,7 +91685,7 @@ use_preset_vocabulary: true
 唔得閒	m4 dak1 haan4	100.0%
 唔等	m4 dang2	100.0%
 唔等於	m4 dang2 jyu1	100.0%
-唔等如	m4 dang2 jyu4	8.5%
+唔等如	m4 dang2 jyu4	100.0%
 唔等使	m4 dang2 sai2	100.0%
 唔對	m4 deoi3	100.0%
 唔掂	m4 dim6	100.0%
@@ -91099,6 +91695,7 @@ use_preset_vocabulary: true
 唔代表	m4 doi6 biu2	100.0%
 唔到	m4 dou2	100.0%
 唔到噉	m4 dou2 gam2	100.0%
+唔到佢	m4 dou3 heoi5	13.26%
 唔到佢	m4 dou3 keoi5	100.0%
 唔到你	m4 dou3 nei5	100.0%
 唔到我	m4 dou3 ngo5	100.0%
@@ -91162,6 +91759,7 @@ use_preset_vocabulary: true
 唔係幾	m4 hai6 gei2	100.0%
 唔係個個	m4 hai6 go3 go3	100.0%
 唔係講	m4 hai6 gong2	100.0%
+唔係佢	m4 hai6 heoi5	13.41%
 唔係好	m4 hai6 hou2	100.0%
 唔係好明	m4 hai6 hou2 ming4	100.0%
 唔係因為	m4 hai6 jan1 wai6	100.0%
@@ -91245,6 +91843,7 @@ use_preset_vocabulary: true
 唔撚係	m4 lan2 hai6	9.32%
 唔撚識	m4 lan2 sik1	9.89%
 唔理	m4 lei5	100.0%
+唔理佢	m4 lei5 heoi5	16.9%
 唔理佢	m4 lei5 keoi5	100.0%
 唔理嚕	m4 lei5 lu3	100.0%
 唔靚	m4 leng3	100.0%
@@ -91350,6 +91949,7 @@ use_preset_vocabulary: true
 唔知幾時	m4 zi1 gei2 si4	100.0%
 唔知係唔係	m4 zi1 hai6 m4 hai6	100.0%
 唔知係咪	m4 zi1 hai6 mai6	100.0%
+唔知佢	m4 zi1 heoi5	12.28%
 唔知有	m4 zi1 jau5	100.0%
 唔知有冇	m4 zi1 jau5 mou5	100.0%
 唔知佢	m4 zi1 keoi5	100.0%
@@ -91407,6 +92007,7 @@ use_preset_vocabulary: true
 孖份	maa1 fan2	100.0%
 嗎啡	maa1 fe1	100.0%
 馬虎	maa1 fu1	100.0%
+孖峰嶺路	maa1 fung1 leng5 lou6	100.0%
 孖吉	maa1 gat1	100.0%
 媽角咀	maa1 gok3 zeoi2	100.0%
 孖崗山	maa1 gong1 saan1	100.0%
@@ -91847,6 +92448,7 @@ use_preset_vocabulary: true
 馬鞍崗	maa5 on1 gong1	100.0%
 馬鞍形	maa5 on1 jing4	100.0%
 馬鞍山	maa5 on1 saan1	100.0%
+馬鞍山循道衛理小學	maa5 on1 saan1 ceon4 dou6 wai6 lei5 siu2 hok6	100.0%
 馬鞍山村	maa5 on1 saan1 cyun1	100.0%
 馬鞍山村路	maa5 on1 saan1 cyun1 lou6	100.0%
 馬鞍山公園	maa5 on1 saan1 gung1 jyun4	100.0%
@@ -91890,6 +92492,8 @@ use_preset_vocabulary: true
 碼線	maa5 sin3	100.0%
 馬成徑	maa5 sing4 ging3	100.0%
 馬紹祥	maa5 siu6 coeng4	100.0%
+馬紹爾群島	maa5 siu6 ji5 kwan4 dou2	100.0%
+馬紹爾群島人	maa5 siu6 ji5 kwan4 dou2 jan4	100.0%
 馬上	maa5 soeng6	100.0%
 馬上比武	maa5 soeng6 bei2 mou5	100.0%
 馬上風	maa5 soeng6 fung1	100.0%
@@ -91913,6 +92517,7 @@ use_preset_vocabulary: true
 馬頭涌官立小學	maa5 tau4 cung1 gun1 lap6 siu2 hok6	100.0%
 碼頭道	maa5 tau4 dou6	100.0%
 碼頭費	maa5 tau4 fai3	100.0%
+馬頭峰	maa5 tau4 fung1	100.0%
 馬頭角	maa5 tau4 gok3	100.0%
 馬頭角道	maa5 tau4 gok3 dou6	100.0%
 馬頭魚	maa5 tau4 jyu4	100.0%
@@ -92026,6 +92631,7 @@ use_preset_vocabulary: true
 埋纜	maai4 laam6	100.0%
 埋欄	maai4 laan1	100.0%
 埋嚟	maai4 lai4	100.0%
+埋嚟	maai4 lei4	237.65%
 埋囄	maai4 lei4	100.0%
 埋籠	maai4 lung4	100.0%
 埋碼	maai4 maa5	100.0%
@@ -92086,6 +92692,7 @@ use_preset_vocabulary: true
 買花墩	maai5 faa1 dan2	100.0%
 買返	maai5 faan1	100.0%
 買返嚟	maai5 faan1 lai4	100.0%
+買返嚟	maai5 faan1 lei4	146.65%
 買番攤	maai5 faan1 taan1	100.0%
 買飛	maai5 fei1	100.0%
 買家	maai5 gaa1	100.0%
@@ -92097,6 +92704,7 @@ use_preset_vocabulary: true
 買過支	maai5 gwo3 zi1	100.0%
 買下	maai5 haa6	100.0%
 買起	maai5 hei2	100.0%
+買佢	maai5 heoi5	14.99%
 買兇	maai5 hung1	100.0%
 買空賣空	maai5 hung1 maai6 hung1	100.0%
 買入	maai5 jap6	100.0%
@@ -92516,6 +93124,7 @@ use_preset_vocabulary: true
 萬蚊	maan6 man1	100.0%
 萬物	maan6 mat6	100.0%
 萬茂里	maan6 mau6 lei5	100.0%
+萬茂臺	maan6 mau6 toi4	100.0%
 慢磨	maan6 mo4	100.0%
 漫無邊際	maan6 mou4 bin1 zai3	100.0%
 萬無一失	maan6 mou4 jat1 sat1	100.0%
@@ -93053,6 +93662,7 @@ use_preset_vocabulary: true
 米蘭徑	mai5 laan4 ging3	100.0%
 咪嚟混吉	mai5 lai4 wan6 gat1	100.0%
 米林	mai5 lam4	100.0%
+咪嚟混吉	mai5 lei4 wan6 gat1	107.18%
 咪撩吖喂	mai5 liu4 aa1 wai3	100.0%
 米萊	mai5 loi4	100.0%
 米萊諾大道	mai5 loi4 nok6 daai6 dou6	100.0%
@@ -93118,8 +93728,8 @@ use_preset_vocabulary: true
 咪真係	mai6 zan1 hai6	100.0%
 咪就	mai6 zau6	100.0%
 咪就係	mai6 zau6 hai6	100.0%
-咪啫係	mai6 ze1 hai6	9.23%
-咪姐係	mai6 ze1 hai6	4.53%
+咪啫係	mai6 ze1 hai6	100.0%
+咪姐係	mai6 ze1 hai6	100.0%
 咪即係	mai6 zik1 hai6	100.0%
 咪做	mai6 zou6	100.0%
 咪仲	mai6 zung6	100.0%
@@ -93958,6 +94568,7 @@ use_preset_vocabulary: true
 問候語	man6 hau6 jyu5	100.0%
 問候卡	man6 hau6 kaa1	100.0%
 問起	man6 hei2	100.0%
+問佢	man6 heoi5	11.87%
 問好	man6 hou2	100.0%
 問號	man6 hou6	100.0%
 問人	man6 jan4	100.0%
@@ -94007,6 +94618,7 @@ use_preset_vocabulary: true
 掹除	mang1 ceoi4	100.0%
 擝出	mang1 ceot1	100.0%
 掹出嚟	mang1 ceot1 lai4	100.0%
+掹出嚟	mang1 ceot1 lei4	114.87%
 擝槍	mang1 coeng1	100.0%
 擝草	mang1 cou2	100.0%
 掹得住	mang1 dak1 zyu6	100.0%
@@ -94542,6 +95154,7 @@ use_preset_vocabulary: true
 貿發局	mau6 faat3 guk2	66.0%
 貿發局	mau6 faat3 guk6	34.0%
 貿發網	mau6 faat3 mong5	100.0%
+茂峰	mau6 fung1	100.0%
 謬見	mau6 gin3	100.0%
 貿易	mau6 jik6	100.0%
 貿易保護主義	mau6 jik6 bou2 wu6 zyu2 ji6	100.0%
@@ -94592,6 +95205,7 @@ use_preset_vocabulary: true
 咩係	me1 hai6	100.0%
 孭起	me1 hei2	100.0%
 咩戲	me1 hei3	100.0%
+孭佢	me1 heoi5	84.09%
 咩好	me1 hou2	100.0%
 咩也	me1 jaa5	100.0%
 咩人	me1 jan4	100.0%
@@ -94635,7 +95249,8 @@ use_preset_vocabulary: true
 孭住藥煲	me1 zyu6 joek6 bou1	100.0%
 歪	me2	38.0%
 竵	me2	50.0%
-歪嚟歪斜	me2 lei4 me2 ce3	100.0%
+歪嚟歪斜	me2 lai4 me2 ce3	100.0%
+歪嚟歪斜	me2 lei4 me2 ce3	111.61%
 歪哩歪斜	me2 li1 me2 ce3	100.0%
 歪零歪秤	me2 ling4 me2 cing3	100.0%
 歪歪斜斜	me2 me2 ce3 ce3	100.0%
@@ -95187,6 +95802,7 @@ use_preset_vocabulary: true
 媚詞	mei6 ci4	100.0%
 未簽字者	mei6 cim1 zi6 ze2	100.0%
 味千拉麪	mei6 cin1 laai1 min6	100.0%
+味千拉麵	mei6 cin1 laai1 min6	100.0%
 未詳細睇	mei6 coeng4 sai3 tai2	100.0%
 未沖	mei6 cung1	100.0%
 未達一間	mei6 daat6 jat1 gaan1	100.0%
@@ -95524,6 +96140,7 @@ use_preset_vocabulary: true
 緬甸	min5 din6	100.0%
 緬甸人	min5 din6 jan4	100.0%
 緬甸語	min5 din6 jyu5	100.0%
+緬甸臺	min5 din6 toi4	100.0%
 免掉	min5 diu6	100.0%
 免費	min5 fai3	100.0%
 免費搭車	min5 fai3 daap3 ce1	100.0%
@@ -95622,6 +96239,9 @@ use_preset_vocabulary: true
 麪粉	min6 fan2	100.0%
 麪粉公仔	min6 fan2 gung1 zai2	100.0%
 面肥	min6 fei4	100.0%
+麵房街	min6 fong4 gaai1	100.0%
+麵房里	min6 fong4 lei5	100.0%
+麺家金鰭	min6 gaa1 gam1 kei4	100.0%
 面頰	min6 gaap3	100.0%
 面交	min6 gaau1	100.0%
 面巾	min6 gan1	100.0%
@@ -95721,6 +96341,7 @@ use_preset_vocabulary: true
 麪條	min6 tiu4	100.0%
 麪湯	min6 tong1	100.0%
 麪團	min6 tyun4	100.0%
+麺屋武蔵	min6 uk1 mou5 zong6	100.0%
 面黃肌瘦	min6 wong4 gei1 sau3	100.0%
 面黃肌閎	min6 wong4 gei1 wang4	100.0%
 面黃黃	min6 wong4 wong4	100.0%
@@ -95870,6 +96491,7 @@ use_preset_vocabulary: true
 明熹宗	ming4 hei1 zung1	100.0%
 名氣	ming4 hei3	100.0%
 明棄暗取	ming4 hei3 am3 ceoi2	100.0%
+明佢	ming4 heoi5	13.84%
 明顯	ming4 hin2	100.0%
 明顯係	ming4 hin2 hai6	100.0%
 名蠔	ming4 hou4	100.0%
@@ -96354,6 +96976,7 @@ use_preset_vocabulary: true
 麼地廣場	mo1 dei6 gwong2 coeng4	100.0%
 麼地里	mo1 dei6 lei5	100.0%
 摩頂	mo1 deng2	100.0%
+摩頓臺	mo1 deon6 toi4	100.0%
 摩頓台天橋	mo1 deon6 toi4 tin1 kiu4	100.0%
 摩度	mo1 dou6	100.0%
 魔法	mo1 faat3	100.0%
@@ -96963,6 +97586,7 @@ use_preset_vocabulary: true
 望廈街	mong6 haa6 gaai1	100.0%
 望廈炮台斜坡	mong6 haa6 paau3 toi4 ce4 bo1	100.0%
 望后石	mong6 hau6 sek6	100.0%
+望佢	mong6 heoi5	12.65%
 望而興歎	mong6 ji4 hing1 taan3	100.0%
 望而卻步	mong6 ji4 koek3 bou6	100.0%
 望而生畏	mong6 ji4 sang1 wai3	100.0%
@@ -97235,6 +97859,7 @@ use_preset_vocabulary: true
 無限小	mou4 haan6 siu2	100.0%
 無限小數	mou4 haan6 siu2 sou3	100.0%
 無效	mou4 haau6	100.0%
+無核區	mou4 hak6 keoi1	63.89%
 誣陷	mou4 ham6	100.0%
 巫覡	mou4 hat6	100.0%
 無核區	mou4 hat6 keoi1	100.0%
@@ -97485,6 +98110,7 @@ use_preset_vocabulary: true
 模式	mou4 sik1	100.0%
 模式標本	mou4 sik1 biu1 bun2	100.0%
 模式種	mou4 sik1 zung2	100.0%
+無綫	mou4 sin3	100.0%
 無線	mou4 sin3	100.0%
 無線電	mou4 sin3 din6	100.0%
 無線電波	mou4 sin3 din6 bo1	100.0%
@@ -97492,6 +98118,9 @@ use_preset_vocabulary: true
 無線電傳呼機	mou4 sin3 din6 cyun4 fu1 gei1	100.0%
 無線電廣播	mou4 sin3 din6 gwong2 bo3	100.0%
 無線電收發機	mou4 sin3 din6 sau1 faat3 gei1	100.0%
+無綫電視	mou4 sin3 din6 si6	100.0%
+無綫電視翡翠台	mou4 sin3 din6 si6 fei2 ceoi3 toi4	100.0%
+無綫電視台	mou4 sin3 din6 si6 toi4	100.0%
 無線電台	mou4 sin3 din6 toi4	100.0%
 無線電通信	mou4 sin3 din6 tung1 seon3	100.0%
 無線電話	mou4 sin3 din6 waa2	100.0%
@@ -98016,6 +98645,7 @@ use_preset_vocabulary: true
 冒名頂替	mou6 ming4 ding2 tai3	100.0%
 冒名頂替者	mou6 ming4 ding2 tai3 ze2	100.0%
 慕名而嚟	mou6 ming4 ji4 lai4	100.0%
+慕名而嚟	mou6 ming4 ji4 lei4	119.62%
 慕名而來	mou6 ming4 ji4 loi4	100.0%
 霧茫茫	mou6 mong4 mong4	100.0%
 冒冒失失	mou6 mou6 sat1 sat1	100.0%
@@ -98175,6 +98805,7 @@ use_preset_vocabulary: true
 媒人公	mui4 jan4 gung1	100.0%
 媒人婆	mui4 jan4 po4	100.0%
 煤油	mui4 jau4	100.0%
+梅艷芳	mui4 jim6 fong1	100.0%
 脢肉	mui4 juk6	100.0%
 霉雨	mui4 jyu5	100.0%
 梅雨天	mui4 jyu5 tin1	100.0%
@@ -98212,6 +98843,7 @@ use_preset_vocabulary: true
 媒體接口連接器	mui4 tai2 zip3 hau2 lin4 zip3 hei3	100.0%
 脢頭	mui4 tau2	100.0%
 煤田	mui4 tin4	100.0%
+梅核氣	mui4 wak6 hei3	70.71%
 梅核氣	mui4 wat6 hei3	100.0%
 梅窩	mui4 wo1	100.0%
 梅窩涌口街	mui4 wo1 cung1 hau2 gaai1	100.0%
@@ -99710,6 +100342,7 @@ use_preset_vocabulary: true
 男根	naam4 gan1	100.0%
 南箕北斗	naam4 gei1 bak1 dau2	100.0%
 南記	naam4 gei3	100.0%
+南記粉麵	naam4 gei3 fan2 min6	100.0%
 男妓	naam4 gei6	100.0%
 南極	naam4 gik6	100.0%
 南極洲	naam4 gik6 zau1	100.0%
@@ -99723,6 +100356,9 @@ use_preset_vocabulary: true
 南角道	naam4 gok3 dou6	100.0%
 南角咀	naam4 gok3 zeoi2	100.0%
 南崗區	naam4 gong1 keoi1	100.0%
+南港島綫	naam4 gong2 dou2 sin3	100.0%
+南港島綫東段	naam4 gong2 dou2 sin3 dung1 dyun6	100.0%
+南港島綫西段	naam4 gong2 dou2 sin3 sai1 dyun6	100.0%
 男高音部	naam4 gou1 jam1 bou6	100.0%
 男姑娘	naam4 gu1 noeng4	100.0%
 男管家	naam4 gun2 gaa1	100.0%
@@ -100363,6 +100999,7 @@ use_preset_vocabulary: true
 能源管理	nang4 jyun4 gun2 lei5	100.0%
 能源與生活	nang4 jyun4 jyu5 sang1 wut6	100.0%
 能源與環境	nang4 jyun4 jyu5 waan4 ging2	100.0%
+能源審核與碳審計	nang4 jyun4 sam2 hak6 jyu5 taan3 sam2 gai3	84.09%
 能源審核與碳審計	nang4 jyun4 sam2 hat6 jyu5 taan3 sam2 gai3	100.0%
 能源資訊園地	nang4 jyun4 zi1 seon3 jyun4 dei6	100.0%
 能願動詞	nang4 jyun6 dung6 ci4	100.0%
@@ -101237,6 +101874,7 @@ use_preset_vocabulary: true
 吳王闔閭	ng4 wong4 hap6 leoi4	100.0%
 吳鎮宇	ng4 zan3 jyu5	100.0%
 梧州	ng4 zau1	100.0%
+吳子冲	ng4 zi2 cung1	100.0%
 吳沚默	ng4 zi2 mak6	100.0%
 吳紫韻	ng4 zi2 wan5	100.0%
 吳志強	ng4 zi3 koeng4	100.0%
@@ -102022,6 +102660,7 @@ use_preset_vocabulary: true
 牙石	ngaa4 sek6	100.0%
 牙屎	ngaa4 si2	100.0%
 牙屎嚟硒	ngaa4 si2 lai4 sai1	100.0%
+牙屎嚟硒	ngaa4 si2 lei4 sai1	107.18%
 牙屎屎	ngaa4 si2 si2	100.0%
 牙線棒	ngaa4 sin3 paang5	100.0%
 牙托	ngaa4 tok3	100.0%
@@ -102064,6 +102703,7 @@ use_preset_vocabulary: true
 雅典	ngaa5 din2	100.0%
 雅典表	ngaa5 din2 biu2	100.0%
 雅法港	ngaa5 faat3 gong2	100.0%
+雅芳婷床褥	ngaa5 fong1 ting4 cong4 juk2	100.0%
 瓦釜雷鳴	ngaa5 fu2 leoi4 ming4	100.0%
 雅加達	ngaa5 gaa1 daat6	100.0%
 瓦解	ngaa5 gaai2	100.0%
@@ -102090,6 +102730,7 @@ use_preset_vocabulary: true
 瓦拉德卡	ngaa5 laai1 dak1 kaa1	100.0%
 雅拉神山	ngaa5 laai1 san4 saan1	100.0%
 瓦勒他	ngaa5 laak6 taa1	100.0%
+雅蘭床褥	ngaa5 laan4 cong4 juk2	100.0%
 雅蘭里	ngaa5 laan4 lei5	100.0%
 雅麗道	ngaa5 lai6 dou6	100.0%
 雅麗氏何妙齡那打素醫院	ngaa5 lai6 si6 ho4 miu6 ling4 naa5 daa2 sou3 ji1 jyun2	100.0%
@@ -102267,6 +102908,7 @@ use_preset_vocabulary: true
 𡅅	ngaak6	100.0%
 逆情	ngaak6 cing4	100.0%
 額定值	ngaak6 ding6 zik6	100.0%
+額菲爾士峰	ngaak6 fei1 ji5 si6 fung1	100.0%
 額角	ngaak6 gok3	100.0%
 額骨	ngaak6 gwat1	100.0%
 逆意	ngaak6 ji3	100.0%
@@ -102535,6 +103177,7 @@ use_preset_vocabulary: true
 眼跳動	ngaan5 tiu3 dung6	100.0%
 眼肚	ngaan5 tou5	100.0%
 眼瞳	ngaan5 tung4	100.0%
+眼核	ngaan5 wak6	52.66%
 眼核	ngaan5 wat6	100.0%
 眼眨眨	ngaan5 zaam2 zaam2	100.0%
 眼罩	ngaan5 zaau3	100.0%
@@ -102595,6 +103238,7 @@ use_preset_vocabulary: true
 硬櫃	ngaang6 gwai6	100.0%
 硬倔倔	ngaang6 gwak6 gwak6	100.0%
 硬𥕏𥕏	ngaang6 gwak6 gwak6	100.0%
+硬核	ngaang6 hak6	42.04%
 硬核	ngaang6 hat6	100.0%
 硬氣	ngaang6 hei3	100.0%
 硬漢	ngaang6 hon3	100.0%
@@ -102932,6 +103576,7 @@ use_preset_vocabulary: true
 偽書	ngai6 syu1	100.0%
 偽托	ngai6 tok3	100.0%
 魏惠文	ngai6 wai6 man4	100.0%
+魏韵芝	ngai6 wan6 zi1	100.0%
 毅進	ngai6 zeon3	100.0%
 魏駿傑	ngai6 zeon3 git6	100.0%
 魏晉南北朝	ngai6 zeon3 naam4 bak1 ciu4	100.0%
@@ -102963,6 +103608,7 @@ use_preset_vocabulary: true
 撢穿袋	ngam4 cyun1 doi2	100.0%
 扲荷包	ngam4 ho4 baau1	100.0%
 吟嚟吟去	ngam4 lai4 ngam4 heoi3	100.0%
+吟嚟吟去	ngam4 lei4 ngam4 heoi3	107.18%
 吟吟尋尋	ngam4 ngam4 cam4 cam4	100.0%
 吟吟沉沉	ngam4 ngam4 cam4 cam4	100.0%
 扲雀仔竇	ngam4 zoek3 zai2 dau3	100.0%
@@ -103108,6 +103754,8 @@ use_preset_vocabulary: true
 銀洋	ngan4 joeng4	100.0%
 銀月里	ngan4 jyut6 lei5	100.0%
 銀扣	ngan4 kau3	100.0%
+銀鑛灣	ngan4 kwong3 waan1	100.0%
+銀鑛灣路	ngan4 kwong3 waan1 lou6	100.0%
 銀礦灣泳灘	ngan4 kwong3 waan1 wing6 taan1	100.0%
 銀臉長尾山雀	ngan4 lim5 coeng4 mei5 saan1 zoek3	100.0%
 銀両	ngan4 loeng2	100.0%
@@ -103129,11 +103777,13 @@ use_preset_vocabulary: true
 銀獅獎	ngan4 si1 zoeng2	100.0%
 銀色	ngan4 sik1	100.0%
 銀線灣	ngan4 sin3 waan1	100.0%
+銀綫灣道	ngan4 sin3 waan1 dou6	100.0%
 銀線灣泳灘	ngan4 sin3 waan1 wing6 taan1	100.0%
 銀星徑	ngan4 sing1 ging3	100.0%
 銀城街	ngan4 sing4 gaai1	100.0%
 銀屑	ngan4 sit3	100.0%
 銀樹街	ngan4 syu6 gaai1	100.0%
+銀臺路	ngan4 toi4 lou6	100.0%
 銀灣	ngan4 waan1	100.0%
 銀灣邨	ngan4 waan1 cyun1	100.0%
 銀圍	ngan4 wai4	100.0%
@@ -103175,6 +103825,7 @@ use_preset_vocabulary: true
 啽	ngap1	50.0%
 噏	ngap1	100.0%
 噏出嚟	ngap1 ceot1 lai4	100.0%
+噏出嚟	ngap1 ceot1 lei4	107.18%
 噏得就噏	ngap1 dak1 zau6 ngap1	100.0%
 噏東噏西	ngap1 dung1 ngap1 sai1	100.0%
 噏動	ngap1 dung6	100.0%
@@ -103697,6 +104348,7 @@ use_preset_vocabulary: true
 我個人	ngo5 go3 jan4	100.0%
 我覺得	ngo5 gok3 dak1	100.0%
 我覺得係	ngo5 gok3 dak1 hai6	100.0%
+我覺得佢	ngo5 gok3 dak1 heoi5	13.54%
 我覺得佢	ngo5 gok3 dak1 keoi5	100.0%
 我講	ngo5 gong2	100.0%
 我估	ngo5 gu2	100.0%
@@ -103774,6 +104426,7 @@ use_preset_vocabulary: true
 我聽	ngo5 teng1	100.0%
 我條	ngo5 tiu4	100.0%
 我同	ngo5 tung4	100.0%
+我同佢	ngo5 tung4 heoi5	14.51%
 我同佢	ngo5 tung4 keoi5	100.0%
 我同你	ngo5 tung4 nei5	100.0%
 我屋企	ngo5 uk1 kei2	100.0%
@@ -104335,9 +104988,13 @@ use_preset_vocabulary: true
 𢳆簽	ngou4 cim1	100.0%
 翱翔道	ngou4 coeng4 dou6	100.0%
 敖嘉年	ngou4 gaa1 nin4	100.0%
+鰲磡	ngou4 ham3	100.0%
+鰲磡沙	ngou4 ham3 saa1	100.0%
+鰲磡石	ngou4 ham3 sek6	100.0%
 敖遊	ngou4 jau4	100.0%
 熬夜	ngou4 je2	100.0%
 熬藥	ngou4 joek6	100.0%
+鰲魚頭	ngou4 jyu4 tau4	100.0%
 嗷嗷待哺	ngou4 ngou4 doi6 bou6	100.0%
 𢳆色仔	ngou4 sik1 zai2	100.0%
 螯肢	ngou4 zi1	100.0%
@@ -104557,6 +105214,7 @@ use_preset_vocabulary: true
 暱稱	nik1 cing1	100.0%
 匿藏	nik1 cong4	100.0%
 搦過嚟	nik1 gwo3 lai4	100.0%
+搦過嚟	nik1 gwo3 lei4	107.18%
 匿影藏形	nik1 jing2 cong4 jing4	100.0%
 匿名	nik1 ming4	100.0%
 溺愛	nik1 oi3	100.0%
@@ -104868,6 +105526,7 @@ use_preset_vocabulary: true
 寧夏回族自治區	ning4 haa6 wui4 zuk6 zi6 zi6 keoi1	100.0%
 寧肯	ning4 hang2	100.0%
 寧可	ning4 ho2	100.0%
+甯漢豪	ning4 hon3 hou4	100.0%
 寧願	ning4 jyun2	100.0%
 寧遠街	ning4 jyun5 gaai1	100.0%
 寧缺勿濫	ning4 kyut3 mat6 laam5	100.0%
@@ -104914,6 +105573,7 @@ use_preset_vocabulary: true
 𤀑	ning6	100.0%
 擰緊	ning6 gan2	100.0%
 擰過身嚟	ning6 gwo3 san1 lai4	100.0%
+擰過身嚟	ning6 gwo3 san1 lei4	107.18%
 佞人	ning6 jan4	100.0%
 寧濫毋缺	ning6 laam6 mou4 kyut3	100.0%
 擰螺絲	ning6 lo4 si1	100.0%
@@ -105430,6 +106090,7 @@ use_preset_vocabulary: true
 諾曼底人	nok6 maan6 dai2 jan4	100.0%
 諾曼征服	nok6 maan6 zing1 fuk6	100.0%
 諾森伯倫路	nok6 sam1 baak3 leon4 lou6	100.0%
+諾士佛臺	nok6 si6 fat6 toi4	100.0%
 諾域治	nok6 wik6 zi6	100.0%
 嚢	nong1	0.0%
 囊	nong1	0.0%
@@ -105970,6 +106631,7 @@ use_preset_vocabulary: true
 愛過些	oi3 gwo3 se1	100.0%
 愛國	oi3 gwok3	100.0%
 愛國如家	oi3 gwok3 jyu4 gaa1	100.0%
+愛佢	oi3 heoi5	15.51%
 愛河	oi3 ho4	100.0%
 愛好	oi3 hou3	100.0%
 愛人	oi3 jan4	100.0%
@@ -105992,11 +106654,13 @@ use_preset_vocabulary: true
 愛琴海	oi3 kam4 hoi2	100.0%
 愛勤道	oi3 kan4 dou6	100.0%
 愛佢	oi3 keoi5	100.0%
+愛群道	oi3 kwan4 dou6	100.0%
+愛嚟	oi3 lai4	100.0%
 愛禮街	oi3 lai5 gaai1	100.0%
 愛禮里	oi3 lai5 lei5	100.0%
 愛麗捨宮	oi3 lai6 se2 gung1	100.0%
 愛麗絲夢遊仙境	oi3 lai6 si1 mung6 jau4 sin1 ging2	100.0%
-愛嚟	oi3 lei4	100.0%
+愛嚟	oi3 lei4	164.71%
 愛理不理	oi3 lei5 bat1 lei5	100.0%
 愛莉絲	oi3 lei6 si1	100.0%
 愛靚唔愛命	oi3 leng3 m4 oi3 meng6	100.0%
@@ -106198,6 +106862,7 @@ use_preset_vocabulary: true
 安德肋	on1 dak1 laak6	133.51%
 安德肋	on1 dak1 lak6	100.0%
 安德尊	on1 dak1 zyun1	100.0%
+安特衛普	on1 dak6 wai6 pou2	100.0%
 安頓	on1 deon6	100.0%
 鞍點	on1 dim2	100.0%
 安定	on1 ding6	100.0%
@@ -106251,6 +106916,7 @@ use_preset_vocabulary: true
 氨氣	on1 hei3	100.0%
 安興里	on1 hing1 lei5	100.0%
 安慶	on1 hing3	100.0%
+安慶臺	on1 hing3 toi4	100.0%
 安歇	on1 hit3	100.0%
 安享晚年	on1 hoeng2 maan5 nin4	100.0%
 安康路	on1 hong1 lou6	100.0%
@@ -106282,6 +106948,7 @@ use_preset_vocabulary: true
 安遠	on1 jyun5	100.0%
 安卡拉	on1 kaa1 laai1	100.0%
 安溪茶	on1 kai1 caa4	100.0%
+安群街	on1 kwan4 gaai1	100.0%
 安蘭街	on1 laan4 gaai1	100.0%
 安麗街	on1 lai6 gaai1	100.0%
 安里西村	on1 lei5 sai1 cyun1	100.0%
@@ -106478,6 +107145,7 @@ use_preset_vocabulary: true
 ｏ	ou1	100.0%
 𨭤	ou1	100.0%
 擙落嚟	ou1 lok6 lai4	100.0%
+擙落嚟	ou1 lok6 lei4	107.18%
 䯠	ou2	100.0%
 䴈	ou2	50.0%
 䴠	ou2	50.0%
@@ -106553,6 +107221,7 @@ use_preset_vocabulary: true
 奧密克戎	ou3 mat6 haak1 jung4	121.48%
 奧密克戎	ou3 mat6 hak1 jung4	100.0%
 澳美加	ou3 mei5 gaa1	100.0%
+澳美斯床褥	ou3 mei5 si1 cong4 juk2	100.0%
 奧妙	ou3 miu6	100.0%
 澳門	ou3 mun2	94.0%
 澳門幣	ou3 mun2 bai6	100.0%
@@ -107214,6 +107883,7 @@ use_preset_vocabulary: true
 拋倒	paau1 dou2	100.0%
 泡貨	paau1 fo3	100.0%
 拋個身出嚟做	paau1 go3 san1 ceot1 lai4 zou6	100.0%
+拋個身出嚟做	paau1 go3 san1 ceot1 lei4 zou6	107.18%
 拋戈棄甲	paau1 gwo1 hei3 gaap3	100.0%
 拋光	paau1 gwong1	100.0%
 拋下錨	paau1 haa6 naau4	100.0%
@@ -107339,6 +108009,7 @@ use_preset_vocabulary: true
 炮台里	paau3 toi4 lei5	100.0%
 炮台裏	paau3 toi4 leoi5	100.0%
 炮台山	paau3 toi4 saan1	100.0%
+炮台山循道衛理中學	paau3 toi4 saan1 ceon4 dou6 wai6 lei5 zung1 hok6	100.0%
 炮台山道	paau3 toi4 saan1 dou6	100.0%
 炮台山站	paau3 toi4 saan1 zaam6	100.0%
 泡湯	paau3 tong1	100.0%
@@ -107414,6 +108085,7 @@ use_preset_vocabulary: true
 批發市場街	pai1 faat3 si5 coeng4 gaai1	100.0%
 批改	pai1 goi2	100.0%
 批郤導窾	pai1 gwik1 dou6 fun2	100.0%
+批核	pai1 hak6	14.01%
 批核	pai1 hat6	100.0%
 批語	pai1 jyu5	100.0%
 㓟鉛筆	pai1 jyun4 bat1	100.0%
@@ -108559,6 +109231,7 @@ use_preset_vocabulary: true
 蘋果派	ping4 gwo2 paai3	100.0%
 蘋果批	ping4 gwo2 pai1	100.0%
 蘋果樹	ping4 gwo2 syu6	100.0%
+蘋果核	ping4 gwo2 wak6	50.81%
 蘋果核	ping4 gwo2 wat6	100.0%
 蘋果汁	ping4 gwo2 zap1	100.0%
 平過	ping4 gwo3	100.0%
@@ -108567,6 +109240,7 @@ use_preset_vocabulary: true
 屏廈徑	ping4 haa6 ging3	100.0%
 屏廈路	ping4 haa6 lou6	100.0%
 坪坑	ping4 haang1	100.0%
+評核	ping4 hak6	13.03%
 平行	ping4 hang4	100.0%
 平衡	ping4 hang4	100.0%
 平行公設	ping4 hang4 gung1 cit3	100.0%
@@ -109106,6 +109780,7 @@ use_preset_vocabulary: true
 扑野	pok3 je5	9.43%
 璞玉渾金	pok3 juk6 wan4 gam1	100.0%
 撲嚟撲去	pok3 lai4 pok3 heoi3	100.0%
+撲嚟撲去	pok3 lei4 pok3 heoi3	119.62%
 撲料	pok3 liu2	100.0%
 撲落	pok3 lok6	100.0%
 撲面	pok3 min6	100.0%
@@ -109463,6 +110138,7 @@ use_preset_vocabulary: true
 蒲田里	pou4 tin4 lei5	100.0%
 蒲台	pou4 toi4	100.0%
 蒲台島	pou4 toi4 dou2	100.0%
+蒲台群島	pou4 toi4 kwan4 dou2	100.0%
 葡糖	pou4 tong4	100.0%
 葡糖胺	pou4 tong4 on1	100.0%
 蒲桃	pou4 tou2	100.0%
@@ -109677,6 +110353,7 @@ use_preset_vocabulary: true
 陪都	pui4 dou1	100.0%
 培道	pui4 dou6	100.0%
 賠返嚟	pui4 faan1 lai4	100.0%
+賠返嚟	pui4 faan1 lei4	107.18%
 培訓	pui4 fan3	100.0%
 陪訓	pui4 fan3	100.0%
 培訓過	pui4 fan3 gwo3	100.0%
@@ -109802,6 +110479,7 @@ use_preset_vocabulary: true
 潘婷	pun1 ting4	100.0%
 潘通	pun1 tung1	100.0%
 潘屋村	pun1 uk1 cyun1	100.0%
+潘雲峰	pun1 wan4 fung1	100.0%
 潘志文	pun1 zi3 man4	100.0%
 潘靜文	pun1 zing6 man4	100.0%
 潘宗孝	pun1 zung1 haau3	100.0%
@@ -109857,7 +110535,8 @@ use_preset_vocabulary: true
 判明	pun3 ming4	100.0%
 判案	pun3 on3	100.0%
 判啤	pun3 pe5	100.0%
-拚佊嚟	pun3 pe5 lei4	100.0%
+拚佊嚟	pun3 pe5 lai4	100.0%
+拚佊嚟	pun3 pe5 lei4	107.18%
 拚死	pun3 sei2	100.0%
 判死罪	pun3 sei2 zeoi6	100.0%
 判頭	pun3 tau2	100.0%
@@ -110283,6 +110962,7 @@ use_preset_vocabulary: true
 沙田坳邨	saa1 tin4 aau3 cyun1	100.0%
 沙田㘭道	saa1 tin4 aau3 dou6	100.0%
 沙田車站圍	saa1 tin4 ce1 zaam6 wai4	100.0%
+沙田循道衛理小學	saa1 tin4 ceon4 dou6 wai6 lei5 siu2 hok6	100.0%
 沙田循道衞理中學	saa1 tin4 ceon4 dou6 wai6 lei5 zung1 hok6	100.0%
 沙田慈氏護養院	saa1 tin4 ci4 si6 wu6 joeng5 jyun2	100.0%
 沙田官立小學	saa1 tin4 gun1 laap6 siu2 hok6	100.0%
@@ -110316,6 +110996,7 @@ use_preset_vocabulary: true
 沙田圍胡素貞博士紀念學校	saa1 tin4 wai4 wu4 sou3 zing1 bok3 si6 gei2 nim6 hok6 haau6	100.0%
 沙田圍站	saa1 tin4 wai4 zaam6	100.0%
 沙田站	saa1 tin4 zaam6	100.0%
+沙田至中環綫	saa1 tin4 zi3 zung1 waan4 sin3	100.0%
 沙田正街	saa1 tin4 zing3 gaai1	100.0%
 沙田中心	saa1 tin4 zung1 sam1	100.0%
 砂糖	saa1 tong4	100.0%
@@ -110351,6 +111032,7 @@ use_preset_vocabulary: true
 沙磧	saa1 zik1	100.0%
 砂積礦牀	saa1 zik1 kwong3 cong4	100.0%
 沙展	saa1 zin2	100.0%
+沙中綫	saa1 zung1 sin3	100.0%
 倽	saa2	100.0%
 啥	saa2	91.0%
 洒	saa2	25.0%
@@ -111342,6 +112024,7 @@ use_preset_vocabulary: true
 三頭六臂	saam1 tau4 luk6 bei3	100.0%
 三推四搪	saam1 teoi1 sei3 tong2	100.0%
 三天兩頭	saam1 tin1 loeng5 tau4	100.0%
+三田製麵所	saam1 tin4 zai3 min6 so2	100.0%
 三條	saam1 tiu4	100.0%
 三台	saam1 toi4	100.0%
 三趟	saam1 tong3	100.0%
@@ -111480,6 +112163,7 @@ use_preset_vocabulary: true
 山邊街	saan1 bin1 gaai1	100.0%
 山邊巷	saan1 bin1 hong6	100.0%
 山邊路	saan1 bin1 lou6	100.0%
+山邊臺	saan1 bin1 toi4	100.0%
 山坡	saan1 bo1	100.0%
 山貝	saan1 bui3	100.0%
 山貝涌口村	saan1 bui3 cung1 hau2 cyun1	100.0%
@@ -111502,6 +112186,7 @@ use_preset_vocabulary: true
 山川	saan1 cyun1	100.0%
 山村道	saan1 cyun1 dou6	100.0%
 山村徑	saan1 cyun1 ging3	100.0%
+山村臺	saan1 cyun1 toi4	100.0%
 山打根	saan1 daa2 gan1	100.0%
 山大王	saan1 daai6 wong4	100.0%
 山大斬埋有柴	saan1 daai6 zaam2 maai4 jau5 caai4	100.0%
@@ -111567,6 +112252,7 @@ use_preset_vocabulary: true
 山坑	saan1 haang1	100.0%
 山坑水	saan1 haang1 seoi2	100.0%
 山峽	saan1 haap6	100.0%
+山核桃	saan1 hak6 tou4	59.46%
 山核桃	saan1 hat6 tou4	100.0%
 閂後門	saan1 hau6 mun4	100.0%
 刪去	saan1 heoi3	100.0%
@@ -111594,6 +112280,7 @@ use_preset_vocabulary: true
 山旮旯	saan1 kaa1 laa1	100.0%
 山卡拉	saan1 kaa1 laai1	100.0%
 山蜞	saan1 kei4	100.0%
+山崎麵飽	saan1 kei4 min6 baau2	100.0%
 山區	saan1 keoi1	100.0%
 山窮水盡	saan1 kung4 seoi2 zeon6	100.0%
 閂括號	saan1 kut3 hou2	100.0%
@@ -111644,6 +112331,7 @@ use_preset_vocabulary: true
 山奈鉀	saan1 noi6 gaap3	100.0%
 栓皮櫟	saan1 pei4 lik1	100.0%
 山坡地	saan1 po1 dei6	100.0%
+山坡臺	saan1 po1 toi4	100.0%
 山婆	saan1 po4	100.0%
 閂舖	saan1 pou3	100.0%
 閂晒	saan1 saai3	100.0%
@@ -111667,6 +112355,7 @@ use_preset_vocabulary: true
 山瑞	saan1 seoi6	100.0%
 山市街	saan1 si5 gaai1	100.0%
 山城區	saan1 sing4 keoi1	100.0%
+山城小麵	saan1 sing4 siu2 min6	100.0%
 刪削	saan1 soek3	100.0%
 山頭	saan1 tau4	100.0%
 山頭文化	saan1 tau4 man4 faa3	100.0%
@@ -112197,6 +112886,7 @@ use_preset_vocabulary: true
 殺到	saat3 dou3	100.0%
 殺蠹藥	saat3 dou3 joek6	100.0%
 殺到埋嚟	saat3 dou3 maai4 lai4	100.0%
+殺到埋嚟	saat3 dou3 maai4 lei4	107.18%
 撒督	saat3 duk1	100.0%
 殺毒軟件	saat3 duk6 jyun5 gin2	100.0%
 煞費苦心	saat3 fai3 fu2 sam1	100.0%
@@ -112519,6 +113209,7 @@ use_preset_vocabulary: true
 西貢西灣路	sai1 gung3 sai1 waan1 lou6	100.0%
 西貢崇真	sai1 gung3 sung4 zan1	100.0%
 西貢崇真天主教學校	sai1 gung3 sung4 zan1 tin1 zyu2 gaau3 hok6 haau6	100.0%
+西貢戶外康樂中心	sai1 gung3 wu6 ngoi6 hong1 lok6 zung1 sam1	100.0%
 西貢正街	sai1 gung3 zing3 gaai1	100.0%
 西貢中心李少欽紀念學校	sai1 gung3 zung1 sam1 lei5 siu3 jam1 gei2 nim6 hok6 haau6	100.0%
 西瓜	sai1 gwaa1	100.0%
@@ -112600,6 +113291,7 @@ use_preset_vocabulary: true
 西面	sai1 min6	100.0%
 嘶鳴	sai1 ming4	100.0%
 西摩道	sai1 mo1 dou6	100.0%
+西摩臺	sai1 mo1 toi4	100.0%
 篩網水泵	sai1 mong5 seoi2 bam1	100.0%
 篩網總彙	sai1 mong5 zung2 wui6	100.0%
 西望洋	sai1 mong6 joeng4	100.0%
@@ -112658,6 +113350,7 @@ use_preset_vocabulary: true
 西堤街	sai1 tai4 gaai1	100.0%
 西天	sai1 tin1	100.0%
 西鐵	sai1 tit3	100.0%
+西鐵綫	sai1 tit3 sin3	100.0%
 西鐵線	sai1 tit3 sin3	100.0%
 西台灣	sai1 toi4 waan1	100.0%
 西華里	sai1 waa4 lei5	100.0%
@@ -112670,6 +113363,7 @@ use_preset_vocabulary: true
 西灣路	sai1 waan1 lou6	100.0%
 西灣美經援村	sai1 waan1 mei5 ging1 wun4 cyun1	100.0%
 西灣山	sai1 waan1 saan1	100.0%
+西灣臺	sai1 waan1 toi4	100.0%
 西灣	sai1 waan4	0.0%
 西環	sai1 waan4	100.0%
 西環邨	sai1 waan4 cyun1	100.0%
@@ -113382,7 +114076,7 @@ use_preset_vocabulary: true
 心血結晶	sam1 hyut3 git3 zing1	100.0%
 心血來潮	sam1 hyut3 loi4 ciu4	100.0%
 深入	sam1 jap6	100.0%
-心入邊	sam1 jap6 bin1	11.23%
+心入邊	sam1 jap6 bin1	100.0%
 深入淺出	sam1 jap6 cin2 ceot1	100.0%
 深入骨髓	sam1 jap6 gwat1 seoi5	100.0%
 深入羣眾	sam1 jap6 kwan4 zung3	100.0%
@@ -113579,6 +114273,7 @@ use_preset_vocabulary: true
 深黃色	sam1 wong4 sik1	100.0%
 心往神馳	sam1 wong5 san4 ci4	100.0%
 深旺道	sam1 wong6 dou6	100.0%
+森戶	sam1 wu6	100.0%
 心回意轉	sam1 wui4 ji3 zyun2	100.0%
 深澤	sam1 zaak6	100.0%
 心雜音	sam1 zaap6 jam1	100.0%
@@ -113691,6 +114386,8 @@ use_preset_vocabulary: true
 審稿員	sam2 gou2 jyun4	100.0%
 審官	sam2 gun1	100.0%
 沈國放	sam2 gwok3 fong3	100.0%
+審核	sam2 hak6	11.35%
+審核權	sam2 hak6 kyun4	56.23%
 審核	sam2 hat6	100.0%
 審核權	sam2 hat6 kyun4	100.0%
 沈可欣	sam2 ho2 jan1	100.0%
@@ -113956,8 +114653,10 @@ use_preset_vocabulary: true
 辛苦命	san1 fu2 meng6	100.0%
 辛苦晒	san1 fu2 saai3	100.0%
 辛苦死	san1 fu2 sei2	100.0%
-辛苦揾嚟志在食	san1 fu2 wan2 lei4 zi3 zoi6 sik6	100.0%
-辛苦揾嚟自在食	san1 fu2 wan2 lei4 zi6 zoi6 sik6	100.0%
+辛苦揾嚟志在食	san1 fu2 wan2 lai4 zi3 zoi6 sik6	100.0%
+辛苦揾嚟自在食	san1 fu2 wan2 lai4 zi6 zoi6 sik6	100.0%
+辛苦揾嚟志在食	san1 fu2 wan2 lei4 zi3 zoi6 sik6	107.18%
+辛苦揾嚟自在食	san1 fu2 wan2 lei4 zi6 zoi6 sik6	107.18%
 辛苦折墮	san1 fu2 zit3 do6	100.0%
 身負重傷	san1 fu6 cung5 soeng1	100.0%
 新灰街	san1 fui1 gaai1	100.0%
@@ -114120,10 +114819,12 @@ use_preset_vocabulary: true
 伸懶腰	san1 laan5 jiu1	100.0%
 辛辣	san1 laat6	100.0%
 新嚟	san1 lai4	100.0%
+新嚟新豬肉	san1 lai4 san1 zyu1 juk6	100.0%
 新樓	san1 lau4	100.0%
 新樓街	san1 lau4 gaai1	100.0%
 新柳街	san1 lau5 gaai1	100.0%
-新嚟新豬肉	san1 lei4 san1 zyu1 juk6	100.0%
+新嚟	san1 lei4	187.78%
+新嚟新豬肉	san1 lei4 san1 zyu1 juk6	107.18%
 申理	san1 lei5	100.0%
 新李屋村	san1 lei5 uk1 cyun1	100.0%
 新利街	san1 lei6 gaai1	100.0%
@@ -114379,6 +115080,8 @@ use_preset_vocabulary: true
 新進	san1 zeon3	100.0%
 薪盡火傳	san1 zeon6 fo2 cyun4	100.0%
 新之城	san1 zi1 sing4	100.0%
+薪諮會聯合秘書處	san1 zi1 wui6 lyun4 hap6 bei3 syu1 cyu3	100.0%
+薪諮會聯合秘書處	san1 zi1 wui6 lyun4 hap6 bei3 syu1 cyu5	100.0%
 身子	san1 zi2	100.0%
 身子骨	san1 zi2 gwat1	100.0%
 辛巳	san1 zi6	100.0%
@@ -114611,6 +115314,7 @@ use_preset_vocabulary: true
 晨運	san4 wan6	100.0%
 晨運園地	san4 wan6 jyun4 dei6	100.0%
 神往	san4 wong5	100.0%
+神戶	san4 wu6	100.0%
 神憎鬼厭	san4 zang1 gwai2 jim3	100.0%
 神州	san4 zau1	100.0%
 臣子	san4 zi2	100.0%
@@ -114959,6 +115663,7 @@ use_preset_vocabulary: true
 濕水雞	sap1 seoi2 gai1	100.0%
 濕水狗上岸	sap1 seoi2 gau2 soeng5 ngon6	100.0%
 濕水欖	sap1 seoi2 laam2	100.0%
+濕水欖核	sap1 seoi2 laam2 wak6	59.46%
 濕水欖核	sap1 seoi2 laam2 wat6	100.0%
 濕水棉花	sap1 seoi2 min4 faa1	100.0%
 濕水炮仗	sap1 seoi2 paau3 zoeng2	100.0%
@@ -117273,6 +117978,7 @@ use_preset_vocabulary: true
 寫契	se2 kai3	100.0%
 寫了	se2 liu5	100.0%
 寫落嚟	se2 lok6 lai4	100.0%
+寫落嚟	se2 lok6 lei4	117.46%
 寫唔寫	se2 m4 se2	100.0%
 捨唔捨得	se2 m4 se2 dak1	100.0%
 寫文件	se2 man4 gin2	100.0%
@@ -117667,6 +118373,7 @@ use_preset_vocabulary: true
 死了	sei2 liu5	100.0%
 死佬	sei2 lou2	100.0%
 死佬出嚟搞三搞四	sei2 lou2 ceot1 lai4 gaau2 saam1 gaau2 sei3	100.0%
+死佬出嚟搞三搞四	sei2 lou2 ceot1 lei4 gaau2 saam1 gaau2 sei3	107.18%
 死嘮仔	sei2 lou4 zai2	100.0%
 死老豆	sei2 lou5 dau6	100.0%
 死老鬼	sei2 lou5 gwai2	100.0%
@@ -118707,7 +119414,8 @@ use_preset_vocabulary: true
 城	seng2	1.0%
 醒	seng2	33.0%
 醒瞓	seng2 fan3	100.0%
-醒嚟	seng2 lei4	100.0%
+醒嚟	seng2 lai4	100.0%
+醒嚟	seng2 lei4	117.46%
 醒咗	seng2 zo2	100.0%
 姓	seng3	0.0%
 腥	seng3	0.0%
@@ -119030,6 +119738,8 @@ use_preset_vocabulary: true
 水果撈	seoi2 gwo2 lou1	100.0%
 水果酒	seoi2 gwo2 zau2	100.0%
 水過鴨背	seoi2 gwo3 aap3 bui3	100.0%
+水下核爆炸	seoi2 haa6 hak6 baau3 zaa3	84.09%
+水下核試驗	seoi2 haa6 hak6 si3 jim6	84.09%
 水下核爆炸	seoi2 haa6 hat6 baau3 zaa3	100.0%
 水下核試驗	seoi2 haa6 hat6 si3 jim6	100.0%
 水鞋	seoi2 haai4	100.0%
@@ -119333,6 +120043,7 @@ use_preset_vocabulary: true
 税階	seoi3 gaai1	100.0%
 歲計餘絀	seoi3 gai3 jyu4 zyut3	100.0%
 税基	seoi3 gei1	100.0%
+稅局	seoi3 guk2	100.0%
 税局	seoi3 guk2	100.0%
 税官	seoi3 gun1	100.0%
 説客	seoi3 haak3	100.0%
@@ -119353,8 +120064,10 @@ use_preset_vocabulary: true
 碎料	seoi3 liu2	100.0%
 歲晚	seoi3 maan5	100.0%
 税務	seoi3 mou6	100.0%
+稅務局	seoi3 mou6 guk2	100.0%
 税務局	seoi3 mou6 guk2	100.0%
 税務師	seoi3 mou6 si1	100.0%
+稅務上訴委員會	seoi3 mou6 soeng6 sou3 wai2 jyun4 wui2	100.0%
 碎末	seoi3 mut6	100.0%
 歲末年初	seoi3 mut6 nin4 co1	100.0%
 碎銀	seoi3 ngan2	100.0%
@@ -119758,6 +120471,7 @@ use_preset_vocabulary: true
 遜克縣	seon3 hak1 jyun6	100.0%
 信口雌黃	seon3 hau2 ci1 wong4	100.0%
 信口胡説	seon3 hau2 wu4 syut3	100.0%
+信佢	seon3 heoi5	13.76%
 信號	seon3 hou6	100.0%
 訊號	seon3 hou6	100.0%
 信號處理	seon3 hou6 cyu2 lei5	100.0%
@@ -119811,6 +120525,9 @@ use_preset_vocabulary: true
 信心倍增	seon3 sam1 pui5 zang1	100.0%
 信守不渝	seon3 sau2 bat1 jyu4	100.0%
 信史	seon3 si2	100.0%
+信使核糖核酸	seon3 si3 hak6 tong4 hak6 syun1	73.84%
+信使核糖核酸	seon3 si3 hak6 tong4 hat6 syun1	84.09%
+信使核糖核酸	seon3 si3 hat6 tong4 hak6 syun1	84.09%
 信使核糖核酸	seon3 si3 hat6 tong4 hat6 syun1	100.0%
 瞬時輻射	seon3 si4 fuk1 se6	100.0%
 信息	seon3 sik1	100.0%
@@ -119884,6 +120601,7 @@ use_preset_vocabulary: true
 純品	seon4 ban2	100.0%
 馴品	seon4 ban2	100.0%
 脣筆	seon4 bat1	100.0%
+唇茶	seon4 caa4	100.0%
 脣齒音	seon4 ci2 jam1	100.0%
 脣齒相依	seon4 ci2 soeng1 ji1	100.0%
 脣齒之邦	seon4 ci2 zi1 bong1	100.0%
@@ -119908,6 +120626,7 @@ use_preset_vocabulary: true
 純然	seon4 jin4	100.0%
 脣形科	seon4 jing4 fo1	100.0%
 馴擾	seon4 jiu5	100.0%
+純陽峰	seon4 joeng4 fung1	100.0%
 純陽小學	seon4 joeng4 siu2 hok6	100.0%
 馴養	seon4 joeng5	100.0%
 馴養繁殖	seon4 joeng5 faan4 zik6	100.0%
@@ -120330,12 +121049,14 @@ use_preset_vocabulary: true
 司法	si1 faat3	100.0%
 絲發	si1 faat3	100.0%
 絲髮	si1 faat3	100.0%
+司法覆核	si1 faat3 fuk1 hak6	10.54%
 司法覆核	si1 faat3 fuk1 hat6	100.0%
 司法機構	si1 faat3 gei1 kau3	100.0%
 司法人員薪俸及服務條件常務委員會	si1 faat3 jan4 jyun4 san1 fung6 kap6 fuk6 mou6 tiu4 gin6 soeng4 mou6 wai2 jyun4 wui2	100.0%
 司法人員薪常會	si1 faat3 jan4 jyun4 san1 soeng4 wui2	100.0%
 司法院長	si1 faat3 jyun6 zoeng2	100.0%
 私費	si1 fai3	100.0%
+施勳道	si1 fan1 dou6	100.0%
 私憤	si1 fan5	100.0%
 施肥	si1 fei4	100.0%
 斯科普里	si1 fo1 pou2 lei5	100.0%
@@ -120732,6 +121453,7 @@ use_preset_vocabulary: true
 屎開	si2 hoi1	100.0%
 史學	si2 hok6	100.0%
 使人嚟買	si2 jan4 lai4 maai5	100.0%
+使人嚟買	si2 jan4 lei4 maai5	107.18%
 使人信服	si2 jan4 seon3 fuk6	100.0%
 使役	si2 jik6	100.0%
 使然	si2 jin4	100.0%
@@ -121577,6 +122299,7 @@ use_preset_vocabulary: true
 適合	sik1 hap6	100.0%
 息口	sik1 hau2	100.0%
 拭去	sik1 heoi3	100.0%
+識佢	sik1 heoi5	14.7%
 適可而止	sik1 ho2 ji4 zi2	100.0%
 色號	sik1 hou4	100.0%
 析毫剖釐	sik1 hou4 fau2 lei4	100.0%
@@ -121827,7 +122550,8 @@ use_preset_vocabulary: true
 食閒口	sik6 haan4 hau2	100.0%
 食口立濕	sik6 hau2 laap6 sap1	111.61%
 食口立濕	sik6 hau2 lap6 sap1	100.0%
-食起嚟	sik6 hei2 lei4	100.0%
+食起嚟	sik6 hei2 lai4	100.0%
+食起嚟	sik6 hei2 lei4	128.21%
 食香腸	sik6 hoeng1 coeng2	100.0%
 食開	sik6 hoi1	100.0%
 食開屎	sik6 hoi1 si2	16.07%
@@ -122050,6 +122774,7 @@ use_preset_vocabulary: true
 閃耀	sim2 jiu6	100.0%
 閃卡	sim2 kaat1	100.0%
 閃嚟閃去	sim2 lai4 sim2 heoi3	100.0%
+閃嚟閃去	sim2 lei4 sim2 heoi3	111.61%
 閃爧	sim2 leng5	100.0%
 閃令令	sim2 ling3 ling3	100.0%
 閃亮	sim2 loeng6	100.0%
@@ -122187,6 +122912,7 @@ use_preset_vocabulary: true
 先講	sin1 gong2	100.0%
 仙姑	sin1 gu1	100.0%
 鮮菇	sin1 gu1	100.0%
+仙姑峰	sin1 gu1 fung1	100.0%
 仙股	sin1 gu2	100.0%
 仙公洞	sin1 gung1 dung6	100.0%
 鮮果	sin1 gwo2	100.0%
@@ -122241,6 +122967,7 @@ use_preset_vocabulary: true
 先禮後兵	sin1 lai5 hau6 bing1	100.0%
 先禮而後兵	sin1 lai5 ji4 hau6 bing1	100.0%
 先例	sin1 lai6	100.0%
+先嚟	sin1 lei4	226.49%
 先令	sin1 ling2	100.0%
 鮮烈	sin1 lit6	100.0%
 先來後到	sin1 loi4 hau6 dou3	100.0%
@@ -122280,6 +123007,7 @@ use_preset_vocabulary: true
 鮮選壽司	sin1 syun2 sau6 si1	100.0%
 先算	sin1 syun3	100.0%
 先頭嚟過	sin1 tau2 lai4 gwo3	100.0%
+先頭嚟過	sin1 tau2 lei4 gwo3	107.18%
 先頭	sin1 tau4	100.0%
 先頭部隊	sin1 tau4 bou6 deoi2	100.0%
 先天	sin1 tin1	100.0%
@@ -122348,6 +123076,7 @@ use_preset_vocabulary: true
 銑鐵	sin2 tit3	100.0%
 鮮為人知	sin2 wai4 jan4 zi1	100.0%
 筅帚	sin2 zau2	100.0%
+冼靖峰	sin2 zing6 fung1	100.0%
 㪇	sin3	100.0%
 㮼	sin3	78.55%
 䑶	sin3	100.0%
@@ -122425,6 +123154,7 @@ use_preset_vocabulary: true
 腺毛	sin3 mou4	100.0%
 霰粒腫	sin3 nap1 zung2	100.0%
 線眼	sin3 ngaan5	100.0%
+腺嘌呤核苷三磷酸	sin3 piu1 ling4 hak6 gam1 saam1 leon4 syun1	84.09%
 腺嘌呤核苷三磷酸	sin3 piu1 ling4 hat6 gam1 saam1 leon4 syun1	100.0%
 線衫	sin3 saam1	100.0%
 𨃩西瓜皮	sin3 sai1 gwaa1 pei4	100.0%
@@ -123577,6 +124307,7 @@ use_preset_vocabulary: true
 𤗈入	sip3 jap6	100.0%
 攝入去	sip3 jap6 heoi3	100.0%
 攝入嚟	sip3 jap6 lai4	100.0%
+攝入嚟	sip3 jap6 lei4	114.87%
 涉嫌	sip3 jim4	100.0%
 涉嫌人	sip3 jim4 jan4	100.0%
 攝影	sip3 jing2	100.0%
@@ -123821,6 +124552,7 @@ use_preset_vocabulary: true
 蕭牆	siu1 coeng4	100.0%
 燒菜	siu1 coi3	100.0%
 燒到埋嚟	siu1 dou3 maai4 lai4	100.0%
+燒到埋嚟	siu1 dou3 maai4 lei4	107.18%
 消毒	siu1 duk6	100.0%
 消毒藥水	siu1 duk6 joek6 seoi2	100.0%
 消毒爐	siu1 duk6 lou4	100.0%
@@ -123920,6 +124652,7 @@ use_preset_vocabulary: true
 逍遙自得	siu1 jiu4 zi6 dak1	100.0%
 蕭若元	siu1 joek6 jyun4	100.0%
 燒肉	siu1 juk6	100.0%
+燒肉火蔵	siu1 juk6 fo2 zong6	100.0%
 消元	siu1 jyun4	100.0%
 燒溪錢	siu1 kai1 cin4	100.0%
 燒茄子	siu1 ke2 zi2	100.0%
@@ -124045,6 +124778,7 @@ use_preset_vocabulary: true
 小鴉洲山	siu2 aa1 zau1 saan1	100.0%
 小鴉洲灣	siu2 aa1 zau1 waan1	100.0%
 小矮人	siu2 ai2 jan4	100.0%
+小菴山	siu2 am1 saan1	100.0%
 小巴	siu2 baa1	100.0%
 小百科全書	siu2 baak3 fo1 cyun4 syu1	100.0%
 小白菜	siu2 baak6 coi3	100.0%
@@ -124255,6 +124989,7 @@ use_preset_vocabulary: true
 小鷹	siu2 jing1	100.0%
 小型	siu2 jing4	100.0%
 小型櫃櫥	siu2 jing4 gwai6 cyu4	100.0%
+小型核武器	siu2 jing4 hak6 mou5 hei3	84.09%
 小型核武器	siu2 jing4 hat6 mou5 hei3	100.0%
 小湧	siu2 jung2	100.0%
 小絨鴨	siu2 jung4 aap3	100.0%
@@ -124524,6 +125259,7 @@ use_preset_vocabulary: true
 少陽病	siu3 joeng4 beng6	100.0%
 笑容	siu3 jung4	100.0%
 笑容可掬	siu3 jung4 ho2 guk1	100.0%
+笑鳩佢	siu3 kau1 heoi5	15.6%
 笑鳩佢	siu3 kau1 keoi5	30.92%
 笑騎騎	siu3 ke4 ke4	100.0%
 笑騎騎放毒蛇	siu3 ke4 ke4 fong3 duk6 se4	100.0%
@@ -124618,6 +125354,7 @@ use_preset_vocabulary: true
 兆祥坊	siu6 coeng4 fong1	100.0%
 紹菜	siu6 coi3	100.0%
 兆電子伏	siu6 din6 zi2 fuk6	100.0%
+肇輝臺	siu6 fai1 toi4	100.0%
 邵家輝	siu6 gaa1 fai1	100.0%
 兆基創意書院	siu6 gei1 cong3 ji3 syu1 jyun2	100.0%
 肇堅里	siu6 gin1 lei5	100.0%
@@ -124804,6 +125541,7 @@ use_preset_vocabulary: true
 所有嘢	so2 jau5 je5	100.0%
 所有者	so2 jau5 ze2	100.0%
 所以	so2 ji5	100.0%
+所以佢	so2 ji5 heoi5	13.95%
 所以有	so2 ji5 jau5	100.0%
 所以要	so2 ji5 jiu3	100.0%
 所以佢	so2 ji5 keoi5	100.0%
@@ -124820,6 +125558,8 @@ use_preset_vocabulary: true
 瑣羅亞斯德	so2 lo4 aa3 si1 dak1	100.0%
 瑣羅亞斯德教	so2 lo4 aa3 si1 dak1 gaau3	100.0%
 所羅門羣島	so2 lo4 mun4 kwan4 dou2	100.0%
+所羅門群島	so2 lo4 mun4 kwan4 dou2	100.0%
+所羅門群島人	so2 lo4 mun4 kwan4 dou2 jan4	100.0%
 鎖羅盆	so2 lo4 pun4	100.0%
 鎖龍岩	so2 lung4 ngaam4	100.0%
 瑣聞	so2 man4	100.0%
@@ -125273,6 +126013,7 @@ use_preset_vocabulary: true
 相鄰	soeng1 leon4	100.0%
 相連	soeng1 lin4	100.0%
 雙鏈	soeng1 lin4	100.0%
+雙鏈核酸	soeng1 lin4 hak6 syun1	84.09%
 雙鏈核酸	soeng1 lin4 hat6 syun1	100.0%
 雙列	soeng1 lit6	100.0%
 雙料	soeng1 liu2	100.0%
@@ -125502,6 +126243,7 @@ use_preset_vocabulary: true
 想起	soeng2 hei2	100.0%
 想起來了	soeng2 hei2 loi4 liu5	100.0%
 想去	soeng2 heoi3	100.0%
+想佢	soeng2 heoi5	12.34%
 想開	soeng2 hoi1	100.0%
 想學	soeng2 hok6	100.0%
 想人	soeng2 jan4	100.0%
@@ -125622,6 +126364,7 @@ use_preset_vocabulary: true
 倘佯	soeng4 joeng4	100.0%
 常用	soeng4 jung6	100.0%
 常用品	soeng4 jung6 ban2	100.0%
+常悅道	soeng4 jyut6 dou6	100.0%
 常規	soeng4 kwai1	100.0%
 常規銅電話線	soeng4 kwai1 tung4 din6 waa2 sin3	100.0%
 常理	soeng4 lei5	100.0%
@@ -125688,6 +126431,7 @@ use_preset_vocabulary: true
 上彈	soeng5 daan2	100.0%
 上得	soeng5 dak1	100.0%
 上得牀嚟掀被冚	soeng5 dak1 cong4 lai4 hin1 pei5 kam2	100.0%
+上得牀嚟掀被冚	soeng5 dak1 cong4 lei4 hin1 pei5 kam2	107.18%
 上得山多遇着虎	soeng5 dak1 saan1 do1 jyu6 zoek6 fu2	100.0%
 上得山多終遇虎	soeng5 dak1 saan1 do1 zung1 jyu6 fu2	100.0%
 上電	soeng5 din6	100.0%
@@ -125698,6 +126442,7 @@ use_preset_vocabulary: true
 上到庭	soeng5 dou2 ting4	100.0%
 上到	soeng5 dou3	9.0%
 上到嚟	soeng5 dou3 lai4	100.0%
+上到嚟	soeng5 dou3 lei4	135.59%
 上到來	soeng5 dou3 loi4	100.0%
 上返	soeng5 faan1	100.0%
 上墳	soeng5 fan4	100.0%
@@ -125739,6 +126484,7 @@ use_preset_vocabulary: true
 上嚟	soeng5 lai4	100.0%
 上樓	soeng5 lau2	100.0%
 上樓費	soeng5 lau2 fai3	100.0%
+上嚟	soeng5 lei4	262.56%
 上鏈	soeng5 lin2	100.0%
 上連登	soeng5 lin4 dang1	100.0%
 上了	soeng5 liu5	100.0%
@@ -125750,7 +126496,8 @@ use_preset_vocabulary: true
 上唔上水	soeng5 m4 soeng5 seoi2	100.0%
 上馬	soeng5 maa5	100.0%
 上萬	soeng5 maan6	100.0%
-上面落嚟	soeng5 min6 lok6 lei4	100.0%
+上面落嚟	soeng5 min6 lok6 lai4	100.0%
+上面落嚟	soeng5 min6 lok6 lei4	111.61%
 上網	soeng5 mong5	100.0%
 上網本	soeng5 mong5 bun2	100.0%
 上網買	soeng5 mong5 maai5	100.0%
@@ -125968,6 +126715,7 @@ use_preset_vocabulary: true
 上文下理	soeng6 man4 haa6 lei5	100.0%
 尚未	soeng6 mei6	100.0%
 上面	soeng6 min6	100.0%
+尚麵	soeng6 min6	100.0%
 上面有	soeng6 min6 jau5	100.0%
 上面蒸鬆糕下面賣涼粉	soeng6 min6 zing1 sung1 gou1 haa6 min6 maai6 loeng4 fan2	100.0%
 上苗田	soeng6 miu4 tin4	100.0%
@@ -126115,6 +126863,7 @@ use_preset_vocabulary: true
 塑膠粒	sok3 gaau1 nap1	100.0%
 塑膠桶	sok3 gaau1 tung2	100.0%
 𦂗緊荷包	sok3 gan2 ho4 baau1	100.0%
+索罟群島	sok3 gu2 kwan4 dou2	100.0%
 索罟灣	sok3 gu2 waan1	100.0%
 索罟灣第一街	sok3 gu2 waan1 dai6 jat1 gaai1	100.0%
 索氣	sok3 hei3	100.0%
@@ -126272,6 +127021,7 @@ use_preset_vocabulary: true
 臊臭	sou1 cau3	100.0%
 蘇秦	sou1 ceon4	100.0%
 騷情	sou1 cing4	100.0%
+蘇長荣	sou1 coeng4 wing4	100.0%
 蘇菜	sou1 coi3	100.0%
 蘇打餅乾	sou1 daa2 beng2 gon1	100.0%
 蘇打粉	sou1 daa2 fan2	100.0%
@@ -126882,7 +127632,8 @@ use_preset_vocabulary: true
 數碼掃描	sou3 maa5 sou3 miu4	100.0%
 數碼通	sou3 maa5 tung1	100.0%
 數碼照相機	sou3 maa5 ziu3 soeng3 gei1	100.0%
-掃埋嚟	sou3 maai4 lei4	100.0%
+掃埋嚟	sou3 maai4 lai4	100.0%
+掃埋嚟	sou3 maai4 lei4	114.87%
 掃埋掃埋	sou3 maai4 sou3 maai4	100.0%
 數萬	sou3 maan6	100.0%
 數萬把	sou3 maan6 baa2	100.0%
@@ -127721,6 +128472,9 @@ use_preset_vocabulary: true
 送頭	sung3 tau4	100.0%
 餸頭餸尾	sung3 tau4 sung3 mei5	100.0%
 送還	sung3 waan4	100.0%
+宋皇臺	sung3 wong4 toi4	100.0%
+宋皇臺道	sung3 wong4 toi4 dou6	100.0%
+宋皇臺站	sung3 wong4 toi4 zaam6	100.0%
 送往迎來	sung3 wong5 jing4 loi4	100.0%
 送扎花	sung3 zaat3 faa1	100.0%
 宋芝齡	sung3 zi1 ling4	100.0%
@@ -127975,6 +128729,7 @@ use_preset_vocabulary: true
 鼠開	syu2 hoi1	100.0%
 鼠害	syu2 hoi6	100.0%
 鼠入嚟	syu2 jap6 lai4	100.0%
+鼠入嚟	syu2 jap6 lei4	107.18%
 鼠嘢	syu2 je5	100.0%
 鼠疫	syu2 jik6	100.0%
 鼠疫桿菌	syu2 jik6 gon1 kwan2	100.0%
@@ -128381,6 +129136,7 @@ use_preset_vocabulary: true
 算係	syun3 hai6	100.0%
 算係噉	syun3 hai6 gam2	100.0%
 篆刻	syun3 hak1	100.0%
+算佢	syun3 heoi5	31.31%
 蒜香骨	syun3 hoeng1 gwat1	100.0%
 算好	syun3 hou2	100.0%
 蒜蓉	syun3 jung4	100.0%
@@ -129280,6 +130036,7 @@ use_preset_vocabulary: true
 攤下	taan1 haa5	100.0%
 攤開	taan1 hoi1	100.0%
 攤開嚟講	taan1 hoi1 lai4 gong2	100.0%
+攤開嚟講	taan1 hoi1 lei4 gong2	107.18%
 攤牌	taan1 paai2	100.0%
 攤曬	taan1 saai3	100.0%
 攤心	taan1 sam1	100.0%
@@ -129583,7 +130340,6 @@ use_preset_vocabulary: true
 梯板	tai1 baan2	100.0%
 銻煲	tai1 bou1	100.0%
 梯次隊形	tai1 ci3 deoi6 jing4	100.0%
-🐧	~tai1 ~dak1	100.0%
 梯隊	tai1 deoi2	100.0%
 梯度回波	tai1 dou6 wui4 bo1	100.0%
 梯恩梯當量	tai1 jan1 tai1 dong1 loeng6	100.0%
@@ -129651,6 +130407,7 @@ use_preset_vocabulary: true
 睇到	tai2 dou2	100.0%
 睇到嗎	tai2 dou2 maa3	100.0%
 睇到拫	tai2 dou3 hang4	100.0%
+睇到佢	tai2 dou3 heoi5	16.33%
 睇到一半	tai2 dou3 jat1 bun3	100.0%
 睇到佢	tai2 dou3 keoi5	100.0%
 睇東睇西	tai2 dung1 tai2 sai1	100.0%
@@ -129690,6 +130447,7 @@ use_preset_vocabulary: true
 睇下點先	tai2 haa5 dim2 sin1	100.0%
 體下點先	tai2 haa5 dim2 sin1	100.0%
 睇下戲	tai2 haa5 hei3	100.0%
+睇下佢	tai2 haa5 heoi5	14.75%
 睇下有	tai2 haa5 jau5	100.0%
 睇下又點	tai2 haa5 jau6 dim2	100.0%
 睇下佢	tai2 haa5 keoi5	100.0%
@@ -129704,10 +130462,12 @@ use_preset_vocabulary: true
 體系	tai2 hai6	100.0%
 體系化	tai2 hai6 faa3	100.0%
 睇起	tai2 hei2	100.0%
-睇起上嚟	tai2 hei2 soeng5 lei4	100.0%
+睇起上嚟	tai2 hei2 soeng5 lai4	100.0%
+睇起上嚟	tai2 hei2 soeng5 lei4	153.37%
 睇戲	tai2 hei3	100.0%
 睇氣色	tai2 hei3 sik1	100.0%
 睇輕	tai2 heng1	100.0%
+睇佢	tai2 heoi5	10.62%
 體香劑	tai2 hoeng1 zai1	100.0%
 睇開	tai2 hoi1	100.0%
 睇開波	tai2 hoi1 bo1	100.0%
@@ -129759,7 +130519,9 @@ use_preset_vocabulary: true
 睇流年	tai2 lau4 nin4	100.0%
 睇漏	tai2 lau6	100.0%
 睇漏眼	tai2 lau6 ngaan5	100.0%
-睇嚟湊	tai2 lei4 cau3	0.0%
+睇嚟	tai2 lei4	274.33%
+睇嚟湊	tai2 lei4 cau3	107.18%
+睇嚟睇去	tai2 lei4 tai2 heoi3	117.46%
 體力	tai2 lik6	100.0%
 睇料	tai2 liu2	100.0%
 體諒	tai2 loeng6	100.0%
@@ -129865,6 +130627,7 @@ use_preset_vocabulary: true
 睇中	tai2 zung3	100.0%
 睇住	tai2 zyu6	100.0%
 睇住嚟	tai2 zyu6 lai4	100.0%
+睇住嚟	tai2 zyu6 lei4	177.42%
 睇住來	tai2 zyu6 loi4	100.0%
 睇住晒	tai2 zyu6 saai3	100.0%
 睇住睇住	tai2 zyu6 tai2 zyu6	100.0%
@@ -130033,6 +130796,7 @@ use_preset_vocabulary: true
 提供	tai4 gung1	100.0%
 提過	tai4 gwo3	100.0%
 提起	tai4 hei2	100.0%
+提佢	tai4 heoi5	19.21%
 提學御史	tai4 hok6 jyu6 si2	100.0%
 啼哭	tai4 huk1	100.0%
 蹄印	tai4 jan3	100.0%
@@ -130198,6 +130962,7 @@ use_preset_vocabulary: true
 騰	tan4	0.0%
 揗雞	tan4 gai1	100.0%
 揗嚟揗去	tan4 lai4 tan4 heoi3	100.0%
+揗嚟揗去	tan4 lei4 tan4 heoi3	107.18%
 揗晒雞	tan4 saai3 gai1	100.0%
 揗揗震	tan4 tan2 zan3	100.0%
 騰騰震	tan4 tan4 zan3	100.0%
@@ -130243,8 +131008,10 @@ use_preset_vocabulary: true
 騰嚟騰去	tang4 lai4 tang4 heoi3	100.0%
 滕麗名	tang4 lai6 ming4	100.0%
 藤掕瓜瓜掕藤	tang4 lang3 gwaa1 gwaa1 lang3 tang4	100.0%
+騰嚟騰去	tang4 lei4 tang4 heoi3	119.62%
 藤笭	tang4 leng1	100.0%
 謄錄	tang4 luk6	100.0%
+騰龍臺	tang4 lung4 toi4	100.0%
 謄文	tang4 man2	100.0%
 藤㨢瓜瓜㨢藤	tang4 nang3 gwaa1 gwaa1 nang3 tang4	100.0%
 騰挪	tang4 no4	100.0%
@@ -130690,6 +131457,7 @@ use_preset_vocabulary: true
 聽下	teng1 haa5	100.0%
 聽下歌	teng1 haa5 go1	100.0%
 聽下聽下	teng1 haa5 teng1 haa5	100.0%
+聽佢	teng1 heoi5	14.15%
 聽香	teng1 hoeng1	100.0%
 聽開	teng1 hoi1	100.0%
 聽人	teng1 jan4	100.0%
@@ -130720,6 +131488,7 @@ use_preset_vocabulary: true
 廳長	teng1 zoeng2	100.0%
 聽住歌	teng1 zyu6 go1	100.0%
 聽住嚟	teng1 zyu6 lai4	100.0%
+聽住嚟	teng1 zyu6 lei4	107.18%
 聽住先	teng1 zyu6 sin1	100.0%
 艇	teng2	0.0%
 艇	teng3	0.0%
@@ -131186,7 +131955,8 @@ use_preset_vocabulary: true
 天地線	tin1 dei6 sin3	100.0%
 天地堂	tin1 dei6 tong4	100.0%
 天敵	tin1 dik6	100.0%
-天跌落嚟當被冚	tin1 dit3 lok6 lei4 dong3 pei5 kam2	100.0%
+天跌落嚟當被冚	tin1 dit3 lok6 lai4 dong3 pei5 kam2	100.0%
+天跌落嚟當被冚	tin1 dit3 lok6 lei4 dong3 pei5 kam2	107.18%
 天都光晒	tin1 dou1 gwong1 saai3	100.0%
 天妒英才	tin1 dou3 jing1 coi4	100.0%
 天道教	tin1 dou6 gaau3	100.0%
@@ -131256,7 +132026,9 @@ use_preset_vocabulary: true
 天下烏鴉一樣黑	tin1 haa6 wu1 aa1 jat1 joeng6 hak1	100.0%
 天黑	tin1 haak1	218.99%
 天黑	tin1 hak1	100.0%
+天恒	tin1 hang4	100.0%
 天行赤眼	tin1 hang4 cek3 ngaan5	100.0%
+天恒邨	tin1 hang4 cyun1	100.0%
 天候	tin1 hau2	100.0%
 天口	tin1 hau2	100.0%
 天口焮	tin1 hau2 hing3	100.0%
@@ -131342,7 +132114,10 @@ use_preset_vocabulary: true
 天與人歸	tin1 jyu5 jan4 gwai1	100.0%
 天雨順延	tin1 jyu5 seon6 jin4	100.0%
 天淵之別	tin1 jyun1 zi1 bit6	100.0%
+天悅	tin1 jyut6	100.0%
+天悅邨	tin1 jyut6 cyun1	100.0%
 天月路	tin1 jyut6 lou6	100.0%
+天悅筲箕灣廣場	tin1 jyut6 saau1 gei1 waan1 gwong2 coeng4	100.0%
 天琴星座	tin1 kam4 sing1 zo6	100.0%
 天球儀	tin1 kau4 ji4	100.0%
 天蠍座	tin1 kit3 zo6	81.0%
@@ -131379,6 +132154,8 @@ use_preset_vocabulary: true
 天文望遠鏡	tin1 man4 mong6 jyun5 geng3	100.0%
 天文數字	tin1 man4 sou3 zi6	100.0%
 天文台	tin1 man4 toi4	100.0%
+天文臺道	tin1 man4 toi4 dou6	100.0%
+天文臺圍	tin1 man4 toi4 wai4	100.0%
 天美街	tin1 mei5 gaai1	100.0%
 天命	tin1 ming6	100.0%
 天命難違	tin1 ming6 naan4 wai4	100.0%
@@ -132127,6 +132904,7 @@ use_preset_vocabulary: true
 挑釁	tiu1 jan6	100.0%
 挑簷	tiu1 jim4	100.0%
 挑染	tiu1 jim5	100.0%
+挑欖核	tiu1 laam2 wak2	84.09%
 挑欖核	tiu1 laam2 wat2	100.0%
 挑弄	tiu1 lung6	100.0%
 挑明	tiu1 ming4	100.0%
@@ -132190,6 +132968,7 @@ use_preset_vocabulary: true
 跳樓貨	tiu3 lau2 fo3	100.0%
 跳樓價	tiu3 lau2 gaa3	100.0%
 跳樓機	tiu3 lau2 gei1	100.0%
+跳嚟跳去	tiu3 lei4 tiu3 heoi3	125.89%
 跳唔跳	tiu3 m4 tiu3	100.0%
 跳馬	tiu3 maa5	100.0%
 跳埋一份	tiu3 maai4 jat1 fan6	100.0%
@@ -132698,6 +133477,7 @@ use_preset_vocabulary: true
 台胞證	toi4 baau1 zing3	100.0%
 台幣	toi4 bai6	100.0%
 台北	toi4 bak1	100.0%
+臺北	toi4 bak1	100.0%
 台北金馬影展	toi4 bak1 gam1 maa5 jing2 zin2	100.0%
 台北倆伴	toi4 bak1 loeng5 bun6	100.0%
 台磅	toi4 bong6	100.0%
@@ -132741,6 +133521,7 @@ use_preset_vocabulary: true
 台妹	toi4 mui1	100.0%
 台媒	toi4 mui4	100.0%
 台南	toi4 naam4	100.0%
+臺南	toi4 naam4	100.0%
 台南府	toi4 naam4 fu2	100.0%
 抬眼	toi4 ngaan5	100.0%
 台山	toi4 saan1	100.0%
@@ -132765,6 +133546,7 @@ use_preset_vocabulary: true
 抬頭	toi4 tau4	100.0%
 抬頭做人	toi4 tau4 zou6 jan4	100.0%
 台灣	toi4 waan1	100.0%
+臺灣	toi4 waan1	100.0%
 台灣白喉噪鶥	toi4 waan1 baak6 hau4 cou3 mei4	100.0%
 台灣斑翅鶥	toi4 waan1 baan1 ci3 mei4	100.0%
 台灣斑胸鈎嘴鶥	toi4 waan1 baan1 hung1 ngau1 zeoi2 mei4	100.0%
@@ -132803,6 +133585,7 @@ use_preset_vocabulary: true
 台座	toi4 zo6	100.0%
 台中	toi4 zung1	100.0%
 枱鐘	toi4 zung1	100.0%
+臺中	toi4 zung1	100.0%
 怠	toi5	100.0%
 殆	toi5	100.0%
 紿	toi5	50.0%
@@ -133752,6 +134535,7 @@ use_preset_vocabulary: true
 逃離	tou4 lei4	100.0%
 桃李滿門	tou4 lei5 mun5 mun4	100.0%
 桃李滿天下	tou4 lei5 mun5 tin1 haa6	100.0%
+桃李臺	tou4 lei5 toi4	100.0%
 圖雷特氏綜合症	tou4 leoi4 dak6 si6 zung3 hap6 zing3	100.0%
 淘籮	tou4 lo4	100.0%
 陶樂	tou4 lok6	100.0%
@@ -134346,6 +135130,10 @@ use_preset_vocabulary: true
 同行	tung4 hang4	58.0%
 銅器	tung4 hei3	100.0%
 同氣連枝	tung4 hei3 lin4 zi1	100.0%
+同佢	tung4 heoi5	8.77%
+同佢哋	tung4 heoi5 dei6	18.11%
+同佢講	tung4 heoi5 gong2	12.28%
+同佢傾	tung4 heoi5 king1	17.06%
 同鄉	tung4 hoeng1	100.0%
 桐鄉	tung4 hoeng1	100.0%
 同鄉親故	tung4 hoeng1 can1 gu3	100.0%
@@ -134439,6 +135227,7 @@ use_preset_vocabulary: true
 同唔同人	tung4 m4 tung4 jan4	100.0%
 同唔同意	tung4 m4 tung4 ji3	100.0%
 同埋	tung4 maai4	100.0%
+同埋佢	tung4 maai4 heoi5	14.39%
 同埋有	tung4 maai4 jau5	100.0%
 同埋佢	tung4 maai4 keoi5	100.0%
 同埋唔	tung4 maai4 m4	100.0%
@@ -134631,6 +135420,7 @@ use_preset_vocabulary: true
 屯樂里	tyun4 lok6 lei5	100.0%
 屯隆街	tyun4 lung4 gaai1	100.0%
 團欒	tyun4 lyun4	100.0%
+屯馬綫	tyun4 maa5 sin3	100.0%
 屯門	tyun4 mun4	100.0%
 屯門赤鱲角隧道	tyun4 mun4 cek3 lip6 gok3 seoi6 dou6	100.0%
 屯門赤鱲角隧道公路	tyun4 mun4 cek3 lip6 gok3 seoi6 dou6 gung1 lou6	100.0%
@@ -134753,11 +135543,17 @@ use_preset_vocabulary: true
 脱空	tyut3 hung1	100.0%
 脱衣舞	tyut3 ji1 mou5	100.0%
 脱氧	tyut3 joeng5	100.0%
+脱氧核苷酸	tyut3 joeng5 hak6 gam1 syun1	84.09%
+脱氧核糖	tyut3 joeng5 hak6 tong4	36.56%
+脱氧核醣核酸	tyut3 joeng5 hak6 tong4 hak6 syun1	13.28%
+脱氧核醣核酸	tyut3 joeng5 hak6 tong4 hat6 syun1	31.54%
 脱氧核苷酸	tyut3 joeng5 hat6 gam1 syun1	100.0%
 脱氧核糖	tyut3 joeng5 hat6 tong4	100.0%
+脱氧核醣核酸	tyut3 joeng5 hat6 tong4 hak6 syun1	31.54%
 脱氧核醣核酸	tyut3 joeng5 hat6 tong4 hat6 syun1	100.0%
 脱氧麻黃鹼	tyut3 joeng5 maa4 wong4 gaan2	100.0%
 脱羽	tyut3 jyu5	100.0%
+脫硫路	tyut3 lau4 lou6	100.0%
 脱漏	tyut3 lau6	100.0%
 脱離	tyut3 lei4	100.0%
 脱離羣眾	tyut3 lei4 kwan4 zung3	100.0%
@@ -135159,6 +135955,7 @@ use_preset_vocabulary: true
 話匣子	waa6 haap6 zi2	100.0%
 話係	waa6 hai6	100.0%
 話口未完	waa6 hau2 mei6 jyun4	100.0%
+話佢	waa6 heoi5	9.98%
 華康儷黑	waa6 hong1 lai6 haak1	107.18%
 華康儷黑體	waa6 hong1 lai6 haak1 tai2	107.18%
 華康儷黑	waa6 hong1 lai6 hak1	100.0%
@@ -135209,6 +136006,7 @@ use_preset_vocabulary: true
 話啫	waa6 ze1	100.0%
 話之	waa6 zi1	100.0%
 話咗	waa6 zo2	100.0%
+話咗佢	waa6 zo2 heoi5	56.23%
 話咗佢	waa6 zo2 keoi5	100.0%
 話做就做	waa6 zou6 zau6 zou6	100.0%
 話中有刺	waa6 zung1 jau5 ci3	100.0%
@@ -136421,7 +137219,8 @@ use_preset_vocabulary: true
 遺憾	wai4 ham6	100.0%
 遺恨	wai4 han6	100.0%
 為口奔馳	wai4 hau2 ban1 ci4	53.0%
-為起嚟	wai4 hei2 lei4	100.0%
+為起嚟	wai4 hei2 lai4	100.0%
+為起嚟	wai4 hei2 lei4	114.87%
 遺棄	wai4 hei3	100.0%
 違憲	wai4 hin3	100.0%
 為害	wai4 hoi6	100.0%
@@ -136782,6 +137581,8 @@ use_preset_vocabulary: true
 胃口	wai6 hau2	100.0%
 為口奔馳	wai6 hau2 ban1 ci4	47.0%
 胃氣	wai6 hei3	100.0%
+為佢	wai6 heoi5	10.02%
+為佢哋	wai6 heoi5 dei6	17.88%
 為何	wai6 ho4	100.0%
 為香港	wai6 hoeng1 gong2	100.0%
 惠康	wai6 hong1	100.0%
@@ -136807,6 +137608,9 @@ use_preset_vocabulary: true
 胃潰瘍	wai6 kui2 joeng4	100.0%
 衞艦	wai6 laam6	100.0%
 蕙蘭	wai6 laan4	100.0%
+衛蘭	wai6 laan4	100.0%
+衛立煌	wai6 laap6 wong4	100.0%
+衛立煌	wai6 lap6 wong4	100.0%
 衞理	wai6 lei5	100.0%
 衞理道	wai6 lei5 dou6	100.0%
 衞理徑	wai6 lei5 ging3	100.0%
@@ -136848,9 +137652,12 @@ use_preset_vocabulary: true
 衞生陶瓷	wai6 sang1 tou4 ci4	100.0%
 衞生紙	wai6 sang1 zi2	100.0%
 惠水縣	wai6 seoi2 jyun6	100.0%
+衛訊	wai6 seon3	100.0%
 衞信道	wai6 seon3 dou6	100.0%
+衛詩	wai6 si1	100.0%
 惠斯勒	wai6 si1 laak6	127.1%
 惠斯勒	wai6 si1 lak6	100.0%
+衛詩雅	wai6 si1 ngaa5	100.0%
 為食	wai6 sik6	100.0%
 為食鬼	wai6 sik6 gwai2	100.0%
 為食貓	wai6 sik6 maau1	100.0%
@@ -136884,10 +137691,25 @@ use_preset_vocabulary: true
 位子	wai6 zi2	100.0%
 位置	wai6 zi3	100.0%
 位置效應	wai6 zi3 haau6 jing3	100.0%
+衛志豪	wai6 zi3 hou4	100.0%
 為自己	wai6 zi6 gei2	100.0%
 為咗	wai6 zo2	100.0%
 為着	wai6 zoek6	100.0%
 胃臟	wai6 zong6	100.0%
+核	wak2	0.0%
+覈	wak2	0.0%
+核	wak6	0.0%
+覈	wak6	0.0%
+核突	wak6 dak6	1.7%
+核突	wak6 dat6	9.75%
+核核突突	wak6 wak6 dak6 dak6	47.19%
+核核突突	wak6 wak6 dak6 dat6	52.99%
+核核突突	wak6 wak6 dat6 dak6	52.99%
+核核突突	wak6 wak6 dat6 dat6	61.84%
+核核突突	wak6 wat6 dak6 dak6	52.99%
+核核突突	wak6 wat6 dak6 dat6	61.84%
+核核突突	wak6 wat6 dat6 dak6	61.84%
+核核突突	wak6 wat6 dat6 dat6	75.98%
 㚃	wan1	100.0%
 㬈	wan1	100.0%
 㼔	wan1	100.0%
@@ -136934,6 +137756,7 @@ use_preset_vocabulary: true
 𩥈	wan1	100.0%
 温飽	wan1 baau2	100.0%
 温飽工程	wan1 baau2 gung1 cing4	100.0%
+溫碧霞	wan1 bik1 haa4	100.0%
 温標	wan1 biu1	100.0%
 温布爾頓	wan1 bou3 ji5 deon6	100.0%
 温差	wan1 caa1	100.0%
@@ -136951,6 +137774,7 @@ use_preset_vocabulary: true
 温度計	wan1 dou6 gai3	100.0%
 温度梯度	wan1 dou6 tai1 dou6	100.0%
 温乎	wan1 fu1	100.0%
+溫家寶	wan1 gaa1 bou2	100.0%
 瘟咁	wan1 gam3	100.0%
 温居	wan1 geoi1	100.0%
 温哥華	wan1 go1 waa4	100.0%
@@ -136968,6 +137792,7 @@ use_preset_vocabulary: true
 温潤	wan1 jeon6	100.0%
 瘟疫	wan1 jik6	100.0%
 温熱	wan1 jit6	100.0%
+溫嶺	wan1 ling5	100.0%
 温良忍讓	wan1 loeng4 jan2 joeng6	100.0%
 温文爾雅	wan1 man4 ji5 ngaa5	100.0%
 温文儒雅	wan1 man4 jyu4 ngaa5	100.0%
@@ -136988,6 +137813,7 @@ use_preset_vocabulary: true
 温水煮蛙	wan1 seoi2 zyu2 waa1	100.0%
 温馴	wan1 seon4	100.0%
 温思勞街	wan1 si1 lou4 gaai1	100.0%
+溫兆倫	wan1 siu6 leon4	100.0%
 温宿	wan1 suk1	100.0%
 温熟	wan1 suk6	100.0%
 温書	wan1 syu1	100.0%
@@ -137002,6 +137828,7 @@ use_preset_vocabulary: true
 温習	wan1 zaap6	100.0%
 温仔	wan1 zai2	100.0%
 瘟仔	wan1 zai2	100.0%
+溫州	wan1 zau1	100.0%
 㝧	wan2	100.0%
 云	wan2	0.0%
 揾	wan2	100.0%
@@ -137027,6 +137854,7 @@ use_preset_vocabulary: true
 穩步不前	wan2 bou6 bat1 cin4	100.0%
 揾餐飯食	wan2 caan1 faan6 sik6	100.0%
 揾出嚟	wan2 ceot1 lai4	100.0%
+揾出嚟	wan2 ceot1 lei4	158.01%
 揾錢	wan2 cin2	64.0%
 揾錢買花戴	wan2 cin2 maai5 faa1 daai3	100.0%
 揾錢	wan2 cin4	36.0%
@@ -137050,7 +137878,9 @@ use_preset_vocabulary: true
 揾快錢	wan2 faai3 cin2	100.0%
 揾返	wan2 faan1	100.0%
 揾返嚟	wan2 faan1 lai4	100.0%
+揾返嚟	wan2 faan1 lei4	133.51%
 揾苦嚟辛	wan2 fu2 lai4 san1	100.0%
+揾苦嚟辛	wan2 fu2 lei4 san1	107.18%
 揾偈傾	wan2 gai2 king1	100.0%
 揾緊	wan2 gan2	100.0%
 揾緊資料	wan2 gan2 zi1 liu2	100.0%
@@ -137073,6 +137903,7 @@ use_preset_vocabulary: true
 藴涵	wan2 haam4	100.0%
 穩恆態	wan2 hang4 taai3	100.0%
 穩厚	wan2 hau5	100.0%
+揾佢	wan2 heoi5	12.48%
 揾人	wan2 jan4	100.0%
 揾人出氣	wan2 jan4 ceot1 hei3	100.0%
 揾人老襯	wan2 jan4 lou5 can3	100.0%
@@ -137085,10 +137916,15 @@ use_preset_vocabulary: true
 穩如鐵塔	wan2 jyu4 tit3 taap3	100.0%
 揾佢	wan2 keoi5	100.0%
 揾嚟	wan2 lai4	100.0%
+揾嚟搞	wan2 lai4 gaau2	100.0%
 揾嚟講	wan2 lai4 gong2	100.0%
 揾嚟辛苦	wan2 lai4 san1 fu2	100.0%
 揾嚟衰	wan2 lai4 seoi1	100.0%
-揾嚟搞	wan2 lei4 gaau2	100.0%
+揾嚟	wan2 lei4	211.01%
+揾嚟搞	wan2 lei4 gaau2	142.28%
+揾嚟講	wan2 lei4 gong2	127.1%
+揾嚟辛苦	wan2 lei4 san1 fu2	107.18%
+揾嚟衰	wan2 lei4 seoi1	107.18%
 穩練	wan2 lin6	100.0%
 揾囉	wan2 lo1	100.0%
 揾兩餐	wan2 loeng5 caan1	100.0%
@@ -137103,6 +137939,7 @@ use_preset_vocabulary: true
 揾唔揾到	wan2 m4 wan2 dou2	100.0%
 穩唔穩陣	wan2 m4 wan2 zan6	100.0%
 揾埋嚟	wan2 maai4 lai4	100.0%
+揾埋嚟	wan2 maai4 lei4	107.18%
 揾米路	wan2 mai5 lou6	100.0%
 揾命搏	wan2 meng6 bok3	100.0%
 穩拿	wan2 naa4	100.0%
@@ -137396,6 +138233,7 @@ use_preset_vocabulary: true
 韻母表	wan5 mou5 biu2	100.0%
 殞身	wan5 san1	100.0%
 殞身不恤	wan5 san1 bat1 seot1	100.0%
+尹錫悅	wan5 sek3 jyut6	100.0%
 隕石	wan5 sek6	100.0%
 韻詩	wan5 si1	100.0%
 尹師讌	wan5 si1 jin3	100.0%
@@ -137638,6 +138476,7 @@ use_preset_vocabulary: true
 宏德街	wang4 dak1 gaai1	100.0%
 宏發徑	wang4 faat3 ging3	100.0%
 宏富街	wang4 fu3 gaai1	100.0%
+宏豐臺	wang4 fung1 toi4	100.0%
 宏基街	wang4 gei1 gaai1	100.0%
 宏觀	wang4 gun1	100.0%
 宏冠道	wang4 gun1 dou6	100.0%
@@ -137795,6 +138634,10 @@ use_preset_vocabulary: true
 鷸	wat6	100.0%
 核突	wat6 dak6	9.75%
 核突	wat6 dat6	100.0%
+核核突突	wat6 wak6 dak6 dak6	52.99%
+核核突突	wat6 wak6 dak6 dat6	61.84%
+核核突突	wat6 wak6 dat6 dak6	61.84%
+核核突突	wat6 wak6 dat6 dat6	75.98%
 核核突突	wat6 wat6 dak6 dak6	61.84%
 核核突突	wat6 wat6 dak6 dat6	75.98%
 核核突突	wat6 wat6 dat6 dak6	75.98%
@@ -137898,6 +138741,7 @@ use_preset_vocabulary: true
 榮華餅家	wing4 waa4 beng2 gaa1	100.0%
 榮華富貴	wing4 waa4 fu3 gwai3	100.0%
 榮華里	wing4 waa4 lei5	100.0%
+榮華臺	wing4 waa4 toi4	100.0%
 榮獲	wing4 wok6	100.0%
 榮真小學	wing4 zan1 siu2 hok6	100.0%
 榮祖街	wing4 zou2 gaai1	100.0%
@@ -138594,6 +139438,7 @@ use_preset_vocabulary: true
 皇家圍	wong4 gaa1 wai4	100.0%
 黃家圍	wong4 gaa1 wai4	100.0%
 王嘉慧	wong4 gaa1 wai6	100.0%
+王家衛	wong4 gaa1 wai6	100.0%
 黃格	wong4 gaak3	100.0%
 黃格仔	wong4 gaak3 zai2	100.0%
 黃簡	wong4 gaan2	100.0%
@@ -138869,6 +139714,8 @@ use_preset_vocabulary: true
 皇牌	wong4 paai2	100.0%
 黃牌	wong4 paai2	100.0%
 王牌軍	wong4 paai4 gwan1	100.0%
+黃栢文	wong4 paak3 man4	100.0%
+黃栢鳴	wong4 paak3 ming4	100.0%
 黃鵬	wong4 paang4	100.0%
 黃泡	wong4 paau1	100.0%
 黃泡髧熟	wong4 paau1 dam3 suk6	100.0%
@@ -138910,6 +139757,7 @@ use_preset_vocabulary: true
 黃鱔飯	wong4 sin5 faan6	100.0%
 黃星綽	wong4 sing1 coek3	100.0%
 黃星華	wong4 sing1 waa4	100.0%
+黄成	wong4 sing4	100.0%
 黃成智	wong4 sing4 zi3	100.0%
 簧舌	wong4 sit3	100.0%
 王小波	wong4 siu2 bo1	100.0%
@@ -139745,6 +140593,7 @@ use_preset_vocabulary: true
 互惠互利	wu6 wai6 wu6 lei6	100.0%
 護運	wu6 wan6	100.0%
 户户	wu6 wu6	100.0%
+戶戶送	wu6 wu6 sung3	100.0%
 互換	wu6 wun6	100.0%
 互致問候	wu6 zi3 man6 hau6	100.0%
 户籍	wu6 zik6	100.0%
@@ -140100,6 +140949,8 @@ use_preset_vocabulary: true
 會德豐地產	wui6 dak1 fung1 dei6 caan2	100.0%
 匯費	wui6 fai3	100.0%
 匯款	wui6 fun2	100.0%
+滙豐	wui6 fung1	100.0%
+滙豐銀行	wui6 fung1 ngan4 hong4	100.0%
 匯價	wui6 gaa3	100.0%
 會計	wui6 gai3	100.0%
 會計科目	wui6 gai3 fo1 muk6	100.0%
@@ -140107,6 +140958,7 @@ use_preset_vocabulary: true
 會計師	wui6 gai3 si1	100.0%
 會計準則理事會	wui6 gai3 zeon2 zak1 lei5 si6 wui2	100.0%
 匯基	wui6 gei1	100.0%
+滙基書院	wui6 gei1 syu1 jyun2	100.0%
 會見	wui6 gin3	100.0%
 匯景道	wui6 ging2 dou6	100.0%
 會館	wui6 gun2	100.0%
@@ -140441,6 +141293,7 @@ use_preset_vocabulary: true
 活期帳户	wut6 kei4 zoeng3 wu6	100.0%
 活雷鋒	wut6 leoi4 fung1	100.0%
 活倫台	wut6 leon4 toi4	100.0%
+活倫臺	wut6 leon4 toi4	100.0%
 活力	wut6 lik6	100.0%
 活力都市	wut6 lik6 dou1 si5	100.0%
 活力四射	wut6 lik6 sei3 se6	100.0%
@@ -140575,6 +141428,7 @@ use_preset_vocabulary: true
 揸袖衫	zaa1 zau6 saam1	100.0%
 揸正	zaa1 zeng3	100.0%
 揸正嚟做	zaa1 zeng3 lai4 zou6	100.0%
+揸正嚟做	zaa1 zeng3 lei4 zou6	164.83%
 渣滓	zaa1 zi2	100.0%
 揸莊	zaa1 zong1	100.0%
 揸主意	zaa1 zyu2 ji3	100.0%
@@ -142076,6 +142930,7 @@ use_preset_vocabulary: true
 針車	zam1 ce1	100.0%
 斟出	zam1 ceot1	100.0%
 斟出嚟	zam1 ceot1 lai4	100.0%
+斟出嚟	zam1 ceot1 lei4	107.18%
 針刺麻醉	zam1 ci3 maa4 zeoi3	100.0%
 針對	zam1 deoi3	100.0%
 針頂	zam1 ding2	100.0%
@@ -142869,6 +143724,7 @@ use_preset_vocabulary: true
 執口水尾	zap1 hau2 seoi2 mei1	100.0%
 執起	zap1 hei2	100.0%
 執起嚟	zap1 hei2 lai4	100.0%
+執起嚟	zap1 hei2 lei4	111.61%
 執人口水尾	zap1 jan4 hau2 seoi2 mei1	100.0%
 執一劑	zap1 jat1 zai1	100.0%
 執贏	zap1 jeng4	100.0%
@@ -143389,6 +144245,7 @@ use_preset_vocabulary: true
 走人	zau2 jan4	100.0%
 走入	zau2 jap6	100.0%
 走入嚟	zau2 jap6 lai4	100.0%
+走入嚟	zau2 jap6 lei4	178.09%
 走油	zau2 jau2	100.0%
 走芫茜	zau2 jim4 sai1	100.0%
 酒筵	zau2 jin4	100.0%
@@ -143638,6 +144495,7 @@ use_preset_vocabulary: true
 就慣姿勢	zau6 gwaan3 zi1 sai3	100.0%
 就係	zau6 hai6	100.0%
 就係噉	zau6 hai6 gam2	100.0%
+就係佢	zau6 hai6 heoi5	14.86%
 就係因為	zau6 hai6 jan1 wai6	100.0%
 就係要	zau6 hai6 jiu3	100.0%
 就係佢	zau6 hai6 keoi5	100.0%
@@ -143670,7 +144528,9 @@ use_preset_vocabulary: true
 袖箍	zau6 ku1	100.0%
 就嚟	zau6 lai4	100.0%
 就黎	zau6 lai4	100.0%
-就嚟嘞	zau6 lei4 laak3	100.0%
+就嚟嘞	zau6 lai4 laak3	100.0%
+就嚟	zau6 lei4	255.1%
+就嚟嘞	zau6 lei4 laak3	119.62%
 就裏	zau6 leoi5	100.0%
 就連	zau6 lin4	100.0%
 就唔係	zau6 m4 hai6	100.0%
@@ -143760,10 +144620,10 @@ use_preset_vocabulary: true
 啫喺	ze1 hai2	100.0%
 啫係	ze1 hai6	100.0%
 姐係	ze1 hai6	100.0%
-啫係你	ze1 hai6 nei5	12.05%
-姐係你	ze1 hai6 nei5	5.67%
-啫係話	ze1 hai6 waa6	24.04%
-姐係話	ze1 hai6 waa6	8.09%
+啫係你	ze1 hai6 nei5	100.0%
+姐係你	ze1 hai6 nei5	100.0%
+啫係話	ze1 hai6 waa6	100.0%
+姐係話	ze1 hai6 waa6	100.0%
 遮蔭	ze1 jam1	100.0%
 遮掩	ze1 jim2	100.0%
 遮陽板	ze1 joeng4 baan2	100.0%
@@ -144335,6 +145195,7 @@ use_preset_vocabulary: true
 謝屋村	ze6 uk1 cyun1	100.0%
 謝偉銓	ze6 wai5 cyun4	100.0%
 謝偉俊	ze6 wai5 zeon3	100.0%
+謝咏欣	ze6 wing6 jan1	100.0%
 謝謝	ze6 ze6	100.0%
 謝謝你	ze6 ze6 nei5	100.0%
 謝罪	ze6 zeoi6	100.0%
@@ -144475,6 +145336,7 @@ use_preset_vocabulary: true
 正啊	zeng3 aa3	100.0%
 正菜	zeng3 coi3	100.0%
 正斗	zeng3 dau2	100.0%
+正斗粥麵專家	zeng3 dau3 zuk1 min6 zyun1 gaa1	100.0%
 正到	zeng3 dou3	100.0%
 正到痺	zeng3 dou3 bei3	100.0%
 正花	zeng3 faa1	100.0%
@@ -144510,6 +145372,7 @@ use_preset_vocabulary: true
 鄭人爭年	zeng6 jan4 zang1 nin4	100.0%
 鄭伊健	zeng6 ji1 gin6	100.0%
 鄭易里	zeng6 jik6 lei5	100.0%
+鄭衍峰	zeng6 jin2 fung1	100.0%
 鄭若驊	zeng6 joek6 waa4	100.0%
 鄭融	zeng6 jung4	100.0%
 鄭汝樺	zeng6 jyu5 waa4	100.0%
@@ -144527,6 +145390,7 @@ use_preset_vocabulary: true
 鄭詩君	zeng6 si1 gwan1	100.0%
 鄭少秋	zeng6 siu3 cau1	100.0%
 鄭少玲	zeng6 siu3 ling4	100.0%
+鄭恕峰	zeng6 syu3 fung1	100.0%
 鄭華勝	zeng6 waa4 sing3	100.0%
 鄭偉鴻	zeng6 wai5 hung4	100.0%
 鄭偉源	zeng6 wai5 jyun4	100.0%
@@ -144687,6 +145551,7 @@ use_preset_vocabulary: true
 追蹤號碼	zeoi1 zung1 hou6 maa5	100.0%
 追住	zeoi1 zyu6	100.0%
 追住嚟	zeoi1 zyu6 lai4	100.0%
+追住嚟	zeoi1 zyu6 lei4	133.51%
 㭰	zeoi2	100.0%
 䃊	zeoi2	100.0%
 䶥	zeoi2	50.0%
@@ -145005,6 +145870,8 @@ use_preset_vocabulary: true
 敍拉古	zeoi6 laai1 gu2	100.0%
 贅瘤	zeoi6 lau4	100.0%
 敍利亞	zeoi6 lei6 aa3	100.0%
+敘利亞	zeoi6 lei6 aa3	100.0%
+敘利亞人	zeoi6 lei6 aa3 jan4	100.0%
 敍利亞文	zeoi6 lei6 aa3 man4	100.0%
 序列號	zeoi6 lit6 hou6	100.0%
 墜落	zeoi6 lok6	100.0%
@@ -145324,6 +146191,7 @@ use_preset_vocabulary: true
 晉源街	zeon3 jyun4 gaai1	100.0%
 晉源區	zeon3 jyun4 keoi1	100.0%
 晉級	zeon3 kap1	100.0%
+駿群路	zeon3 kwan4 lou6	100.0%
 峻厲	zeon3 lai6	100.0%
 進了天堂	zeon3 liu5 tin1 tong4	100.0%
 進來	zeon3 loi4	100.0%
@@ -145710,6 +146578,7 @@ use_preset_vocabulary: true
 知覺	zi1 gok3	100.0%
 知覺解體	zi1 gok3 gaai2 tai2	100.0%
 知覺力	zi1 gok3 lik6	100.0%
+芝古臺	zi1 gu2 toi4	100.0%
 之故	zi1 gu3	100.0%
 資工	zi1 gung1	100.0%
 知過改過	zi1 gwo3 goi2 gwo3	100.0%
@@ -145721,6 +146590,7 @@ use_preset_vocabulary: true
 知行合一	zi1 hang4 hap6 jat1	100.0%
 之後	zi1 hau6	100.0%
 之後都	zi1 hau6 dou1	100.0%
+之後佢	zi1 hau6 heoi5	14.78%
 之後有	zi1 hau6 jau5	100.0%
 之後又	zi1 hau6 jau6	100.0%
 之後佢	zi1 hau6 keoi5	100.0%
@@ -146889,6 +147759,7 @@ use_preset_vocabulary: true
 自己又	zi6 gei2 jau6	100.0%
 自己料	zi6 gei2 liu6	100.0%
 自己攞嚟	zi6 gei2 lo2 lai4	100.0%
+自己攞嚟	zi6 gei2 lo2 lei4	200.82%
 自己冇	zi6 gei2 mou5	100.0%
 自己諗	zi6 gei2 nam2	100.0%
 自己想	zi6 gei2 soeng2	100.0%
@@ -147336,6 +148207,7 @@ use_preset_vocabulary: true
 即刻收聲	zik1 haak1 sau1 seng1	119.62%
 即刻射	zik1 haak1 se6	130.2%
 即刻就嚟	zik1 haak1 zau6 lai4	107.18%
+即刻就嚟	zik1 haak1 zau6 lei4	115.67%
 職銜	zik1 haam4	100.0%
 即係	zik1 hai6	100.0%
 即係乜嘢	zik1 hai6 mat1 je5	100.0%
@@ -147346,6 +148218,7 @@ use_preset_vocabulary: true
 即刻收聲	zik1 hak1 sau1 seng1	100.0%
 即刻射	zik1 hak1 se6	100.0%
 即刻就嚟	zik1 hak1 zau6 lai4	100.0%
+即刻就嚟	zik1 hak1 zau6 lei4	107.18%
 積口德	zik1 hau2 dak1	100.0%
 即棄	zik1 hei3	100.0%
 積欠	zik1 him3	100.0%
@@ -147387,6 +148260,7 @@ use_preset_vocabulary: true
 即晚	zik1 maan5	100.0%
 即墨	zik1 mak6	100.0%
 職務	zik1 mou6	100.0%
+職務考核	zik1 mou6 haau2 hak6	84.09%
 職務考核	zik1 mou6 haau2 hat6	100.0%
 職務津貼	zik1 mou6 zeon1 tip3	100.0%
 積木	zik1 muk6	100.0%
@@ -147737,6 +148611,7 @@ use_preset_vocabulary: true
 尖端	zim1 dyun1	100.0%
 沾花惹草	zim1 faa1 je5 cou2	100.0%
 沾化	zim1 faa3	100.0%
+尖峰山	zim1 fung1 saan1	100.0%
 尖風山	zim1 fung1 saan1	100.0%
 尖叫	zim1 giu3	100.0%
 覘高頭	zim1 gou1 tau4	100.0%
@@ -147763,6 +148638,7 @@ use_preset_vocabulary: true
 粘米粉	zim1 mai5 fan2	100.0%
 詹雯婷	zim1 man4 ting4	100.0%
 尖尾濱鷸	zim1 mei5 ban1 wat6	100.0%
+尖尾峰	zim1 mei5 fung1	100.0%
 沾麪	zim1 min6	100.0%
 譫妄	zim1 mong5	100.0%
 瞻望	zim1 mong6	100.0%
@@ -148156,6 +149032,8 @@ use_preset_vocabulary: true
 戰略防御倡議	zin3 loek6 fong4 jyu6 coeng3 ji5	100.0%
 戰略轟炸	zin3 loek6 gwang1 zaa3	100.0%
 戰略轟炸機	zin3 loek6 gwang1 zaa3 gei1	100.0%
+戰略核力量	zin3 loek6 hak6 lik6 loeng6	84.09%
+戰略核武器	zin3 loek6 hak6 mou5 hei3	84.09%
 戰略核力量	zin3 loek6 hat6 lik6 loeng6	100.0%
 戰略核武器	zin3 loek6 hat6 mou5 hei3	100.0%
 戰略要點	zin3 loek6 jiu3 dim2	100.0%
@@ -148176,6 +149054,7 @@ use_preset_vocabulary: true
 戰術	zin3 seot6	100.0%
 箭術	zin3 seot6	100.0%
 戰術導彈	zin3 seot6 dou6 daan2	100.0%
+戰術核武器	zin3 seot6 hak6 mou5 hei3	84.09%
 戰術核武器	zin3 seot6 hat6 mou5 hei3	100.0%
 墊屍底	zin3 si1 dai2	100.0%
 戰事	zin3 si6	100.0%
@@ -148963,13 +149842,13 @@ use_preset_vocabulary: true
 淨喺	zing6 hai2	100.0%
 剩係	zing6 hai6	100.0%
 淨係	zing6 hai6	100.0%
-剩係得	zing6 hai6 dak1	5.7%
+剩係得	zing6 hai6 dak1	100.0%
 淨係得	zing6 hai6 dak1	100.0%
-剩係識	zing6 hai6 sik1	4.44%
+剩係識	zing6 hai6 sik1	100.0%
 淨係識	zing6 hai6 sik1	100.0%
-剩係睇	zing6 hai6 tai2	6.08%
+剩係睇	zing6 hai6 tai2	100.0%
 淨係睇	zing6 hai6 tai2	100.0%
-剩係知	zing6 hai6 zi1	6.74%
+剩係知	zing6 hai6 zi1	100.0%
 淨係知	zing6 hai6 zi1	100.0%
 靜候佳音	zing6 hau6 gaai1 jam1	100.0%
 靜香	zing6 hoeng1	100.0%
@@ -149201,6 +150080,7 @@ use_preset_vocabulary: true
 𢩦	zit1	100.0%
 擳暗瘡	zit1 am3 cong1	100.0%
 擳出嚟	zit1 ceot1 lai4	100.0%
+擳出嚟	zit1 ceot1 lei4	100.0%
 擮胳肋底	zit1 gaak3 laak1 dai2	100.0%
 擳胳肋底	zit1 gaak3 laak1 dai2	100.0%
 擳油	zit1 jau2	100.0%
@@ -149438,6 +150318,8 @@ use_preset_vocabulary: true
 踕	zit6	100.0%
 𠸝	zit6	0.0%
 截查	zit6 caa4	100.0%
+截取通訊及監察事務專員秘書處	zit6 ceoi2 tung1 seon3 kap6 gaam1 caat3 si6 mou6 zyun1 jyun4 bei3 syu1 cyu3	100.0%
+截取通訊及監察事務專員秘書處	zit6 ceoi2 tung1 seon3 kap6 gaam1 caat3 si6 mou6 zyun1 jyun4 bei3 syu1 cyu5	100.0%
 截程序	zit6 cing4 zeoi6	100.0%
 截長補短	zit6 coeng4 bou2 dyun2	100.0%
 截單	zit6 daan1	100.0%
@@ -150150,6 +151032,7 @@ use_preset_vocabulary: true
 酌加	zoek3 gaa1	100.0%
 雀局	zoek3 guk6	100.0%
 鵲局	zoek3 guk6	100.0%
+酌核	zoek3 hak6	84.09%
 酌核	zoek3 hat6	100.0%
 酌獻	zoek3 hin3	100.0%
 着好衫	zoek3 hou2 saam1	100.0%
@@ -150169,6 +151052,7 @@ use_preset_vocabulary: true
 嚼蠟	zoek3 laap6	100.0%
 着嚟	zoek3 lai4	100.0%
 着褸	zoek3 lau1	100.0%
+着嚟	zoek3 lei4	132.75%
 酌量	zoek3 loeng2	100.0%
 爵祿	zoek3 luk6	100.0%
 爵祿街	zoek3 luk6 gaai1	100.0%
@@ -150326,6 +151210,7 @@ use_preset_vocabulary: true
 將功贖罪	zoeng1 gung1 suk6 zeoi6	100.0%
 將軍	zoeng1 gwan1	100.0%
 將軍澳	zoeng1 gwan1 ou3	100.0%
+將軍澳循道衛理小學	zoeng1 gwan1 ou3 ceon4 dou6 wai6 lei5 siu2 hok6	100.0%
 將軍澳村	zoeng1 gwan1 ou3 cyun1	100.0%
 將軍澳道	zoeng1 gwan1 ou3 dou6	100.0%
 將軍澳基德小學	zoeng1 gwan1 ou3 gei1 dak1 siu2 hok6	100.0%
@@ -150339,6 +151224,7 @@ use_preset_vocabulary: true
 將軍澳隧道	zoeng1 gwan1 ou3 seoi6 dou6	100.0%
 將軍澳隧道公路	zoeng1 gwan1 ou3 seoi6 dou6 gung1 lou6	100.0%
 將軍澳市中心	zoeng1 gwan1 ou3 si5 zung1 sam1	100.0%
+將軍澳綫	zoeng1 gwan1 ou3 sin3	100.0%
 將軍澳天主教小學	zoeng1 gwan1 ou3 tin1 zyu2 gaau3 siu2 hok6	100.0%
 將軍澳站	zoeng1 gwan1 ou3 zaam6	100.0%
 將軍澳中心	zoeng1 gwan1 ou3 zung1 sam1	100.0%
@@ -150355,6 +151241,7 @@ use_preset_vocabulary: true
 張口結舌	zoeng1 hau2 git3 sit3	100.0%
 張㬢雯	zoeng1 hei1 man4	100.0%
 張曦雯	zoeng1 hei1 man4	100.0%
+將佢	zoeng1 heoi5	15.31%
 彰顯	zoeng1 hin2	100.0%
 張曉明	zoeng1 hiu2 ming4	100.0%
 張可頤	zoeng1 ho2 ji4	100.0%
@@ -150372,6 +151259,7 @@ use_preset_vocabulary: true
 張怡	zoeng1 ji4	100.0%
 張翼東	zoeng1 jik6 dung1	100.0%
 張彥博	zoeng1 jin6 bok3	100.0%
+張盈悅	zoeng1 jing4 jyut6	100.0%
 張凝文學校	zoeng1 jing4 man4 hok6 haau6	100.0%
 將要	zoeng1 jiu3	100.0%
 張耀揚	zoeng1 jiu6 joeng4	100.0%
@@ -150420,10 +151308,14 @@ use_preset_vocabulary: true
 樟腦丸	zoeng1 nou5 jyun2	100.0%
 張愛萍	zoeng1 oi3 ping4	100.0%
 張柏芝	zoeng1 paak3 zi1	100.0%
+張栢芝	zoeng1 paak3 zi1	100.0%
 張沛松	zoeng1 pui3 cung4	100.0%
 張三李四	zoeng1 saam1 lei5 sei3	100.0%
 漿洗	zoeng1 sai2	100.0%
 將心比己	zoeng1 sam1 bei2 gei2	100.0%
+張心悅	zoeng1 sam1 jyut6	100.0%
+張新悅	zoeng1 san1 jyut6	100.0%
+張燊悅	zoeng1 san1 jyut6	100.0%
 張秀蘭	zoeng1 sau3 laan4	100.0%
 張秀文	zoeng1 sau3 man4	100.0%
 將隧	zoeng1 seoi6	100.0%
@@ -150450,7 +151342,9 @@ use_preset_vocabulary: true
 張屋村	zoeng1 uk1 cyun1	100.0%
 張屋地	zoeng1 uk1 dei6	100.0%
 張屋圍	zoeng1 uk1 wai4	100.0%
+張華峰	zoeng1 waa4 fung1	100.0%
 張韋怡	zoeng1 wai4 ji4	100.0%
+張衛健	zoeng1 wai5 gin6	100.0%
 張偉文	zoeng1 wai5 man4	100.0%
 張韡騰	zoeng1 wai5 tang4	100.0%
 張惠妹	zoeng1 wai6 mui2	100.0%
@@ -150458,6 +151352,7 @@ use_preset_vocabulary: true
 張雲正	zoeng1 wan4 zing3	100.0%
 張永慶	zoeng1 wing5 hing3	100.0%
 張永森	zoeng1 wing5 sam1	100.0%
+張頴康	zoeng1 wing6 hong1	100.0%
 張詠恩	zoeng1 wing6 jan1	100.0%
 張皇	zoeng1 wong4	100.0%
 張煌偉小學	zoeng1 wong4 wai5 siu2 hok6	100.0%
@@ -150478,6 +151373,7 @@ use_preset_vocabulary: true
 將至	zoeng1 zi3	100.0%
 張志剛	zoeng1 zi3 gong1	100.0%
 張致恆	zoeng1 zi3 hang4	100.0%
+張致恒	zoeng1 zi3 hang4	100.0%
 張智霖	zoeng1 zi3 lam4	100.0%
 張自烈	zoeng1 zi6 lit6	100.0%
 張治中	zoeng1 zi6 zung1	100.0%
@@ -150871,6 +151767,8 @@ use_preset_vocabulary: true
 載攜	zoi3 kwai4	100.0%
 再嚟	zoi3 lai4	100.0%
 再嚟過	zoi3 lai4 gwo3	100.0%
+再嚟	zoi3 lei4	189.56%
+再嚟過	zoi3 lei4 gwo3	168.91%
 再來	zoi3 loi4	100.0%
 再唔	zoi3 m4	100.0%
 再唔係	zoi3 m4 hai6	100.0%
@@ -151013,6 +151911,7 @@ use_preset_vocabulary: true
 作詞	zok3 ci4	100.0%
 作大	zok3 daai6	100.0%
 作大嚟講	zok3 daai6 lai4 gong2	100.0%
+作大嚟講	zok3 daai6 lei4 gong2	107.18%
 作答	zok3 daap3	100.0%
 作對	zok3 deoi3	100.0%
 作動	zok3 dung6	100.0%
@@ -151244,6 +152143,7 @@ use_preset_vocabulary: true
 裝窮叫苦	zong1 kung4 giu3 fu2	100.0%
 裝罅圍	zong1 laa3 wai4	100.0%
 裝嚟用	zong1 lai4 jung6	100.0%
+裝嚟用	zong1 lei4 jung6	107.18%
 粧奩	zong1 lim4	100.0%
 裝殮	zong1 lim5	100.0%
 莊文強	zong1 man4 koeng4	100.0%
@@ -152677,6 +153577,7 @@ use_preset_vocabulary: true
 中醫藥管理委員會	zung1 ji1 joek6 gun2 lei5 wai2 jyun4 wui2	100.0%
 鍾意	zung1 ji3	100.0%
 鍾意點就點	zung1 ji3 dim2 zau6 dim2	100.0%
+鍾意佢	zung1 ji3 heoi5	14.52%
 中意人	zung1 ji3 jan4	100.0%
 鍾意人咪	zung1 ji3 jan4 mai6	100.0%
 鍾意佢	zung1 ji3 keoi5	100.0%
@@ -152780,6 +153681,7 @@ use_preset_vocabulary: true
 縱梁	zung1 loeng4	100.0%
 舂落去	zung1 lok6 heoi3	100.0%
 舂落嚟	zung1 lok6 lai4	100.0%
+舂落嚟	zung1 lok6 lei4	114.87%
 終老	zung1 lou5	100.0%
 中路	zung1 lou6	100.0%
 中六	zung1 luk6	100.0%
@@ -153644,6 +154546,7 @@ use_preset_vocabulary: true
 珠母	zyu1 mou5	100.0%
 珠穆朗瑪	zyu1 muk6 long5 maa5	100.0%
 珠穆朗瑪峯	zyu1 muk6 long5 maa5 fung1	100.0%
+珠穆朗瑪峰	zyu1 muk6 long5 maa5 fung1	100.0%
 珠門田	zyu1 mun4 tin4	100.0%
 豬乸	zyu1 naa2	100.0%
 豬乸菜	zyu1 naa2 coi3	100.0%
@@ -153659,6 +154562,8 @@ use_preset_vocabulary: true
 珠澳跨境工業區	zyu1 ou3 kwaa1 ging2 gung1 jip6 keoi1	100.0%
 珠澳跨工區	zyu1 ou3 kwaa1 gung1 keoi1	100.0%
 豬扒	zyu1 paa2	100.0%
+朱栢謙	zyu1 paak3 him1	100.0%
+朱栢康	zyu1 paak3 hong1	100.0%
 豬朋狗友	zyu1 pang4 gau2 jau5	100.0%
 豬婄腩	zyu1 pau3 naam5	100.0%
 豬皮	zyu1 pei4	100.0%
@@ -153721,6 +154626,7 @@ use_preset_vocabulary: true
 豬瘟	zyu1 wan1	100.0%
 朱永棠	zyu1 wing5 tong4	100.0%
 豬黃嶺	zyu1 wong4 leng5	100.0%
+朱滙林	zyu1 wui6 lam4	100.0%
 豬踭	zyu1 zaang1	100.0%
 豬踭肉	zyu1 zaang1 juk6	100.0%
 豬雜	zyu1 zaap6	100.0%
@@ -153784,6 +154690,7 @@ use_preset_vocabulary: true
 煮豆燃萁	zyu2 dau6 jin4 kei4	100.0%
 主隊	zyu2 deoi2	100.0%
 煮到埋嚟就食	zyu2 dou3 maai4 lai4 zau6 sik6	100.0%
+煮到埋嚟就食	zyu2 dou3 maai4 lei4 zau6 sik6	107.18%
 主導	zyu2 dou6	100.0%
 主動	zyu2 dung6	100.0%
 主動免疫	zyu2 dung6 min5 jik6	100.0%
@@ -154321,6 +155228,7 @@ use_preset_vocabulary: true
 轉投	zyun2 tau4	100.0%
 轉頭見	zyun2 tau4 gin3	100.0%
 轉頭嚟過	zyun2 tau4 lai4 gwo3	100.0%
+轉頭嚟過	zyun2 tau4 lei4 gwo3	107.18%
 轉托	zyun2 tok3	100.0%
 轉屋咔	zyun2 uk1 kaa1	100.0%
 轉為	zyun2 wai4	100.0%
@@ -154510,6 +155418,8 @@ use_preset_vocabulary: true
 啜面珠	zyut3 min6 zyu1	100.0%
 拙樸	zyut3 pok3	100.0%
 掇臀捧屁	zyut3 tyun4 pung2 pei3	100.0%
+啜核荔枝	zyut3 wak2 lai6 zi1	84.09%
+啜核	zyut3 wak6	23.87%
 啜核荔枝	zyut3 wat2 lai6 zi1	100.0%
 啜核	zyut3 wat6	100.0%
 拙嘴笨舌	zyut3 zeoi2 ban6 sit3	100.0%
