@@ -9,8 +9,8 @@ permissions:
   contents: read
 
 jobs:
-  windows:
-    name: Windows
+  desktop:
+    name: Desktop
     runs-on: windows-latest
 
     steps:
@@ -86,14 +86,14 @@ jobs:
         run: |
           $ErrorActionPreference = "Stop"
 
-          $artifact = Join-Path $env:RUNNER_TEMP "TypeDuck-Windows.zip"
+          $artifact = Join-Path $env:RUNNER_TEMP "TypeDuck-Desktop.zip"
           Compress-Archive -Path (Join-Path $env:GITHUB_WORKSPACE "*") -DestinationPath $artifact -Force
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: TypeDuck-Windows
-          path: ${{ runner.temp }}/TypeDuck-Windows.zip
+          name: TypeDuck-Desktop
+          path: ${{ runner.temp }}/TypeDuck-Desktop.zip
           if-no-files-found: error
 
   ios:
