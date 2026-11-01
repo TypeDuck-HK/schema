@@ -136,7 +136,7 @@ recognizer:
     stroke: "^`b[a-z']*;?$"
     cangjie: "^`c[a-z']*;?$"
     quick: "^`q[a-z']*;?$"
-    reverse_lookup: "^`[a-z']*;?$"
+    reverse_lookup: "^`([ad-km-or-z'][a-z']*)?;?$"
 
 __patch:
   - common:/disable_completion?
