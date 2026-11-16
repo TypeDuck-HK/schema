@@ -96,8 +96,8 @@ jobs:
           path: ${{ runner.temp }}/TypeDuck-Desktop.zip
           if-no-files-found: error
 
-  ios:
-    name: iOS
+  mobile:
+    name: Mobile
     runs-on: macos-latest
 
     steps:
@@ -110,28 +110,6 @@ jobs:
 
           rm -rf .git .github
           rm -f .gitignore *.md LICENSE
-
-      - name: Build MissingGlyphRemover
-        run: |
-          set -euo pipefail
-
-          curl -fsSL \
-            https://raw.githubusercontent.com/TypeDuck-HK/TypeDuck-iOS/refs/heads/main/MissingGlyphRemover/main.swift \
-            -o "$RUNNER_TEMP/MissingGlyphRemover.swift"
-          swiftc "$RUNNER_TEMP/MissingGlyphRemover.swift" -o "$RUNNER_TEMP/MissingGlyphRemover"
-
-      - name: Remove missing glyph entries
-        run: |
-          set -euo pipefail
-
-          find "$GITHUB_WORKSPACE" \
-            -maxdepth 1 \
-            -name "*.dict.yaml" \
-            ! -name "jyut6ping3_scolar.dict.yaml" \
-            -print0 |
-          while IFS= read -r -d '' dict; do
-            "$RUNNER_TEMP/MissingGlyphRemover" --line "$dict"
-          done
 
       - name: Download RIME deployer
         env:
@@ -179,11 +157,11 @@ jobs:
         run: |
           set -euo pipefail
 
-          (cd "$GITHUB_WORKSPACE" && zip -r "$RUNNER_TEMP/TypeDuck-iOS.zip" .)
+          (cd "$GITHUB_WORKSPACE" && zip -r "$RUNNER_TEMP/TypeDuck-Mobile.zip" .)
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: TypeDuck-iOS
-          path: ${{ runner.temp }}/TypeDuck-iOS.zip
+          name: TypeDuck-Mobile
+          path: ${{ runner.temp }}/TypeDuck-Mobile.zip
           if-no-files-found: error
