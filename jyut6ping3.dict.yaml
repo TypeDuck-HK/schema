@@ -454,6 +454,7 @@ use_preset_vocabulary: true
 阿豬阿狗	aa3 zyu1 aa3 gau2	100.0%
 呀	aa4	96.0%
 啊	aa4	0.0%
+𠵝	aa4	100.0%
 呀呀聲	aa4 aa2 seng1	100.0%
 呀爸	aa4 baa1	100.0%
 咓	aa5	100.0%
@@ -678,6 +679,7 @@ use_preset_vocabulary: true
 甖	aang1	100.0%
 罃	aang1	50.0%
 罌	aang1	100.0%
+𥌽	aang1	30.0%
 罌粟	aang1 suk1	100.0%
 罌粟種子	aang1 suk1 zung2 zi2	100.0%
 鴨	aap2	45.0%
@@ -1266,6 +1268,7 @@ use_preset_vocabulary: true
 邑	ap1	0.0%
 醃	ap1	0.0%
 鰪	ap1	100.0%
+𤎣	ap1	100.0%
 𦞴	ap1	0.0%
 罨耷	ap1 dap1	100.0%
 鴨	ap2	0.0%
@@ -6110,6 +6113,7 @@ use_preset_vocabulary: true
 避忌	bei6 gei6	100.0%
 備件	bei6 gin2	100.0%
 鼻哥	bei6 go1	100.0%
+鼻哥𦡁	bei6 go1 doeng1	100.0%
 鼻哥窿	bei6 go1 lung1	100.0%
 鼻哥窿擔遮	bei6 go1 lung1 daam1 ze1	100.0%
 鼻哥尖	bei6 go1 zim1	100.0%
@@ -21786,6 +21790,7 @@ use_preset_vocabulary: true
 打底	daa2 dai2	100.0%
 打底褲	daa2 dai2 fu3	100.0%
 打得	daa2 dak1	100.0%
+🦆	~daa2 ~dak1	100.0%
 打得火熱	daa2 dak1 fo2 jit6	100.0%
 打得好	daa2 dak1 hou2	100.0%
 打得埋	daa2 dak1 maai4	100.0%
@@ -26966,6 +26971,7 @@ use_preset_vocabulary: true
 鐓	deoi1	34.0%
 隊	deoi1	0.0%
 鴭	deoi1	100.0%
+𩛍	deoi1	100.0%
 堆砌	deoi1 cai3	100.0%
 堆堆	deoi1 deoi1	100.0%
 堆堆疊疊	deoi1 deoi1 dip6 dip6	100.0%
@@ -28618,6 +28624,7 @@ use_preset_vocabulary: true
 迭	dit6	100.0%
 镻	dit6	100.0%
 𤔅	dit6	100.0%
+𧍱	dit6	100.0%
 迭起	dit6 hei2	100.0%
 秩然不紊	dit6 jin4 bat1 man6	100.0%
 迭埋心水	dit6 maai4 sam1 seoi2	100.0%
@@ -29363,6 +29370,7 @@ use_preset_vocabulary: true
 涿州	doek3 zau1	100.0%
 啄	doeng1	49.0%
 𡁷	doeng1	100.0%
+𦡁	doeng1	70.0%
 啄親	doeng1 can1	100.0%
 啄地	doeng1 dei2	100.0%
 啄啄糖	doeng1 doeng1 tong2	100.0%
@@ -29513,6 +29521,7 @@ use_preset_vocabulary: true
 踱	dok6	100.0%
 鈬	dok6	100.0%
 鐸	dok6	100.0%
+𢖲	dok6	100.0%
 踱步	dok6 bou6	100.0%
 度德量力	dok6 dak1 loeng6 lik6	100.0%
 度定條竅	dok6 ding6 tiu4 hiu3	100.0%
@@ -29545,6 +29554,7 @@ use_preset_vocabulary: true
 蟷	dong1	100.0%
 襠	dong1	1.93%
 鐺	dong1	100.0%
+𦡁	dong1	30.0%
 當兵	dong1 bing1	100.0%
 當差	dong1 caai1	100.0%
 當且僅當	dong1 ce2 gan2 dong1	100.0%
@@ -31983,7 +31993,9 @@ use_preset_vocabulary: true
 彂	faak3	0.0%
 発	faak3	0.0%
 發	faak3	0.0%
+𢪎	faak3	90.13%
 發個輪	faak3 go3 leon2	100.0%
+𢪎個輪	faak3 go3 leon2	100.0%
 㴀	faan1	100.0%
 䉒	faan1	90.13%
 䪛	faan1	100.0%
@@ -33761,6 +33773,7 @@ use_preset_vocabulary: true
 訓	fan3	100.0%
 鐼	fan3	50.0%
 鑂	fan3	90.13%
+𡊄	fan3	90.13%
 瞓啊	fan3 aa3	100.0%
 瞓晏覺	fan3 aan3 gaau3	100.0%
 瞓飽	fan3 baau2	100.0%
@@ -34046,6 +34059,7 @@ use_preset_vocabulary: true
 黻	fat1	100.0%
 𤤖	fat1	90.13%
 𤦏	fat1	90.13%
+𦜇	fat1	100.0%
 𦡆	fat1	90.13%
 𧩓	fat1	90.13%
 忽必裂	fat1 bit1 lit6	100.0%
@@ -34148,6 +34162,7 @@ use_preset_vocabulary: true
 鉘	fat6	90.13%
 閥	fat6	100.0%
 鮄	fat6	50.0%
+𠲎	fat6	90.13%
 𡌅	fat6	90.13%
 罰抄	fat6 caau1	100.0%
 罰錢	fat6 cin2	100.0%
@@ -34378,6 +34393,7 @@ use_preset_vocabulary: true
 蛗	fau6	90.13%
 覆	fau6	0.0%
 阜	fau6	100.0%
+𧌓	fau6	90.13%
 𨸏	fau6	84.81%
 阜財街	fau6 coi4 gaai1	100.0%
 復康巴士	fau6 hong1 baa1 si6	100.0%
@@ -35254,6 +35270,7 @@ use_preset_vocabulary: true
 霍	fok3	100.0%
 靃	fok3	50.0%
 靍	fok3	90.13%
+𦞦	fok3	90.13%
 霍巴特	fok3 baa1 dak6	100.0%
 霍比特人	fok3 bei2 dak6 jan4	100.0%
 㺢㹢狓	fok3 gaa1 pei4	100.0%
@@ -37228,6 +37245,7 @@ use_preset_vocabulary: true
 鮲	fuk6	100.0%
 鴔	fuk6	100.0%
 鵩	fuk6	100.0%
+𰇛	fuk6	100.0%
 伏筆	fuk6 bat1	100.0%
 伏筆千里	fuk6 bat1 cin1 lei5	100.0%
 伏辯	fuk6 bin6	100.0%
@@ -37886,6 +37904,7 @@ use_preset_vocabulary: true
 蓬	fung4	44.0%
 逢	fung4	100.0%
 馮	fung4	100.0%
+𡂫	fung4	44.0%
 𩅛	fung4	100.0%
 縫補	fung4 bou2	100.0%
 馮寶寶	fung4 bou2 bou2	100.0%
@@ -40202,6 +40221,7 @@ use_preset_vocabulary: true
 賋	gaau2	90.13%
 鉸	gaau2	37.0%
 餃	gaau2	100.0%
+𤶀	gaau2	100.0%
 絞縊	gaau2 ai3	100.0%
 皎白	gaau2 baak6	100.0%
 搞不掂	gaau2 bat1 dim6	100.0%
@@ -40359,6 +40379,7 @@ use_preset_vocabulary: true
 酵	gaau3	0.0%
 鉸	gaau3	63.0%
 骹	gaau3	34.0%
+𣽸	gaau3	100.0%
 教鞭	gaau3 bin1	100.0%
 鉸布	gaau3 bou3	100.0%
 較遲	gaau3 ci4	100.0%
@@ -41991,6 +42012,7 @@ use_preset_vocabulary: true
 急	gap1	100.0%
 芨	gap1	0.0%
 蛤	gap1	0.0%
+𪂺	gap1	100.0%
 急呀	gap1 aa4	100.0%
 急板	gap1 baan2	100.0%
 急不可待	gap1 bat1 ho2 doi6	100.0%
@@ -42240,6 +42262,7 @@ use_preset_vocabulary: true
 跀	gat6	50.0%
 齕	gat6	6.0%
 𠺝	gat6	5.0%
+𧿁	gat6	59.46%
 趷跛跛	gat6 bai1 bai1	100.0%
 趷腳	gat6 goek3	100.0%
 趷高	gat6 gou1	100.0%
@@ -47322,6 +47345,7 @@ use_preset_vocabulary: true
 趕住去投胎	gon2 zyu6 heoi3 tau4 toi1	100.0%
 趕住投胎	gon2 zyu6 tau4 toi1	100.0%
 趕住走	gon2 zyu6 zau2	100.0%
+稈𥢎	gon2 zyun6	100.0%
 䯎	gon3	100.0%
 倝	gon3	100.0%
 干	gon3	0.0%
@@ -50933,7 +50957,9 @@ use_preset_vocabulary: true
 櫃位	gwai6 wai2	100.0%
 櫃位貓	gwai6 wai2 maau1	100.0%
 櫃子	gwai6 zi2	100.0%
+𥕏	gwak4	70.0%
 倔	gwak6	0.0%
+𥕏	gwak6	25.0%
 㚬	gwan1	100.0%
 㡓	gwan1	100.0%
 㱎	gwan1	100.0%
@@ -51121,6 +51147,7 @@ use_preset_vocabulary: true
 𠃌	gwan2	100.0%
 𥕦	gwan2	100.0%
 𦶧	gwan2	100.0%
+𧬪	gwan2	80.0%
 𨍽	gwan2	100.0%
 𨎊	gwan2	100.0%
 滾邊	gwan2 bin1	100.0%
@@ -51185,6 +51212,7 @@ use_preset_vocabulary: true
 睴	gwan3	84.81%
 謴	gwan3	100.0%
 𧥺	gwan3	0.0%
+𧬪	gwan3	20.0%
 棍波	gwan3 bo1	100.0%
 棍底	gwan3 dai2	100.0%
 棍仔	gwan3 zai2	100.0%
@@ -52089,6 +52117,7 @@ use_preset_vocabulary: true
 國族	gwok3 zuk6	100.0%
 蟈螽屬	gwok3 zung1 suk6	100.0%
 國中之國	gwok3 zung1 zi1 gwok3	100.0%
+𥕏	gwok6	5.0%
 㫕	gwong1	100.0%
 㹰	gwong1	100.0%
 㿠	gwong1	100.0%
@@ -53318,7 +53347,9 @@ use_preset_vocabulary: true
 黑警	haak1 ging2	222.7%
 黑腳	haak1 goek3	178.09%
 黑角頭	haak1 gok3 tau4	100.0%
+黑古勒𥕏	haak1 gu1 laak6 gwak6	115.67%
 黑古勒掘	haak1 gu1 laak6 gwat6	115.67%
+黑古勒𥕏	haak1 gu1 lak6 gwak6	107.18%
 黑古勒掘	haak1 gu1 lak6 gwat6	107.18%
 黑咕隆咚	haak1 gu1 lung4 dung1	117.46%
 黑古勒特	haak1 gu2 laak6 dak6	140.21%
@@ -54841,7 +54872,9 @@ use_preset_vocabulary: true
 黑警	hak1 ging2	100.0%
 黑腳	hak1 goek3	100.0%
 黑角頭	hak1 gok3 tau4	100.0%
+黑古勒𥕏	hak1 gu1 laak6 gwak6	107.18%
 黑古勒掘	hak1 gu1 laak6 gwat6	107.18%
+黑古勒𥕏	hak1 gu1 lak6 gwak6	100.0%
 黑古勒掘	hak1 gu1 lak6 gwat6	100.0%
 黑咕隆咚	hak1 gu1 lung4 dung1	100.0%
 黑古勒特	hak1 gu2 laak6 dak6	117.46%
@@ -60721,6 +60754,7 @@ use_preset_vocabulary: true
 焊	hon2	86.0%
 罕	hon2	100.0%
 蔊	hon2	50.0%
+𫒢	hon2	100.0%
 刊登	hon2 dang1	100.0%
 侃價	hon2 gaa3	100.0%
 罕見	hon2 gin3	100.0%
@@ -67333,6 +67367,7 @@ use_preset_vocabulary: true
 由低做起	jau4 dai1 zou6 hei2	100.0%
 郵遞	jau4 dai6	100.0%
 郵遞區號	jau4 dai6 keoi1 hou6	100.0%
+油𩛍	jau4 deoi1	100.0%
 由點到面	jau4 dim2 dou3 min2	100.0%
 郵電	jau4 din6	100.0%
 郵電巷	jau4 din6 hong6	100.0%
@@ -69272,6 +69307,7 @@ use_preset_vocabulary: true
 依牙鬆弶	ji1 ngaa4 sung1 gong3	100.0%
 依牙鬆槓	ji1 ngaa4 sung1 gong3	100.0%
 依牙鬆鋼	ji1 ngaa4 sung1 gong3	100.0%
+𪘲牙聳䚗	ji1 ngaa4 sung1 gong3	100.0%
 衣鈎	ji1 ngau1	100.0%
 呢呢嚕嚕	ji1 ni1 lou3 lou3	84.09%
 呢呢路路	ji1 ni1 lou3 lou3	84.09%
@@ -72158,6 +72194,7 @@ use_preset_vocabulary: true
 𠸄	jing1	100.0%
 𡎘	jing1	100.0%
 𡢞	jing1	100.0%
+𥌽	jing1	70.0%
 𨰃	jing1	100.0%
 𩤯	jing1	100.0%
 𪃳	jing1	100.0%
@@ -73259,6 +73296,7 @@ use_preset_vocabulary: true
 訞	jiu1	100.0%
 邀	jiu1	100.0%
 鴁	jiu1	100.0%
+𦥝	jiu1	8.94%
 𨘋	jiu1	100.0%
 腰包	jiu1 baau1	100.0%
 要不要求	jiu1 bat1 jiu1 kau4	100.0%
@@ -73350,6 +73388,7 @@ use_preset_vocabulary: true
 鳶	jiu2	0.0%
 鴢	jiu2	100.0%
 鷂	jiu2	19.0%
+𦥝	jiu2	20.55%
 妖邪	jiu2 ce4	100.0%
 擾敵	jiu2 dik6	100.0%
 繞道	jiu2 dou6	100.0%
@@ -73678,6 +73717,7 @@ use_preset_vocabulary: true
 隢	jiu5	74.69%
 騕	jiu5	100.0%
 鷕	jiu5	34.0%
+𦥝	jiu5	92.4%
 繞脖子	jiu5 but6 zi2	100.0%
 舀飯	jiu5 faan6	100.0%
 繞口令	jiu5 hau2 ling6	100.0%
@@ -77593,6 +77633,7 @@ use_preset_vocabulary: true
 𡛟	jyut6	100.0%
 𧑐	jyut6	100.0%
 𧞄	jyut6	100.0%
+𧿁	jyut6	59.46%
 𨬓	jyut6	100.0%
 月巴	jyut6 baa1	100.0%
 月餅	jyut6 beng2	100.0%
@@ -86660,6 +86701,7 @@ use_preset_vocabulary: true
 令立立	ling3 laap3 lap3	132.75%
 令立立	ling3 lap3 laap3	132.75%
 令立立	ling3 lap3 lap3	100.0%
+〇	ling4	100.0%
 㖫	ling4	100.0%
 㚑	ling4	100.0%
 㡵	ling4	100.0%
@@ -87650,6 +87692,7 @@ use_preset_vocabulary: true
 驘	lo4	50.0%
 鸁	lo4	100.0%
 𡤢	lo4	100.0%
+𩽰	lo4	100.0%
 羅巴切夫斯基	lo4 baa1 cit3 fu1 si1 gei1	100.0%
 羅拜	lo4 baai3	100.0%
 羅伯斯庇爾	lo4 baak3 si1 bei3 ji5	100.0%
@@ -89778,6 +89821,7 @@ use_preset_vocabulary: true
 鹵	lou5	100.0%
 𠐔	lou5	100.0%
 𦚱	lou5	100.0%
+𩽈	lou5	100.0%
 老伯	lou5 baak3	100.0%
 老百姓	lou5 baak3 sing3	100.0%
 魯班	lou5 baan1	100.0%
@@ -94571,6 +94615,7 @@ use_preset_vocabulary: true
 繃	mang1	0.0%
 鼆	mang1	88.0%
 𠵼	mang1	0.0%
+𥌯	mang1	70.0%
 掹除	mang1 ceoi4	100.0%
 擝出	mang1 ceot1	100.0%
 掹出嚟	mang1 ceot1 lai4	100.0%
@@ -94627,6 +94672,7 @@ use_preset_vocabulary: true
 鯍	mang4	100.0%
 𠵼	mang4	0.0%
 𡌺	mang4	100.0%
+𥌯	mang4	30.0%
 𦲸	mang4	59.46%
 盟鼻	mang4 bei6	100.0%
 盟邦	mang4 bong1	100.0%
@@ -103192,6 +103238,7 @@ use_preset_vocabulary: true
 硬觵觵	ngaang6 gwaang1 gwaang1	100.0%
 硬櫃	ngaang6 gwai6	100.0%
 硬倔倔	ngaang6 gwak6 gwak6	100.0%
+硬𥕏𥕏	ngaang6 gwak6 gwak6	100.0%
 硬核	ngaang6 hak6	42.04%
 硬核	ngaang6 hat6	100.0%
 硬氣	ngaang6 hei3	100.0%
@@ -103581,6 +103628,7 @@ use_preset_vocabulary: true
 奀撩鬼命	ngan1 liu1 gwai2 meng6	100.0%
 奀奀細細	ngan1 ngan1 sai3 sai3	100.0%
 奀裊鬼命	ngan1 niu1 gwai2 meng6	100.0%
+奀𩯊鬼命	ngan1 niu1 gwai2 meng6	100.0%
 奀裊裊	ngan1 niu1 niu1	100.0%
 奀皮	ngan1 pei4	100.0%
 韌皮	ngan1 pei4	100.0%
@@ -104801,6 +104849,7 @@ use_preset_vocabulary: true
 樂迷	ngok6 mai4	100.0%
 岳母	ngok6 mou5	100.0%
 齶齦音	ngok6 ngan4 jam1	100.0%
+愕愕𢖲𢖲	ngok6 ngok6 dok6 dok6	100.0%
 樂評	ngok6 ping4	100.0%
 樂譜	ngok6 pou2	100.0%
 愕晒然	ngok6 saai3 jin4	100.0%
@@ -105634,6 +105683,7 @@ use_preset_vocabulary: true
 䙚	niu1	69.02%
 嫋	niu1	69.02%
 裊	niu1	61.0%
+𩯊	niu1	100.0%
 裊繃繃	niu1 baang1 baang1	100.0%
 裊裊瘦瘦	niu1 niu1 sau3 sau3	100.0%
 裊瘦	niu1 sau3	100.0%
@@ -106079,6 +106129,7 @@ use_preset_vocabulary: true
 儾	nong6	100.0%
 襠	nong6	96.0%
 齉	nong6	100.0%
+𧟘	nong6	100.0%
 㐐	nou4	100.0%
 㚢	nou4	100.0%
 㞪	nou4	100.0%
@@ -110639,6 +110690,7 @@ use_preset_vocabulary: true
 韼	pung4	100.0%
 髼	pung4	100.0%
 鬔	pung4	100.0%
+𡂫	pung4	56.0%
 蓬蓽	pung4 bat1	100.0%
 蓬蓽生輝	pung4 bat1 sang1 fai1	100.0%
 蓬蓽生光	pung4 bat1 sang1 gwong1	100.0%
@@ -115565,6 +115617,7 @@ use_preset_vocabulary: true
 瀒	sap1	0.0%
 譅	sap1	100.0%
 趇	sap1	100.0%
+𦠿	sap1	70.0%
 濕包	sap1 baau1	100.0%
 濕柴	sap1 caai4	100.0%
 濕疹	sap1 can2	100.0%
@@ -115630,6 +115683,7 @@ use_preset_vocabulary: true
 拾	sap6	100.0%
 甚	sap6	0.0%
 辻	sap6	100.0%
+𦠿	sap6	30.0%
 十把	sap6 baa2	100.0%
 十班	sap6 baan1	100.0%
 十版	sap6 baan2	100.0%
@@ -116742,6 +116796,7 @@ use_preset_vocabulary: true
 實繳資本	sat6 giu2 zi1 bun2	100.0%
 實幹家	sat6 gon3 gaa1	100.0%
 實鼓實鑿	sat6 gu2 sat6 zok6	100.0%
+實𥕏𥕏	sat6 gwak4 gwak4	100.0%
 實轟轟	sat6 gwang1 gwang1	100.0%
 實掘掘	sat6 gwat6 gwat6	100.0%
 實䂸䂸	sat6 gwok3 gwok3	100.0%
@@ -120383,6 +120438,7 @@ use_preset_vocabulary: true
 𣊬	seon3	100.0%
 𣿰	seon3	44.53%
 𤀹	seon3	44.53%
+𤃒	seon3	44.53%
 𤣲	seon3	100.0%
 𤩥	seon3	100.0%
 𦴩	seon3	100.0%
@@ -130285,6 +130341,7 @@ use_preset_vocabulary: true
 梯板	tai1 baan2	100.0%
 銻煲	tai1 bou1	100.0%
 梯次隊形	tai1 ci3 deoi6 jing4	100.0%
+🐧	~tai1 ~dak1	100.0%
 梯隊	tai1 deoi2	100.0%
 梯度回波	tai1 dou6 wui4 bo1	100.0%
 梯恩梯當量	tai1 jan1 tai1 dong1 loeng6	100.0%
@@ -139099,6 +139156,7 @@ use_preset_vocabulary: true
 鑊	wok3	0.0%
 雘	wok3	100.0%
 鸌	wok3	0.0%
+𪇡	wok3	0.0%
 鑊仔牛柳	wok3 zai2 ngau4 lau5	0.0%
 㦜	wok6	100.0%
 㯉	wok6	100.0%
@@ -139128,6 +139186,7 @@ use_preset_vocabulary: true
 蠖	wok6	100.0%
 鑊	wok6	100.0%
 鸌	wok6	100.0%
+𪇡	wok6	100.0%
 獲暴利者	wok6 bou6 lei6 ze2	100.0%
 鑊鏟	wok6 caan2	100.0%
 獲取	wok6 ceoi2	100.0%
@@ -142195,6 +142254,7 @@ use_preset_vocabulary: true
 騽	zaap6	0.0%
 鰼	zaap6	100.0%
 𨰉	zaap6	100.0%
+雜𤎣	zaap6 ap1	100.0%
 雜巴冷	zaap6 baa1 laang1	100.0%
 雜崩冷	zaap6 bang1 lang1	100.0%
 雜筆甩	zaap6 bat1 lat1	100.0%
@@ -143815,6 +143875,7 @@ use_preset_vocabulary: true
 郅	zat6	33.0%
 銍	zat6	100.0%
 𡜍	zat6	100.0%
+𧍱	zat6	0.0%
 疾病	zat6 beng6	100.0%
 疾病突發	zat6 beng6 dak6 faat3	70.71%
 疾病突發	zat6 beng6 dat6 faat3	100.0%
@@ -146060,6 +146121,7 @@ use_preset_vocabulary: true
 𣽊	zeon3	100.0%
 𣿰	zeon3	43.54%
 𤀹	zeon3	43.54%
+𤃒	zeon3	43.54%
 𦻗	zeon3	100.0%
 𧪽	zeon3	100.0%
 𨌘	zeon3	100.0%
@@ -146192,6 +146254,7 @@ use_preset_vocabulary: true
 贐	zeon6	50.0%
 𣿰	zeon6	43.54%
 𤀹	zeon6	43.54%
+𤃒	zeon6	43.54%
 盡情	zeon6 cing4	100.0%
 儘速	zeon6 cuk1	100.0%
 儘地一煲	zeon6 dei2 jat1 bou1	100.0%
@@ -147292,6 +147355,7 @@ use_preset_vocabulary: true
 𥺃	zi3	100.0%
 𦤹	zi3	100.0%
 𩥝	zi3	100.0%
+𩷓	zi3	100.0%
 至弊	zi3 bai6	100.0%
 志不在此	zi3 bat1 zoi6 ci2	100.0%
 置備	zi3 bei6	100.0%
@@ -155285,6 +155349,7 @@ use_preset_vocabulary: true
 灷	zyun6	100.0%
 襈	zyun6	100.0%
 銌	zyun6	100.0%
+𥢎	zyun6	100.0%
 傳記	zyun6 gei3	100.0%
 傳奇	zyun6 kei4	100.0%
 啜	zyut1	0.0%
