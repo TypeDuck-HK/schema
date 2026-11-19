@@ -139,6 +139,7 @@ recognizer:
     reverse_lookup: "^`([ad-km-or-z'][a-z']*)?;?$"
 
 __patch:
+  - mobile:/extra_schemas?
   - common:/disable_completion?
   - common:/enable_correction?
   - common:/disable_sentence?
