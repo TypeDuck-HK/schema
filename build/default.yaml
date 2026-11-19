@@ -1,8 +1,8 @@
 __build_info:
   rime_version: 1.1.5
   timestamps:
-    default: 1794866972
-    default.custom: 1794866972
+    default: 1795126748
+    default.custom: 0
 ascii_composer:
   good_old_caps_lock: true
   switch_key:
@@ -49,7 +49,7 @@ key_binder:
     - {accept: "Control+comma", toggle: full_shape, when: always}
     - {accept: "Control+period", toggle: ascii_punct, when: always}
 menu:
-  page_size: 50
+  page_size: 6
 punctuator:
   ascii_style:
     "!": {commit: "!"}
@@ -157,19 +157,7 @@ recognizer:
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 schema_list:
-  - schema: jyut6ping3_mobile
-  - schema: jyut6ping3_mobile_longpress
-  - schema: jyut6ping3_mobile_10keys
-  - schema: jyut6ping3_mobile_initial_final
-  - schema: jyut6ping3_scolar
-  - schema: luna_pinyin
-  - schema: loengfan
-  - schema: loengfan_longpress
-  - schema: stroke
-  - schema: cangjie3
-  - schema: cangjie5
-  - schema: quick3
-  - schema: quick5
+  - schema: jyut6ping3
 switcher:
   caption: "快捷選項 Options Menu"
   hide_lone_schema: true

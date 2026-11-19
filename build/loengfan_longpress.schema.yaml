@@ -1,14 +1,14 @@
 __build_info:
   rime_version: 1.1.5
   timestamps:
-    common: 1794866972
-    common.custom: 1794866972
-    default: 1794866972
-    default.custom: 1794866972
-    include: 1794866972
+    common: 1795126748
+    common.custom: 1795126748
+    default: 1795126748
+    default.custom: 0
+    include: 1795126748
     include.custom: 0
-    loengfan_longpress.schema: 1794866972
-    template: 1794866972
+    loengfan_longpress.schema: 1795126748
+    template: 1795126748
     template.custom: 0
 dictionary_lookup_filter:
   dictionary: jyut6ping3_scolar
@@ -72,7 +72,7 @@ key_binder:
   import_preset: default
 menu:
   alternative_select_keys: "\x00"
-  page_size: 50
+  page_size: 6
 punctuator:
   ascii_style:
     "!": {commit: "!"}

@@ -1,15 +1,15 @@
 __build_info:
   rime_version: 1.1.5
   timestamps:
-    cangjie5.schema: 1794866972
-    common: 1794866972
-    common.custom: 1794866972
-    default: 1794866972
-    default.custom: 1794866972
-    include: 1794866972
+    cangjie5.schema: 1795126748
+    common: 1795126748
+    common.custom: 1795126748
+    default: 1795126748
+    default.custom: 0
+    include: 1795126748
     include.custom: 0
     quick5.custom: 0
-    quick5.schema: 1794866972
+    quick5.schema: 1795126748
 dictionary_lookup_filter:
   dictionary: jyut6ping3_scolar
 engine:
@@ -71,7 +71,7 @@ key_binder:
   import_preset: default
 menu:
   alternative_select_keys: "\x00"
-  page_size: 50
+  page_size: 6
 punctuator:
   ascii_style:
     "!": {commit: "!"}
