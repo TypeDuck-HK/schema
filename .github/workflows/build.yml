@@ -30,7 +30,8 @@ jobs:
             "LICENSE",
             "jyut6ping3_mobile*.schema.yaml",
             "*_longpress*.schema.yaml",
-            "*.custom.yaml"
+            "*.custom.yaml",
+            "mobile.yaml"
           ) | ForEach-Object {
             if (Test-Path $_) {
               Remove-Item $_ -Recurse -Force

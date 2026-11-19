@@ -1,0 +1,10 @@
+# Additionally build these schemas without adding them to `schema_list` (for mobile only)
+# encoding: utf-8
+
+extra_schemas:
+  schema/dependencies/+:
+    - jyut6ping3_mobile
+    - jyut6ping3_mobile_longpress
+    - jyut6ping3_mobile_10keys
+    - jyut6ping3_mobile_initial_final
+    - loengfan_longpress
